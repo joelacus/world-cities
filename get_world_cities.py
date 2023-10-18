@@ -126,6 +126,7 @@ ref_file = 'world_cities_(including_all_states_and_counties).csv'
 global ref_data
 ref_data = None
 def download_reference_file():
+    download_file("https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).csv", "world_cities_(including_all_states_and_counties).csv")
     if os.path.exists(ref_file):
         try:
             with open(ref_file, 'r', encoding='utf-8') as csv_file:
