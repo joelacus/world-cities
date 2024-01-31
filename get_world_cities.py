@@ -12,7 +12,7 @@ import argparse
 
 # GetWorldCities
 # Author https://github.com/joelacus
-version = 1.0
+version = 1.1
 
 # ArgumentParser
 parser = argparse.ArgumentParser(prog='python get_world_cities.py',description="Generate a custom csv/json file of all the cities in the world.")
@@ -21,17 +21,19 @@ parser = argparse.ArgumentParser(prog='python get_world_cities.py',description="
 parser.add_argument("-c", "--convert", help="Convert file.csv to file.json, or vice versa.")
 parser.add_argument("-v", "--version", action="store_true", help="Show version number.")
 parser.add_argument("-l", "--log", action="store_true", help="Save a log file in the same directory as the script.")
-parser.add_argument("-nf", "--noreference", action="store_true", help="Don't use a preloaded reference file to save time, but instead query geocode.maps.co api for every request. This will take a very long time.")
+parser.add_argument("-dr", "--disable_reference", action="store_true", help="Don't use a preloaded reference file to save time, but instead query geocode.maps.co api for every request. This will take a very long time.")
+parser.add_argument("-drd", "--disable_reference_download", action="store_true", help="Don't download the reference file if it already exists in the directory. It will be downloaded if it does not exist.")
 parser.add_argument("-p1", "--preset1", action="store_true", help="Pre-select options to save a CSV file with country, place name, latitude, longitude.")
 parser.add_argument("-p2", "--preset2", action="store_true", help="Pre-select options to save a CSV file with country, US states, place name, latitude, longitude.")
 parser.add_argument("-p3", "--preset3", action="store_true", help="Pre-select options to save a CSV file with country, states for duplicated place names, counties for duplicated place names, place name, latitude, longitude.")
-parser.add_argument("-p4", "--preset4", action="store_true", help="Pre-select options to save a CSV file with country, state, county, name, latitude, longitude.")
+parser.add_argument("-p4", "--preset4", action="store_true", help="Pre-select options to save a CSV file with country, state, county, name, latitude, longitude. (Reference File)")
 
 # Parse the command-line arguments
 args = parser.parse_args()
 
 log = False
-noref = False
+disableReference = False
+disableReferenceDownload = False
 preset = None
 
 # Arg Convert
@@ -81,9 +83,13 @@ if args.version:
 if args.log:
     log = True
 
-# Arg No Reference File
-if args.noreference:
-    noref = True
+# Arg Disable Reference File
+if args.disable_reference:
+    disableReference = True
+
+# Arg Disable Reference File Download
+if args.disable_reference_download:
+    disableReferenceDownload = True
 
 # Arg Preset
 if args.preset1:
@@ -126,7 +132,8 @@ ref_file = 'world_cities_(including_all_states_and_counties).csv'
 global ref_data
 ref_data = None
 def download_reference_file():
-    download_file("https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).csv", "world_cities_(including_all_states_and_counties).csv")
+    if disableReferenceDownload == False:
+        download_file("https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).csv", "world_cities_(including_all_states_and_counties).csv")
     if os.path.exists(ref_file):
         try:
             with open(ref_file, 'r', encoding='utf-8') as csv_file:
@@ -145,37 +152,102 @@ def download_reference_file():
         download_file("https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).csv", "world_cities_(including_all_states_and_counties).csv")
         download_reference_file()
 
-# GeoCode API Lookup
-def lookUpGeo(lat,lng,key):
-    print("> Fetching "+key+" for "+lat+","+lng)
-    logging.info("Fetching "+key+" for "+lat+","+lng)
-    geocodeUrl = f"https://geocode.maps.co/reverse?lat={lat}&lon={lng}"
-    try:
-        response = requests.get(geocodeUrl)
-        response.raise_for_status()
-        geocodeData = response.json()
-        if key in geocodeData['address']:
-            logging.info(geocodeData['address'][key])
-            return geocodeData['address'][key]
-        
-    except Exception as e:
-        logging.error(f"Querying {lat},{lng} {key} failed. {e}")
-        # Retry up to 5 times
-        for _ in range(5):
-            print(f"> Retrying in 5 seconds...")
-            time.sleep(5)
+# Check Geocode API Key
+api_key = None
+def checkGeocodeKey():
+    global api_key
+    if api_key is not None:
+        return api_key
+    else:
+        if os.path.exists('geocode_maps_api_key.txt'):
             try:
-                response = requests.get(geocodeUrl)
-                response.raise_for_status()
-                geocodeData = response.json()
-                if key in geocodeData['address']:
-                    return geocodeData['address'][key]
-                logging.info(f"> Retry for {lat},{lng} {key} succeded.")
-                break
+                with open('geocode_maps_api_key.txt', 'r') as geocode_api_key_file:
+                    api_key = geocode_api_key_file.readline().strip()
+            except:
+                logging.error(f"Could not read {geocode_api_key_file} into object. {e}")
+                api_key = enter_geocode_api_key()
+        else:
+            api_key = enter_geocode_api_key()
+    return api_key
 
-            except Exception as e:
-                print(f"> Retry failed:", str(e))
-                continue
+# Ask For Geocode API Key If Required
+def enter_geocode_api_key():
+    print("> Geocode API Key is required.")
+    api_key = input("? Enter Key: ")
+    if get_yes_or_no("? Save the key in the current directory to save you entering it next time?: "):
+        with open('geocode_maps_api_key.txt', 'w') as file:
+            file.write(api_key)
+    return api_key
+
+# GeoCode API Lookup
+prev_lat = None
+prev_lng = None
+county = ''
+state = ''
+lookup_count = 0
+def lookUpGeo(lat,lng,key):
+    # Get Geocode API Key
+    api_key = checkGeocodeKey()
+
+    #
+    global prev_lat
+    global prev_lng
+    global state
+    global county
+    global lookup_count
+    if lat == prev_lat and lng == prev_lng and key == 'county':
+        print(f"> Remembering county from state query " + lat + "," + lng)
+        return county
+    else:
+        prev_lat = lat
+        prev_lng = lng
+
+        # Geocode limits free accounts to 1 request per second 
+        time.sleep(1)
+
+        # Fetch
+        print("> Fetching "+key+" for "+lat+","+lng)
+        logging.info("Fetching "+key+" for "+lat+","+lng)
+        geocodeUrl = f"https://geocode.maps.co/reverse?lat={lat}&lon={lng}&api_key={api_key}"
+        try:
+            lookup_count += 1
+            response = requests.get(geocodeUrl)
+            response.raise_for_status()
+            geocodeData = response.json()
+            if 'state' in geocodeData['address']:
+                logging.info(geocodeData['address']['state'])
+                state = geocodeData['address']['state']
+            if 'county' in geocodeData['address']:
+                logging.info(geocodeData['address']['county'])
+                county = geocodeData['address']['county']
+            
+            if key == 'state':
+                return state
+
+            if key == 'county':
+                return county
+            
+        except Exception as e:
+            logging.error(f"Querying {lat},{lng} {key} failed. {e}")
+
+            # Retry up to 5 times
+            for _ in range(5):
+                print(f"> Retrying in 5 seconds...")
+                time.sleep(5)
+                try:
+                    lookup_count += 1
+                    response = requests.get(geocodeUrl)
+                    response.raise_for_status()
+                    geocodeData = response.json()
+                    if key in geocodeData['address']:
+                        return geocodeData['address'][key]
+                    print(f"> Retry for {lat},{lng} {key} succeded.")
+                    logging.info(f"> Retry for {lat},{lng} {key} succeded.")
+                    break
+
+                except Exception as e:
+                    print(f"> Retry failed:", str(e))
+                    continue
 
 # Define a dictionary to map full state names to abbreviations for all US states
 state_abbreviations = {
@@ -278,7 +350,7 @@ def create_ref_data_for_dupes(file,country_list_for_dupes):
     # Optimise reference data for states and counties
     ref_data_states = {}
     ref_data_counties = {}
-    if noref == False:
+    if disableReference == False:
         if not ref_data:
             download_reference_file()
         for item in ref_data:
@@ -322,7 +394,7 @@ def process_text_file(zip_file_path, text_file_name):
                 include_altnames = False
                 include_state = True
                 country_list_for_states = ''
-                if noref == False:
+                if disableReference == False:
                     download_reference_file()
                     ref_data_states = {}
                     for item in ref_data:
@@ -333,7 +405,7 @@ def process_text_file(zip_file_path, text_file_name):
                 abbreviate_us_states = False
                 include_county = True
                 country_list_for_counties = ''
-                if noref == False:
+                if disableReference == False:
                     ref_data_counties = {}
                     for item in ref_data:
                         lat = item['lat']
@@ -364,7 +436,7 @@ def process_text_file(zip_file_path, text_file_name):
                 include_altnames = False
                 include_state = True
                 country_list_for_states = 'us'
-                if noref == False:
+                if disableReference == False:
                     download_reference_file()
                     ref_data_states = {}
                     for item in ref_data:
@@ -429,7 +501,7 @@ def process_text_file(zip_file_path, text_file_name):
                     if 'us' in country_list_for_states.lower() or country_list_for_states == '':
                         abbreviate_us_states = get_yes_or_no("? Use abbreviated US state names ('CA' instead of 'California'): ")
                     # Check reference data
-                    if noref == False:
+                    if disableReference == False:
                         if not ref_data:
                             download_reference_file()
                         # Append only required countries to lookup table
@@ -450,7 +522,7 @@ def process_text_file(zip_file_path, text_file_name):
                     # Choose countries to add counties to
                     country_list_for_counties = input("? Include counties for which countries. List country codes separated by a comma. Leave blank for all countries: ")
                     # Check reference data
-                    if noref == False:
+                    if disableReference == False:
                         if not ref_data:
                             download_reference_file()
                         # Append only required countries to lookup table
@@ -560,7 +632,7 @@ def process_text_file(zip_file_path, text_file_name):
 
                     # If the current item country is in the listed countries
                     if line_data[8].lower() in country_list.lower().split(',') or country_list == '':
-                        if noref == False:
+                        if disableReference == False:
                             # Search ref_data_states lookup table
                             search_lat = line_data[4]
                             search_lng = line_data[5]
@@ -597,7 +669,7 @@ def process_text_file(zip_file_path, text_file_name):
                     
                     # If the current item country is in the listed countries
                     if line_data[8].lower() in country_list.lower().split(',') or country_list == '':
-                        if noref == False:
+                        if disableReference == False:
                             # Search ref_data_counties lookup table
                             search_lat = line_data[4]
                             search_lng = line_data[5]
@@ -697,6 +769,7 @@ def process_text_file(zip_file_path, text_file_name):
                 print(f"> {count}/{totalItems}", end='\r')
             
             print(f"> Processed {totalItems} items")
+            print(f"> Geocode Queries: {lookup_count}")
             
             # Get end time
             end_time = time.time()
