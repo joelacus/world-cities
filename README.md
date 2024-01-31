@@ -25,6 +25,8 @@ Available data:
 
 You can choose whether you want to include cities/places with greater than '1000', '5000', or '15000' in population.
 
+A [free Geocoding API key](https://geocode.maps.co/join/) is now required to fetch 'state' and 'county' data.
+
 ## Examples
 world_cities.json
 ```
@@ -67,7 +69,7 @@ US,NY,New York City,40.71427,-74.00597
 ## Sources
 [GeoNames](https://www.geonames.org/datasources/): Country Code, City/Place Name, Alternative Names, Latitude, Longitude, Timezone, Population, and Altitude.
 
-[Maps.co](https://geocode.maps.co/): States and Counties.
+[Geocoding](https://geocode.maps.co/): States and Counties.
 
 [annexare](https://github.com/annexare/Countries): Full Country Names.
 
