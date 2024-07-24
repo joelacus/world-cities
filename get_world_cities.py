@@ -1,21 +1,42 @@
-import zipfile
-import requests
-import json
+#!/usr/bin/env python
+
+# GetWorldCities
+#
+version = '1.2.0'
+# Author: github.com/joelacus
+#
+# Generate a json/csv file of all the cities in the world with various extra data.
+
+# ===== Import Libraries =====
+
+import argparse
 import csv
+import json
+import logging
 import os
 import signal
 import sys
 import time
-import logging
-import time
-import argparse
+import zipfile
 
-# GetWorldCities
-# Author https://github.com/joelacus
-version = 1.1
+# Check if the required libraries are installed
+def check_libraries(libraries):
+    for library in libraries:
+        try:
+            __import__(library)
+        except ImportError:
+            print(f"Error: The required library '{library}' is not installed.")
+            print(f"Please install the missing library with 'pip install {library}' and try again")
+            sys.exit(1)
+check_libraries(['enlighten', 'requests'])
 
-# ArgumentParser
-parser = argparse.ArgumentParser(prog='python get_world_cities.py',description="Generate a custom csv/json file of all the cities in the world.")
+import enlighten
+import requests
+
+
+# ===== Argument Parser =====
+
+parser = argparse.ArgumentParser(prog='python get_world_cities.py',description=f"Generate a custom csv/json file of all the cities in the world.\n\nVersion: {version}\nAuthor: github.com/joelacus")
 
 # Define your arguments
 parser.add_argument("-c", "--convert", help="Convert file.csv to file.json, or vice versa.")
@@ -113,7 +134,7 @@ if log:
 
 # File downloader
 def download_file(url, save_path):
-    print(f"> Downloading {save_path}")
+    print(f"> Downloading {save_path}...")
     try:
         response = requests.get(url)
         try:
@@ -189,7 +210,6 @@ def lookUpGeo(lat,lng,key):
     # Get Geocode API Key
     api_key = checkGeocodeKey()
 
-    #
     global prev_lat
     global prev_lng
     global state
@@ -589,6 +609,8 @@ def process_text_file(zip_file_path, text_file_name):
 
             # Process each item
             print("> Processing data...")
+            manager = enlighten.get_manager()
+            progress_bar = manager.counter(total=totalItems, desc='Processing', unit='city')
             for line in file:
                 # Reset vars
                 state = None
@@ -765,10 +787,11 @@ def process_text_file(zip_file_path, text_file_name):
 
                 json_data.append(item)
 
-                count += 1
-                print(f"> {count}/{totalItems}", end='\r')
+                progress_bar.update()
             
-            print(f"> Processed {totalItems} items")
+            progress_bar.close()
+            manager.stop()
+            print(f"\n> Processed {totalItems} items")
             print(f"> Geocode Queries: {lookup_count}")
             
             # Get end time
@@ -776,8 +799,19 @@ def process_text_file(zip_file_path, text_file_name):
 
             # Time elapsed
             elapsed_time = round(end_time - start_time, 2)
-            print(f'> Elapsed time: {elapsed_time}s')
 
+            def convert_seconds_with_milliseconds(elapsed_time):
+                hours = int(elapsed_time // 3600)
+                remaining_seconds = elapsed_time % 3600
+                minutes = int(remaining_seconds // 60)
+                remaining_seconds %= 60
+                seconds = int(remaining_seconds)
+                milliseconds = (remaining_seconds - seconds) * 1000
+                return hours, minutes, seconds, milliseconds
+
+            hours, minutes, seconds, milliseconds = convert_seconds_with_milliseconds(elapsed_time)
+            print(f'> Elapsed time: {hours} hours, {minutes} minutes, {seconds} seconds, and {milliseconds:.2f} milliseconds.')
+            
             # Log
             logging.info(f'Processed {totalItems} items')
             logging.info(f'Time finished: {end_time}')
@@ -831,7 +865,7 @@ def main():
 
     # Save the output data
     output_filename = filename + '.' + filetype
-    print(f"> Saving to {output_filename}")
+    print(f"> Saving to {output_filename}\n")
 
     try:
         if (filetype == 'json'):
