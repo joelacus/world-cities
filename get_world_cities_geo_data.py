@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-# GetWorldCities
+# GetWorldCitiesGeoData
 #
-version = "2.0.0"
+version = "2.0.1"
 # Author: github.com/joelacus
 #
 # Generate a json/csv file of all the cities in the world with various extra data.
@@ -1099,7 +1099,7 @@ def generate_custom_dataset(combined_dataset):
             item["timezone"] = value["timezone"]
 
         # Include Population?
-        if include_timezone == True:
+        if include_population == True:
             item["population"] = value["population"]
 
         # Include Altitude?
