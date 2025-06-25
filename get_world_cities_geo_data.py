@@ -2,8 +2,11 @@
 
 # GetWorldCitiesGeoData
 #
-version = "2.0.1"
+version = "2.1.0"
+#
 # Author: github.com/joelacus
+#
+# Repo: github.com/joelacus/world-cities
 #
 # Generate a json/csv file of all the cities in the world with various extra data.
 
@@ -295,7 +298,7 @@ def stop_spinner(end_text=""):
 
 # ===== Define US States =====
 
-# Define a dictionary to map full state names to abbreviations for all US states
+# Define a dictionary to map full state names to abbreviations for all US states.
 
 state_abbreviations = {
     "Alabama": "AL",
@@ -379,9 +382,7 @@ def checkGeocodeKey():
 def prompt_geocode_api_key():
     print("> Geocode API Key is required.")
     geocode_api_key = input("? Enter Key: ")
-    if get_yes_or_no(
-        "? Save the key in the current directory to save you from entering it next time?: "
-    ):
+    if get_yes_or_no("? Save the key in the current directory to save you from entering it next time?: "):
         with open("geocode_maps_api_key.txt", "w") as file:
             file.write(geocode_api_key)
     return geocode_api_key
@@ -683,9 +684,7 @@ def geocode_lookup(lat, lng):
     geocode_api_key = checkGeocodeKey()
 
     # Construct the geocoding URL
-    geocode_url = (
-        f"https://geocode.maps.co/reverse?lat={lat}&lon={lng}&api_key={geocode_api_key}"
-    )
+    geocode_url = (f"https://geocode.maps.co/reverse?lat={lat}&lon={lng}&api_key={geocode_api_key}")
 
     time.sleep(1)
 
@@ -703,9 +702,7 @@ def geocode_lookup(lat, lng):
             # Handle specific HTTP error codes
             if response.status_code == 429:
                 print("! Rate limit exceeded. Saving resume file and stopping...")
-                logging.warning(
-                    "Rate limit exceeded. Saving resume file and stopping..."
-                )
+                logging.warning("Rate limit exceeded. Saving resume file and stopping...")
                 saveAndStop()
                 continue
 
@@ -744,9 +741,59 @@ def geocode_lookup(lat, lng):
 
             # If it's the last attempt, re-raise the exception
             if attempt == max_retries:
-                logging.error(
-                    f"Failed to retrieve geocode after {max_retries} attempts"
-                )
+                logging.error(f"Failed to retrieve geocode after {max_retries} attempts")
+                saveAndStop()
+
+#===== geo.fcc.gov API Lookup =====
+
+if not "geo_fcc_lookup_count" in globals():
+    geo_fcc_lookup_count = 0
+
+def geo_fcc_lookup(lat, lng):
+    global geo_fcc_lookup_count
+    max_retries = 5
+
+    # Construct the geocoding URL
+    geo_fcc_url = (f"https://geo.fcc.gov/api/census/area?lat={lat}&lon={lng}&censusYear=2020&format=json")
+
+    time.sleep(1)
+
+    for attempt in range(max_retries + 1):
+        try:
+            if attempt > 0:
+                wait_time = 2**attempt
+                time.sleep(wait_time)
+
+            # Perform the request with a timeout
+            response = requests.get(geo_fcc_url, timeout=10)
+
+            if response.status_code == 503:
+                print("! Service unavailable. Retrying...")
+                logging.error("Service unavailable. Retrying...")
+                continue
+
+            # Raise an exception for other HTTP errors
+            response.raise_for_status()
+
+            # Parse the JSON response and extract the county name
+            geocode_data = response.json()
+            county = geocode_data.get("results", [{}])[0].get("county_name", "")
+
+            geo_fcc_lookup_count += 1
+
+            return county
+
+        except RequestException as e:
+            logging.error(f"Request error for coordinates {lat},{lng}: {e}")
+
+            # Different handling for different types of request exceptions
+            if isinstance(e, HTTPError):
+                if e.response.status_code == 503:
+                    logging.error("Service unavailable. Retrying...")
+
+            # If it's the last attempt, re-raise the exception
+            if attempt == max_retries:
+                logging.error(f"Failed to retrieve geocode after {max_retries} attempts")
                 saveAndStop()
 
 
@@ -807,10 +854,6 @@ def combine_state_and_county_data(state_geocode_list, county_geocode_list):
     state_and_county_list = list(set(state_geocode_list) | set(county_geocode_list))
     total_items_to_lookup = len(state_and_county_list)
 
-    # print(f"\n> If you're using a free Geocodes API account, the total amount of API calls per day is 5000.")
-    # print("> If you continue, requests may start being denied if your quota has been reached. The script will create a save file and stop. You can resume in 24 hours (python3 get_world_cities.py -r).")
-    # input("\n> Press Enter to continue...")
-
     global geocodeLookupStarted
     geocodeLookupStarted = True
 
@@ -832,10 +875,6 @@ def combine_state_and_county_data(state_geocode_list, county_geocode_list):
         global count_file
         count_file = 0
 
-    if not "count_geocode" in globals():
-        global count_geocode
-        count_geocode = 0
-
     for geonameid, value in combined_dataset.items():
         if (resume == True) and (not found_resume_target):
             if geonameid != current_geonameid:
@@ -854,9 +893,7 @@ def combine_state_and_county_data(state_geocode_list, county_geocode_list):
 
             def get_state_and_county_from_geocode():
                 [state, county] = geocode_lookup(value["latitude"], value["longitude"])
-                print(
-                    f"> Fetched from geocode: {key} - {state if state else 'unknown'} - {county if county else 'unknown'}"
-                )
+                print(f"> Fetched state and county from geocode: {key} - {state if state else 'unknown'} - {county if county else 'unknown'}")
                 combined_dataset[geonameid]["state"] = state
                 combined_dataset[geonameid]["county"] = county
 
@@ -865,27 +902,33 @@ def combine_state_and_county_data(state_geocode_list, county_geocode_list):
                 # state = reference_dataset.get(key, {}).get("state")
                 # county = reference_dataset.get(key, {}).get("county")
                 # if not state and not county:
-                # count_geocode += 1
                 # get_state_and_county_from_geocode()
                 # else:
-                count_file += 1
-                combined_dataset[geonameid]["state"] = reference_dataset.get(
-                    key, {}
-                ).get("state")
-                combined_dataset[geonameid]["county"] = reference_dataset.get(
-                    key, {}
-                ).get("county")
+                state = reference_dataset.get(key, {}).get("state")
+                county = reference_dataset.get(key, {}).get("county")
+                if state != "" or county != "": 
+                    count_file += 1
+                combined_dataset[geonameid]["state"] = state
+                combined_dataset[geonameid]["county"] = county
             else:
-                count_geocode += 1
                 get_state_and_county_from_geocode()
+            
+            # Secondary county name fetcher for US locations
+            if (combined_dataset[geonameid]["country_code"] == "US" and combined_dataset[geonameid]["county"] == ""):
+                county = geo_fcc_lookup(value["latitude"], value["longitude"])
+                print(f"> Fetched county from geo.fcc.gov: {key} - {county if county else 'unknown'}")
+                combined_dataset[geonameid]["county"] = county
+            
             progress_bar.update()
     progress_bar.close()
     manager.stop()
 
     print("Fetched From File: ", count_file)
-    print("Fetched From Geocode: ", count_geocode)
+    print("Fetched From Geocode: ", geocode_lookup_count)
+    print("Fetched From Geo FCC: ", geo_fcc_lookup_count)
+    
 
-    print("Total: ", count_file + count_geocode)
+    print("Total: ", count_file + geocode_lookup_count + geo_fcc_lookup_count)
 
 
 # ===== Process Datasets and Generate Custom Dataset =====
@@ -901,9 +944,7 @@ def process_datasets(population_threshold):
     start_time = time.time()
 
     # Log
-    logging.info(
-        f"Selected options: include_country_code: {include_country_code}, include_country_name: {include_country_name}, include_state: {include_state}, include_county: {include_county}, include_altnames: {include_altnames}, include_timezone: {include_timezone}, include_population: {include_population}, include_altitude: {include_altitude}"
-    )
+    logging.info(f"Selected options: include_country_code: {include_country_code}, include_country_name: {include_country_name}, include_state: {include_state}, include_county: {include_county}, include_altnames: {include_altnames}, include_timezone: {include_timezone}, include_population: {include_population}, include_altitude: {include_altitude}")
     logging.info(f"Time started: {start_time}")
 
     # Start
@@ -980,9 +1021,7 @@ def process_datasets_2():
         hours, minutes, seconds, milliseconds = convert_seconds_with_milliseconds(
             elapsed_time
         )
-        print(
-            f"> Elapsed time: {hours} hours, {minutes} minutes, {seconds} seconds, and {milliseconds:.2f} milliseconds."
-        )
+        print(f"> Elapsed time: {hours} hours, {minutes} minutes, {seconds} seconds, and {milliseconds:.2f} milliseconds.")
 
         # Log
         logging.info(f"Time finished: {end_time}")
@@ -1032,7 +1071,6 @@ def saveAndStop():
             "state_geocode_list": state_geocode_list,
             "total_items_in_cities_dataset": total_items_in_cities_dataset,
             "geocode_lookup_count": geocode_lookup_count,
-            "count_geocode": count_geocode,
             "count_file": count_file,
             "reference_dataset": reference_dataset,
             "combined_dataset": combined_dataset,
@@ -1073,9 +1111,7 @@ def generate_custom_dataset(combined_dataset):
     print("\n> Generating custom dataset...")
     custom_dataset_json = []
     manager = enlighten.get_manager()
-    progress_bar = manager.counter(
-        total=len(combined_dataset), desc="Generating", unit="item"
-    )
+    progress_bar = manager.counter(total=len(combined_dataset), desc="Generating", unit="item")
 
     for geonameid, value in combined_dataset.items():
 
@@ -1270,9 +1306,7 @@ def set_include_attributes():
 
     # Reference Dataset
     if disableReference == False:
-        print(
-            "> Using prefetched reference dataset to optimise fetching State and County data."
-        )
+        print("> Using prefetched reference dataset to optimise fetching State and County data.")
         if not ref_data:
             download_reference_file()
         combined_country_list = list(
@@ -1282,9 +1316,7 @@ def set_include_attributes():
                 | set(country_list_for_counties.lower().split(",")),
             )
         )
-        start_spinner(
-            f"Creating reference dataset with countries: {combined_country_list if combined_country_list else '(all)'}"
-        )
+        start_spinner(f"Creating reference dataset with countries: {combined_country_list if combined_country_list else '(all)'}")
         # Append only required countries to lookup table
         for item in ref_data:
             if (
@@ -1297,9 +1329,7 @@ def set_include_attributes():
                 reference_dataset[(lat, lng)] = item
         stop_spinner("done")
     else:
-        print(
-            "> Reference dataset will NOT be used. Fetching State and County data will take a long time."
-        )
+        print("> Reference dataset will NOT be used. Fetching State and County data will take a long time.")
 
     # If preset argument is used, set preset defaults, otherwise, prompt user for which data to include
     if preset == 0:
@@ -1369,14 +1399,10 @@ def set_include_attributes():
         if get_yes_or_no("? Include states: "):
             include_state = True
             # Choose countries to add states to
-            country_list_for_states = input(
-                "? Include states for which countries. List country codes separated by a comma. Leave blank for all countries: "
-            )
+            country_list_for_states = input("? Include states for which countries. List country codes separated by a comma. Leave blank for all countries: ")
             # Use abbreviated US state names?
             if "us" in country_list_for_states.lower() or country_list_for_states == "":
-                abbreviate_us_states = get_yes_or_no(
-                    "? Use abbreviated US state names ('CA' instead of 'California'): "
-                )
+                abbreviate_us_states = get_yes_or_no("? Use abbreviated US state names ('CA' instead of 'California'): ")
         else:
             include_state = False
             country_list_for_states = ""
@@ -1394,9 +1420,7 @@ def set_include_attributes():
         if get_yes_or_no("? Include counties: "):
             include_county = True
             # Choose countries to add counties to
-            country_list_for_counties = input(
-                "? Include counties for which countries. List country codes separated by a comma. Leave blank for all countries: "
-            )
+            country_list_for_counties = input("? Include counties for which countries. List country codes separated by a comma. Leave blank for all countries: ")
         else:
             include_county = False
             country_list_for_counties = ""
@@ -1533,9 +1557,7 @@ def main():
             title()
             # Population threshold prompt
             if threshold_prompt_fallback:
-                population_threshold = get_population_threshold(
-                    "? Population threshold. (Only include places with greater than '500', '1000', '5000', or '15000' in population): "
-                )
+                population_threshold = get_population_threshold("? Population threshold. (Only include places with greater than '500', '1000', '5000', or '15000' in population): ")
             else:
                 population_threshold = threshold
 
