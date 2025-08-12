@@ -2,7 +2,7 @@
 
 # GetWorldCitiesGeoData
 #
-version = "2.1.0"
+version = "2.3.0"
 #
 # Author: github.com/joelacus
 #
@@ -102,6 +102,12 @@ parser.add_argument(
     help="Don't download the reference file if it already exists in the directory. It will be downloaded if it does not exist.",
 )
 parser.add_argument(
+    "-p0",
+    "--preset0",
+    action="store_true",
+    help="Pre-select options to save a CSV file with country, state, county, name, latitude, longitude.",
+)
+parser.add_argument(
     "-p1",
     "--preset1",
     action="store_true",
@@ -120,10 +126,10 @@ parser.add_argument(
     help="Pre-select options to save a CSV file with country, states for duplicated place names, counties for duplicated place names, place name, latitude, longitude.",
 )
 parser.add_argument(
-    "-p0",
-    "--preset0",
+    "-p4",
+    "--preset4",
     action="store_true",
-    help="Pre-select options to save a CSV file with country, state, county, name, latitude, longitude. (Reference File)",
+    help="Pre-select options to save a CSV file with country, state, county, name, latitude, longitude and elevation. (Reference File)",
 )
 
 
@@ -155,7 +161,7 @@ def get_custom_csv_header_order():
         "lng",
         "timezone",
         "population",
-        "altitude",
+        "elevation",
         "capital",
         "currency_code",
         "currency_name",
@@ -240,6 +246,8 @@ if args.preset2:
     preset = 2
 if args.preset3:
     preset = 3
+if args.preset4:
+    preset = 4
 
 # Arg - Population Threshold
 if args.threshold in [500, 1000, 5000, 15000]:
@@ -436,11 +444,11 @@ ref_data = None
 
 
 def download_reference_file():
-    ref_file = "world_cities_(including_all_states_and_counties).csv"
+    ref_file = "world_cities_(including_all_states_counties_elevations).csv"
     if disableReferenceDownload == False:
         file_check(
-            "https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).csv",
-            "world_cities_(including_all_states_and_counties).csv",
+            "https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_counties_elevations).csv",
+            "world_cities_(including_all_states_counties_elevations).csv",
         )
     if os.path.exists(ref_file):
         try:
@@ -458,8 +466,8 @@ def download_reference_file():
         logging.info(f"{ref_file} not found")
         print(f"> {ref_file} not found")
         file_check(
-            "https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).csv",
-            "world_cities_(including_all_states_and_counties).csv",
+            "https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_counties_elevations).csv",
+            "world_cities_(including_all_states_counties_elevations).csv",
         )
         download_reference_file()
 
@@ -690,10 +698,8 @@ def geocode_lookup(lat, lng):
 
     for attempt in range(max_retries + 1):
         try:
-            # Implement rate limiting with exponential backoff
             if attempt > 0:
                 wait_time = 2**attempt  # Exponential backoff
-                # logging.info(f"> Waiting {wait_time} seconds before retry...")
                 time.sleep(wait_time)
 
             # Perform the request with a timeout
@@ -724,7 +730,6 @@ def geocode_lookup(lat, lng):
 
             geocode_lookup_count += 1
 
-            # logging.info(f"Geocode lookup successful: State={state}, County={county}")
             return [state, county]
 
         except RequestException as e:
@@ -744,7 +749,7 @@ def geocode_lookup(lat, lng):
                 logging.error(f"Failed to retrieve geocode after {max_retries} attempts")
                 saveAndStop()
 
-#===== geo.fcc.gov API Lookup =====
+#===== Geo FCC API =====
 
 if not "geo_fcc_lookup_count" in globals():
     geo_fcc_lookup_count = 0
@@ -786,7 +791,58 @@ def geo_fcc_lookup(lat, lng):
         except RequestException as e:
             logging.error(f"Request error for coordinates {lat},{lng}: {e}")
 
-            # Different handling for different types of request exceptions
+            if isinstance(e, HTTPError):
+                if e.response.status_code == 503:
+                    logging.error("Service unavailable. Retrying...")
+
+            # If it's the last attempt, re-raise the exception
+            if attempt == max_retries:
+                logging.error(f"Failed to retrieve geocode after {max_retries} attempts")
+                saveAndStop()
+
+
+#===== Open Meteo API =====
+
+if not "open_meteo_lookup_count" in globals():
+    open_meteo_lookup_count = 0
+
+def open_meteo_lookup(lat, lng):
+    global open_meteo_lookup_count
+    max_retries = 5
+
+    # Construct the open meteo URL
+    open_meteo_url = (f"https://api.open-meteo.com/v1/elevation?latitude={lat}&longitude={lng}")
+
+    time.sleep(0.1)
+
+    for attempt in range(max_retries + 1):
+        try:
+            if attempt > 0:
+                wait_time = 2**attempt
+                time.sleep(wait_time)
+
+            # Perform the request with a timeout
+            response = requests.get(open_meteo_url, timeout=10)
+
+            if response.status_code == 503:
+                print("! Service unavailable. Retrying...")
+                logging.error("Service unavailable. Retrying...")
+                continue
+
+            # Raise an exception for other HTTP errors
+            response.raise_for_status()
+
+            # Parse the JSON response and extract the elevation
+            open_meteo_data = response.json()
+            elevation = int(open_meteo_data["elevation"][0])
+
+            open_meteo_lookup_count += 1
+
+            return elevation
+
+        except RequestException as e:
+            logging.error(f"Request error for coordinates {lat},{lng}: {e}")
+
             if isinstance(e, HTTPError):
                 if e.response.status_code == 503:
                     logging.error("Service unavailable. Retrying...")
@@ -923,12 +979,57 @@ def combine_state_and_county_data(state_geocode_list, county_geocode_list):
     progress_bar.close()
     manager.stop()
 
-    print("Fetched From File: ", count_file)
+    print("\nFetched From File: ", count_file)
     print("Fetched From Geocode: ", geocode_lookup_count)
     print("Fetched From Geo FCC: ", geo_fcc_lookup_count)
-    
-
     print("Total: ", count_file + geocode_lookup_count + geo_fcc_lookup_count)
+
+
+# Combine Elevation Data
+def combine_elevation_data():
+    total_items_to_lookup = 0
+    ref_file_lookup_count = 0
+    for item in combined_dataset.values():
+        if item.get("elevation") == "":
+            total_items_to_lookup += 1
+
+    print(f"\n> Fetching missing elevation data for {total_items_to_lookup} cities...\n")
+
+    manager = enlighten.get_manager()
+    progress_bar = manager.counter(
+        total=total_items_to_lookup, desc="Fetching", unit="city"
+    )
+
+    for geonameid, value in combined_dataset.items():
+
+        key = (
+            combined_dataset[geonameid]["latitude"],
+            combined_dataset[geonameid]["longitude"],
+        )
+
+        def get_elevation_from_open_meteo():
+            elevation = open_meteo_lookup(value["latitude"], value["longitude"])
+            print(f"> Fetched elevation from open meteo: {value["latitude"],value["longitude"]} - {elevation if elevation else 'unknown'}")
+            combined_dataset[geonameid]["elevation"] = elevation
+        
+        if (not combined_dataset[geonameid]["elevation"]):
+            if reference_dataset.get(key):
+                elevation = reference_dataset.get(key, {}).get("elevation")
+                if elevation: 
+                    ref_file_lookup_count += 1
+                    combined_dataset[geonameid]["elevation"] = elevation
+                else:
+                    get_elevation_from_open_meteo()
+            else:
+                get_elevation_from_open_meteo()
+
+        progress_bar.update()
+    progress_bar.close()
+    manager.stop()
+
+    print("\nFetched From File: ", ref_file_lookup_count)
+    print("Fetched From Open Meteo: ", open_meteo_lookup_count)
+    print("Total: ", ref_file_lookup_count + open_meteo_lookup_count)
 
 
 # ===== Process Datasets and Generate Custom Dataset =====
@@ -944,7 +1045,7 @@ def process_datasets(population_threshold):
     start_time = time.time()
 
     # Log
-    logging.info(f"Selected options: include_country_code: {include_country_code}, include_country_name: {include_country_name}, include_state: {include_state}, include_county: {include_county}, include_altnames: {include_altnames}, include_timezone: {include_timezone}, include_population: {include_population}, include_altitude: {include_altitude}")
+    logging.info(f"Selected options: include_country_code: {include_country_code}, include_country_name: {include_country_name}, include_state: {include_state}, include_county: {include_county}, include_altnames: {include_altnames}, include_timezone: {include_timezone}, include_population: {include_population}, include_elevation: {include_elevation}")
     logging.info(f"Time started: {start_time}")
 
     # Start
@@ -985,7 +1086,7 @@ def process_datasets(population_threshold):
     global county_geocode_list
     county_geocode_list = []
     if include_county == True:
-        county_geocode_list = create_county_geocode_list(county_geocode_list)
+        county_geocode_list = create_county_geocode_list(county_geocode_list)        
 
     # Continue to part 2
     return process_datasets_2()
@@ -994,13 +1095,15 @@ def process_datasets(population_threshold):
 # Split so the resume function can start from here
 def process_datasets_2():
     # Combine State and County Data
-    combine_state_and_county_data(state_geocode_list, county_geocode_list)
+    if include_state == True or include_county == True:
+        combine_state_and_county_data(state_geocode_list, county_geocode_list)
 
-    # Generate required data
+    # Combine Elevation Data
+    if include_elevation == True:
+        combine_elevation_data()
+
+    # Generate custom dataset with requested information
     custom_dataset_json = generate_custom_dataset(combined_dataset)
-
-    # print(f"\n> Processed {total_items_in_cities_dataset} items")
-    # print(f"> Geocode Queries: {geocode_lookup_count}")
 
     if resume == False:
         # Get end time
@@ -1056,7 +1159,7 @@ def saveAndStop():
             "include_county_for_dupe": include_county_for_dupe,
             "include_timezone": include_timezone,
             "include_population": include_population,
-            "include_altitude": include_altitude,
+            "include_elevation": include_elevation,
             "include_continent": include_continent,
             "include_capital": include_capital,
             "include_currency_code": include_currency_code,
@@ -1138,9 +1241,9 @@ def generate_custom_dataset(combined_dataset):
         if include_population == True:
             item["population"] = value["population"]
 
-        # Include Altitude?
-        if include_altitude == True:
-            item["altitude"] = value["elevation"]
+        # Include Elevation?
+        if include_elevation == True:
+            item["elevation"] = value["elevation"]
 
         # Include Country Code?
         if include_country_code == True:
@@ -1279,8 +1382,8 @@ def set_include_attributes():
     include_timezone = False
     global include_population
     include_population = False
-    global include_altitude
-    include_altitude = False
+    global include_elevation
+    include_elevation = False
     global include_continent
     include_continent = False
     global include_capital
@@ -1306,7 +1409,7 @@ def set_include_attributes():
 
     # Reference Dataset
     if disableReference == False:
-        print("> Using prefetched reference dataset to optimise fetching State and County data.")
+        print("> Using prefetched reference dataset to optimise fetching State, County, and Elevation data.")
         if not ref_data:
             download_reference_file()
         combined_country_list = list(
@@ -1370,6 +1473,25 @@ def set_include_attributes():
         include_state_for_dupe = True
         include_county = True
         include_county_for_dupe = True
+    elif preset == 4:
+        include_country_code = True
+        include_state = True
+        ref_data_states = {}
+        if ref_data:
+            for item in ref_data:
+                lat = float(item["lat"])
+                lng = float(item["lng"])
+                name = item["name"]
+                ref_data_states[(lat, lng, name)] = item
+        include_county = True
+        ref_data_counties = {}
+        if ref_data:
+            for item in ref_data:
+                lat = float(item["lat"])
+                lng = float(item["lng"])
+                name = item["name"]
+                ref_data_counties[(lat, lng, name)] = item
+        include_elevation = True
     else:
         # Include country codes?
         if get_yes_or_no("? Include ISO-3166 2-letter country codes ('GB'): "):
@@ -1446,11 +1568,11 @@ def set_include_attributes():
         else:
             include_population = False
 
-        # Include altitudes?
-        if get_yes_or_no("? Include altitudes: "):
-            include_altitude = True
+        # Include elevations?
+        if get_yes_or_no("? Include elevations: "):
+            include_elevation = True
         else:
-            include_altitude = False
+            include_elevation = False
 
         # Include continents?
         if get_yes_or_no("? Include continents: "):
@@ -1551,6 +1673,15 @@ def main():
             else:
                 filename = (
                     f"world_cities_{threshold}_(including_all_states_and_counties)"
+                )
+            filetype = "csv"
+        elif preset == 4:
+            population_threshold = threshold
+            if threshold == 1000:
+                filename = "world_cities_(including_all_states_counties_elevations)"
+            else:
+                filename = (
+                    f"world_cities_{threshold}_(including_all_states_and_counties_elevations)"
                 )
             filetype = "csv"
         else:
