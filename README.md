@@ -56,9 +56,9 @@ _NPM install planned._
 
 |Population Threshold|Download JSON|Download CSV|
 |----|----|----|
-|1000|[world_cities.json]()|[world_cities.csv]()|
-|5000|[world_cities_5000.json]()|[world_cities_5000.csv]()|
-|15000|[world_cities_15000.json]()|[world_cities_15000.csv]()|
+|1000|[world_cities.json](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities.json)|[world_cities.csv](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities.csv)|
+|5000|[world_cities_5000.json](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_5000.json)|[world_cities_5000.csv](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_5000.csv)|
+|15000|[world_cities_15000.json](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_15000.json)|[world_cities_15000.csv](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_15000.csv)|
 
 <br/>
 
@@ -96,7 +96,7 @@ _NPM install planned._
 
 |Population Threshold|Download JSON|Download CSV|
 |----|----|----|
-|1000|[world_cities_(including_US_states).json]()|[world_cities_(including_US_states).csv]()|
+|1000|[world_cities_(including_US_states).json](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_US_states).json)|[world_cities_(including_US_states).csv](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_US_states).csv)|
 
 <br/>
 
@@ -104,7 +104,7 @@ _NPM install planned._
 
 |Population Threshold|Download JSON|Download CSV|
 |----|----|----|
-|1000|[world_cities_(including_all_states_and_counties).json]()|[world_cities_(including_all_states_and_counties).csv]()|
+|1000|[world_cities_(including_all_states_and_counties).json](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).json)|[world_cities_(including_all_states_and_counties).csv](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_all_states_and_counties).csv)|
 
 <table>
 
@@ -114,7 +114,7 @@ _NPM install planned._
 
 |Population Threshold|Download JSON|Download CSV|
 |----|----|----|
-|1000|[world_cities_(including_states_and_counties_for_duplicate_names).json]()|[world_cities_(including_states_and_counties_for_duplicate_names).csv]()|
+|1000|[world_cities_(including_states_and_counties_for_duplicate_names).json](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_states_and_counties_for_duplicate_names).json)|[world_cities_(including_states_and_counties_for_duplicate_names).csv](https://raw.githubusercontent.com/joelacus/world-cities/main/world_cities_(including_states_and_counties_for_duplicate_names).csv)|
 
 <table>
 
