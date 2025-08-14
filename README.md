@@ -39,7 +39,6 @@ _NPM install planned._
       "lat": "51.50853",
       "lng": "-0.12574",
     },
-    ...
   ]
   ```
 
@@ -48,7 +47,6 @@ _NPM install planned._
 
     country,name,lat,lng
     GB,London,51.50853,-0.12574
-    ...
 
   </td>
 </tr>
@@ -79,7 +77,6 @@ _NPM install planned._
       "lat": "40.71427",
       "lng": "-74.00597"
     },
-    ...
   ]
   ```
  
@@ -88,7 +85,6 @@ _NPM install planned._
 
     country,state,name,lat,lng
     US,NY,New York City,40.71427,-74.00597
-    ...
 
   </td>
 </tr>
