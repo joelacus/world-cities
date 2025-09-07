@@ -363,14 +363,14 @@ AO,Dundo,-7.36643,20.81557
 AO,Chitato,-7.3,20.73333
 AO,Cassanguidi,-7.48367,21.30339
 AO,Muconda,-10.59236,21.31805
-AO,Mavinga,-15.79171,20.35763
+AO,Mavinga,-15.79347,20.36374
 AO,Lumbala,-14.10165,21.43531
 AO,Luau,-10.70727,22.22466
 AO,Léua,-11.65753,20.44772
 AO,Jamba,-17.5,22.66667
 AO,Cameia,-11.69055,20.83922
 AO,Dala,-11.03333,20.2
-AO,Cazombo,-11.89355,22.9024
+AO,Cazombo,-11.89914,22.90216
 AO,Camanongue,-11.4361,20.16459
 AO,Nzagi,-8.38549,15.30126
 AO,Uíge,-7.60874,15.06131
@@ -494,7 +494,7 @@ AO,Calonamba,-13.77395,15.09111
 AR,Zárate,-34.09584,-59.02423
 AR,Colonia Wanda,-25.97337,-54.56304
 AR,Villa Ortúzar,-34.57973,-58.46829
-AR,Villa Ocampo,-28.48689,-59.35423
+AR,Villa Ocampo,-28.48726,-59.35421
 AR,María Grande,-31.66503,-59.89969
 AR,Villa Lugano,-34.67907,-58.47263
 AR,Villa Hernandarias,-31.23097,-59.98464
@@ -522,7 +522,7 @@ AR,San Luis del Palmar,-27.50766,-58.55625
 AR,San Lorenzo,-28.13442,-58.76685
 AR,San José de Feliciano,-30.38546,-58.75025
 AR,San José,-27.76916,-55.78033
-AR,San Javier,-30.57781,-59.9317
+AR,San Javier,-30.58072,-59.92962
 AR,San Isidro,-34.46971,-58.52111
 AR,San Clemente del Tuyú,-36.35419,-56.72568
 AR,San Antonio de Padua,-34.66267,-58.69819
@@ -567,11 +567,11 @@ AR,Mburucuyá,-28.04532,-58.22835
 AR,Haedo,-34.64239,-58.59212
 AR,Margarita Belén,-27.25902,-58.97157
 AR,Mar del Plata,-38.00042,-57.5562
-AR,Malabrigo,-29.34867,-59.97008
+AR,Malabrigo,-29.34835,-59.96935
 AR,Maciá,-32.17254,-59.4006
 AR,Luján,-34.5664,-59.11478
 AR,Los Polvorines,-34.50316,-58.70596
-AR,Las Toscas,-28.35503,-59.25915
+AR,Las Toscas,-28.35436,-59.25884
 AR,Larroque,-33.03511,-58.99982
 AR,La Plata,-34.92126,-57.95442
 AR,La Paz,-30.74179,-59.64517
@@ -654,10 +654,10 @@ AR,Villa General Belgrano,-31.97828,-64.55627
 AR,Villa Dolores,-31.94504,-65.19025
 AR,Villa de Soto,-30.85524,-64.98496
 AR,Villa del Totoral,-30.81667,-63.71667
-AR,Villa Constitución,-33.22778,-60.3297
-AR,Chañar Ladeado,-33.32524,-62.03831
+AR,Villa Constitución,-33.22795,-60.32994
+AR,Chañar Ladeado,-33.32522,-62.03722
 AR,Villa Carlos Paz,-31.4183,-64.49008
-AR,Villa Cañás,-34.00565,-61.60757
+AR,Villa Cañás,-34.00406,-61.60685
 AR,Villa Berthet,-27.28567,-60.41579
 AR,Villa Ángela,-27.57679,-60.71114
 AR,Villa Allende,-31.29368,-64.2977
@@ -666,8 +666,8 @@ AR,Vicuña Mackenna,-33.91823,-64.39066
 AR,Victorica,-36.21654,-65.43709
 AR,Victoria,-32.61841,-60.15478
 AR,Viale,-31.86819,-60.00755
-AR,Vera,-29.4593,-60.21261
-AR,Venado Tuerto,-33.74556,-61.96885
+AR,Vera,-29.45986,-60.21315
+AR,Venado Tuerto,-33.74585,-61.96711
 AR,Veinticinco de Mayo,-37.77491,-67.71354
 AR,Veinticinco de Mayo,-35.43247,-60.17156
 AR,Valle Hermoso,-31.11205,-64.48114
@@ -678,8 +678,8 @@ AR,Tres Isletas,-26.34067,-60.43207
 AR,Tres Arroyos,-38.37694,-60.27563
 AR,Trelew,-43.24895,-65.30505
 AR,Trancas,-26.23136,-65.28093
-AR,Totoras,-32.5844,-61.16852
-AR,Tostado,-29.23202,-61.76917
+AR,Totoras,-32.58472,-61.16762
+AR,Tostado,-29.23269,-61.76869
 AR,Tinogasta,-28.06556,-67.56437
 AR,Tilisarao,-32.73125,-65.29138
 AR,Tilcara,-23.57817,-65.39516
@@ -689,11 +689,11 @@ AR,Tancacha,-32.23751,-63.97983
 AR,Tafí Viejo,-26.7333,-65.26146
 AR,Taco Pozo,-25.61557,-63.26708
 AR,Suncho Corral,-27.93195,-63.43021
-AR,Sunchales,-30.94404,-61.56148
+AR,Sunchales,-30.94478,-61.5597
 AR,Simoca,-27.2629,-65.35792
 AR,Sierra Grande,-41.60546,-65.35702
 AR,Senillosa,-39.01412,-68.43281
-AR,Sastre,-31.76762,-61.82887
+AR,Sastre,-31.76672,-61.82872
 AR,Sarmiento,-45.58687,-69.06894
 AR,Santo Tomé,-31.66274,-60.7653
 AR,Santiago del Estero,-27.80047,-64.26285
@@ -713,22 +713,23 @@ AR,San Martín de los Andes,-40.15789,-71.35337
 AR,San Martín,-33.08338,-68.47312
 AR,Villa General San Martín,-31.43963,-68.5205
 AR,San Luis,-33.2914,-66.32467
-AR,San Justo,-30.78913,-60.59189
+AR,San Justo,-30.78991,-60.59276
 AR,San Juan,-31.53726,-68.52568
 AR,San José de Jáchal,-30.24162,-68.74662
-AR,San Jorge,-31.89618,-61.85984
+AR,San Jorge,-31.89706,-61.85993
 AR,San Francisco,-31.42497,-62.08404
 AR,Catamarca,-28.46957,-65.78524
-AR,San Cristóbal,-30.31053,-61.23724
+AR,San Cristóbal,-30.31038,-61.23492
 AR,San Carlos Centro,-31.72864,-61.09192
 AR,San Bernardo,-27.28672,-60.71293
 AR,San Benito,-31.78283,-60.43949
 AR,San Antonio Oeste,-40.73193,-64.94769
 AR,Villa San Agustín,-30.63464,-67.4679
 AR,Sampacho,-33.38452,-64.72274
+AR,Salto,-34.29175,-60.2545
 AR,Salta,-24.80645,-65.41999
 AR,Salsipuedes,-31.13789,-64.29277
-AR,Rufino,-34.26827,-62.71262
+AR,Rufino,-34.26237,-62.71128
 AR,Rosario,-32.94682,-60.63932
 AR,Roldán,-32.89846,-60.90681
 AR,Río Tercero,-32.17675,-64.11295
@@ -742,7 +743,7 @@ AR,Recreo,-31.49076,-60.73299
 AR,Recreo,-29.28184,-65.06096
 AR,Realicó,-35.03821,-64.24631
 AR,Rawson,-43.30031,-65.10564
-AR,Rafaela,-31.25033,-61.4867
+AR,Rafaela,-31.25285,-61.49078
 AR,Rada Tilly,-45.92462,-67.55424
 AR,Quitilipi,-26.8708,-60.21537
 AR,Quimilí,-27.64615,-62.41655
@@ -789,7 +790,7 @@ AR,Libertador General San Martín,-23.81305,-64.79353
 AR,Leones,-32.65828,-62.29773
 AR,La Toma,-33.05353,-65.62254
 AR,Las Varillas,-31.8704,-62.71968
-AR,Las Rosas,-32.47661,-61.58041
+AR,Las Rosas,-32.47547,-61.57737
 AR,Las Parejas,-32.68478,-61.51637
 AR,Las Lomitas,-24.70818,-60.59239
 AR,Las Lajitas,-24.72762,-64.19335
@@ -799,7 +800,7 @@ AR,Las Breñas,-27.08819,-61.08217
 AR,La Rioja,-29.41328,-66.85637
 AR,La Quiaca,-22.10448,-65.59646
 AR,Lamarque,-39.42515,-65.70215
-AR,Laguna Paiva,-31.30391,-60.65894
+AR,Laguna Paiva,-31.3067,-60.6606
 AR,Laguna Larga,-31.77569,-63.80038
 AR,La Falda,-31.09321,-64.48448
 AR,La Cumbre,-30.98225,-64.49074
@@ -841,7 +842,7 @@ AR,General Mosconi,-22.59617,-63.811
 AR,General Conesa,-40.10408,-64.45592
 AR,General Cabrera,-32.81048,-63.87213
 AR,General Acha,-37.37821,-64.60422
-AR,Gálvez,-32.02927,-61.22103
+AR,Gálvez,-32.02957,-61.22097
 AR,Gaiman,-43.2909,-65.4977
 AR,Funes,-32.91568,-60.80995
 AR,Fray Luis Beltrán,-39.31369,-65.76002
@@ -851,10 +852,10 @@ AR,Firmat,-33.45937,-61.4832
 AR,Fiambalá,-27.67225,-67.6187
 AR,Famaillá,-27.05452,-65.40189
 AR,Esquel,-42.91147,-71.31947
-AR,Esperanza,-31.4488,-60.93173
+AR,Esperanza,-31.44957,-60.93153
 AR,Embarcación,-23.21003,-64.09965
 AR,Embalse,-32.20681,-64.40064
-AR,El Trébol,-32.2008,-61.7014
+AR,El Trébol,-32.19857,-61.70208
 AR,El Quebrachal,-25.28333,-64.06667
 AR,El Galpón,-25.38062,-64.65162
 AR,El Carril,-25.07185,-65.49302
@@ -876,7 +877,7 @@ AR,Coronel Suárez,-37.45859,-61.93294
 AR,Coronel Moldes,-33.622,-64.59702
 AR,Coronel Du Graty,-27.68216,-60.90443
 AR,Coronel Dorrego,-38.71872,-61.28849
-AR,Coronda,-31.97263,-60.91983
+AR,Coronda,-31.97365,-60.91935
 AR,Córdoba,-31.40648,-64.18853
 AR,Concepción del Bermejo,-26.60036,-60.94624
 AR,Comodoro Rivadavia,-45.86256,-67.494
@@ -887,31 +888,31 @@ AR,Chos Malal,-37.37809,-70.27085
 AR,Choele Choel,-39.28941,-65.6606
 AR,Chivilcoy,-34.8969,-60.01909
 AR,Chimbas,-31.49313,-68.53263
-AR,Chilecito,-29.16195,-67.4974
+AR,Chilecito,-29.16163,-67.49934
 AR,Chicoana,-25.10502,-65.53473
 AR,Charata,-27.21787,-61.18738
-AR,Chamical,-30.36002,-66.31399
+AR,Chamical,-30.35942,-66.31387
 AR,Chacabuco,-34.64203,-60.47124
 AR,Cervantes,-39.05444,-67.39426
-AR,Ceres,-29.881,-61.94504
+AR,Ceres,-29.88113,-61.94521
 AR,Centenario,-38.82955,-68.1318
 AR,Caucete,-31.6515,-68.28216
 AR,Catriel,-37.87552,-67.79451
 AR,Juan José Castelli,-25.9466,-60.62008
-AR,Casilda,-33.04417,-61.16806
+AR,Casilda,-33.04459,-61.16423
 AR,Carmen de Patagones,-40.80255,-62.98349
-AR,Carcarañá,-32.85679,-61.15331
+AR,Carcarañá,-32.85704,-61.15114
 AR,Capitán Bermúdez,-32.82262,-60.71852
 AR,Capilla del Monte,-30.8607,-64.52531
 AR,Capayán,-28.77436,-66.04749
 AR,Canals,-33.56224,-62.88509
-AR,Cañada de Gómez,-32.81636,-61.39493
+AR,Cañada de Gómez,-32.82033,-61.39513
 AR,Campo Largo,-26.80031,-60.83903
 AR,Campo Gallo,-26.58395,-62.84705
 AR,Calingasta,-31.33394,-69.4208
 AR,Calilegua,-23.77441,-64.77003
 AR,Caleta Olivia,-46.44785,-67.52274
-AR,Calchaquí,-29.88767,-60.28697
+AR,Calchaquí,-29.88845,-60.28397
 AR,Caimancito,-23.74084,-64.59316
 AR,Cafayate,-26.07286,-65.97766
 AR,Brinkmann,-30.86651,-62.04311
@@ -922,10 +923,10 @@ AR,Bella Vista,-27.03424,-65.30196
 AR,Balnearia,-31.01285,-62.66536
 AR,Bahía Blanca,-38.7176,-62.26545
 AR,Avia Terai,-26.68665,-60.72803
-AR,Arroyo Seco,-33.15489,-60.50863
+AR,Arroyo Seco,-33.15365,-60.51168
 AR,Arroyito,-31.41917,-63.05084
 AR,Arrecifes,-34.06306,-60.10261
-AR,Armstrong,-32.78215,-61.60222
+AR,Armstrong,-32.78487,-61.60321
 AR,Arias,-33.64037,-62.40272
 AR,Arauco,-28.58071,-66.7925
 AR,Apolinario Saravia,-24.43232,-63.9956
@@ -4390,6 +4391,7 @@ BR,Santa Cruz do Arari,-0.66333,-49.175
 BR,Santa Cruz da Baixa Verde,-7.82056,-38.15278
 BR,Santa Cruz,-6.53306,-38.06194
 BR,Santa Cruz,-6.22944,-36.02278
+BR,Santa Brígida,-9.73611,-38.12778
 BR,Sanharó,-8.36056,-36.56556
 BR,Sambaíba,-7.14028,-45.34611
 BR,Salvaterra,-0.75333,-48.51667
@@ -4404,6 +4406,7 @@ BR,Saboeiro,-6.54194,-39.90667
 BR,Russas,-4.94028,-37.97583
 BR,Roteiro,-9.83278,-35.97778
 BR,Rosário,-2.94047,-44.24898
+BR,Rodelas,-8.84556,-38.76667
 BR,Rio Tinto,-6.80306,-35.08056
 BR,Rio Largo,-9.47833,-35.85333
 BR,Rio Grande do Piauí,-7.77599,-43.13538
@@ -4671,6 +4674,7 @@ BR,Malta,-6.90444,-37.52194
 BR,Major Isidoro,-9.53222,-36.985
 BR,Magalhães de Almeida,-3.39611,-42.20389
 BR,Madalena,-4.85722,-39.57667
+BR,Macururé,-9.1675,-39.0575
 BR,Machados,-7.68222,-35.52278
 BR,Maceió,-9.66583,-35.73528
 BR,Macau,-5.115,-36.63444
@@ -4848,6 +4852,7 @@ BR,Goiatins,-7.71,-47.31417
 BR,Goianinha,-6.26617,-35.20969
 BR,Goiana,-7.56056,-35.0025
 BR,Glória do Goitá,-8.00167,-35.29278
+BR,Glória,-9.33806,-38.25472
 BR,Gilbués,-9.83167,-45.34389
 BR,General Sampaio,-4.05278,-39.45444
 BR,Gararu,-9.9675,-37.08333
@@ -4941,6 +4946,7 @@ BR,Coelho Neto,-4.25667,-43.01278
 BR,Codó,-4.45528,-43.88556
 BR,Cocal dos Alves,-3.60147,-41.44311
 BR,Cocal,-3.47194,-41.5575
+BR,Chorrochó,-8.97972,-39.09639
 BR,Chorozinho,-4.30028,-38.49778
 BR,Choró,-4.84333,-39.14111
 BR,Chaves,-0.16,-49.98833
@@ -4992,6 +4998,7 @@ BR,Capistrano,-4.47,-38.90139
 BR,Capim,-6.91611,-35.17167
 BR,Capela,-9.4075,-36.07361
 BR,Capanema,-1.19583,-47.18083
+BR,Canudos,-9.89667,-39.02639
 BR,Porto do Mangue,-5.06778,-36.78167
 BR,Canto do Buriti,-8.11,-42.94444
 BR,Cantanhede,-3.63333,-44.37667
@@ -5223,6 +5230,7 @@ BR,Acaraú,-2.88556,-40.12
 BR,Acarape,-4.22417,-38.70833
 BR,Acará,-1.96083,-48.19667
 BR,Abreu e Lima,-7.91167,-34.90278
+BR,Abaré,-8.72028,-39.11389
 BR,Abaiara,-7.36035,-39.04888
 BR,Abaetetuba,-1.71806,-48.8825
 BR,Madeiro,-3.48278,-42.50444
@@ -5247,9 +5255,13 @@ BR,Xique-Xique,-10.82294,-42.72815
 BR,Xaxim,-26.96167,-52.53472
 BR,Chavantes,-23.03889,-49.70944
 BR,Xanxerê,-26.87694,-52.40417
+BR,Xambrê,-23.73611,-53.49
+BR,Wagner,-12.28694,-41.16833
+BR,Pedro Alexandre,-10.01252,-37.89466
 BR,Votuporanga,-20.42278,-49.97278
 BR,Votorantim,-23.54667,-47.43778
 BR,Volta Redonda,-22.52306,-44.10417
+BR,Vitorino,-26.26506,-52.78068
 BR,Vitória da Conquista,-14.86611,-40.83944
 BR,Vitória,-20.31944,-40.33778
 BR,Vista Alegre do Alto,-21.17056,-48.62917
@@ -5270,6 +5282,7 @@ BR,Viana,-20.39028,-40.49611
 BR,Viamão,-30.08111,-51.02333
 BR,Vespasiano,-19.69194,-43.92333
 BR,Veredinha,-17.39944,-42.73556
+BR,Verê,-25.88139,-52.90778
 BR,Veranópolis,-28.93611,-51.54944
 BR,Vera Cruz,-22.21972,-49.81944
 BR,Vera Cruz,-12.63333,-41.03333
@@ -5280,15 +5293,20 @@ BR,Vazante,-17.98694,-46.90778
 BR,Vassouras,-22.40389,-43.6625
 BR,Sentinela do Sul,-30.6124,-51.58123
 BR,Varzelândia,-15.70139,-44.0275
+BR,Varzedo,-12.97167,-39.39389
 BR,Várzea Paulista,-23.21139,-46.82833
+BR,Várzea Nova,-11.25552,-40.9469
 BR,Várzea Grande,-15.64667,-56.1325
+BR,Várzea do Poço,-11.52917,-40.32028
 BR,Várzea da Palma,-17.5976,-44.73367
 BR,Varre-Sai,-20.93111,-41.86861
 BR,Varginha,-21.55139,-45.43028
 BR,Vargem Grande do Sul,-21.83222,-46.89361
+BR,Várzea da Roça,-11.60667,-40.13722
 BR,Vargem Alta,-20.67139,-41.00694
 BR,Vargem Alegre,-19.60833,-42.29833
 BR,Vargem,-22.88889,-46.41361
+BR,Wanderley,-12.12,-43.8875
 BR,Valparaíso,-21.22778,-50.86833
 BR,Valinhos,-22.97056,-46.99583
 BR,Valentim Gentil,-20.42222,-50.0875
@@ -5296,6 +5314,7 @@ BR,Valente,-11.41222,-39.46194
 BR,Valença,-22.24556,-43.70028
 BR,Valença,-13.37028,-39.07306
 BR,Vacaria,-28.51222,-50.93389
+BR,Utinga,-12.08167,-41.09444
 BR,Urussanga,-28.51778,-49.32083
 BR,Urupês,-21.20167,-49.29
 BR,Uruguaiana,-29.75472,-57.08833
@@ -5306,6 +5325,8 @@ BR,Urubici,-28.015,-49.59167
 BR,Uruana,-15.5036,-49.68266
 BR,Uruaçu,-14.52472,-49.14083
 BR,Urânia,-20.24611,-50.64306
+BR,Urandi,-14.77139,-42.655
+BR,Uraí,-23.1975,-50.79639
 BR,Nova União,-19.6879,-43.58335
 BR,União da Vitória,-26.23,-51.08639
 BR,Unaí,-16.3575,-46.90611
@@ -5313,6 +5334,7 @@ BR,Una,-15.29333,-39.07528
 BR,Umuarama,-23.76639,-53.325
 BR,Umburanas,-10.73278,-41.32639
 BR,Umbaúba,-11.38333,-37.65778
+BR,Uibaí,-11.33694,-42.1325
 BR,Uchoa,-20.95278,-49.17472
 BR,Ubirajara,-22.52667,-49.66306
 BR,Uberlândia,-18.91861,-48.27722
@@ -5329,11 +5351,13 @@ BR,Turvo,-28.92611,-49.67917
 BR,Turvo,-25.04278,-51.52972
 BR,Turmalina,-17.28556,-42.73
 BR,Tupi Paulista,-21.38111,-51.57056
+BR,Boa Vista do Tupim,-12.6623,-40.60652
 BR,Tuparendi,-27.75639,-54.48167
 BR,Tupandi,-29.47639,-51.42111
 BR,Tupanciretã,-29.08056,-53.83583
 BR,Tupaciguara,-18.59222,-48.705
 BR,Tupã,-21.93472,-50.51361
+BR,Tuneiras do Oeste,-23.87056,-52.87611
 BR,Tumiritinga,-18.97917,-41.64528
 BR,Tuiuti,-22.81639,-46.69361
 BR,Tucuruvi,-23.47544,-46.60609
@@ -5343,6 +5367,7 @@ BR,Tubarão,-28.46667,-49.00694
 BR,Trombudo Central,-27.29917,-49.79028
 BR,Vale do Sol,-29.60817,-52.6818
 BR,Triunfo,-29.94333,-51.71806
+BR,Novo Triunfo,-10.33503,-38.4201
 BR,Trindade,-16.64944,-49.48889
 BR,Treze Tílias,-27.00167,-51.40639
 BR,Treze de Maio,-28.55889,-49.14778
@@ -5357,18 +5382,23 @@ BR,Três Coroas,-29.51694,-50.77778
 BR,Três Corações,-21.69694,-45.25333
 BR,Três Cachoeiras,-29.45556,-49.92444
 BR,Três Barras,-26.10639,-50.32222
+BR,Três Barras do Paraná,-25.42166,-53.18304
 BR,Tremembé,-22.95833,-45.54944
+BR,Tremedal,-14.97583,-41.41083
+BR,Amélia Rodrigues,-12.39904,-38.75519
 BR,Tramandaí,-29.98472,-50.13361
 BR,Trajano de Morais,-22.06333,-42.06639
 BR,Torrinha,-22.42611,-48.16917
 BR,Torres,-29.33528,-49.72694
 BR,Tombos,-20.90472,-42.02278
+BR,Tomazina,-23.77833,-49.94972
 BR,Tomar do Geru,-11.37333,-37.84056
 BR,Toledo,-24.71361,-53.74306
 BR,Toledo,-22.74306,-46.37194
 BR,Tocantins,-21.175,-43.01778
 BR,Tobias Barreto,-11.18389,-37.99833
 BR,Tiros,-19.00389,-45.96444
+BR,Itaguaçu da Bahia,-11.01299,-42.39859
 BR,Tiradentes do Sul,-27.39439,-54.08654
 BR,Tiradentes,-21.11028,-44.17806
 BR,Timóteo,-19.58106,-42.64953
@@ -5381,11 +5411,12 @@ BR,Tibagi,-24.50944,-50.41361
 BR,Teutônia,-29.44806,-51.80639
 BR,Terra Roxa,-23.85571,-50.0314
 BR,Terra Roxa,-20.78889,-48.32972
-BR,Terra Rica,-22.70944,-52.61694
+BR,Terra Rica,-22.72643,-52.6202
 BR,Terra Preta,-22.63333,-47.05
 BR,Terra Nova,-12.36667,-40.66667
 BR,Terra de Areia,-29.58528,-50.07083
 BR,Terra Boa,-23.76806,-52.44417
+BR,Terra Nova,-12.39167,-38.625
 BR,Teresópolis,-22.4167,-42.97822
 BR,Vera Cruz,-29.71671,-52.50321
 BR,Terenos,-20.44222,-54.86028
@@ -5410,16 +5441,20 @@ BR,Taquara,-29.65056,-50.78056
 BR,Tapiratiba,-21.46833,-46.74861
 BR,Tapiramutá,-11.84722,-40.79139
 BR,Tapiraí,-23.96361,-47.50722
+BR,Baianópolis,-12.30754,-44.53923
 BR,Tapes,-30.67333,-51.39583
 BR,Taperoá,-13.53806,-39.09861
 BR,Tapera,-28.62611,-52.87
 BR,Tapejara,-28.06806,-52.01389
 BR,Tapejara,-23.73306,-52.87333
+BR,Tanquinho,-11.97861,-39.10389
+BR,Tanque Novo,-13.54639,-42.49139
 BR,Tanhaçu,-14.02139,-41.24806
 BR,Tanguá,-22.73028,-42.71417
 BR,Tangará,-27.10472,-51.24722
 BR,Tanabi,-20.62639,-49.64917
 BR,Tambaú,-21.705,-47.27444
+BR,Tamarana,-23.72333,-51.09722
 BR,Taiúva,-21.12389,-48.45167
 BR,Taiobeiras,-15.80778,-42.23306
 BR,Taió,-27.11639,-49.99806
@@ -5428,6 +5463,7 @@ BR,Taguatinga,-12.40389,-46.43611
 BR,Taguaí,-23.45194,-49.40889
 BR,Tacuru,-23.6325,-55.01583
 BR,Taciba,-22.38972,-51.28472
+BR,Tabocas do Brejo Velho,-12.70358,-44.00959
 BR,Taboão da Serra,-23.62611,-46.79167
 BR,Tabatinga,-21.73655,-48.68566
 BR,Tabapuã,-20.96417,-49.03167
@@ -5435,6 +5471,7 @@ BR,Suzano,-23.5425,-46.31083
 BR,Sumidouro,-22.04972,-42.67472
 BR,Sumaré,-22.82194,-47.26694
 BR,Sud Mennucci,-20.69083,-50.92389
+BR,Souzas,-22.87917,-46.96444
 BR,Sorocaba,-23.50167,-47.45806
 BR,Sombrio,-29.11389,-49.61667
 BR,Soledade de Minas,-22.06,-45.045
@@ -5442,7 +5479,10 @@ BR,Soledade,-28.81833,-52.51028
 BR,Socorro,-22.59139,-46.52889
 BR,Sobrália,-19.23472,-42.09833
 BR,Sobradinho,-29.42139,-53.02861
+BR,Sobradinho,-15.64713,-47.79315
 BR,Sobradinho,-12.83333,-39.1
+BR,Sítio do Quinto,-10.36565,-38.2028
+BR,Sítio do Mato,-13.08472,-43.46528
 BR,Siriri,-10.60389,-37.11278
 BR,Siqueira Campos,-23.68889,-49.83389
 BR,Sinimbu,-29.53861,-52.52167
@@ -5461,8 +5501,11 @@ BR,Sertãozinho,-21.13778,-47.99028
 BR,Sertão Santana,-30.46028,-51.60333
 BR,Sertão,-27.97972,-52.25972
 BR,Sertanópolis,-23.05861,-51.03639
+BR,Sertaneja,-23.03697,-50.81709
+BR,Serrolândia,-11.41583,-40.30167
 BR,Serro,-18.60472,-43.37944
 BR,Serrinha,-11.66417,-39.0075
+BR,Serra Preta,-12.16028,-39.33167
 BR,Serranópolis,-18.30611,-51.96222
 BR,Serrania,-21.54806,-46.03972
 BR,Serra Negra,-22.61222,-46.70056
@@ -5486,8 +5529,10 @@ BR,Seberi,-27.47806,-53.4025
 BR,Seara,-27.14944,-52.31056
 BR,Seabra,-12.41713,-41.77049
 BR,Schroeder,-26.4125,-49.07306
+BR,Saúde,-10.94111,-40.41889
 BR,Saudades,-26.92417,-53.00306
 BR,Saubara,-12.7375,-38.76861
+BR,Sátiro Dias,-11.60389,-38.58313
 BR,Sarzedo,-20.03528,-44.14472
 BR,Sardoá,-18.78361,-42.365
 BR,Sarapuí,-23.64056,-47.82472
@@ -5497,10 +5542,13 @@ BR,Saquarema,-22.89889,-42.46985
 BR,Sapucaí-Mirim,-22.74778,-45.7425
 BR,Sapucaia do Sul,-29.81782,-51.14551
 BR,Sapucaia,-21.995,-42.91444
+BR,Sapopema,-23.91083,-50.58028
 BR,Sapiranga,-29.63806,-51.00694
+BR,Sapeaçu,-12.7275,-39.18194
 BR,São Vicente de Minas,-21.7125,-44.44417
 BR,São Vicente,-23.96306,-46.39194
 BR,São Thomé das Letras,-21.72222,-44.98528
+BR,São Tomé,-23.53778,-52.59083
 BR,São Tomás de Aquino,-20.78444,-47.09806
 BR,São Tiago,-20.91306,-44.50917
 BR,São Simão,-21.47917,-47.55083
@@ -5513,6 +5561,7 @@ BR,São Sebastião do Caí,-29.58667,-51.37556
 BR,São Sebastião do Alto,-21.95722,-42.13472
 BR,São Sebastião da Grama,-21.71056,-46.82083
 BR,São Sebastião da Bela Vista,-22.15917,-45.75417
+BR,São Sebastião da Amoreira,-23.46528,-50.76111
 BR,São Sebastião,-23.76,-45.40972
 BR,São Roque,-23.52917,-47.13528
 BR,São Romão,-16.36861,-45.06944
@@ -5520,6 +5569,7 @@ BR,São Pedro do Turvo,-22.74694,-49.73972
 BR,São Pedro do Sul,-29.62056,-54.17889
 BR,São Pedro do Suaçuí,-18.36583,-42.6025
 BR,São Pedro dos Ferros,-20.17028,-42.52389
+BR,São Pedro do Ivaí,-23.86528,-51.85639
 BR,São Pedro de Alcântara,-27.56611,-48.80528
 BR,São Pedro da Aldeia,-22.83917,-42.10278
 BR,São Pedro,-22.54861,-47.91389
@@ -5531,6 +5581,7 @@ BR,São Miguel d'Oeste,-26.72528,-53.51806
 BR,São Miguel do Araguaia,-13.275,-50.16278
 BR,São Miguel do Anta,-20.70722,-42.71889
 BR,São Miguel das Missões,-28.56278,-54.55417
+BR,São Miguel das Matas,-13.04778,-39.45556
 BR,São Miguel Arcanjo,-23.87833,-47.99722
 BR,São Mateus do Sul,-25.87417,-50.38278
 BR,São Mateus,-18.72011,-39.85891
@@ -5553,15 +5604,20 @@ BR,São José do Rio Pardo,-21.59556,-46.88861
 BR,São José do Ouro,-27.76944,-51.59444
 BR,São José do Norte,-32.01472,-52.04167
 BR,São José do Jacuri,-18.27528,-42.67028
+BR,São José do Jacuípe,-11.50389,-40.02222
 BR,São José do Goiabal,-19.92861,-42.705
 BR,São José do Cerrito,-27.66306,-50.58
 BR,São José do Cedro,-26.455,-53.49417
 BR,São José do Calçado,-21.02528,-41.65444
 BR,São José de Ubá,-21.3575,-41.9425
+BR,São José da Boa Vista,-23.91583,-49.65222
 BR,São José da Bela Vista,-20.59306,-47.64
 BR,São José da Barra,-20.71806,-46.31139
 BR,São José,-28.21344,-49.16383
 BR,São José,-27.61528,-48.6275
+BR,São José da Vitória,-15.08104,-39.33832
+BR,São Jorge do Ivaí,-23.43278,-52.29306
+BR,São Jorge d'Oeste,-25.70556,-52.91833
 BR,São Joaquim de Bicas,-20.04917,-44.27389
 BR,São Joaquim da Barra,-20.58139,-47.85472
 BR,São Joaquim,-28.29389,-49.93167
@@ -5571,6 +5627,7 @@ BR,São João do Triunfo,-25.68333,-50.29722
 BR,São João do Paraíso,-15.31361,-42.01444
 BR,São João do Oriente,-19.33861,-42.15778
 BR,São João do Manhuaçu,-20.39361,-42.15139
+BR,São João do Caiuá,-22.85194,-52.33694
 BR,São João de Meriti,-22.80389,-43.37222
 BR,São João do Manteninha,-18.72139,-41.16028
 BR,São João del Rei,-21.13556,-44.26167
@@ -5582,9 +5639,11 @@ BR,São João d'Aliança,-14.70556,-47.52472
 BR,São João Batista do Glória,-20.64139,-46.50556
 BR,São João Batista,-27.27611,-48.84944
 BR,São João do Oeste,-27.09905,-53.59203
+BR,São João,-25.82778,-52.72528
+BR,São Jerônimo da Serra,-23.7159,-50.74147
 BR,São Jerônimo,-29.95917,-51.72222
 BR,São Gotardo,-19.31111,-46.04889
-BR,São Gonçalo dos Campos,-12.43333,-38.96667
+BR,São Gonçalo dos Campos,-12.43394,-38.95057
 BR,São Gonçalo do Sapucaí,-21.89222,-45.59528
 BR,São Gonçalo do Rio Abaixo,-19.82611,-43.36222
 BR,São Gonçalo do Pará,-19.98278,-44.85889
@@ -5600,7 +5659,9 @@ BR,São Francisco de Paula,-20.71,-44.98528
 BR,São Francisco de Goiás,-15.93056,-49.26111
 BR,São Francisco de Assis,-29.55028,-55.13111
 BR,São Francisco,-15.94861,-44.86444
+BR,São Felipe,-12.84722,-39.08944
 BR,São Fidélis,-21.64611,-41.74694
+BR,São Félix,-12.60472,-38.97222
 BR,São Felipe,-14.84011,-41.39483
 BR,São Domingos do Prata,-19.865,-42.96833
 BR,São Domingos,-26.55806,-52.53167
@@ -5609,6 +5670,7 @@ BR,São Domingos,-13.39833,-46.31833
 BR,São Domingos,-10.79139,-37.56778
 BR,São Desidério,-12.36333,-44.97333
 BR,São Cristóvão,-11.01472,-37.20639
+BR,São Carlos do Ivaí,-23.31528,-52.47583
 BR,São Carlos,-27.0775,-53.00389
 BR,São Carlos,-22.0175,-47.89083
 BR,São Caetano do Sul,-23.62306,-46.55111
@@ -5619,6 +5681,7 @@ BR,São Bento do Sul,-26.25028,-49.37861
 BR,São Bento do Sapucaí,-22.68889,-45.73083
 BR,Santos Dumont,-21.45667,-43.5525
 BR,Santos,-23.96083,-46.33361
+BR,Santo Inácio,-22.69778,-51.79389
 BR,Santo Estêvão,-12.43028,-39.25139
 BR,Santo Cristo,-27.82389,-54.66278
 BR,Santo Augusto,-27.85083,-53.77722
@@ -5644,25 +5707,31 @@ BR,Santo Amaro,-12.54667,-38.71194
 BR,Santiago,-29.19167,-54.86722
 BR,Santa Vitória do Palmar,-33.51889,-53.36806
 BR,Santa Vitória,-18.83861,-50.12139
+BR,Santa Terezinha,-12.77194,-39.52333
 BR,Santa Terezinha,-10.47059,-50.51359
+BR,Santa Tereza do Oeste,-25.05312,-53.61712
 BR,Santa Teresa,-19.93556,-40.60028
 BR,Santa Rosa de Viterbo,-21.47278,-47.36306
 BR,Santa Rosa,-27.87083,-54.48139
+BR,Nova Santa Rosa,-24.46712,-53.95425
 BR,Santa Rita do Sapucaí,-22.25222,-45.70333
 BR,Santa Rita do Passa Quatro,-21.71028,-47.47806
 BR,Santa Rita do Itueto,-19.35972,-41.38
 BR,Santa Rita do Araguaia,-17.32556,-53.20528
 BR,Santa Rita de Caldas,-22.02861,-46.33667
 BR,Nova Santa Rita,-29.8522,-51.27696
+BR,Santanópolis,-12.02494,-38.8657
 BR,Santana do Paraíso,-19.36361,-42.56861
 BR,Santana do Manhuaçu,-20.1075,-41.92528
 BR,Sant'Ana do Livramento,-30.89083,-55.53278
+BR,Santana do Itararé,-23.755,-49.62917
 BR,Santana de Pirapama,-19.00611,-44.04306
 BR,Santana de Parnaíba,-23.44417,-46.91778
 BR,Santana da Vargem,-21.24917,-45.50667
 BR,Santana da Boa Vista,-30.87194,-53.11528
-BR,Santana,-23.53333,-46.61667
 BR,Santana,-14.46667,-41.8
+BR,Santana,-12.98333,-44.05111
+BR,Santa Mariana,-23.15083,-50.51861
 BR,Santa Maria Madalena,-21.95528,-42.00806
 BR,Santa Maria do Suaçuí,-18.19028,-42.41417
 BR,Santa Maria do Herval,-29.49806,-50.99278
@@ -5677,14 +5746,18 @@ BR,Santaluz,-11.25583,-39.37472
 BR,Santa Lúcia,-21.685,-48.08417
 BR,Santa Leopoldina,-20.10056,-40.52972
 BR,Santa Juliana,-19.30861,-47.52528
+BR,Santa Isabel do Ivaí,-23.00278,-53.19667
 BR,Santa Isabel,-23.31556,-46.22139
 BR,Santa Inês,-13.29222,-39.81889
 BR,Santa Helena de Goiás,-17.81361,-50.59694
+BR,Santa Helena,-24.86028,-54.33278
 BR,Santa Gertrudes,-22.45667,-47.53028
 BR,Santa Fé do Sul,-20.21111,-50.92583
+BR,Santa Fé,-23.0375,-51.80528
 BR,Santa Ernestina,-21.46278,-48.39083
 BR,Santa Cruz do Sul,-29.7175,-52.42583
 BR,Santa Cruz do Rio Pardo,-22.89889,-49.6325
+BR,Santa Cruz de Monte Castelo,-22.95333,-53.29722
 BR,Santa Cruz das Palmeiras,-21.82694,-47.24861
 BR,Santa Cruz Cabrália,-16.27806,-39.02472
 BR,Santa Clara do Sul,-29.46889,-52.0875
@@ -5702,10 +5775,12 @@ BR,Sangão,-28.63778,-49.12917
 BR,Sananduva,-27.94972,-51.80667
 BR,Salvador,-12.97563,-38.49096
 BR,Salto Grande,-22.89278,-49.98556
+BR,Salto do Itararé,-23.60139,-49.62583
 BR,Salto de Pirapora,-23.64889,-47.57333
 BR,Salto da Divisa,-16.00278,-39.94694
 BR,Salto,-23.20083,-47.28694
 BR,Saltinho,-22.84667,-47.67694
+BR,Salinas da Margarida,-12.87111,-38.76444
 BR,Salinas,-16.17028,-42.29028
 BR,Salgado,-11.03194,-37.475
 BR,Salesópolis,-23.52909,-45.84904
@@ -5714,6 +5789,7 @@ BR,Sales,-21.34194,-49.49871
 BR,Sacramento,-19.86528,-47.44
 BR,Sabinópolis,-18.66611,-43.08389
 BR,Sabino,-21.45972,-49.57833
+BR,Sabáudia,-23.3175,-51.5525
 BR,Sabará,-19.88639,-43.80667
 BR,Ruy Barbosa,-12.28389,-40.49389
 BR,Rubim,-16.37472,-40.5375
@@ -5725,7 +5801,9 @@ BR,Rosário do Sul,-30.25833,-54.91417
 BR,Rosário do Catete,-10.69611,-37.03056
 BR,Roque Gonzales,-28.13139,-55.02556
 BR,Rondonópolis,-16.47083,-54.63556
+BR,Rondon,-23.41083,-52.76139
 BR,Ronda Alta,-27.76667,-52.80194
+BR,Roncador,-24.59618,-52.27445
 BR,Rolante,-29.65056,-50.57583
 BR,Rolândia,-23.30972,-51.36917
 BR,Rodeiro,-21.2,-42.865
@@ -5753,18 +5831,23 @@ BR,Rio Grande,-32.035,-52.09861
 BR,Rio Espera,-20.85528,-43.47444
 BR,Rio do Sul,-27.21417,-49.64306
 BR,Rio dos Cedros,-26.73833,-49.27417
+BR,Rio do Pires,-13.12778,-42.29194
 BR,Rio do Oeste,-27.1925,-49.79667
 BR,Rio do Campo,-26.94889,-50.14139
+BR,Rio do Antônio,-14.41139,-42.07556
 BR,Rio de Janeiro,-22.90642,-43.18223
+BR,Rio de Contas,-13.5853,-41.81624
 BR,Rio das Pedras,-22.84333,-47.60611
 BR,Rio das Ostras,-22.52694,-41.945
 BR,Rio das Flores,-22.1675,-43.58556
 BR,Rio das Antas,-26.89861,-51.07444
+BR,Wenceslau Guimarães,-13.686,-39.47803
 BR,Rio Claro,-22.72306,-44.13556
 BR,Rio Claro,-22.41139,-47.56139
 BR,Rio Casca,-20.22611,-42.65083
 BR,Rio Brilhante,-21.80194,-54.54639
 BR,Rio Branco do Sul,-25.19,-49.31417
+BR,Rio Bonito do Iguaçu,-25.49116,-52.52616
 BR,Rio Bonito,-22.70861,-42.60972
 BR,Rio Bananal,-19.265,-40.33333
 BR,Rio Azul,-25.73278,-50.79639
@@ -5772,11 +5855,14 @@ BR,Rio Acima,-20.0875,-43.78944
 BR,Rinópolis,-21.72583,-50.72222
 BR,Rincão,-21.58694,-48.07083
 BR,Ribeirópolis,-10.53944,-37.41667
+BR,Ribeira do Amparo,-11.04722,-38.43333
 BR,Riversul,-23.82856,-49.4332
 BR,Ribeirão Preto,-21.1775,-47.81028
 BR,Ribeirão Pires,-23.71056,-46.41333
+BR,Ribeirão do Pinhal,-23.4075,-50.35667
 BR,Ribeirão das Neves,-19.76694,-44.08667
 BR,Ribeirão da Ilha,-27.69934,-48.53219
+BR,Ribeirão Claro,-23.19417,-49.75806
 BR,Ribeirão Branco,-24.22083,-48.76556
 BR,Ribeirão Bonito,-22.06667,-48.17611
 BR,Ribeira do Pombal,-10.83444,-38.53583
@@ -5789,6 +5875,7 @@ BR,Riacho de Santana,-13.60917,-42.93889
 BR,Riachão do Jacuípe,-11.80694,-39.38556
 BR,Riachão do Dantas,-11.06889,-37.725
 BR,Riachão das Neves,-11.74611,-44.91
+BR,Retirolândia,-11.495,-39.42556
 BR,Santo Antônio do Retiro,-15.34276,-42.62226
 BR,Restinga Sêca,-29.81333,-53.375
 BR,Restinga,-20.60333,-47.48278
@@ -5797,6 +5884,7 @@ BR,Reserva do Iguaçu,-25.83683,-52.02742
 BR,Reserva,-24.65028,-50.85056
 BR,Resende Costa,-20.92222,-44.2375
 BR,Resende,-22.46889,-44.44667
+BR,Renascença,-26.15806,-52.96889
 BR,Registro,-24.4875,-47.84361
 BR,Reginópolis,-21.88806,-49.22528
 BR,Regente Feijó,-22.22139,-51.30278
@@ -5812,12 +5900,16 @@ BR,Rafard,-23.01167,-47.52694
 BR,Quissamã,-22.10667,-41.47222
 BR,Quirinópolis,-18.44833,-50.45167
 BR,Quintana,-22.0725,-50.3075
+BR,Quinta do Sol,-23.85222,-52.12972
 BR,Quilombo,-26.72611,-52.72056
+BR,Quijingue,-10.7525,-39.20917
+BR,Querência do Norte,-23.08361,-53.48444
 BR,Queluz,-22.53857,-44.77393
 BR,Queimados,-22.71611,-43.55528
 BR,Queimadas,-10.97833,-39.62639
 BR,Quatro Barras,-25.36556,-49.07694
 BR,Quatis,-22.40722,-44.25806
+BR,Quatiguá,-23.56722,-49.91361
 BR,Quatá,-22.2475,-50.69833
 BR,Quaraí,-30.3875,-56.45139
 BR,Prudentópolis,-25.21306,-50.97778
@@ -5825,6 +5917,7 @@ BR,Prudente de Morais,-19.48194,-44.155
 BR,Propriá,-10.21111,-36.84028
 BR,Promissão,-21.53667,-49.85806
 BR,Progresso,-29.24417,-52.31222
+BR,Primeiro de Maio,-22.85056,-51.02833
 BR,Presidente Venceslau,-21.87611,-51.84389
 BR,Alto Jequitibá,-20.42766,-41.96459
 BR,Presidente Prudente,-22.12556,-51.38889
@@ -5845,6 +5938,7 @@ BR,Pouso Redondo,-27.25806,-49.93389
 BR,Pouso Alto,-22.19361,-44.9725
 BR,Pouso Alegre,-22.23,-45.93639
 BR,Potirendaba,-21.04278,-49.37722
+BR,Potiraguá,-15.59472,-39.87667
 BR,Poté,-17.80667,-41.78639
 BR,Posse,-14.09306,-46.36944
 BR,Porto Xavier,-27.90556,-55.1375
@@ -5882,6 +5976,7 @@ BR,Pompéu,-19.22444,-44.93528
 BR,Pompéia,-22.10861,-50.17167
 BR,Pomerode,-26.74056,-49.17694
 BR,Poloni,-20.78528,-49.82361
+BR,Pojuca,-12.43056,-38.32778
 BR,Pocrane,-19.61972,-41.63694
 BR,Poço Verde,-10.70833,-38.18333
 BR,Poços de Caldas,-21.78778,-46.56139
@@ -5899,6 +5994,7 @@ BR,Pitangui,-19.68278,-44.89028
 BR,Pitangueiras,-21.00944,-48.22167
 BR,Pitanga,-24.75722,-51.76139
 BR,Piritiba,-11.73028,-40.55528
+BR,Piripá,-14.94,-41.72
 BR,Pires do Rio,-17.29972,-48.27944
 BR,Pirenópolis,-15.85072,-48.96087
 BR,Piraúba,-21.27639,-43.02639
@@ -5919,6 +6015,7 @@ BR,Pirajuí,-21.99861,-49.45722
 BR,Pirajuba,-19.90694,-48.70056
 BR,Piraju,-23.19361,-49.38389
 BR,Piraí do Sul,-24.52611,-49.94861
+BR,Piraí do Norte,-13.76194,-39.37889
 BR,Piraí,-22.62917,-43.89806
 BR,Pirassununga,-21.99611,-47.42583
 BR,Piracicaba,-22.72528,-47.64917
@@ -5926,12 +6023,14 @@ BR,Piracema,-20.50778,-44.4825
 BR,Piracanjuba,-17.30278,-49.01667
 BR,Piracaia,-23.05389,-46.35806
 BR,Piquete,-22.61361,-45.17611
+BR,Pintadas,-11.8125,-39.90861
 BR,Pinheiros,-23.56729,-46.69232
 BR,Pinheiro Machado,-31.57833,-53.38111
 BR,Pinheiral,-22.51278,-44.00056
 BR,Pinhão,-25.69556,-51.65972
 BR,Pinhão,-10.56722,-37.72278
 BR,Pinhalzinho,-26.84806,-52.99194
+BR,Janiópolis,-24.14302,-52.77798
 BR,Pinhalzinho,-22.77944,-46.59056
 BR,Pinhalão,-23.7925,-50.05583
 BR,Balneário Pinhal,-30.25885,-50.23866
@@ -5939,6 +6038,7 @@ BR,Espírito Santo do Pinhal,-22.19591,-46.74884
 BR,Pindorama,-21.18583,-48.90722
 BR,Pindobaçu,-10.74167,-40.36083
 BR,Pindamonhangaba,-22.92389,-45.46167
+BR,Pindaí,-14.4925,-42.68722
 BR,Pimenta,-20.48389,-45.79889
 BR,Pilar do Sul,-23.81306,-47.71639
 BR,Piên,-26.09806,-49.42917
@@ -5947,6 +6047,7 @@ BR,Piedade,-23.71194,-47.42778
 BR,Piedade de Caratinga,-19.76091,-42.07566
 BR,Balneário Piçarras,-26.76389,-48.67167
 BR,Nova Hartz,-29.58425,-50.90278
+BR,Piatã,-13.15194,-41.77278
 BR,Piacatu,-21.59222,-50.59917
 BR,Piaçabuçu,-10.40556,-36.43444
 BR,Petrópolis,-22.505,-43.17861
@@ -5954,6 +6055,9 @@ BR,Petrolina de Goiás,-16.095,-49.33806
 BR,Pescaria Brava,-28.3743,-48.88277
 BR,Perus,-23.40472,-46.75472
 BR,Peruíbe,-24.32,-46.99833
+BR,Pérola d'Oeste,-25.82502,-53.74051
+BR,Perobal,-23.89611,-53.40972
+BR,Pérola,-23.80472,-53.68361
 BR,Periquito,-19.15527,-42.24125
 BR,Pereiras,-23.07611,-47.97583
 BR,Pereira Barreto,-20.63833,-51.10917
@@ -5963,6 +6067,7 @@ BR,Perdigão,-19.95278,-45.08417
 BR,Penha,-26.76944,-48.64583
 BR,Penedo,-10.29028,-36.58639
 BR,Penápolis,-21.41972,-50.0775
+BR,Serra Dourada,-12.76073,-43.94998
 BR,Pelotas,-31.76997,-52.34101
 BR,Peixe,-12.025,-48.53917
 BR,Pedro Leopoldo,-19.61806,-44.04306
@@ -5972,10 +6077,12 @@ BR,Pedrinhas,-11.19167,-37.67389
 BR,Pedreira,-22.74194,-46.90139
 BR,Pedregulho,-20.25694,-47.47667
 BR,Pedras de Maria da Cruz,-15.60667,-44.39139
+BR,Pedrão,-12.14573,-38.64251
 BR,Pedralva,-22.24278,-45.46583
 BR,Pedra Bonita,-20.52056,-42.33
 BR,Pedra Bela,-22.79306,-46.44306
 BR,Pedra Azul,-16.00528,-41.29722
+BR,Pé de Serra,-11.83389,-39.6125
 BR,Pederneiras,-22.35167,-48.775
 BR,Peçanha,-18.54861,-42.55694
 BR,Peabiru,-23.91278,-52.34306
@@ -5994,6 +6101,7 @@ BR,Patrocínio do Muriaé,-21.1525,-42.21472
 BR,Patrocínio,-18.94389,-46.9925
 BR,Patos de Minas,-18.57889,-46.51806
 BR,Pato Branco,-26.22861,-52.67056
+BR,Pato Bragado,-24.62639,-54.22472
 BR,Paty do Alferes,-22.42861,-43.41861
 BR,Posto da Mata,-17.88608,-39.85887
 BR,Passos,-20.71889,-46.60972
@@ -6011,18 +6119,22 @@ BR,Parelheiros,-23.8275,-46.72694
 BR,Pardinho,-23.08111,-48.37361
 BR,Paraúna,-16.94778,-50.44861
 BR,Paratinga,-12.69056,-43.18417
+BR,Rafael Jambeiro,-12.40829,-39.50094
 BR,Paraty,-23.21778,-44.71306
 BR,Parapuã,-21.78339,-50.7915
 BR,Paraopeba,-19.27444,-44.40417
+BR,Paranoá,-15.77553,-47.78117
 BR,Paranhos,-23.89278,-55.43111
 BR,Paranavaí,-23.07306,-52.46528
 BR,Paranapanema,-23.3863,-48.72441
 BR,Paranaíba,-19.67722,-51.19083
 BR,Paranaguá,-25.51626,-48.52537
+BR,Paranacity,-22.93,-52.15111
 BR,Paranã,-12.61528,-47.88306
 BR,Paramirim,-13.4425,-42.23889
 BR,Paraisópolis,-22.55417,-45.78
 BR,Paraíso do Sul,-29.66861,-53.14889
+BR,Paraíso do Norte,-23.28083,-52.60222
 BR,Paraíso,-21.01639,-48.77361
 BR,Paraíso das Águas,-19.0175,-53.01222
 BR,Paraibuna,-23.38611,-45.66222
@@ -6046,6 +6158,7 @@ BR,Palmitinho,-27.355,-53.555
 BR,Palmital,-24.89306,-52.20278
 BR,Palmital,-22.78889,-50.2175
 BR,Palmeiras de Goiás,-16.805,-49.92583
+BR,Palmeiras,-12.52889,-41.55889
 BR,Palmeira d'Oeste,-20.41639,-50.76194
 BR,Palmeira das Missões,-27.89944,-53.31361
 BR,Palmeira,-25.42944,-50.00639
@@ -6061,15 +6174,19 @@ BR,Paiçandu,-23.4575,-52.04861
 BR,Padre Paraíso,-17.07417,-41.48444
 BR,Padre Bernardo,-15.16538,-48.28416
 BR,Pacatuba,-10.45333,-36.65139
+BR,Santa Bárbara,-11.95833,-38.975
 BR,Pacaembu,-21.56222,-51.26056
 BR,Ouvidor,-18.23361,-47.83889
 BR,Ouro Verde de Minas,-18.07056,-41.26972
+BR,Ouro Verde do Oeste,-24.77321,-53.90438
 BR,Ouro Verde,-21.48944,-51.70028
 BR,Ouro Preto,-20.39484,-43.50517
 BR,Ouro Fino,-22.28306,-46.36889
 BR,Ouro Branco,-20.52334,-43.69486
+BR,Ourolândia,-10.97141,-41.0796
 BR,Ouro,-27.34139,-51.61806
 BR,Ourinhos,-22.97889,-49.87056
+BR,Ouriçangas,-12.01162,-38.62827
 BR,Otacílio Costa,-27.48306,-50.12194
 BR,Osvaldo Cruz,-21.79667,-50.87861
 BR,Osório,-29.88667,-50.26972
@@ -6088,6 +6205,7 @@ BR,Pedro Osório,-31.86557,-52.82718
 BR,Olímpia,-20.73722,-48.91472
 BR,Olhos d'Água,-17.39694,-43.57333
 BR,Nuporanga,-20.73095,-47.75177
+BR,Núcleo Bandeirante,-15.8707,-47.96892
 BR,Novo Horizonte,-21.46806,-49.22083
 BR,Novo Hamburgo,-29.67833,-51.13056
 BR,Novo Cruzeiro,-17.46806,-41.87528
@@ -6105,29 +6223,39 @@ BR,Nova Petrópolis,-29.37639,-51.11444
 BR,Nova Palma,-29.47167,-53.46889
 BR,Nova Olímpia,-14.79722,-57.28806
 BR,Nova Odessa,-22.7775,-47.29583
+BR,Maripá,-24.41833,-53.83
 BR,Nova Londrina,-22.76583,-52.985
 BR,Nova Lima,-19.98556,-43.84667
+BR,Nova Laranjeiras,-25.30694,-52.54139
+BR,Nova Itarana,-13.02694,-40.06861
 BR,Nova Iguaçu,-22.75917,-43.45111
+BR,Nova Ibiá,-13.81,-39.62556
 BR,Nova Granada,-20.53389,-49.31417
 BR,Nova Friburgo,-22.28194,-42.53111
+BR,Nova Fátima,-23.43222,-50.56389
 BR,Nova Europa,-21.77833,-48.56083
+BR,Nova Esperança,-23.18361,-52.20472
 BR,Nova Era,-19.75,-43.0375
+BR,Nova Canaã,-14.79417,-40.1425
 BR,Nova Bassano,-28.72361,-51.70472
 BR,Nova Aurora,-24.5255,-53.2573
 BR,Nova Aliança,-21.01583,-49.49611
 BR,Nossa Senhora do Socorro,-10.855,-37.12611
+BR,Milagres,-12.87,-39.85889
 BR,Freguesia do Ó,-23.49877,-46.69983
 BR,Nossa Senhora do Livramento,-15.775,-56.34556
 BR,Nossa Senhora de Lourdes,-10.07944,-37.05778
 BR,Nossa Senhora das Dores,-10.49167,-37.19333
 BR,Nossa Senhora da Glória,-10.21833,-37.42028
 BR,Nortelândia,-14.45472,-56.80278
+BR,Nordestina,-10.8225,-39.42694
 BR,Nonoai,-27.36167,-52.77139
 BR,Nobres,-14.72028,-56.3275
 BR,Niterói,-22.88333,-43.10361
 BR,Niquelândia,-14.47389,-48.45972
 BR,Nioaque,-21.13528,-55.83
 BR,Nilópolis,-22.8075,-43.41389
+BR,Nilo Peçanha,-13.59944,-39.10694
 BR,Nhandeara,-20.6897,-50.0407
 BR,Neves Paulista,-20.84611,-49.62972
 BR,Nerópolis,-16.40639,-49.21861
@@ -6150,24 +6278,30 @@ BR,Mutum,-19.8,-41.43833
 BR,Dom Aquino,-15.81023,-54.92058
 BR,Mutuípe,-13.22861,-39.50472
 BR,Muritiba,-12.91667,-39.25
+BR,Muritiba,-12.62639,-38.99
 BR,Muribeca,-10.42722,-36.95917
 BR,Muriaé,-21.13056,-42.36639
 BR,Muqui,-20.95167,-41.34583
 BR,Muniz Freire,-20.46417,-41.41306
+BR,Muniz Ferreira,-13.00278,-39.11
 BR,Munhoz,-22.61306,-46.36056
 BR,Mundo Novo,-11.85889,-40.4725
+BR,Mulungu do Morro,-11.96611,-41.63889
 BR,Mucurici,-18.09333,-40.51583
 BR,Mucuri,-18.08639,-39.55083
+BR,Mucugê,-13.00845,-41.37237
 BR,Mostardas,-31.1068,-50.91723
 BR,Mozarlândia,-14.74472,-50.57056
 BR,Morungaba,-22.87914,-46.79575
+BR,Mortugaba,-15.02333,-42.36806
 BR,Morro Reuter,-29.53806,-51.08083
 BR,Morro do Chapéu,-11.54852,-41.15804
 BR,Morro da Fumaça,-28.65083,-49.21
 BR,Morro Agudo,-20.73139,-48.05778
 BR,Morrinhos,-17.73111,-49.09944
 BR,Morretes,-25.47694,-48.83444
-BR,Moreira Sales,-24.06222,-53.00694
+BR,Morpará,-11.55861,-43.28083
+BR,Moreira Sales,-24.04952,-53.00998
 BR,Morada Nova de Minas,-18.60444,-45.35667
 BR,Montividiu,-17.44417,-51.17472
 BR,Montezuma,-15.17194,-42.49722
@@ -6202,6 +6336,8 @@ BR,Moeda,-20.33306,-44.05278
 BR,Mococa,-21.46778,-47.00472
 BR,Mirassol,-20.81917,-49.52111
 BR,Mirante do Paranapanema,-22.29194,-51.90639
+BR,Mirante,-14.24194,-40.77833
+BR,Mirangaba,-10.95444,-40.57583
 BR,Mirandópolis,-21.13361,-51.10167
 BR,Miranda,-20.24056,-56.37833
 BR,Miraí,-21.19528,-42.61417
@@ -6218,6 +6354,7 @@ BR,Miguelópolis,-20.17944,-48.03194
 BR,Miguel Calmon,-11.42889,-40.595
 BR,Mesquita,-19.2225,-42.60722
 BR,Mercês,-21.19417,-43.34139
+BR,Mercedes,-24.45389,-54.16167
 BR,Mendonça,-21.18465,-49.57954
 BR,Mendes Pimentel,-18.66111,-41.40472
 BR,Mendes,-22.52667,-43.73278
@@ -6231,10 +6368,11 @@ BR,Mato Verde,-15.39722,-42.86639
 BR,Vila Bela da Santíssima Trindade,-15.00806,-59.95056
 BR,Matipó,-20.28389,-42.34111
 BR,Matinhos,-25.83219,-48.53966
+BR,Matina,-13.90944,-42.84944
 BR,Matias Cardoso,-14.85472,-43.92194
 BR,Matias Barbosa,-21.86917,-43.31944
 BR,Mateus Leme,-19.98639,-44.42778
-BR,Matelândia,-25.24083,-53.99639
+BR,Matelândia,-25.24039,-53.9824
 BR,Mata Verde,-15.68639,-40.74111
 BR,Matão,-21.60333,-48.36583
 BR,Mata de São João,-12.53028,-38.29917
@@ -6244,12 +6382,18 @@ BR,Maruim,-10.7375,-37.08167
 BR,Martins Soares,-20.25694,-41.87694
 BR,Martinópolis,-22.14583,-51.17083
 BR,Martinho Campos,-19.33167,-45.23694
+BR,Marmeleiro,-26.14944,-53.02611
+BR,Mariópolis,-26.35472,-52.55861
 BR,Maringá,-23.42528,-51.93861
+BR,Mariluz,-24.00222,-53.14611
 BR,Marília,-22.21389,-49.94583
+BR,Marilena,-22.73583,-53.04
+BR,Marilândia do Sul,-23.74472,-51.30778
 BR,Marilândia,-19.41278,-40.54167
 BR,Maricá,-22.91944,-42.81861
 BR,Mariana,-20.37778,-43.41611
 BR,Marialva,-23.485,-51.79167
+BR,Maria Helena,-23.61639,-53.205
 BR,Maria da Fé,-22.30806,-45.37528
 BR,Marechal Floriano,-20.41278,-40.68306
 BR,Marechal Cândido Rondon,-24.55611,-54.05667
@@ -6257,6 +6401,7 @@ BR,Mar de Espanha,-21.86722,-43.00972
 BR,Maravilhas,-19.51611,-44.67639
 BR,Maravilha,-26.76083,-53.1725
 BR,Marau,-28.44917,-52.2
+BR,Maraú,-14.10395,-39.0149
 BR,Marataizes,-21.04333,-40.82444
 BR,Maragogipe,-12.77778,-38.91944
 BR,Maracás,-13.44111,-40.43083
@@ -6268,25 +6413,33 @@ BR,Manoel Viana,-29.58917,-55.48278
 BR,Manoel Ribas,-24.51639,-51.66778
 BR,Mantenópolis,-18.8625,-41.12278
 BR,Mantena,-18.78167,-40.98028
+BR,Mansidão,-10.71639,-44.03444
 BR,Manhumirim,-20.35778,-41.95806
 BR,Manhuaçu,-20.25806,-42.03361
+BR,Mangueirinha,-25.94111,-52.17556
 BR,Mangaratiba,-22.95972,-44.04056
 BR,Manga,-14.75583,-43.93222
 BR,Manduri,-23.00333,-49.32194
 BR,Mandirituba,-25.77889,-49.32611
-BR,Mandaguari,-23.5475,-51.67083
+BR,Mandaguari,-23.52098,-51.68179
 BR,Mandaguaçu,-23.34722,-52.09528
+BR,Cordeiros,-15.03861,-41.93472
 BR,Mamonas,-15.05028,-42.94944
+BR,Mamborê,-24.31944,-52.53
 BR,Mambaí,-14.48778,-46.11306
 BR,Mallet,-25.87778,-50.82111
 BR,Malhador,-10.65778,-37.30472
+BR,Malhada de Pedras,-14.38806,-41.87917
+BR,Malhada,-14.33611,-43.77361
 BR,Malacacheta,-17.84222,-42.07667
 BR,Major Vieira,-26.36778,-50.32806
 BR,Mairiporã,-23.31861,-46.58667
 BR,Mairinque,-23.54583,-47.18333
 BR,Mairi,-11.71139,-40.14889
+BR,Maiquinique,-15.62111,-40.26611
 BR,Magé,-22.65278,-43.04056
 BR,Mafra,-26.11139,-49.80528
+BR,Maetinga,-14.66333,-41.49167
 BR,Madre de Deus de Minas,-21.4825,-44.33028
 BR,Madre de Deus,-12.74083,-38.62083
 BR,Macuco,-21.98389,-42.25278
@@ -6296,12 +6449,15 @@ BR,Machacalis,-17.07722,-40.71639
 BR,Macaúbas,-13.01944,-42.69861
 BR,Macaubal,-20.80583,-49.96389
 BR,Macatuba,-22.50222,-48.71139
+BR,Macarani,-15.56833,-40.42306
 BR,Macambira,-10.66639,-37.54083
+BR,Macajuba,-12.13611,-40.36
 BR,Macaé,-22.38484,-41.78324
 BR,Luziânia,-16.2525,-47.95028
 BR,Luzerna,-27.13278,-51.46722
 BR,Luz,-19.80139,-45.68556
 BR,Luminárias,-21.51111,-44.90333
+BR,Luiziana,-24.28611,-52.27583
 BR,Luisburgo,-20.43972,-42.10278
 BR,Luís Antônio,-21.555,-47.70444
 BR,Luiz Alves,-26.72056,-48.93278
@@ -6319,10 +6475,12 @@ BR,Linhares,-19.39111,-40.07222
 BR,Lindóia,-22.52306,-46.65
 BR,Limeira,-22.56472,-47.40167
 BR,Lima Duarte,-21.8425,-43.79306
+BR,Licínio de Almeida,-14.68222,-42.5075
 BR,Liberdade,-23.56338,-46.63228
 BR,Leopoldo de Bulhões,-16.61917,-48.74361
 BR,Leopoldina,-21.53194,-42.64306
 BR,Lençóis Paulista,-22.59861,-48.80028
+BR,Lençóis,-12.56306,-41.39
 BR,Leme,-22.18556,-47.39028
 BR,Lebon Régis,-26.92889,-50.69528
 BR,Minas do Leão,-30.14022,-52.04513
@@ -6333,6 +6491,7 @@ BR,Lavínia,-21.16833,-51.03972
 BR,Lauro Müller,-28.39278,-49.39667
 BR,Laurentino,-27.21667,-49.73306
 BR,Lassance,-17.88667,-44.5775
+BR,Ribeirão do Largo,-15.45917,-40.74111
 BR,Laranjeiras do Sul,-25.40778,-52.41611
 BR,Laranjeiras,-10.80639,-37.17
 BR,Laranjal Paulista,-23.04972,-47.83667
@@ -6343,26 +6502,37 @@ BR,Lapão,-11.38333,-41.83194
 BR,Lapa,-23.52355,-46.70726
 BR,Lapa,-25.76972,-49.71583
 BR,Lambari,-21.97556,-45.35028
+BR,Lamarão,-11.7933,-38.88435
 BR,Lajinha,-20.15139,-41.62278
 BR,Lages,-27.81611,-50.32611
+BR,Teolândia,-13.60234,-39.49241
+BR,Lajedo do Tabocal,-13.475,-40.22306
 BR,Laje do Muriaé,-21.20639,-42.1225
 BR,Lajeado,-29.46694,-51.96139
+BR,Laje,-13.18222,-39.425
 BR,Laguna Carapã,-22.54639,-55.14972
 BR,Laguna,-28.4825,-48.78083
 BR,Lagoinha,-23.09056,-45.19028
 BR,Lagoa Vermelha,-28.20861,-51.52583
 BR,Lagoa Santa,-19.63006,-43.9009
+BR,Lagoa Real,-14.03472,-42.14222
 BR,Lagoão,-29.235,-52.79583
 BR,Lagoa Formosa,-18.77861,-46.4075
 BR,Lagoa Dourada,-20.91444,-44.07833
+BR,Nova Fátima,-11.60847,-39.62993
 BR,Lagoa da Prata,-20.0225,-45.54361
+BR,Presidente Dutra,-11.2951,-41.98605
 BR,Lagoa,-27.60491,-48.46713
 BR,Lagarto,-10.91722,-37.65
 BR,Lagamar,-18.17833,-46.8075
 BR,Ladário,-19.00472,-57.60167
 BR,Ladainha,-17.63222,-41.7375
 BR,Juti,-22.86056,-54.60278
+BR,Jussiape,-13.51667,-41.5925
+BR,Jussari,-15.19139,-39.49528
+BR,Jussara,-23.62139,-52.46944
 BR,Juruaia,-21.25278,-46.57694
+BR,Juranda,-24.42028,-52.84306
 BR,Juquitiba,-23.93167,-47.06833
 BR,Juquiá,-24.32083,-47.63472
 BR,Junqueirópolis,-21.51472,-51.43361
@@ -6377,6 +6547,7 @@ BR,José Boiteux,-26.95833,-49.62806
 BR,Jordânia,-15.90028,-40.17806
 BR,Joinville,-26.30444,-48.84556
 BR,Jóia,-28.64667,-54.12222
+BR,Joaquim Távora,-23.49887,-49.92591
 BR,João Pinheiro,-17.7425,-46.1725
 BR,João Neiva,-19.7575,-40.38556
 BR,João Monlevade,-19.81,-43.17361
@@ -6385,10 +6556,11 @@ BR,Picada Café,-29.45152,-51.13335
 BR,Joaíma,-16.65417,-41.03056
 BR,Joaçaba,-27.17806,-51.50472
 BR,Jitaúna,-14.01274,-39.89833
+BR,Jiquiriça,-13.25667,-39.57222
 BR,Jetibá,-20.02069,-40.68145
 BR,Jesuânia,-21.99778,-45.29111
 BR,Jerônimo Monteiro,-20.78944,-41.395
-BR,Jeremoabo,-10.075,-38.48083
+BR,Jeremoabo,-10.076,-38.34725
 BR,Jequitinhonha,-16.43389,-41.00333
 BR,Jequitibá,-19.23556,-44.02778
 BR,Jequitaí,-17.23556,-44.44556
@@ -6407,12 +6579,14 @@ BR,Jaraguari,-20.14167,-54.39944
 BR,Jaraguá do Sul,-26.48611,-49.06667
 BR,Jaraguá,-23.44077,-46.73774
 BR,Jaraguá,-15.75694,-49.33444
+BR,Japurá,-23.47,-52.55333
 BR,Japoatã,-10.34667,-36.80111
 BR,Japeri,-22.64306,-43.65333
 BR,Japaratuba,-10.59333,-36.94028
 BR,Januária,-15.47949,-44.3652
 BR,Jangada,-15.23556,-56.48917
 BR,Jandira,-23.5275,-46.9025
+BR,Jandaíra,-11.56417,-37.78444
 BR,Jandaia do Sul,-23.60306,-51.64333
 BR,Jandaia,-17.04861,-50.14611
 BR,Janaúba,-15.8025,-43.30889
@@ -6420,11 +6594,13 @@ BR,Jambeiro,-23.25361,-45.68778
 BR,Jales,-20.26889,-50.54583
 BR,Jaguaruna,-28.62145,-49.02529
 BR,Jaguariúna,-22.70556,-46.98583
+BR,Jaguaripe,-13.11333,-38.89556
 BR,Jaguariaíva,-24.24423,-49.70932
 BR,Jaguari,-29.4975,-54.69
 BR,Jaguarari,-10.26389,-40.19583
 BR,Jaguarão,-32.56611,-53.37583
 BR,Jaguaquara,-13.53056,-39.97083
+BR,Jaguapitã,-23.11278,-51.53194
 BR,Jacutinga,-22.28556,-46.61222
 BR,Jacupiranga,-24.6925,-48.00222
 BR,Jacuí,-21.01667,-46.74111
@@ -6436,6 +6612,7 @@ BR,Jaci,-20.88222,-49.57
 BR,Jacarezinho,-23.16056,-49.96944
 BR,Jacareí,-23.30528,-45.96583
 BR,Jaguaré,-18.90556,-40.07611
+BR,Jacaraci,-14.84972,-42.43333
 BR,Jaboticabal,-21.25472,-48.32222
 BR,Jaboticatubas,-19.51361,-43.745
 BR,Jaboti,-23.74333,-50.07583
@@ -6454,6 +6631,7 @@ BR,Itumbiara,-18.41917,-49.21528
 BR,Ituiutaba,-18.97428,-49.46212
 BR,Itueta,-19.39622,-41.2261
 BR,Ituberá,-13.73538,-39.14785
+BR,Ituaçu,-13.81333,-41.29667
 BR,Itu,-23.26417,-47.29917
 BR,Itororó,-15.11694,-40.07028
 BR,Itobi,-21.73694,-46.975
@@ -6479,6 +6657,7 @@ BR,Itarantim,-15.65972,-40.06556
 BR,Itarana,-19.87389,-40.87528
 BR,Itaqui,-29.12528,-56.55306
 BR,Itaquera,-23.53194,-46.44417
+BR,Itaquara,-13.45083,-39.94111
 BR,Itaquaquecetuba,-23.48611,-46.34833
 BR,Itapuranga,-15.56222,-49.94861
 BR,Itapuí,-22.23333,-48.71917
@@ -6486,9 +6665,12 @@ BR,Itaporanga d'Ajuda,-10.99806,-37.31056
 BR,Itaporanga,-23.70778,-49.48972
 BR,Itaporã,-22.07889,-54.78944
 BR,Itápolis,-21.59556,-48.81278
+BR,Itapitanga,-14.42278,-39.565
+BR,Teofilândia,-11.4835,-38.99681
 BR,Itapirapuã,-15.82333,-50.61333
 BR,Itapiranga,-27.16944,-53.71222
 BR,Itapira,-22.43611,-46.82167
+BR,Itapicuru,-11.31667,-38.23333
 BR,Itapevi,-23.54889,-46.93417
 BR,Itapeva,-23.98222,-48.87556
 BR,Itapeva,-22.76806,-46.22083
@@ -6499,8 +6681,11 @@ BR,Itaperuçu,-25.22,-49.34778
 BR,Itapemirim,-21.01111,-40.83389
 BR,Itapema,-27.09028,-48.61139
 BR,Itapoá,-26.11694,-48.61611
+BR,Itapejara d'Oeste,-25.96616,-52.81601
 BR,Itapecerica da Serra,-23.71694,-46.84917
 BR,Itapecerica,-20.4725,-45.12556
+BR,Itapebi,-15.96909,-39.5334
+BR,Itapé,-14.89833,-39.42111
 BR,Itaparica,-12.88833,-38.67861
 BR,Itapagipe,-19.90861,-49.38139
 BR,Itapaci,-14.95083,-49.54944
@@ -6509,10 +6694,14 @@ BR,Itanhomi,-19.17194,-41.86528
 BR,Itanhém,-17.16639,-40.33
 BR,Itanhandu,-22.29583,-44.93472
 BR,Itanhaém,-24.18306,-46.78889
+BR,Itanagra,-12.26306,-38.04167
 BR,Itamonte,-22.28389,-44.87
 BR,Itamogi,-21.07806,-47.04833
+BR,Itambé,-23.66111,-51.99028
 BR,Itambé,-15.245,-40.62444
+BR,Itambaracá,-23.01778,-50.40639
 BR,Itambacuri,-18.03111,-41.685
+BR,Itamari,-13.77806,-39.68361
 BR,Itamarandiba,-17.85722,-42.85889
 BR,Itamaraju,-17.03917,-39.53111
 BR,Italva,-21.42083,-41.69083
@@ -6527,7 +6716,9 @@ BR,Itaí,-23.41778,-49.09056
 BR,Itaguara,-20.39222,-44.4875
 BR,Itaguaí,-22.85222,-43.77528
 BR,Itaguaçu,-19.80194,-40.85556
+BR,Itagimirim,-16.08756,-39.61629
 BR,Itagi,-14.16278,-40.00611
+BR,Itaeté,-12.98639,-40.9725
 BR,Itacaré,-14.2789,-38.99584
 BR,Itacarambi,-15.10222,-44.09194
 BR,Itabuna,-14.78556,-39.28028
@@ -6543,6 +6734,7 @@ BR,Itabaiana,-10.685,-37.42528
 BR,Itaara,-29.60972,-53.76472
 BR,Itá,-27.27782,-52.32737
 BR,Irupi,-20.34528,-41.64111
+BR,Iretama,-24.42389,-52.10583
 BR,Irecê,-11.30417,-41.85583
 BR,Irati,-25.46722,-50.65111
 BR,Irará,-12.05,-38.76667
@@ -6550,9 +6742,12 @@ BR,Iraquara,-12.24861,-41.61944
 BR,Irapuru,-21.57083,-51.345
 BR,Irapuã,-21.27944,-49.40889
 BR,Irani,-27.02472,-51.90167
+BR,Iramaia,-13.28556,-40.95111
+BR,Irajuba,-13.25139,-40.08444
 BR,Iraí de Minas,-18.98389,-47.46139
 BR,Iraí,-27.19361,-53.25056
 BR,Iracemápolis,-22.58056,-47.51861
+BR,Ipupiara,-11.82028,-42.61417
 BR,Ipumirim,-27.07667,-52.13556
 BR,Ipuiúna,-22.09889,-46.18972
 BR,Ipuaçu,-26.63139,-52.455
@@ -6566,9 +6761,11 @@ BR,Ipiguá,-20.65667,-49.38722
 BR,Ipiaú,-14.13449,-39.73948
 BR,Ipeúna,-22.43583,-47.71889
 BR,Iperó,-23.35028,-47.68861
+BR,Ipecaetá,-12.31577,-39.30745
 BR,Ipê,-28.82,-51.27917
 BR,Ipaussu,-23.05667,-49.62639
 BR,Ipatinga,-19.46833,-42.53667
+BR,Ipanema,-22.98436,-43.20285
 BR,Ipanema,-19.80083,-41.71306
 BR,Ipameri,-17.72194,-48.15972
 BR,Ipaba,-19.41361,-42.41944
@@ -6603,29 +6800,37 @@ BR,Ijuí,-28.38778,-53.91472
 BR,Ijaci,-21.17,-44.92528
 BR,Iguatemi,-23.68028,-54.56111
 BR,Iguatama,-20.17444,-45.71139
+BR,Iguaraçu,-23.19694,-51.8275
 BR,Iguape,-24.70806,-47.55528
 BR,Iguaí,-14.75639,-40.08917
 BR,Iguaba Grande,-22.83917,-42.22889
 BR,Igrejinha,-29.57444,-50.79028
 BR,Igreja Nova,-10.12528,-36.66194
+BR,Igrapiúna,-13.82639,-39.14222
 BR,Igaratinga,-19.95528,-44.70917
 BR,Igaratá,-23.20444,-46.15611
 BR,Igarapé,-20.07028,-44.30167
 BR,Igarapava,-20.03833,-47.74694
 BR,Igaraçu do Tietê,-22.50917,-48.55778
+BR,Igaporã,-13.77333,-42.71417
 BR,Iepê,-22.66056,-51.07611
 BR,Iconha,-20.79306,-40.81111
 BR,Pilão Arcado,-10.00053,-42.47975
+BR,Ichu,-11.74861,-39.19222
 BR,Icém,-20.34167,-49.195
+BR,Icaraíma,-23.39556,-53.61389
 BR,Içara,-28.71333,-49.3
 BR,Ibotirama,-12.18528,-43.22056
 BR,Ibiúna,-23.65639,-47.2225
+BR,Ibititá,-11.54722,-41.9775
 BR,Ibitirama,-20.54139,-41.66722
 BR,Ibitinga,-21.75778,-48.82889
+BR,Ibitiara,-12.65222,-42.21778
 BR,Ibirubá,-28.6275,-53.08972
 BR,Ibirité,-20.02194,-44.05889
 BR,Ibirataia,-14.06694,-39.64056
 BR,Ibirarema,-22.8175,-50.0725
+BR,Ibirapuã,-17.68778,-40.10917
 BR,Ibirapitanga,-14.16417,-39.37361
 BR,Ibirama,-27.05694,-49.51778
 BR,Ibiraiaras,-28.37,-51.63639
@@ -6634,10 +6839,15 @@ BR,Ibiraci,-20.46222,-47.12222
 BR,Ibiracatu,-15.66361,-44.16389
 BR,Ibirá,-21.08028,-49.24083
 BR,Ibiporã,-23.26917,-51.04806
+BR,Ibipitanga,-12.88222,-42.48583
+BR,Santa Rita de Cássia,-11.00861,-44.51944
 BR,Ibipeba,-11.64083,-42.01111
 BR,Ibicuí,-14.84167,-39.98667
+BR,Ibicoara,-13.41316,-41.28572
 BR,Ibicaraí,-14.865,-39.5875
+BR,Ibiassucê,-14.25944,-42.25694
 BR,Ibiaí,-16.86111,-44.91444
+BR,Canápolis,-13.07132,-44.20161
 BR,Ibiá,-19.47833,-46.53889
 BR,Ibertioga,-21.43,-43.96306
 BR,Ibatiba,-20.23389,-41.51056
@@ -6655,6 +6865,7 @@ BR,Horizontina,-27.62583,-54.30778
 BR,Hidrolândia,-16.96222,-49.22806
 BR,Herval,-32.02361,-53.39556
 BR,Herculândia,-22.00361,-50.38528
+BR,Heliópolis,-10.68333,-38.28611
 BR,Heliodora,-22.06722,-45.54222
 BR,Harmonia,-29.54778,-51.42556
 BR,Gurupi,-11.72917,-49.06861
@@ -6692,6 +6903,7 @@ BR,Guaraciaba,-20.57083,-43.0075
 BR,Guaraci,-20.49861,-48.94472
 BR,Guaraçaí,-21.02833,-51.20667
 BR,Guará,-20.42833,-47.82417
+BR,Guará,-15.80976,-47.97202
 BR,Cristais Paulista,-20.40497,-47.41823
 BR,Guaporé,-28.84556,-51.89028
 BR,Guapó,-16.83056,-49.53194
@@ -6702,7 +6914,11 @@ BR,Guapé,-20.76167,-45.9175
 BR,Guanhães,-18.775,-42.9325
 BR,Guanambi,-14.22333,-42.78139
 BR,Guamiranga,-25.19139,-50.80472
+BR,Guajeru,-14.54722,-41.94028
+BR,Guairaçá,-22.93444,-52.68556
+BR,Guaíra,-24.08204,-54.24622
 BR,Guaíra,-20.31833,-48.31056
+BR,Engenheiro Coelho,-22.49123,-47.21182
 BR,Guaimbê,-21.91,-49.89667
 BR,Guaiçara,-21.62194,-49.79861
 BR,Guaianases,-23.54333,-46.41083
@@ -6717,7 +6933,9 @@ BR,Governador Valadares,-18.85111,-41.94944
 BR,Governador Lindenberg,-19.25278,-40.46
 BR,Gouveia,-18.45444,-43.74083
 BR,Gonzaga,-18.82222,-42.47917
+BR,Gongogi,-14.32506,-39.46838
 BR,Goioxim,-25.19472,-51.9925
+BR,Goioerê,-24.18472,-53.0275
 BR,Goiatuba,-18.0125,-49.35472
 BR,Goiás,-15.93444,-50.14028
 BR,Goianira,-16.49611,-49.42639
@@ -6728,6 +6946,7 @@ BR,Glorinha,-29.88056,-50.78306
 BR,Giruá,-28.02833,-54.34972
 BR,Getúlio Vargas,-27.89028,-52.2275
 BR,Getulina,-21.79861,-49.92861
+BR,Gentio do Ouro,-11.42889,-42.50278
 BR,São Vicente do Sul,-29.69167,-54.67944
 BR,General Salgado,-20.64833,-50.36056
 BR,General Carneiro,-26.4275,-51.31556
@@ -6740,8 +6959,10 @@ BR,Garopaba,-28.02333,-48.61333
 BR,Garibaldi,-29.25611,-51.53361
 BR,Garça,-22.21056,-49.65611
 BR,Gandu,-13.74389,-39.48667
+BR,Gama,-16.02511,-48.07121
 BR,Galiléia,-18.99944,-41.5375
 BR,Gália,-22.29139,-49.55278
+BR,São Gabriel,-11.22871,-41.87649
 BR,Fundão,-19.93408,-40.40473
 BR,Frutal,-20.02472,-48.94056
 BR,Bonfinópolis de Minas,-16.56632,-45.9866
@@ -6755,6 +6976,7 @@ BR,Francisco Morato,-23.28167,-46.74528
 BR,Lucas do Rio Verde,-13.07127,-55.91479
 BR,Francisco Beltrão,-26.08111,-53.055
 BR,Francisco Badaró,-16.9925,-42.35194
+BR,Francisco Alves,-24.06583,-53.84778
 BR,Franca,-20.53861,-47.40083
 BR,Foz do Iguaçu,-25.54778,-54.58806
 BR,Forquilhinha,-28.7475,-49.47222
@@ -6769,6 +6991,8 @@ BR,Flórida Paulista,-21.61452,-51.17235
 BR,Florianópolis,-27.59667,-48.54917
 BR,Florestópolis,-22.86333,-51.38722
 BR,Florestal,-19.88944,-44.4325
+BR,Floresta Azul,-14.86,-39.65972
+BR,Floresta,-23.61097,-52.08174
 BR,Flores da Cunha,-29.02889,-51.18167
 BR,Firminópolis,-16.58194,-50.305
 BR,Filadélfia,-10.74278,-40.13194
@@ -6788,6 +7012,7 @@ BR,Fazenda Nova,-16.18306,-50.77972
 BR,Faxinal do Soturno,-29.57472,-53.44472
 BR,Faxinal dos Guedes,-26.85278,-52.26028
 BR,Faxinal,-24.00028,-51.31944
+BR,Fátima,-10.6,-38.21667
 BR,Fartura,-23.38833,-49.51
 BR,Farroupilha,-29.225,-51.34778
 BR,Extrema,-22.85472,-46.31833
@@ -6819,6 +7044,7 @@ BR,Engenheiro Paulo de Frontin,-22.54972,-43.67833
 BR,Engenheiro Navarro,-17.27972,-43.95
 BR,Engenheiro Beltrão,-23.79722,-52.26917
 BR,Encruzilhada do Sul,-30.54389,-52.52194
+BR,Encruzilhada,-15.53139,-40.90944
 BR,Encantado,-29.23611,-51.86972
 BR,Embu-Guaçu,-23.83222,-46.81139
 BR,Embu das Artes,-23.64889,-46.85222
@@ -6846,6 +7072,7 @@ BR,Dom Silvério,-20.16,-42.96778
 BR,Dom Pedrito,-30.98278,-54.67306
 BR,Domingos Martins,-20.36333,-40.65917
 BR,Dom Feliciano,-30.70417,-52.1075
+BR,Dom Basílio,-13.76028,-41.77139
 BR,Dois Vizinhos,-25.73361,-53.05722
 BR,Dois Irmãos,-29.58028,-51.08528
 BR,Dois Córregos,-22.36611,-48.38028
@@ -6860,6 +7087,7 @@ BR,Divinolândia de Minas,-18.80204,-42.61499
 BR,Divino,-20.61444,-42.14861
 BR,Dionísio Cerqueira,-26.255,-53.63972
 BR,Dionísio,-19.8412,-42.77767
+BR,Dias d'Ávila,-12.6125,-38.29694
 BR,Dianópolis,-11.62778,-46.82056
 BR,Diamantino,-14.40861,-56.44611
 BR,Diamantina,-18.24692,-43.60345
@@ -6896,11 +7124,13 @@ BR,Cristália,-16.71781,-42.86584
 BR,Cristalândia,-10.60028,-49.19306
 BR,Cristais,-20.87556,-45.51861
 BR,Crissiumal,-27.49972,-54.10111
+BR,Crisópolis,-11.51056,-38.15
 BR,Crisólita,-17.23722,-40.91194
 BR,Criciúma,-28.6775,-49.36972
 BR,Cravinhos,-21.34028,-47.72944
 BR,Coxim,-18.50667,-54.76
 BR,Cotia,-23.60389,-46.91917
+BR,Cotegipe,-12.02833,-44.25778
 BR,Costa Rica,-23.41667,-54.65
 BR,Cosmorama,-20.47778,-49.77778
 BR,Cosmópolis,-22.64583,-47.19611
@@ -6924,6 +7154,7 @@ BR,Coroados,-21.35194,-50.28139
 BR,Coroaci,-18.62194,-42.28583
 BR,Cornélio Procópio,-23.18111,-50.64667
 BR,Corinto,-18.38083,-44.45639
+BR,Coribe,-13.82917,-44.45444
 BR,Cordisburgo,-19.125,-44.32083
 BR,Cordeirópolis,-22.48194,-47.45667
 BR,Cordeiro,-22.02861,-42.36083
@@ -6937,11 +7168,13 @@ BR,Constantina,-27.73472,-52.99222
 BR,Conselheiro Pena,-19.17222,-41.47222
 BR,Conselheiro Lafaiete,-20.66028,-43.78611
 BR,Conquista,-19.93722,-47.54167
+BR,Congonhinhas,-23.55111,-50.55361
 BR,Congonhas,-20.50525,-43.8588
 BR,Congonhal,-22.15278,-46.03944
 BR,Confins,-19.6325,-43.98278
 BR,Cônego Marinho,-15.29417,-44.41806
 BR,Condor,-28.20778,-53.48722
+BR,Condeúba,-14.89528,-41.96861
 BR,Conde,-11.81361,-37.61056
 BR,Concórdia,-27.23417,-52.02778
 BR,Conchas,-23.01528,-48.01056
@@ -6959,6 +7192,7 @@ BR,Conceição das Alagoas,-19.91472,-48.38833
 BR,Conceição da Feira,-12.50583,-38.99861
 BR,Conceição da Barra,-18.59333,-39.73222
 BR,Conceição da Aparecida,-21.09417,-46.20444
+BR,Vera Cruz,-12.96028,-38.60861
 BR,Comercinho,-16.29611,-41.79333
 BR,Coluna,-18.23389,-42.84028
 BR,Colorado,-22.8375,-51.97306
@@ -6967,6 +7201,7 @@ BR,Colômbia,-20.17583,-48.68889
 BR,Colina,-20.71333,-48.54083
 BR,Colatina,-19.53944,-40.63056
 BR,Coimbra,-20.85667,-42.80278
+BR,Cocos,-14.18389,-44.53444
 BR,Cocalinho,-14.39722,-50.99583
 BR,Cocal do Sul,-28.59914,-49.32334
 BR,Coaraci,-14.64083,-39.55111
@@ -6977,6 +7212,7 @@ BR,Claro dos Poções,-17.07972,-44.20861
 BR,Cipotânea,-20.90528,-43.36556
 BR,Cipó,-11.09972,-38.51361
 BR,Cidreira,-30.18111,-50.20556
+BR,Cidade Gaúcha,-23.38028,-52.94472
 BR,Cícero Dantas,-10.6,-38.38333
 BR,Cianorte,-23.66333,-52.605
 BR,Chuí,-33.69111,-53.45667
@@ -6984,11 +7220,14 @@ BR,Chopinzinho,-25.85583,-52.52333
 BR,Nova Xavantina,-14.66429,-52.35859
 BR,Charqueadas,-29.95472,-51.62528
 BR,Charqueada,-22.50972,-47.77806
+BR,Doutor Camargo,-23.55583,-52.21806
 BR,Chapecó,-27.09639,-52.61833
 BR,Chapada dos Guimarães,-15.46056,-55.74972
 BR,Chapada,-28.05528,-53.06778
 BR,Chapada do Norte,-17.09295,-42.54134
+BR,Jussara,-11.04404,-41.97102
 BR,Chalé,-20.04361,-41.68778
+BR,Céu Azul,-25.14667,-53.84861
 BR,Cesário Lange,-23.22667,-47.95306
 BR,Cerro Largo,-28.14861,-54.73806
 BR,Cerro Grande do Sul,-30.59722,-51.75121
@@ -6999,12 +7238,15 @@ BR,Cerqueira César,-23.03556,-49.16611
 BR,Ceres,-15.30833,-49.59833
 BR,Centralina,-18.58389,-49.19944
 BR,Central de Minas,-18.76194,-41.30639
+BR,Central,-11.13556,-42.11278
 BR,Centenário do Sul,-22.82111,-51.59528
+BR,Ceilândia,-15.8091,-48.13096
 BR,Cedro de São João,-10.25167,-36.88444
 BR,Cedral,-20.90278,-49.26833
 BR,Caxias do Sul,-29.16806,-51.17944
 BR,Caxambu,-21.97722,-44.9325
 BR,Cavalcante,-13.7975,-47.45833
+BR,Caturama,-13.32944,-42.29056
 BR,Caturaí,-16.44694,-49.49389
 BR,Catuípe,-28.25,-54.01167
 BR,Catuji,-17.29944,-41.51694
@@ -7013,6 +7255,7 @@ BR,Cristalândia do Piauí,-10.6511,-45.18605
 BR,Catiguá,-21.04944,-49.05833
 BR,Catas Altas,-20.07472,-43.4075
 BR,Catanduvas,-27.07056,-51.66167
+BR,Catanduvas,-25.20306,-53.15667
 BR,Catanduva,-21.13778,-48.97278
 BR,Catalão,-18.16583,-47.94639
 BR,Cataguases,-21.38917,-42.69667
@@ -7038,12 +7281,14 @@ BR,Carmo da Cachoeira,-21.46083,-45.22361
 BR,Carmo,-21.93361,-42.60861
 BR,Carlos Chagas,-17.70306,-40.76639
 BR,Carlos Barbosa,-29.2975,-51.50361
+BR,Carlópolis,-23.425,-49.72083
 BR,Carira,-10.36083,-37.70111
 BR,Carinhanha,-14.30472,-43.765
 BR,Cariacica,-20.26389,-40.42
 BR,Careaçu,-22.04306,-45.69917
 BR,Cardoso Moreira,-21.48833,-41.61556
 BR,Cardoso,-20.08194,-49.91417
+BR,Cardeal da Silva,-11.94167,-37.94861
 BR,Carbonita,-17.52694,-43.01583
 BR,Carazinho,-28.28389,-52.78639
 BR,Caratinga,-19.78972,-42.13917
@@ -7053,6 +7298,7 @@ BR,Carapebus,-22.18722,-41.66111
 BR,Carangola,-20.73306,-42.02944
 BR,Carandaí,-20.95361,-43.80639
 BR,Carambeí,-24.9526,-50.1159
+BR,Caraíbas,-14.72583,-41.25917
 BR,Caraí,-17.18889,-41.69472
 BR,Caraguatatuba,-23.62028,-45.41306
 BR,Caracol,-22.01389,-57.02444
@@ -7066,6 +7312,7 @@ BR,Capim Grosso,-11.38111,-40.01278
 BR,Capim Branco,-19.54889,-44.11667
 BR,Capetinga,-20.61639,-47.05361
 BR,Capelinha,-17.69139,-42.51583
+BR,Capela do Alto Alegre,-11.66806,-39.83778
 BR,Capela do Alto,-23.47056,-47.73472
 BR,Capela de Santana,-29.7,-51.32472
 BR,Capela,-10.50333,-37.05278
@@ -7074,8 +7321,10 @@ BR,Caparaó,-20.52306,-41.90444
 BR,Capão do Leão,-31.76333,-52.48389
 BR,Capão da Canoa,-29.74556,-50.00972
 BR,Capão Bonito,-24.00583,-48.34944
+BR,Capanema,-25.67194,-53.80889
 BR,Cantagalo,-25.37444,-52.12639
 BR,Cantagalo,-21.98111,-42.36806
+BR,Cansanção,-10.66722,-39.49917
 BR,Canoinhas,-26.17722,-50.39
 BR,Canoas,-29.91778,-51.18361
 BR,Canitar,-23.00639,-49.78333
@@ -7086,13 +7335,17 @@ BR,Candiota,-31.55806,-53.6725
 BR,Cândido Mota,-22.74639,-50.38694
 BR,Cândido Godói,-27.95194,-54.75194
 BR,Cândido de Abreu,-24.56694,-51.33333
+BR,Candiba,-14.41083,-42.86722
 BR,Candelária,-29.66917,-52.78889
 BR,Candeias,-20.76694,-45.27639
+BR,Candeias,-12.66778,-38.55056
+BR,Candeal,-11.80806,-39.11917
 BR,Canavieiras,-15.675,-38.94722
 BR,Cana Verde,-21.02083,-45.18194
 BR,Canarana,-11.68472,-41.76889
 BR,Canápolis,-18.725,-49.20444
 BR,Cananéia,-25.01472,-47.92667
+BR,João Dourado,-11.34484,-41.66317
 BR,Campo Verde,-20.41667,-54.06667
 BR,Campos Novos,-27.40167,-51.225
 BR,Campos Gerais,-21.235,-45.75861
@@ -7100,6 +7353,7 @@ BR,Campos do Jordão,-22.73944,-45.59139
 BR,Campos Belos,-13.03667,-46.77167
 BR,Campos Altos,-19.69611,-46.17139
 BR,Campos dos Goytacazes,-21.75227,-41.33044
+BR,Quedas do Iguaçu,-25.45303,-52.90464
 BR,Campo Mourão,-24.04309,-52.37929
 BR,Campo Magro,-25.36861,-49.45139
 BR,Campo Limpo,-23.63634,-46.76565
@@ -7125,6 +7379,7 @@ BR,Campinas do Sul,-27.71583,-52.6275
 BR,Campinas,-22.90556,-47.06083
 BR,Campina Grande do Sul,-25.30556,-49.05528
 BR,Campina do Monte Alegre,-23.59194,-48.47722
+BR,Campina da Lagoa,-24.59167,-52.79889
 BR,Campina das Missões,-27.99109,-54.84053
 BR,Campestre,-21.71111,-46.24639
 BR,Campanha,-21.83611,-45.40056
@@ -7132,6 +7387,7 @@ BR,Cambuquira,-21.85222,-45.29583
 BR,Cambuí,-22.61222,-46.0575
 BR,Cambuci,-21.57528,-41.91111
 BR,Camboriú,-27.02528,-48.65444
+BR,Cambira,-23.60078,-51.58034
 BR,Cambé,-23.27583,-51.27833
 BR,Cambará do Sul,-29.04758,-50.14302
 BR,Cambará,-23.04639,-50.07361
@@ -7140,6 +7396,9 @@ BR,Camapuã,-19.53139,-54.04389
 BR,Camanducaia,-22.75528,-46.14472
 BR,Camamu,-13.94697,-39.10257
 BR,Camaçari,-12.6975,-38.32417
+BR,Camacan,-15.41917,-39.49583
+BR,Califórnia,-23.66705,-51.35563
+BR,Caldeirão Grande,-11.02,-40.30278
 BR,Caldas Novas,-17.74431,-48.62789
 BR,Caldas,-21.92361,-46.38611
 BR,Cajuru,-21.27528,-47.30417
@@ -7147,14 +7406,17 @@ BR,Cajobi,-20.87972,-48.80944
 BR,Cajati,-24.73611,-48.12278
 BR,Cajamar,-23.35611,-46.87694
 BR,Caiuá,-21.83167,-51.99833
+BR,Cairu,-13.48694,-39.04389
 BR,Caieiras,-23.36417,-46.74056
 BR,Caiapônia,-16.95667,-51.81028
 BR,Caiana,-20.69556,-41.925
+BR,Cafelândia,-24.61778,-53.32
 BR,Cafelândia,-21.8025,-49.61
 BR,Cafarnaum,-11.69361,-41.46833
 BR,Caetité,-14.06944,-42.475
 BR,Caeté,-19.88,-43.66972
 BR,Caetanópolis,-19.29528,-44.41861
+BR,Caém,-11.09206,-40.43521
 BR,Caculé,-14.50333,-42.22222
 BR,Caçu,-18.55667,-51.13083
 BR,Caconde,-21.52944,-46.64389
@@ -7176,9 +7438,14 @@ BR,Cabreúva,-23.3075,-47.13278
 BR,Cabo Verde,-21.47194,-46.39611
 BR,Cabo Frio,-22.88717,-42.02622
 BR,Cabeceiras,-15.80056,-46.92667
+BR,Governador Mangabeira,-12.60044,-39.04178
+BR,Cabaceiras do Paraguaçu,-12.53556,-39.19083
+BR,Caatiba,-14.97667,-40.4075
 BR,Butiá,-30.11972,-51.96222
+BR,Cristópolis,-12.23564,-44.41649
 BR,Buritizeiro,-17.35111,-44.96222
 BR,Buritis,-15.61778,-46.42333
+BR,Buritirama,-10.70778,-43.63056
 BR,Buriti Alegre,-18.14,-49.04028
 BR,Buritama,-21.06611,-50.14722
 BR,Buri,-23.7975,-48.59278
@@ -7189,19 +7456,24 @@ BR,Bueno Brandão,-22.44083,-46.35083
 BR,Brusque,-27.09795,-48.91281
 BR,Brumado,-14.20361,-41.66528
 BR,Brumadinho,-20.14333,-44.19972
+BR,Brotas de Macaúbas,-11.99889,-42.62583
 BR,Brotas,-22.28417,-48.12667
 BR,Brodowski,-20.99139,-47.65861
 BR,Britânia,-15.24111,-51.16056
+BR,Brejolândia,-12.48563,-43.96099
 BR,Brejo Grande,-10.42944,-36.46611
+BR,Brejões,-13.10444,-39.79583
 BR,Brejetuba,-20.14611,-41.29028
 BR,Brazópolis,-22.47361,-45.6075
 BR,Braúna,-21.49917,-50.31556
+BR,Brazlândia,-15.67941,-48.19667
 BR,Brasília de Minas,-16.20639,-44.43333
 BR,Brasília,-15.77972,-47.92972
 BR,Brás,-23.55,-46.61667
 BR,Bragança Paulista,-22.9527,-46.54418
 BR,Braço do Norte,-28.275,-49.16556
 BR,Botuverá,-27.19944,-49.07472
+BR,Botuporã,-13.38167,-42.5225
 BR,Botumirim,-16.86143,-43.01026
 BR,Botucatu,-22.88583,-48.445
 BR,Botelhos,-21.63333,-46.395
@@ -7214,8 +7486,11 @@ BR,Boquira,-12.82306,-42.73056
 BR,Boqueirão do Leão,-29.30389,-52.42944
 BR,Bonito,-21.12111,-56.48194
 BR,Bonito de Minas,-15.32254,-44.75744
+BR,Bonito,-11.96944,-41.26583
+BR,Boninal,-12.70167,-41.8275
 BR,Bonfinópolis,-16.61778,-48.96333
 BR,Bonfim,-20.32667,-44.23861
+BR,Bom Sucesso,-23.70972,-51.76444
 BR,Bom Sucesso,-21.03306,-44.75806
 BR,Bom Retiro do Sul,-29.60889,-51.94306
 BR,Bom Retiro,-23.52508,-46.63889
@@ -7227,6 +7502,7 @@ BR,Bom Jesus do Norte,-21.13222,-41.67667
 BR,Bom Jesus do Itabapoana,-21.13389,-41.67972
 BR,Bom Jesus do Galho,-19.82889,-42.31611
 BR,Bom Jesus do Amparo,-19.70361,-43.47361
+BR,Bom Jesus da Serra,-14.37361,-40.50528
 BR,Bom Jesus da Lapa,-13.255,-43.41806
 BR,Bom Jesus,-28.66778,-50.41667
 BR,Bom Jesus de Goiás,-18.22047,-49.72993
@@ -7242,11 +7518,13 @@ BR,Bocaina de Minas,-22.1675,-44.39472
 BR,Bocaina,-22.13611,-48.51806
 BR,Boa Vista do Buricá,-27.66861,-54.11
 BR,Boa Ventura de São Roque,-24.88132,-51.54454
+BR,Boa Nova,-14.3625,-40.2075
 BR,Boa Esperança do Sul,-21.9925,-48.39083
 BR,Boa Esperança,-21.09,-45.56583
 BR,Boa Esperança,-18.54,-40.29583
 BR,Blumenau,-26.91944,-49.06611
 BR,Bituruna,-26.16139,-51.5525
+BR,Biritinga,-11.61667,-38.8
 BR,Biritiba Mirim,-23.5725,-46.03861
 BR,Birigui,-21.28861,-50.34
 BR,Bilac,-21.40333,-50.47056
@@ -7261,6 +7539,7 @@ BR,Benedito Novo,-26.78278,-49.36444
 BR,Belo Vale,-20.40778,-44.02444
 BR,Belo Oriente,-19.22,-42.48361
 BR,Belo Horizonte,-19.92083,-43.93778
+BR,Belo Campo,-15.03833,-41.25972
 BR,Belmonte,-15.86126,-38.87982
 BR,Belford Roxo,-22.76417,-43.39944
 BR,Bela Vista do Toldo,-26.27333,-50.46444
@@ -7276,6 +7555,8 @@ BR,Bastos,-21.92194,-50.73389
 BR,Barueri,-23.51056,-46.87611
 BR,Barroso,-21.18694,-43.97583
 BR,Barros Cassal,-29.09333,-52.58278
+BR,Barro Preto,-14.80972,-39.47139
+BR,Barrocas,-11.52833,-39.07639
 BR,Barro Alto,-14.97083,-48.91583
 BR,Barro Alto,-11.76083,-41.91167
 BR,Barrinha,-21.19361,-48.16389
@@ -7287,16 +7568,21 @@ BR,Barra Mansa,-22.54417,-44.17139
 BR,Barra Longa,-20.28278,-43.04111
 BR,Barra do Turvo,-24.75639,-48.50472
 BR,Barra dos Coqueiros,-10.90889,-37.03861
+BR,Barra do Rocha,-14.2059,-39.60464
 BR,Barra do Ribeiro,-30.29111,-51.30111
 BR,Barra do Piraí,-22.47,-43.82556
+BR,Barra do Mendes,-11.81,-42.05861
 BR,Barra do Garças,-15.89,-52.25667
 BR,Barra do Chapéu,-24.47306,-49.02444
 BR,Barra do Bugres,-15.0725,-57.18111
 BR,Barra de São Francisco,-18.755,-40.89083
 BR,Barra da Estiva,-13.62611,-41.32694
+BR,Barra do Choça,-14.88111,-40.57944
+BR,Barracão,-26.25417,-53.63333
 BR,Barra Bonita,-22.49472,-48.55806
 BR,Barra,-11.08944,-43.14167
 BR,Bariri,-22.07444,-48.74028
+BR,Barbosa Ferraz,-24.03,-52.01167
 BR,Barbosa,-21.26667,-49.94917
 BR,Barbacena,-21.22583,-43.77361
 BR,Barão do Triunfo,-30.38833,-51.73361
@@ -7352,11 +7638,15 @@ BR,Areal,-22.23056,-43.10556
 BR,Areado,-21.35861,-46.14556
 BR,Arcos,-20.28194,-45.53944
 BR,Arceburgo,-21.36417,-46.94
+BR,Arcadas,-22.72333,-46.84528
 BR,Araxá,-19.59333,-46.94056
 BR,Araújos,-19.94806,-45.16556
 BR,Araucária,-25.59306,-49.41028
 BR,Arauá,-11.26222,-37.61972
+BR,Aratuípe,-13.07889,-39.00167
 BR,Aratiba,-27.39417,-52.30028
+BR,Arataca,-15.26333,-39.41444
+BR,Araruna,-23.93167,-52.49639
 BR,Araruama,-22.87278,-42.34306
 BR,Araricá,-29.61361,-50.925
 BR,Araras,-22.35694,-47.38417
@@ -7369,6 +7659,7 @@ BR,Arapongas,-23.41944,-51.42444
 BR,Araponga,-20.66667,-42.52083
 BR,Arandu,-23.13444,-49.05389
 BR,Aramina,-20.09028,-47.78583
+BR,Aramari,-12.08167,-38.49917
 BR,Araguari,-18.64722,-48.18722
 BR,Araguaçu,-12.93056,-49.82639
 BR,Aragoiânia,-16.91194,-49.45139
@@ -7378,11 +7669,15 @@ BR,Aracruz,-19.82028,-40.27333
 BR,Araçoiaba da Serra,-23.50528,-47.61417
 BR,Araci,-11.33333,-38.96667
 BR,Araçatuba,-21.20889,-50.43278
+BR,Aracatu,-14.4275,-41.46194
+BR,Araçás,-12.21111,-38.2025
 BR,Araçariguama,-23.43861,-47.06139
 BR,Aracaju,-10.91111,-37.07167
 BR,Aquidauana,-20.47111,-55.78722
 BR,Aquidabã,-10.28139,-37.01861
 BR,Apucarana,-23.55083,-51.46083
+BR,Apuarema,-13.85639,-39.74389
+BR,Aporá,-11.66028,-38.08139
 BR,Apiúna,-27.03556,-49.38972
 BR,Apiaí,-24.50944,-48.8425
 BR,Apiacá,-21.15361,-41.5675
@@ -7395,12 +7690,14 @@ BR,Antônio Dias,-19.65278,-42.87222
 BR,Antônio Carlos,-27.51694,-48.7675
 BR,Antônio Carlos,-21.31806,-43.74667
 BR,Antonina,-25.42861,-48.71194
+BR,Antas,-10.41181,-38.3312
 BR,Anta Gorda,-28.97028,-52.00472
 BR,Anita Garibaldi,-27.68917,-51.13
 BR,Anicuns,-16.46111,-49.96167
 BR,Anhembi,-22.78944,-48.12722
 BR,Anguera,-12.15111,-39.24639
 BR,Angra dos Reis,-23.00667,-44.31806
+BR,Angical,-12.00694,-44.69444
 BR,Angelina,-27.56861,-48.98528
 BR,Angatuba,-23.48972,-48.41278
 BR,Andrelândia,-21.73972,-44.30917
@@ -7408,11 +7705,14 @@ BR,Cachoeira de Pajeú,-15.96654,-41.49576
 BR,Andradina,-20.89611,-51.37944
 BR,Andradas,-22.06806,-46.56917
 BR,Andorinha,-10.34472,-39.83556
+BR,Andirá,-23.05056,-50.22889
+BR,Andaraí,-12.80722,-41.33139
 BR,Anchieta,-26.53444,-53.33139
 BR,Anchieta,-20.80583,-40.64556
 BR,Anaurilândia,-22.1875,-52.71778
 BR,Anastácio,-20.48361,-55.80694
 BR,Anápolis,-16.32667,-48.95278
+BR,Anagé,-14.61222,-41.13556
 BR,Ampére,-25.915,-53.47278
 BR,Amparo,-22.70111,-46.76444
 BR,Américo de Campos,-20.29917,-49.73167
@@ -7423,6 +7723,7 @@ BR,América Dourada,-11.45528,-41.43611
 BR,Amargosa,-13.03028,-39.60472
 BR,Amaral Ferrador,-30.87833,-52.2575
 BR,Amambai,-23.10417,-55.22583
+BR,Alvorada do Sul,-22.78028,-51.23111
 BR,Alvorada,-12.48,-49.12472
 BR,Alvinópolis,-20.10667,-43.04889
 BR,Álvares Machado,-22.07944,-51.47194
@@ -7432,7 +7733,7 @@ BR,Alto Piquiri,-24.02806,-53.44056
 BR,Alto Paraná,-23.12889,-52.31889
 BR,Alto Paraíso de Goiás,-14.13628,-47.52166
 BR,Alto Paraguai,-14.51361,-56.4825
-BR,Altãnia,-23.87444,-53.90167
+BR,Altônia,-23.87444,-53.90167
 BR,Alto Garças,-16.94389,-53.52806
 BR,Alto Araguaia,-17.31472,-53.21528
 BR,Altinópolis,-21.02556,-47.37389
@@ -7442,7 +7743,9 @@ BR,Alpestre,-27.24889,-53.035
 BR,Alpercata,-18.9903,-41.98993
 BR,Almirante Tamandaré,-25.32472,-49.31
 BR,Almenara,-16.18361,-40.69444
+BR,Presidente Tancredo Neves,-13.45287,-39.4208
 BR,Almas,-11.57361,-47.17028
+BR,Almadina,-14.70528,-39.63722
 BR,Alfredo Wagner,-27.70028,-49.33361
 BR,Alfredo Chaves,-20.635,-40.74972
 BR,Alfenas,-21.42917,-45.94722
@@ -7450,6 +7753,7 @@ BR,Além Paraíba,-21.88778,-42.70444
 BR,Alegrete,-29.78306,-55.79194
 BR,Alegre,-20.76361,-41.53306
 BR,Alecrim,-27.655,-54.76389
+BR,Alcobaça,-17.51944,-39.19556
 BR,Alambari,-23.55083,-47.89861
 BR,Alagoinhas,-12.13556,-38.41917
 BR,Ajuricaba,-28.23944,-53.77083
@@ -7466,23 +7770,31 @@ BR,Águas de Chapecó,-27.07028,-52.98667
 BR,Águas da Prata,-21.93667,-46.71667
 BR,Água Rasa,-20.43333,-45.16667
 BR,Aguaí,-22.05944,-46.97861
+BR,Água Fria,-11.86667,-38.76667
 BR,Água Doce,-26.99778,-51.55611
 BR,Água Clara,-20.44806,-52.87806
 BR,Água Boa,-17.99611,-42.38889
 BR,Afonso Cláudio,-20.07417,-41.12389
+BR,Adustina,-10.53333,-38.1
 BR,Adrianópolis,-24.65722,-48.99111
 BR,Adamantina,-21.68528,-51.0725
 BR,Açucena,-19.07306,-42.54639
 BR,Acajutiba,-11.66222,-38.01722
 BR,Abre Campo,-20.30111,-42.4775
 BR,Abelardo Luz,-26.56472,-52.32833
+BR,Abatiá,-23.30361,-50.3125
+BR,Abaíra,-13.24972,-41.66361
 BR,Abaeté,-19.16,-45.44583
 BR,Abadiânia,-16.20417,-48.70694
 BR,Abadia dos Dourados,-18.48556,-47.40306
+BR,Leblon,-22.98444,-43.22315
+BR,Leme,-22.9621,-43.16831
 BR,Guaíba,-30.11389,-51.325
 BR,Comodoro,-13.66306,-59.78583
 BR,Palmas,-10.16745,-48.32766
+BR,São Conrado,-22.99708,-43.26994
 BR,Bombinhas,-27.1518,-48.48941
+BR,Pranchita,-26.01972,-53.74028
 BR,Pontal do Paraná,-25.67361,-48.51111
 BR,Figueirópolis,-12.13083,-49.17417
 BR,Lagoa da Confusão,-10.79361,-49.62361
@@ -7624,6 +7936,7 @@ BR,Aripuanã,-10.17647,-59.44913
 BR,Arroio do Sal,-29.55139,-49.88889
 BR,Assis Chateaubriand,-24.42,-53.52139
 BR,Atilio Vivacqua,-20.91417,-41.19833
+BR,Aurelino Leal,-14.31667,-39.32722
 BR,Aurora,-27.315,-49.6375
 BR,Aurora do Pará,-2.13389,-47.55889
 BR,Avelino Lopes,-10.13667,-43.94861
@@ -7633,10 +7946,12 @@ BR,Baixa Grande do Ribeiro,-7.85028,-45.21361
 BR,Baldim,-19.28833,-43.95694
 BR,Balneário Gaivota,-29.15667,-49.57944
 BR,Banabuiú,-5.30972,-38.92056
+BR,Banzaê,-10.57694,-38.61472
 BR,Bela Vista de Minas,-19.83028,-43.09111
 BR,Belágua,-3.155,-43.51028
 BR,Bernardo do Mearim,-4.62932,-44.76074
 BR,Betânia do Piauí,-8.14833,-40.79556
+BR,Boa Vista da Aparecida,-25.43556,-53.40806
 BR,Boa Vista do Gurupi,-1.7875,-46.30333
 BR,Bodoquena,-20.53861,-56.715
 BR,Bom Jesus das Selvas,-4.4835,-46.85326
@@ -7651,6 +7966,7 @@ BR,Buritis,-10.21167,-63.82861
 BR,Cabeceira Grande,-16.02972,-47.09056
 BR,Cabixi,-13.49778,-60.55417
 BR,Cachoeira do Piriá,-1.75972,-46.545
+BR,Caetanos,-14.3375,-40.90861
 BR,Caibi,-27.07167,-53.24778
 BR,Caldas Brandão,-7.1025,-35.32639
 BR,Campestre do Maranhão,-6.17222,-47.36361
@@ -7662,9 +7978,11 @@ BR,Campos de Júlio,-13.89944,-59.1475
 BR,Canaã dos Carajás,-6.52392,-49.85167
 BR,Canarana,-13.55222,-52.26833
 BR,Candeias do Jamari,-8.80972,-63.69556
+BR,Cândido Sales,-15.505,-41.23917
 BR,Cantá,2.61028,-60.5975
 BR,Capinzal do Norte,-4.72833,-44.32694
 BR,Capitão Enéas,-16.32444,-43.71056
+BR,Capitão Leônidas Marques,-25.47917,-53.61417
 BR,Capivari de Baixo,-28.44472,-48.95778
 BR,Capixaba,-10.57278,-67.67556
 BR,Caraúbas do Piauí,-3.47583,-41.84306
@@ -7689,6 +8007,8 @@ BR,Colorado do Oeste,-13.11667,-60.54167
 BR,Conceição do Lago-Açu,-3.83444,-44.89333
 BR,Concórdia do Pará,-2.00167,-47.94972
 BR,Confresa,-10.64389,-51.56889
+BR,Coronel Domingos Soares,-26.22778,-52.03194
+BR,Coronel João Sá,-10.28417,-37.92639
 BR,Corumbiara,-12.96194,-60.88667
 BR,Costa Rica,-18.54389,-53.12917
 BR,Cotriguaçu,-9.90231,-58.56846
@@ -7697,10 +8017,12 @@ BR,Cuité de Mamanguape,-6.91472,-35.25194
 BR,Cumaru do Norte,-7.825,-50.77278
 BR,Curionópolis,-6.10167,-49.59806
 BR,Curral de Cima,-6.71694,-35.26944
+BR,Dário Meira,-14.43639,-39.90778
 BR,Delta,-19.97667,-47.77111
 BR,Denise,-14.74,-57.05389
 BR,Deodápolis,-22.27556,-54.165
 BR,Deputado Irapuan Pinheiro,-5.91694,-39.26778
+BR,Diamante do Norte,-22.65639,-52.85972
 BR,Dois Irmãos do Buriti,-20.67972,-55.29611
 BR,Dom Eliseu,-4.285,-47.505
 BR,Dormentes,-8.44722,-40.77111
@@ -7710,7 +8032,10 @@ BR,Doutor Ulysses,-24.56806,-49.41972
 BR,Doverlândia,-16.72028,-52.31944
 BR,Eldorado do Sul,-30.08389,-51.61611
 BR,Eldorado dos Carajás,-6.10417,-49.35528
+BR,Elísio Medrado,-12.94639,-39.52167
+BR,Enéas Marques,-25.94222,-53.16444
 BR,Epitaciolândia,-11.02889,-68.74139
+BR,Érico Cardoso,-13.41778,-42.14028
 BR,Ermelino Matarazzo,-23.49472,-46.47389
 BR,Estação,-27.91083,-52.26
 BR,Estiva Gerbi,-22.27139,-46.94472
@@ -7718,12 +8043,14 @@ BR,Estrela de Alagoas,-9.39028,-36.76
 BR,Faina,-15.44611,-50.36056
 BR,Fátima do Sul,-22.37417,-54.51389
 BR,Fazenda Rio Grande,-25.6575,-49.30806
+BR,Feira da Mata,-14.21278,-44.28111
 BR,Feira Nova,-10.26417,-37.31306
 BR,Feira Nova do Maranhão,-6.96,-46.68556
 BR,Feliz Natal,-12.38611,-54.91972
 BR,Fernando Falcão,-6.15114,-44.90184
 BR,Flores de Goiás,-14.45687,-47.03977
 BR,Floresta do Araguaia,-7.55361,-49.7125
+BR,Formosa do Oeste,-24.29278,-53.3125
 BR,Fraiburgo,-27.02611,-50.92139
 BR,Franciscópolis,-17.95972,-42.00861
 BR,Fronteira,-20.26778,-49.19944
@@ -7741,6 +8068,7 @@ BR,Governador Newton Bello,-3.42611,-45.67583
 BR,Governador Nunes Freire,-2.12583,-45.88528
 BR,Guabiruba,-27.08595,-48.96765
 BR,Herval dOeste,-27.19361,-51.49472
+BR,Ibema,-25.11929,-53.00706
 BR,Igaracy,-7.18056,-38.14861
 BR,Ilha Comprida,-24.74111,-47.54
 BR,Ilha Grande,-2.85205,-41.81686
@@ -7751,11 +8079,16 @@ BR,Indiara,-17.13806,-49.98806
 BR,Ipixuna do Pará,-2.55778,-47.495
 BR,Iracema,2.18222,-61.04111
 BR,Irineópolis,-26.23861,-50.79972
+BR,Itabela,-16.575,-39.55333
 BR,Itaim Paulista,-23.50308,-46.38566
+BR,Itaipulândia,-25.13722,-54.30222
 BR,Itajá,-5.64417,-36.87139
+BR,Itaju do Colônia,-15.1425,-39.72444
 BR,Itaobim,-16.56167,-41.50333
 BR,Itaquiraí,-23.47444,-54.185
+BR,Itatim,-12.71194,-39.69806
 BR,Itinga do Maranhão,-4.44972,-47.52556
+BR,Ivaté,-23.40917,-53.36917
 BR,Jaboatão dos Guararapes,-8.11278,-35.01472
 BR,Jaíba,-15.33833,-43.67444
 BR,Japonvar,-15.99472,-44.27
@@ -7764,10 +8097,12 @@ BR,Jatobá,-5.81667,-44.22333
 BR,Jauru,-15.34194,-58.86639
 BR,Jenipapo de Minas,-17.08278,-42.25833
 BR,Jenipapo dos Vieiras,-5.37139,-45.63639
+BR,Jesuítas,-24.385,-53.3875
 BR,Jijoca de Jericoacoara,-2.895,-40.44917
 BR,Joca Marques,-3.49785,-42.43282
 BR,Jordão,-9.43417,-71.88389
 BR,Juara,-11.255,-57.51972
+BR,Jucuruçu,-16.84278,-40.15889
 BR,Juína,-11.42047,-58.75488
 BR,Juruena,-10.31806,-58.35889
 BR,Juscimeira,-16.05056,-54.88444
@@ -7784,25 +8119,30 @@ BR,Laranjal do Jari,-0.826,-52.506
 BR,Lauro de Freitas,-12.89444,-38.32722
 BR,Lima Campos,-4.51667,-44.46667
 BR,Limeira do Oeste,-19.55111,-50.58056
+BR,Lindoeste,-25.26,-53.57611
 BR,Lindolfo Collor,-29.59694,-51.20944
 BR,Machadinho d'Oeste,-9.44389,-61.98139
 BR,Mãe do Rio,-2.04639,-47.55056
 BR,Magalhães Barata,-0.79389,-47.59861
+BR,Manoel Vitorino,-14.1476,-40.24142
 BR,Mara Rosa,-14.01639,-49.17722
 BR,Maraã,-1.85302,-65.57426
 BR,Marajá do Sena,-4.62364,-45.45201
 BR,Maranhãozinho,-2.24313,-45.85714
 BR,Marcelândia,-11.08944,-54.45056
+BR,Marcionílio Souza,-13.00306,-40.53056
 BR,Mário Campos,-20.05639,-44.18833
 BR,Marituba,-1.35528,-48.34194
 BR,Matões do Norte,-3.63222,-44.55583
 BR,Matupá,-10.16931,-54.93439
+BR,Mauá da Serra,-23.90139,-51.22944
 BR,Maurilândia,-17.97083,-50.33861
 BR,Medicilândia,-3.44611,-52.88889
 BR,Milagres do Maranhão,-3.58139,-42.60944
 BR,Minaçu,-13.53306,-48.22
 BR,Ministro Andreazza,-11.07417,-61.51694
 BR,Mirante da Serra,-11.02972,-62.675
+BR,Missal,-25.09194,-54.2475
 BR,Montadas,-7.08871,-35.95648
 BR,Montalvânia,-14.42278,-44.36556
 BR,Monte Carlo,-27.22278,-50.97972
@@ -7821,10 +8161,12 @@ BR,Nova Andradina,-22.23333,-53.34306
 BR,Nova Bandeirantes,-9.84972,-57.81056
 BR,Nova Campina,-24.12083,-48.90361
 BR,Nova Canaã do Norte,-10.63778,-55.70911
+BR,Nova Cantu,-24.67306,-52.56944
 BR,Nova Colinas,-7.11988,-46.2623
 BR,Nova Crixás,-14.09861,-50.32667
 BR,Nova Erechim,-26.9025,-52.90583
 BR,Nova Esperança do Piriá,-2.26778,-46.9675
+BR,Nova Esperança do Sudoeste,-25.90722,-53.2625
 BR,Nova Glória,-15.14306,-49.57111
 BR,Nova Ipixuna,-4.92111,-49.07694
 BR,Nova Lacerda,-14.47611,-59.60861
@@ -7832,11 +8174,14 @@ BR,Nova Mamoré,-10.40194,-65.32667
 BR,Nova Maringá,-13.02583,-57.07389
 BR,Nova Monte Verde,-9.98222,-57.53472
 BR,Nova Mutum,-13.82889,-56.08222
+BR,Nova Olímpia,-23.47194,-53.08861
 BR,Nova Olinda do Maranhão,-2.80966,-45.70295
 BR,Nova Porteirinha,-15.8025,-43.30056
+BR,Nova Prata do Iguaçu,-25.6325,-53.34667
 BR,Nova Tebas,-24.43806,-51.94528
 BR,Nova União,-10.90417,-62.56111
 BR,Novo Gama,-16.05917,-48.03944
+BR,Novo Horizonte,-12.80833,-42.16778
 BR,Novo Mundo,-9.95028,-55.19833
 BR,Novo Oriente de Minas,-17.41528,-41.21528
 BR,Novo Progresso,-7.14778,-55.38111
@@ -7874,18 +8219,23 @@ BR,Pinhais,-25.44472,-49.1925
 BR,Pinheiros,-18.37028,-40.21333
 BR,Pintópolis,-16.05889,-45.15556
 BR,Placas,-3.86778,-54.22
+BR,Planaltino,-13.25889,-40.36889
+BR,Planalto,-25.71611,-53.76611
+BR,Planalto,-14.66972,-40.47111
 BR,Ponto Belo,-18.12361,-40.54111
 BR,Ponto dos Volantes,-16.75278,-41.50417
 BR,Porto Alegre do Norte,-10.87694,-51.6325
 BR,Porto Rico do Maranhão,-1.85972,-44.58598
 BR,Potim,-22.84278,-45.25139
 BR,Praia Norte,-5.39306,-47.81111
+BR,Presidente Jânio Quadros,-14.68944,-41.67833
 BR,Presidente Juscelino,-2.9275,-44.065
 BR,Presidente Kennedy,-21.09889,-41.04667
 BR,Presidente Sarney,-2.59139,-45.36417
 BR,Presidente Vargas,-3.40694,-44.02389
 BR,Querência,-12.59694,-52.19972
 BR,Quitandinha,-25.8725,-49.49778
+BR,Quixabeira,-11.41167,-40.12833
 BR,Raposa,-2.42306,-44.10333
 BR,Redenção,-8.02861,-50.03139
 BR,Riachinho,-16.23,-45.99167
@@ -7901,11 +8251,14 @@ BR,Rorainópolis,0.94611,-60.41806
 BR,Rosana,-22.57972,-53.05917
 BR,Rurópolis,-4.09556,-54.91028
 BR,Salto do Jacuí,-29.08833,-53.2125
+BR,Salto do Lontra,-25.78389,-53.30861
 BR,Sanclerlândia,-16.1975,-50.31444
 BR,Santa Bárbara do Pará,-1.22361,-48.29444
 BR,Santa Cecília,-7.73944,-35.87944
 BR,Santa Cruz de Minas,-21.11972,-44.22333
+BR,Santa Izabel do Oeste,-25.82111,-53.48444
 BR,Santa Luz,-8.95389,-44.12944
+BR,Santa Luzia,-15.42944,-39.33417
 BR,Santa Luzia,-3.96333,-45.65833
 BR,Santa Luzia do Pará,-1.52361,-46.8975
 BR,Santa Luzia d'Oeste,-11.90806,-61.77889
@@ -7915,6 +8268,7 @@ BR,Santa Maria do Oeste,-24.93946,-51.87072
 BR,Santa Rosa do Sul,-29.13611,-49.7
 BR,Santa Terezinha,-26.77861,-50.00806
 BR,Santa Terezinha,-7.37778,-37.48
+BR,Santa Terezinha de Itaipu,-25.43998,-54.40161
 BR,Santana do Araguaia,-9.335,-50.35
 BR,Santana do Maranhão,-3.11611,-42.41167
 BR,Santana do São Francisco,-10.29111,-36.60806
@@ -7922,10 +8276,12 @@ BR,Santo Antônio de Goiás,-16.48361,-49.31111
 BR,Santo Antônio do Aracanguá,-20.93667,-50.49556
 BR,Santo Antônio do Descoberto,-15.93972,-48.255
 BR,São Cristovão do Sul,-27.26667,-50.44056
+BR,São Domingos,-11.46556,-39.52611
 BR,São Domingos das Dores,-19.52694,-42.01139
 BR,São Domingos do Araguaia,-5.53778,-48.73333
 BR,São Felipe d'Oeste,-11.9025,-61.50222
 BR,São Félix do Araguaia,-11.61722,-50.66944
+BR,São Félix do Coribe,-13.40056,-44.19472
 BR,São Francisco de Assis do Piauí,-8.23778,-41.68611
 BR,São Francisco de Itabapoana,-21.30194,-40.96139
 BR,São Francisco do Brejão,-5.12278,-47.38583
@@ -7936,6 +8292,7 @@ BR,São João da Fronteira,-3.95556,-41.2575
 BR,São João do Carú,-3.55444,-46.25583
 BR,São João do Paraíso,-6.46111,-47.0575
 BR,São João do Soter,-5.11389,-43.81
+BR,São Jorge do Patrocínio,-23.76194,-53.87889
 BR,São José do Rio Claro,-13.44667,-56.72139
 BR,São José do Xingu,-10.80444,-52.74417
 BR,São José dos Quatro Marcos,-15.62139,-58.17639
@@ -7946,12 +8303,15 @@ BR,São Mateus,-23.60583,-46.47889
 BR,São Miguel do Guaporé,-11.69361,-62.71139
 BR,São Paulo das Missões,-28.02139,-54.93611
 BR,São Pedro da Água Branca,-5.085,-48.42917
+BR,São Pedro do Iguaçu,-24.93556,-53.85528
 BR,São Pedro dos Crentes,-6.82639,-46.53194
 BR,São Raimundo do Doca Bezerra,-5.10472,-45.07722
 BR,São Roque de Minas,-20.24528,-46.36583
 BR,São Sebastião do Oeste,-20.27556,-45.005
 BR,Sapopemba,-23.59556,-46.52472
 BR,Sapucaia,-6.94722,-49.68222
+BR,Saudade do Iguaçu,-25.69444,-52.61889
+BR,Sebastião Laranjeiras,-14.57306,-42.94028
 BR,Segredo,-29.34139,-52.97917
 BR,Selvíria,-20.36722,-51.41889
 BR,Senador Alexandre Costa,-5.25639,-44.05556
@@ -7961,6 +8321,7 @@ BR,Sento Sé,-9.74583,-41.88528
 BR,Seringueiras,-11.79806,-63.03111
 BR,Serra do Mel,-5.17,-37.02944
 BR,Serrano do Maranhão,-1.85639,-45.1225
+BR,Serranópolis do Iguaçu,-25.38,-54.05167
 BR,Sertãozinho,-6.75139,-35.44222
 BR,Sete Quedas,-23.97028,-55.03556
 BR,Simões Filho,-12.78444,-38.40389
@@ -7972,10 +8333,13 @@ BR,Sobrado,-7.14528,-35.23639
 BR,Sonora,-17.57694,-54.75778
 BR,Sooretama,-19.19694,-40.09778
 BR,Sorriso,-12.54528,-55.71139
+BR,Souto Soares,-12.08861,-41.63778
 BR,Tailândia,-2.94722,-48.95306
 BR,Tangará da Serra,-14.61944,-57.48583
+BR,Tapira,-23.32278,-53.06806
 BR,Tasso Fragoso,-8.47528,-45.74278
 BR,Tenente Laurentino Cruz,-6.14806,-36.71917
+BR,Teodoro Sampaio,-12.30353,-38.64069
 BR,Terra Nova do Norte,-10.51694,-55.23083
 BR,Timbó Grande,-26.615,-50.67417
 BR,Trairão,-4.57444,-55.94361
@@ -7983,6 +8347,8 @@ BR,Três Marias,-18.20639,-45.24167
 BR,Trizidela do Vale,-4.57194,-44.62083
 BR,Tucumã,-6.7475,-51.16111
 BR,Tunas do Paraná,-24.97444,-49.08583
+BR,Tupãssi,-24.58778,-53.51167
+BR,Ubiratã,-24.54528,-52.98778
 BR,Uiramutã,4.59556,-60.16778
 BR,Ulianópolis,-3.74194,-47.49472
 BR,Uruará,-3.7175,-53.73667
@@ -7991,7 +8357,9 @@ BR,Valparaíso de Goiás,-16.06583,-47.97861
 BR,Vargem Grande Paulista,-23.60333,-47.02639
 BR,Varjão de Minas,-18.37778,-46.03167
 BR,Vera,-12.30583,-55.31694
+BR,Vera Cruz do Oeste,-25.05778,-53.87694
 BR,Verdelândia,-15.58917,-43.60278
+BR,Vereda,-17.2225,-40.085
 BR,Vertente do Lério,-7.77139,-35.85
 BR,Vicentina,-22.40917,-54.43556
 BR,Vicentinópolis,-17.735,-49.805
@@ -8005,15 +8373,23 @@ BR,Xangri-lá,-29.80083,-50.04361
 BR,Xinguara,-7.09829,-49.9435
 BR,Zé Doca,-3.27472,-45.65833
 BR,Salvador do Sul,-29.43833,-51.51139
+BR,Terra Roxa,-24.15667,-54.09694
+BR,Taguatinga,-15.83326,-48.05506
 BR,Barra da Tijuca,-22.99835,-43.36545
 BR,Tatuapé,-23.53729,-46.5666
 BR,Consolação,-23.55242,-46.65735
 BR,Rocinha,-22.98887,-43.24934
+BR,Vidigal,-22.99483,-43.23989
+BR,Santo Cristo,-22.89865,-43.20133
+BR,Gamboa,-22.89757,-43.19276
+BR,Estácio,-22.91817,-43.20397
+BR,Catete,-22.92542,-43.18137
 BR,Pirituba,-23.48982,-46.7322
 BR,Limão,-23.49283,-46.66916
 BR,Vila Galvão,-23.4717,-46.57923
 BR,Jardim Paulista,-23.56675,-46.66439
 BR,Vitor Meireles,-26.88217,-49.83486
+BR,Santa Teresa,-22.91769,-43.18812
 BR,Itacorubi,-27.58315,-48.49503
 BR,Santa Monica,-27.59137,-48.50756
 BR,Trindade,-27.58612,-48.52335
@@ -8026,18 +8402,27 @@ BR,Sigefredo Pacheco,-4.91408,-41.73194
 BR,Lagoa do Barro do Piauí,-8.48473,-41.53307
 BR,Júlio Borges,-10.32739,-44.23939
 BR,Dirceu Arcoverde,-9.34251,-42.43425
+BR,Nova Redenção,-12.81715,-41.07077
+BR,Muquém do São Francisco,-12.06597,-43.54934
 BR,Mirassol d'Oeste,-15.67572,-58.09021
 BR,Urupá,-11.12607,-62.37209
 BR,Terezópolis de Goias,-16.48115,-49.09206
 BR,Brasilândia de Minas,-17.01037,-46.00851
 BR,Novo Horizonte do Oeste,-11.70956,-61.99975
+BR,Santana,-23.49032,-46.6387
 BR,Pontal do Araguaia,-15.90737,-52.25696
 BR,Governador Edison Lobão,-5.74507,-47.36395
 BR,Brasil Novo,-3.30708,-52.53863
+BR,Pôr do Sol,-15.85502,-48.12433
+BR,Varjão,-15.70994,-47.87736
+BR,Fercal,-15.59135,-47.8828
 BR,Residencia Moacir PU5BHV,-26.90967,-49.36547
 BR,Itaim Bibi,-23.58581,-46.68241
+BR,Vicente Pires,-15.81009,-48.03077
 BR,Moema,-23.59521,-46.66449
+BR,Livramento de Nossa Senhora,-13.64136,-41.84319
 BR,Planaltina,-15.61791,-47.64874
+BR,Luis Eduardo Magalhães,-12.09086,-45.78501
 BR,Sapezal,-13.54209,-58.82011
 BR,Extrema,-9.77136,-66.35583
 BR,Paraíso,-23.57563,-46.6507
@@ -8057,7 +8442,7 @@ BR,Agua Rasa,-23.56684,-46.57188
 BR,Alto De Pinheiros,-23.54761,-46.71196
 BR,Cidade Lider,-23.56202,-46.4913
 BR,Aricanduva,-23.57381,-46.51561
-BR,Jacana,-23.46013,-46.5749
+BR,Jaçanã,-23.46013,-46.5749
 BR,Jaguara,-23.51103,-46.74713
 BR,Lajeado,-23.53361,-46.40866
 BR,Jabaquara,-23.65055,-46.64591
@@ -8067,6 +8452,7 @@ BR,Barra Funda,-23.5212,-46.67409
 BR,Belem,-23.5376,-46.59482
 BR,Brasilandia,-23.44859,-46.68839
 BR,Butanta,-23.5702,-46.72628
+BR,Campo Grande,-23.67463,-46.68751
 BR,Cangaiba,-23.49696,-46.52045
 BR,Cambuci,-23.56439,-46.61695
 BR,Campo Belo,-23.62808,-46.66791
@@ -8098,7 +8484,7 @@ BR,Bela Vista,-23.56086,-46.64758
 BR,Jardim Helena,-23.4837,-46.41309
 BR,Jardim Sao Luis,-23.68073,-46.7394
 BR,Republica,-23.54476,-46.64105
-BR,Sacoma,-23.63083,-46.59817
+BR,Sacomã,-23.63083,-46.59817
 BR,Sao Rafael,-23.62821,-46.45395
 BR,Vila Andrade,-23.62623,-46.72828
 BR,Vila Curuca,-23.51,-46.41566
@@ -8106,6 +8492,22 @@ BR,São Pedro,-22.42313,-42.96612
 BR,Bosque Saúde,-23.60926,-46.62304
 BR,Bairro da Penha,-23.3684,-46.31102
 BR,Bairro Parque Nossa Senhora do Carmo,-23.40598,-46.31611
+BR,Candangolândia,-15.85205,-47.94729
+BR,Sudoeste/Octagonal,-15.80152,-47.92706
+BR,Lago Sul,-15.84577,-47.88369
+BR,Setor de Indústria e Abastecimiento,-15.80684,-47.95792
+BR,Itapoã,-15.74937,-47.7686
+BR,Lago Norte,-15.73948,-47.85686
+BR,Jardim Botânico,-15.86527,-47.81477
+BR,Sobradinho II,-15.63361,-47.83478
+BR,Santa Maria,-16.03095,-48.02929
+BR,Riacho Fundo II,-15.8981,-48.04671
+BR,Riacho Fundo,-15.88378,-48.01634
+BR,Samambaia,-15.88231,-48.10428
+BR,Águas Claras,-15.83969,-48.02675
+BR,Setor Complementar de Indústria e Abastecimento,-15.78218,-47.98819
+BR,Park Way,-15.90852,-47.94053
+BR,Cruziero,-15.7907,-47.93711
 BR,Flexeiras,-10.33231,-36.31384
 BR,Casserengue,-6.7816,-35.81826
 BR,Pedro Régis,-6.63952,-35.27607
@@ -8145,12 +8547,17 @@ BR,Castelo dos Sonhos,-8.3168,-55.10001
 BR,Brasnorte,-12.1201,-58.00274
 BR,Cidade Ocidental,-16.10971,-47.93261
 BR,Angelândia,-17.72716,-42.27349
+BR,Jaborandi,-13.62034,-44.46968
 BR,São José da Lapa,-19.70027,-43.9602
 BR,Rosário do Ivaí,-24.25568,-51.2493
 BR,Alvorada do Gurguéia,-8.44839,-43.86661
 BR,Orocó,-8.61563,-39.60035
 BR,Cubati,-6.86579,-36.35085
 BR,Pilões,-6.87157,-35.61226
+BR,São Sebastião,-15.90287,-47.77613
+BR,Recanto das Emas,-15.90864,-48.06447
+BR,Serra do Ramalho,-13.54232,-43.57968
+BR,Plano Piloto,-15.79411,-47.8825
 BS,West End,26.68711,-78.97702
 BS,Spanish Wells,25.54717,-76.76405
 BS,San Andros,25.06667,-78.05
@@ -8415,6 +8822,7 @@ BZ,Belmopan,17.25376,-88.76401
 BZ,Belize City,17.49952,-88.19756
 BZ,Bella Vista,16.50948,-88.53169
 CA,Abbotsford,49.05798,-122.25257
+CA,Aberdeen,50.65,-120.36667
 CA,Acadia,50.97172,-114.05688
 CA,Acton,43.62969,-80.04149
 CA,Acton Vale,45.65007,-72.56582
@@ -8423,6 +8831,7 @@ CA,Agincourt North,43.80418,-79.27528
 CA,Ahuntsic-Cartierville,45.56667,-73.66667
 CA,Airdrie,51.30011,-114.03528
 CA,Ajax,43.85012,-79.03288
+CA,Albion,49.18751,-122.55687
 CA,Alderwood,43.60348,-79.54604
 CA,Alliston,44.15011,-79.86635
 CA,Alma,48.55009,-71.6491
@@ -8434,6 +8843,7 @@ CA,Angus,44.31681,-79.88295
 CA,Antigonish,45.61685,-61.99858
 CA,Applewood Park,51.04306,-113.925
 CA,Arbour Lake,51.13472,-114.20278
+CA,Arbutus Ridge,49.24966,-123.16934
 CA,Armstrong,50.44979,-119.20235
 CA,Arnprior,45.43341,-76.34939
 CA,Val-des-Sources,45.76678,-71.9324
@@ -8473,14 +8883,21 @@ CA,Brandon,49.84692,-99.95306
 CA,Brant,43.1334,-80.34967
 CA,Brantford,43.1334,-80.26636
 CA,Brentwood,51.09813,-114.13319
+CA,Brentwood Park,49.275,-122.99167
 CA,Bridgewater,44.37856,-64.51882
 CA,Bridlewood,50.89979,-114.10812
+CA,Brighouse-City Centre,49.16667,-123.13333
+CA,Broadmoor,49.15,-123.13333
+CA,Brocklehurst,50.70825,-120.41337
 CA,Brockville,44.59132,-75.68705
 CA,Brooks,50.58341,-111.88509
+CA,Brookswood,49.06667,-122.66667
 CA,Brossard,45.45008,-73.46583
 CA,Brownsburg-Chatham,45.68342,-74.4159
 CA,Burlington,43.38621,-79.83713
 CA,Burnaby,49.26636,-122.95263
+CA,Burnaby Heights,49.28333,-123.0
+CA,Burquitlam,49.26667,-122.88333
 CA,Caledon,43.86544,-79.99322
 CA,Calgary,51.05011,-114.08529
 CA,Cambridge,43.3601,-80.31269
@@ -8491,12 +8908,17 @@ CA,Candiac,45.38338,-73.51587
 CA,Canmore,51.08335,-115.35206
 CA,Cantley,45.5668,-75.78265
 CA,Canyon Meadows,50.94285,-114.08092
+CA,Cap-aux-Meules,47.38208,-61.85968
+CA,Capitol Hill,49.28333,-122.98333
+CA,Cariboo,49.25,-122.88333
 CA,Carignan,45.45008,-73.29916
 CA,Carleton Place,45.13341,-76.14938
+CA,Cascade Heights,49.25,-123.01667
 CA,Castlegar,49.32317,-117.65831
 CA,Castleridge,51.10556,-113.95556
 CA,Cedarbrae,50.95648,-114.12975
 CA,Central Business District,52.13032,-106.66228
+CA,Central Saanich,48.56634,-123.41932
 CA,Chambly,45.45008,-73.28246
 CA,Chaparral,50.88611,-114.03333
 CA,Charlemagne,45.71678,-73.48247
@@ -8508,13 +8930,16 @@ CA,Chibougamau,49.91684,-74.36586
 CA,Chilliwack,49.16638,-121.95257
 CA,Clarence-Rockland,45.5501,-75.29101
 CA,Clarenville,48.1666,-53.96482
+CA,Clayburn,49.0691,-122.26176
 CA,Cliffcrest,43.72192,-79.23091
+CA,Cloverdale,49.10797,-122.7276
 CA,Coaldale,49.7167,-112.61854
 CA,Coaticook,45.13339,-71.79907
 CA,Cobourg,43.95977,-78.16515
 CA,Cochrane,49.06689,-81.03307
 CA,Cochrane,51.18341,-114.46871
 CA,Cold Lake,54.46525,-110.18154
+CA,Coldstream,50.21649,-119.20235
 CA,Collingwood,44.4834,-80.21638
 CA,Colwood,48.43293,-123.48591
 CA,Comox,49.68294,-124.93613
@@ -8522,6 +8947,7 @@ CA,Conception Bay South,47.49989,-52.99806
 CA,Concord,43.80011,-79.48291
 CA,Cookshire-Eaton,45.41675,-71.6324
 CA,Coquitlam,49.2846,-122.78217
+CA,Cordova Bay,48.51667,-123.36667
 CA,Corner Brook,48.95001,-57.95202
 CA,Cornwall,46.22652,-63.21809
 CA,Cornwall,45.01809,-74.72815
@@ -8538,6 +8964,7 @@ CA,Dawson Creek,55.75984,-120.2403
 CA,Delhi,42.8501,-80.49968
 CA,Delson,45.36678,-73.54917
 CA,Delta,49.14399,-122.9068
+CA,Departure Bay,49.20207,-123.97618
 CA,Deux-Montagnes,45.53455,-73.90168
 CA,Devon,53.36683,-113.73533
 CA,Dieppe,46.07844,-64.68735
@@ -8550,7 +8977,9 @@ CA,Drayton Valley,53.21682,-114.98544
 CA,Drummondville,45.88336,-72.48241
 CA,Dryden,49.78334,-92.75032
 CA,Duncan,48.78293,-123.70266
+CA,Dundarave,49.3362,-123.18764
 CA,Dunnville,42.90011,-79.61631
+CA,Eagle Ridge,49.28778,-122.82167
 CA,East Gwillimbury,44.10087,-79.43785
 CA,Edmonton,53.55014,-113.46871
 CA,Edson,53.58345,-116.43559
@@ -8564,39 +8993,51 @@ CA,Essex,42.17509,-82.82483
 CA,Estevan,49.13337,-102.98422
 CA,Etobicoke,43.64415,-79.56985
 CA,Etobicoke West Mall,43.64639,-79.56985
+CA,Fairfield,48.41667,-123.35
 CA,Fall River,44.81685,-63.6154
 CA,Farnham,45.28338,-72.98244
 CA,Fernie,49.49996,-115.06871
+CA,Fleetwood,49.16667,-122.8
 CA,Flemingdon Park,43.71806,-79.33222
+CA,Flin Flon,54.76703,-101.87433
 CA,Fort Erie,42.90012,-78.93286
 CA,Fort Frances,48.61667,-93.4003
 CA,Fort McMurray,56.72676,-111.38103
 CA,Fort Saskatchewan,53.69814,-113.21382
 CA,Fort St. John,56.24988,-120.85292
+CA,Fraser Heights,49.2,-122.78333
 CA,Fredericton,45.94541,-66.66558
 CA,Gananoque,44.33342,-76.16607
 CA,Gander,48.95624,-54.61647
 CA,Ganges,48.85342,-123.50032
+CA,Garden Village,49.23333,-123.0
 CA,Gaspé,48.83341,-64.48194
 CA,Gatineau,45.47723,-75.70164
 CA,Gibsons,49.39539,-123.50555
 CA,Glace Bay,46.19695,-59.95698
+CA,Glenrosa,49.85,-119.66667
 CA,Goderich,43.74171,-81.71339
+CA,Gordon Head,48.48333,-123.31667
 CA,Granby,45.40008,-72.73243
 CA,Grande Prairie,55.16667,-118.80271
 CA,Grand Falls-Windsor,48.93324,-55.66492
 CA,Greater Sudbury,46.49,-80.99001
+CA,Grandview-Woodlands,49.28333,-123.06667
 CA,Gravenhurst,44.91681,-79.36633
 CA,Greater Napanee,44.25012,-76.94944
 CA,Greenwood,44.97413,-64.93169
 CA,Grimsby,43.20011,-79.56631
 CA,Guelph,43.54594,-80.25599
+CA,Guildford,49.19167,-122.8
 CA,Guildwood,43.75262,-79.19486
 CA,Halton Hills,43.6403,-79.93146
 CA,Hamilton,43.25011,-79.84963
 CA,Hampstead,45.48075,-73.6467
+CA,Hanceville,51.91922,-123.04458
+CA,Haney,49.21667,-122.6
 CA,Hanover,44.15009,-81.03303
 CA,Happy Valley-Goose Bay,53.3038,-60.32576
+CA,Hastings-Sunrise,49.28333,-123.03333
 CA,Hawkesbury,45.60009,-74.61595
 CA,Henry Farm,43.76952,-79.3524
 CA,Highland Creek,43.79068,-79.17555
@@ -8612,6 +9053,7 @@ CA,Innisfail,52.02688,-113.95071
 CA,Innisfil,44.30011,-79.64964
 CA,Ionview,43.73694,-79.27333
 CA,Iqaluit,63.74697,-68.51727
+CA,James Bay,48.41667,-123.38333
 CA,Joliette,46.0164,-73.4236
 CA,Kamloops,50.66648,-120.3192
 CA,Kanata,45.3001,-75.91606
@@ -8619,8 +9061,10 @@ CA,Kapuskasing,49.41694,-82.43308
 CA,Kelowna,49.88307,-119.48568
 CA,Kennedy Park,43.72267,-79.26052
 CA,Kenora,49.76741,-94.48985
+CA,Kensington-Cedar Cottage,49.25,-123.06667
 CA,Kentville,45.0771,-64.49605
 CA,Keswick,44.25011,-79.46632
+CA,Killarney,49.21667,-123.03333
 CA,Kimberley,49.67071,-115.9776
 CA,Kincardine,44.18339,-81.63307
 CA,King,43.96514,-79.59011
@@ -8631,6 +9075,7 @@ CA,Kirkland,45.45008,-73.86586
 CA,Kirkland Lake,48.14461,-80.03767
 CA,Kitchener,43.42537,-80.5112
 CA,Kitimat,54.05244,-128.65342
+CA,Kitsilano,49.26667,-123.16667
 CA,Labrador City,52.94626,-66.91137
 CA,Lac-Brome,45.21678,-72.51581
 CA,Lachute,45.65008,-74.33253
@@ -8662,8 +9107,10 @@ CA,London,42.98339,-81.23304
 CA,Longueuil,45.5152,-73.46818
 CA,Lorraine,45.68338,-73.78249
 CA,Louiseville,46.25594,-72.94145
+CA,Lower Lonsdale,49.31406,-123.0725
 CA,Lutes Mountain,46.13544,-64.90504
 CA,Magog,45.26678,-72.14909
+CA,Maillardville,49.23839,-122.86676
 CA,Malvern,43.80938,-79.22344
 CA,Maple Ridge,49.21939,-122.60193
 CA,Marieville,45.43338,-73.16585
@@ -8678,7 +9125,10 @@ CA,Melfort,52.86673,-104.61768
 CA,Memramcook,46.00435,-64.55156
 CA,Mercier,45.3105,-73.73976
 CA,Merritt,50.11225,-120.7942
+CA,Metchosin,48.38293,-123.53591
+CA,Metrotown,49.225,-123.0
 CA,Midland,44.7501,-79.88296
+CA,Mill Bay,48.65,-123.55
 CA,Milliken,43.82499,-79.29872
 CA,Milton,43.51681,-79.88294
 CA,Mimico,43.61616,-79.51269
@@ -8698,6 +9148,8 @@ CA,Morden,49.1919,-98.10136
 CA,Morinville,53.80014,-113.65203
 CA,Mount Dennis,43.68694,-79.48917
 CA,Mount Pearl,47.51659,-52.78135
+CA,Mount Pleasant,49.26667,-123.1
+CA,Murrayville,49.08333,-122.61667
 CA,Nanaimo,49.16638,-123.94003
 CA,Napanee,44.25012,-76.94944
 CA,Nelson,49.49985,-117.28553
@@ -8705,6 +9157,7 @@ CA,Nepean,45.33619,-75.7225
 CA,New Glasgow,45.58344,-62.64863
 CA,New Hamburg,43.38339,-80.6997
 CA,Newmarket,44.05011,-79.46631
+CA,Newton,49.13333,-122.85
 CA,New Toronto,43.60019,-79.50527
 CA,New Westminster,49.20678,-122.91092
 CA,Niagara Falls,43.10012,-79.06627
@@ -8714,6 +9167,8 @@ CA,Norfolk County,42.8334,-80.38297
 CA,North Battleford,52.77972,-108.2967
 CA,North Bay,46.3168,-79.46633
 CA,North Cowichan,48.84133,-123.68596
+CA,North Delta,49.16667,-122.91667
+CA,North Kamloops,50.69978,-120.3692
 CA,North Perth,43.7251,-80.96723
 CA,North Saanich,48.66634,-123.41933
 CA,North Vancouver,49.31636,-123.06934
@@ -8722,8 +9177,10 @@ CA,Notre-Dame-de-l'Île-Perrot,45.36678,-73.9325
 CA,Notre-Dame-des-Prairies,46.05007,-73.43245
 CA,Oak Bay,48.44964,-123.3026
 CA,Oakridge,43.69686,-79.28028
+CA,Oakridge,49.23333,-123.11667
 CA,Oakville,43.45011,-79.68292
 CA,Oakwood Village,43.68278,-79.43833
+CA,Okanagan Mission,49.81667,-119.48333
 CA,Okotoks,50.72885,-113.98281
 CA,Olds,51.78341,-114.10199
 CA,Oliver,49.18306,-119.5524
@@ -8735,6 +9192,7 @@ CA,Osoyoos,49.03306,-119.45237
 CA,Ottawa,45.41117,-75.69812
 CA,Otterburn Park,45.53338,-73.21585
 CA,Owen Sound,44.56717,-80.94349
+CA,Oxford Heights,49.28115,-122.76013
 CA,Paradise,47.52909,-52.88136
 CA,Parksville,49.31947,-124.31575
 CA,Parry Sound,45.34732,-80.03527
@@ -8771,16 +9229,19 @@ CA,Prince George,53.9166,-122.75301
 CA,Prince Rupert,54.31507,-130.32098
 CA,Princeville,45.76684,-61.29853
 CA,Qualicum Beach,49.34783,-124.44231
+CA,Queensborough,49.18333,-122.93333
 CA,Queenswood Heights,45.47083,-75.50556
 CA,Quesnel,52.97842,-122.4931
 CA,Quinte West,44.18342,-77.56618
 CA,Quispamsis,45.42135,-65.95127
+CA,Ranch Park,49.26047,-122.80906
 CA,Rawdon,46.05007,-73.71587
 CA,Rayside-Balfour,46.60873,-81.20763
 CA,Red Deer,52.26682,-113.802
 CA,Regent Park,43.66041,-79.3615
 CA,Regina,50.45008,-104.6178
 CA,Renfrew,45.46681,-76.68272
+CA,Renfrew-Collingwood,49.245,-123.03758
 CA,Repentigny,45.74222,-73.45008
 CA,Revelstoke,50.99712,-118.1953
 CA,Richelieu,45.44336,-73.24602
@@ -8790,12 +9251,17 @@ CA,Riverview,46.05455,-64.81597
 CA,Roberval,48.5168,-72.23244
 CA,Rock Forest,45.35699,-71.99676
 CA,Rocky Mountain House,52.36683,-114.9188
+CA,Rosedale,49.18333,-121.8
 CA,Rosemère,45.63338,-73.79919
 CA,Rothesay,45.38046,-65.96744
 CA,Rouge,43.80406,-79.16571
 CA,Rouyn-Noranda,48.23656,-79.02311
+CA,Royal Oak,48.48333,-123.38333
 CA,Russell,45.2501,-75.36602
+CA,Rutland,49.89977,-119.38567
+CA,Saanich,48.54964,-123.36931
 CA,Saguenay,48.41675,-71.06573
+CA,Sahali,50.65,-120.33333
 CA,Saint-Amable,45.65008,-73.29916
 CA,Saint-Basile-le-Grand,45.53338,-73.28246
 CA,Saint-Bruno-de-Montarville,45.53341,-73.34916
@@ -8838,13 +9304,16 @@ CA,Saint-Sauveur-des-Monts,45.90008,-74.16591
 CA,Saint-Zotique,45.25009,-74.24924
 CA,Salaberry-de-Valleyfield,45.25008,-74.13253
 CA,Salmon Arm,50.6998,-119.30237
+CA,Sardis,49.13333,-121.95
 CA,Sarnia,42.97866,-82.40407
 CA,Saskatoon,52.13238,-106.66892
 CA,Sault Ste. Marie,46.51677,-84.33325
 CA,Scarborough Village,43.73899,-79.22124
+CA,Seafair,49.15,-123.18333
 CA,Sechelt,49.47512,-123.75903
 CA,Selkirk,50.1436,-96.88452
 CA,Sept-Îles,50.20011,-66.38208
+CA,Shaughnessy,49.25,-123.13333
 CA,Shawinigan,46.56675,-72.74913
 CA,Shediac,46.21981,-64.54107
 CA,Shelburne,44.0787,-80.20408
@@ -8857,7 +9326,9 @@ CA,Smithers,54.78036,-127.17428
 CA,Smiths Falls,44.90452,-76.02333
 CA,Sooke,48.37463,-123.72762
 CA,Sorel-Tracy,46.04178,-73.11358
+CA,South Cambie,49.25,-123.11667
 CA,South Huron,43.31679,-81.51647
+CA,South Surrey,49.05,-122.79167
 CA,Spruce Grove,53.53344,-113.91874
 CA,Squamish,49.69925,-123.15631
 CA,St. Albert,53.63344,-113.63533
@@ -8872,12 +9343,14 @@ CA,Stouffville,43.96682,-79.2496
 CA,St. Paul,53.98347,-111.28507
 CA,Stratford,46.21792,-63.07948
 CA,Stratford,43.36679,-80.94972
+CA,Strathcona,49.28333,-123.08333
 CA,Strathmore,51.05011,-113.38523
 CA,Strathroy,42.9551,-81.62232
 CA,St. Thomas,42.77361,-81.18038
 CA,Sturgeon Falls,46.36679,-79.91636
 CA,Summerland,49.59977,-119.66911
 CA,Summerside,46.3912,-63.78869
+CA,Sunshine Hills,49.11667,-122.9
 CA,Surrey,49.10635,-122.82509
 CA,Sussex,45.72266,-65.50663
 CA,Swift Current,50.28337,-107.80135
@@ -8892,8 +9365,10 @@ CA,Terrebonne,45.70004,-73.64732
 CA,The Beaches,43.67372,-79.29539
 CA,The Pas,53.82159,-101.24488
 CA,Thompson,55.7435,-97.85579
+CA,Thompson,49.16667,-123.16667
 CA,Thorold,43.11682,-79.19958
 CA,Thunder Bay,48.38202,-89.25018
+CA,Tillicum,48.45,-123.4
 CA,Tillsonburg,42.85986,-80.72617
 CA,Timberlea,44.66239,-63.74625
 CA,Timmins,48.46686,-81.33312
@@ -8912,10 +9387,12 @@ CA,Vanier,45.4399,-75.66498
 CA,Varennes,45.68338,-73.43246
 CA,Vaudreuil-Dorion,45.40008,-74.03251
 CA,Vaughan,43.8361,-79.49827
+CA,Vedder Crossing,49.1,-121.96667
 CA,Vegreville,53.50015,-112.05182
 CA,Verdun,45.46005,-73.57058
 CA,Vernon,50.26729,-119.27337
 CA,Victoria,48.4359,-123.35155
+CA,Victoria-Fraserview,49.21667,-123.06667
 CA,Victoriaville,46.05007,-71.96579
 CA,View Royal,48.45793,-123.45261
 CA,Wainwright,52.83482,-110.85342
@@ -8923,12 +9400,16 @@ CA,Warman,52.31679,-106.56791
 CA,Wasaga Beach,44.5168,-80.01637
 CA,Waterloo,43.4668,-80.51639
 CA,Welland,42.98342,-79.24958
+CA,West End,49.28333,-123.13333
 CA,West Hill,43.76737,-79.1795
 CA,Westmount,45.48341,-73.59918
 CA,West Nipissing,46.37157,-79.92451
 CA,Weston,43.70359,-79.51513
+CA,West Point Grey,49.26667,-123.2
+CA,Westsyde,50.76667,-120.35
 CA,Wetaskiwin,52.96683,-113.36869
 CA,Weyburn,49.66675,-103.85109
+CA,Whalley,49.17917,-122.86667
 CA,Whistler,50.11817,-122.95396
 CA,Whitby,43.88342,-78.93287
 CA,Whitchurch-Stouffville,44.00012,-79.3163
@@ -8936,6 +9417,7 @@ CA,Whitecourt,54.15015,-115.68548
 CA,Whitehorse,60.71611,-135.05375
 CA,White Rock,49.02049,-122.79507
 CA,Williams Lake,52.14153,-122.14451
+CA,Willingdon Heights,49.275,-123.00833
 CA,Windsor,45.56678,-71.99909
 CA,Windsor,42.30008,-83.01654
 CA,Winkler,49.1817,-97.94104
@@ -8946,6 +9428,7 @@ CA,Woodstock,43.13339,-80.7497
 CA,Wychwood,43.67757,-79.4218
 CA,Yarmouth,43.83345,-66.11557
 CA,Yellowknife,62.45411,-114.37248
+CA,Yennadon,49.23297,-122.5859
 CA,Yorkton,51.2167,-102.46766
 CA,Beauceville,46.21785,-70.77873
 CA,Halifax,44.64269,-63.57688
@@ -8984,8 +9467,11 @@ CA,Saint-Augustin-de-Desmaures,46.74064,-71.45131
 CA,Donnacona,46.68042,-71.7239
 CA,Saint-Joseph-de-Beauce,46.3,-70.86667
 CA,Ladner,49.08938,-123.08241
+CA,Steveston,49.12714,-123.18137
+CA,Promonotory,49.10354,-121.9352
 CA,Walnut Grove,49.16473,-122.64042
 CA,Aldergrove,49.05801,-122.47087
+CA,Willoughby,49.12624,-122.67995
 CA,Norway House,53.98214,-97.83265
 CA,Moss Park,43.65498,-79.37153
 CA,Casa Loma,43.68345,-79.41248
@@ -9024,11 +9510,16 @@ CA,Saint-Roch-de-l'Achigan,45.85921,-73.58959
 CA,Abbeydale,51.0593,-113.92857
 CA,Albert Park/Radisson Heights,51.04294,-113.99584
 CA,La Haute-Saint-Charles,46.89028,-71.37222
+CA,Downtown,49.27784,-123.12794
+CA,Coal Harbour,49.28977,-123.1232
+CA,Yaletown,49.27608,-123.11772
+CA,Chinatown,49.27997,-123.10556
 CA,Fallingbrook,45.47558,-75.48401
 CA,Grand Centre,54.41628,-110.21304
-CA,Duck Lake,50.0088,-119.39672
+CA,Lake Country,50.0088,-119.39672
 CA,Valley East,46.64499,-80.9973
 CA,Hauterive,49.19572,-68.25813
+CA,Spallumcheen,50.40146,-119.22039
 CA,York University Heights,43.76574,-79.48888
 CA,Parkwoods-Donalda,43.75503,-79.33018
 CA,South Parkdale,43.6367,-79.43934
@@ -9139,6 +9630,85 @@ CA,Ct 0012,45.57861,-73.53771
 CA,Ct 0013,45.56922,-73.54416
 CA,Ct 0014,45.55754,-73.54319
 CA,West St. Paul,50.01043,-97.14213
+CA,Fairview,49.26305,-123.13212
+CA,Dunbar-Southlands,49.24217,-123.1884
+CA,Marpole,49.21359,-123.12979
+CA,Sunset,49.22104,-123.09546
+CA,Riley Park,49.24303,-123.09319
+CA,Marlborough,49.22946,-122.98986
+CA,Stride Hill,49.20957,-122.96379
+CA,Clinton-Glenwood,49.21213,-122.97957
+CA,Kingsway-Beresford,49.22482,-122.96403
+CA,Edmonds,49.21392,-122.93992
+CA,Lochdale,49.27373,-122.96479
+CA,West Cambie,49.18293,-123.11691
+CA,East Cambie,49.18434,-123.09267
+CA,Blundell,49.15531,-123.15706
+CA,Shellmont,49.13478,-123.09631
+CA,Surrey City Centre,49.18542,-122.84659
+CA,Burke Mountain,49.29363,-122.75613
+CA,Westwood Plateau,49.30461,-122.79338
+CA,Cape Horn,49.22684,-122.8369
+CA,Burnside-Gorge,48.44339,-123.37605
+CA,Victoria-Downtown,48.4277,-123.36104
+CA,Fernwood,48.42979,-123.34424
+CA,Hillside-Quadra,48.44473,-123.35598
+CA,Jubilee,48.43034,-123.32833
+CA,Oaklands,48.4439,-123.34065
+CA,Victoria West,48.43188,-123.38214
+CA,Carey,48.47205,-123.39483
+CA,Shelbourne,48.45299,-123.32903
+CA,Saanich Core,48.45481,-123.37451
+CA,Rural Saanich,48.49734,-123.42876
+CA,Kerrisdale,49.23442,-123.15511
+CA,Lougheed,49.2481,-122.89236
+CA,Harewood,49.1474,-123.94739
+CA,Central Lonsdale,49.32574,-123.07234
+CA,Ambleside,49.32777,-123.14375
+CA,Whatcom,49.04144,-122.23988
+CA,Fairfield,49.06705,-122.31522
+CA,Townline,49.06206,-122.36008
+CA,Historic Downtown,49.05141,-122.29335
+CA,McMillan,49.04494,-122.26665
+CA,Marshall-McCallum,49.03723,-122.30168
+CA,South Clearbrook,49.04065,-122.32794
+CA,Cedar Valley,49.16172,-122.31047
+CA,Hammond,49.21931,-122.65327
+CA,Port Haney,49.21227,-122.60474
+CA,Chilliwack-Downtown,49.1643,-121.95907
+CA,Quilchena,49.24341,-123.1508
+CA,English Bay,49.28458,-123.14255
+CA,South Granville,49.2602,-123.13946
+CA,Downtown Eastside,49.27737,-123.0902
+CA,University Endowment Lands,49.26418,-123.239
+CA,Maywood,49.22219,-123.00588
+CA,East Hastings,49.27169,-123.06186
+CA,Hamilton,49.17401,-122.97428
+CA,Central Coquitlam,49.26028,-122.83815
+CA,College Park,49.28199,-122.87865
+CA,Inlet Centre,49.27611,-122.84538
+CA,Coquitlam Town Centre,49.27697,-122.79669
+CA,Coquitlam West,49.25702,-122.87883
+CA,Hockaday,49.29678,-122.77035
+CA,Canyon Springs,49.29148,-122.79542
+CA,New Horizons,49.28125,-122.77906
+CA,Douglas-Gilpin,49.24438,-122.98215
+CA,Cameron,49.25619,-122.90671
+CA,Lyndhurst,49.26544,-122.89919
+CA,Second Street,49.22372,-122.92205
+CA,Sapperton,49.22642,-122.89452
+CA,Champlain Heights,49.20919,-123.026
+CA,Terra Nova,49.16972,-123.18905
+CA,Riverdale,49.16373,-123.17541
+CA,Garden City,49.16711,-123.12178
+CA,Woodwards,49.14015,-123.10151
+CA,Ironwood,49.12609,-123.09512
+CA,South Arm,49.14032,-123.12483
+CA,Brow of the Hill,49.20213,-122.92015
+CA,Uptown,49.2121,-122.91929
+CA,Glenwood,49.27338,-122.78003
+CA,Riverwood,49.25579,-122.73579
+CA,Douglas,49.10229,-122.65114
 CC,West Island,-12.15681,96.82251
 CD,Yangambi,0.76755,24.43973
 CD,Watsa,3.03716,29.53551
@@ -10812,6 +11382,7 @@ CN,Wendong,23.16667,99.9
 CN,Waxxari,38.68908,87.37218
 CN,Tengyue,24.99492,98.51276
 CN,Jiuquan,39.74318,98.51736
+CN,Gar,32.50124,80.09758
 CN,Shigu,26.86852,99.95628
 CN,Shangyun,23.05191,99.82838
 CN,Shangpa,26.91948,98.95158
@@ -10849,15 +11420,17 @@ CN,Huatugou,38.25544,90.86792
 CN,Houqiao,25.32356,98.27802
 CN,Gujangbagh,37.10927,79.93433
 CN,Heshun,25.01667,98.46667
+CN,Yushu,33.00118,97.00893
 CN,Jiangzi,28.92026,89.59956
 CN,Gudong,25.34165,98.48297
 CN,Elixku,38.70917,77.37056
 CN,Dêqên,29.96178,90.71875
 CN,Burang,30.29559,81.17511
 CN,Langgar,36.7,81.5
+CN,Bayi,29.65812,94.35892
 CN,Baoshan,25.11626,99.16366
 CN,Aqqan,36.46667,81.96667
-CN,Guangminglu,39.70842,76.17971
+CN,Artux,39.70842,76.17971
 CN,Layka,37.07694,79.73167
 CN,Saybag,37.14972,79.65833
 CN,Arix,36.75541,81.60765
@@ -11125,7 +11698,7 @@ CN,Xunchang,28.45433,104.71498
 CN,Xujiang,26.83945,116.32011
 CN,Xuchang,34.03189,113.86299
 CN,Xuantan,29.20856,105.56974
-CN,Xuanzhou,30.9525,118.75528
+CN,Xuancheng,30.9525,118.75528
 CN,Xixiang,35.16278,112.865
 CN,Xixiang,32.98703,107.764
 CN,Xiuying,20.00073,110.29359
@@ -11363,7 +11936,7 @@ CN,Shuanghe,29.54932,107.71841
 CN,Shuanggou,34.03528,117.57806
 CN,Shouxian,34.84648,116.45884
 CN,Shouguang,36.88,118.7375
-CN,Shizuishan,39.23333,106.76944
+CN,Huinong,39.23333,106.76944
 CN,Shizilu,35.17111,118.82889
 CN,Shiye,28.38168,109.05747
 CN,Shiyan,32.6475,110.77806
@@ -11451,6 +12024,7 @@ CN,Sangke,35.1119,102.42747
 CN,Changsha,22.38124,112.68492
 CN,Runing,33.00111,114.35417
 CN,Rui’an,27.77605,120.65859
+CN,Tongren,35.51483,102.016
 CN,Ronglong,29.43589,105.44865
 CN,Rongjiang,26.55,101.25
 CN,Fuqing,25.7294,119.37469
@@ -11499,6 +12073,7 @@ CN,Qiaotou,30.10927,108.25795
 CN,Qiaoguan,36.56444,118.88389
 CN,Qianliu,22.9,100.2
 CN,Qiancheng,27.18501,109.76543
+CN,Qabqa,36.28139,100.61306
 CN,Puzi,29.63292,108.32825
 CN,Puyang Chengguanzhen,35.70622,115.0279
 CN,Puyang,29.45679,119.88872
@@ -11760,7 +12335,7 @@ CN,Xixiang,22.59306,113.8889
 CN,Jiujiang,29.70475,116.00206
 CN,Jiudian,36.9918,120.20412
 CN,Jishui,33.73333,115.4
-CN,Qianzhou,28.31925,109.73346
+CN,Jishou,28.31925,109.73346
 CN,Jinzhou,39.1,121.71667
 CN,Jinxiang,27.43265,120.60625
 CN,Jinshi,29.60487,111.87012
@@ -12086,6 +12661,7 @@ CN,Da’an,29.3831,106.01476
 CN,Cuijiaji,36.62528,119.71333
 CN,Cizhu,29.9854,106.73982
 CN,Chuzhou,32.32194,118.29778
+CN,Chuxiong,25.03639,101.54556
 CN,Yangchun,22.16667,111.78333
 CN,Yiwu,29.31506,120.07676
 CN,Chongxing,38.03333,106.3
@@ -12761,6 +13337,9 @@ CN,Hezhou,24.40357,111.56675
 CN,Zhu Cheng City,35.99502,119.40259
 CN,Changzheng,31.23913,121.36779
 CN,Shangri-La,27.82511,99.70779
+CN,Maqin County,34.47442,100.24496
+CN,Xilinhot,43.93889,116.07021
+CN,Lhoka,29.24301,91.77239
 CN,Xili,22.58809,113.94786
 CN,Taoyuan,22.58041,113.96121
 CN,Ulanqab,40.993,113.133
@@ -13564,6 +14143,11 @@ CN,Yuehai Residential,22.51388,113.92917
 CN,Wushipai,22.52383,113.90969
 CN,Lei Yue Mun,22.51872,113.89708
 CN,Luohu District,22.54721,114.13149
+CN,Mengzi,23.36779,103.38212
+CN,Lushui,25.8232,98.85853
+CN,Xihai Town,36.95462,100.89951
+CN,Lüliang,37.5192,111.14436
+CN,Nyingchi,29.64885,94.35509
 CO,Zipaquirá,5.02208,-74.00481
 CO,Zarzal,4.39462,-76.0715
 CO,Zaragoza,7.48971,-74.86919
@@ -13950,7 +14534,7 @@ CO,Génova,4.31667,-75.76667
 CO,Garzón,2.19593,-75.62777
 CO,Garagoa,5.08236,-73.36334
 CO,Gamarra,8.32279,-73.74268
-CO,Nueva Granada,9.16095,-75.04811
+CO,Galeras,9.16095,-75.04811
 CO,Galapa,10.89686,-74.886
 CO,Gaitania,3.15,-75.81667
 CO,Fusagasugá,4.33646,-74.36378
@@ -14421,7 +15005,6 @@ CV,São Domingos,15.02438,-23.5625
 CV,Santa Maria,16.59796,-22.90509
 CV,Santa Cruz,15.13403,-23.55945
 CV,Sal Rei,16.17611,-22.91722
-CV,Ribeira Grande,17.1825,-25.065
 CV,Praia,14.93152,-23.51254
 CV,Porto Novo,17.01969,-25.06471
 CV,Pombas,17.15026,-25.02007
@@ -15101,7 +15684,7 @@ DE,Vaterstetten,48.10537,11.76825
 DE,Varel,53.39693,8.13621
 DE,Vallendar,50.39586,7.62427
 DE,Vaihingen an der Enz,48.93563,8.96045
-DE,Uetersen,53.68769,9.66394
+DE,Uetersen,53.68878,9.66197
 DE,Uslar,51.6569,9.63501
 DE,Usingen,50.33554,8.53688
 DE,Bad Urach,48.49107,9.40009
@@ -15139,7 +15722,7 @@ DE,Trostberg an der Alz,48.02802,12.55804
 DE,Trossingen,48.07667,8.64409
 DE,Troisdorf,50.80901,7.14968
 DE,Trochtelfingen,48.30843,9.24491
-DE,Trittau,53.61667,10.4
+DE,Trittau,53.61043,10.40575
 DE,Triftern,48.39468,13.00627
 DE,Trier,49.75565,6.63935
 DE,Triberg,48.13175,8.23317
@@ -15157,7 +15740,7 @@ DE,Traunreut,47.96269,12.59231
 DE,Trappenkamp,54.03988,10.21496
 DE,Traben-Trarbach,49.95076,7.11562
 DE,Tostedt,53.28333,9.71667
-DE,Tornesch,53.7,9.71667
+DE,Tornesch,53.69944,9.71723
 DE,Torgelow,53.63415,14.01346
 DE,Torgau,51.56016,12.99617
 DE,Tönning,54.31732,8.94096
@@ -15284,6 +15867,7 @@ DE,Sontra,51.07171,9.93558
 DE,Sonthofen,47.51821,10.28262
 DE,Sontheim an der Brenz,48.55235,10.29097
 DE,Sonsbeck,51.60741,6.37916
+DE,Sonnenberg,50.09799,8.26165
 DE,Sonnefeld,50.21667,11.13333
 DE,Sonneberg,50.3592,11.17463
 DE,Sondershausen,51.36973,10.87011
@@ -15390,7 +15974,7 @@ DE,Schönaich,48.65871,9.06012
 DE,Schömberg,48.78713,8.64495
 DE,Schöllnach,48.75412,13.17781
 DE,Schneverdingen,53.11685,9.79524
-DE,Schnelsen,53.63743,9.91969
+DE,Schnelsen,53.63738,9.91973
 DE,Schneeberg,50.59465,12.64139
 DE,Schnaittach,49.55958,11.34328
 DE,Schmölln,50.89678,12.35339
@@ -15537,6 +16121,7 @@ DE,Riegelsberg,49.3,6.93333
 DE,Riedlingen,48.15455,9.47558
 DE,Riedering,47.83874,12.20778
 DE,Riedenburg,48.96383,11.6888
+DE,Riedenberg,48.74114,9.21237
 DE,Ribnitz-Damgarten,54.2422,12.45666
 DE,Rheurdt,51.46667,6.46667
 DE,Rheinsberg,53.09972,12.89885
@@ -15608,7 +16193,7 @@ DE,Radeburg,51.21516,13.7281
 DE,Radebeul,51.10654,13.66047
 DE,Radeberg,51.11112,13.91199
 DE,Quierschied,49.31667,7.05
-DE,Quickborn,53.72831,9.90934
+DE,Quickborn,53.72821,9.91078
 DE,Querfurt,51.38124,11.60047
 DE,Quedlinburg,51.78843,11.15006
 DE,Quakenbrück,52.67502,7.94983
@@ -15655,7 +16240,7 @@ DE,Planegg,48.10672,11.42483
 DE,Plaidt,50.3926,7.39251
 DE,Pirna,50.95843,13.93702
 DE,Pirmasens,49.20145,7.60529
-DE,Pinneberg,53.66732,9.78936
+DE,Pinneberg,53.65887,9.79698
 DE,Pilsting,48.70116,12.65105
 DE,Piding,47.76667,12.91667
 DE,Philippsburg,49.2317,8.46074
@@ -15814,8 +16399,9 @@ DE,Nordhorn,52.43081,7.06833
 DE,Nordholz,53.78448,8.61354
 DE,Nordheim,49.10861,9.12778
 DE,Nordhausen,51.5018,10.7957
-DE,Norderstedt,53.6859,9.98041
+DE,Norderstedt,53.70177,9.99328
 DE,Norderney,53.70803,7.15716
+DE,Nordenstadt,50.06464,8.34324
 DE,Nordenham,53.4861,8.48093
 DE,Norden,53.59549,7.20615
 DE,Nonnweiler,49.60762,6.96986
@@ -15981,7 +16567,7 @@ DE,Monheim am Rhein,51.09162,6.89217
 DE,Mönchengladbach,51.18539,6.44172
 DE,Mömlingen,49.85972,9.08333
 DE,Mömbris,50.06921,9.16371
-DE,Mölln,53.61702,10.68742
+DE,Mölln,53.62072,10.68748
 DE,Molfsee,54.26374,10.06564
 DE,Molbergen,52.85805,7.92548
 DE,Möglingen,48.88741,9.12694
@@ -16000,6 +16586,7 @@ DE,Mittegroßefehn,53.39165,7.56602
 DE,Minden,52.28953,8.91455
 DE,Mindelheim,48.04578,10.49222
 DE,Miltenberg,49.70452,9.26725
+DE,Milse,52.05988,8.61671
 DE,Miesbach,47.78903,11.83382
 DE,Mickten,51.08271,13.70871
 DE,Michendorf,52.31352,13.02996
@@ -16509,6 +17096,7 @@ DE,Hilchenbach,50.99687,8.11062
 DE,Hiddenhausen,52.16667,8.61667
 DE,Heusweiler,49.33632,6.93036
 DE,Heusenstamm,50.05553,8.80076
+DE,Heumaden,48.74657,9.23547
 DE,Heuchelheim,50.58333,8.63333
 DE,Heubach,48.79267,9.9337
 DE,Hettstedt,51.6503,11.51146
@@ -16545,7 +17133,7 @@ DE,Hennigsdorf,52.63598,13.20419
 DE,Hennef (Sieg),50.77555,7.28308
 DE,Hengersberg,48.77255,13.05485
 DE,Hemsbach,49.59075,8.64779
-DE,Hemmoor,53.68702,9.15492
+DE,Hemmoor,53.68844,9.15241
 DE,Hemmingen,52.31425,9.72359
 DE,Hemmingen,48.86667,9.03333
 DE,Hemhofen,49.68333,10.93333
@@ -16628,7 +17216,7 @@ DE,Hambrücken,49.19,8.54056
 DE,Hambergen,53.30826,8.8252
 DE,Halver,51.18612,7.49817
 DE,Haltern am See,51.74297,7.18163
-DE,Halstenbek,53.63333,9.85
+DE,Halstenbek,53.63301,9.83945
 DE,Hallstadt,49.92901,10.87539
 DE,Halle,52.06007,8.36083
 DE,Halle (Saale),51.48158,11.97947
@@ -16818,7 +17406,7 @@ DE,Gaimersheim,48.80705,11.36801
 DE,Gaildorf,49.00027,9.76953
 DE,Gaggenau,48.8,8.33333
 DE,Gadeland,54.05562,10.02547
-DE,Gadebusch,53.70137,11.11676
+DE,Gadebusch,53.70181,11.11665
 DE,Bad Füssing,48.351,13.312
 DE,Füssen,47.57143,10.70171
 DE,Furtwangen,48.05156,8.20715
@@ -16978,11 +17566,11 @@ DE,Elsterberg,50.60841,12.16787
 DE,Elsfleth,53.23748,8.45664
 DE,Elsenfeld,49.84289,9.16355
 DE,Elsdorf,50.93739,6.56828
-DE,Elmshorn,53.75396,9.65339
+DE,Elmshorn,53.74912,9.66176
 DE,Elmschenhagen,54.28949,10.1899
 DE,Ellwangen,48.96164,10.13173
 DE,Ellrich,51.58656,10.66326
-DE,Ellerau,53.75,9.91667
+DE,Ellerau,53.75579,9.93133
 DE,Eitorf,50.76667,7.45
 DE,Eiterfeld,50.76667,9.8
 DE,Eißendorf,53.45216,9.95131
@@ -18442,6 +19030,7 @@ EC,Guayaquil,-2.19616,-79.88621
 EC,Guaranda,-1.59106,-78.99903
 EC,Guano,-1.60689,-78.63726
 EC,Gualaceo,-2.89418,-78.77907
+EC,Guabo,-3.24401,-79.82874
 EC,Esmeraldas,0.9592,-79.65397
 EC,El Triunfo,-1.93333,-79.96667
 EC,Eloy Alfaro,-2.16919,-79.83987
@@ -22523,7 +23112,6 @@ FR,Bourbourg,50.94783,2.19576
 FR,Bourbon-Lancy,46.62214,3.76953
 FR,Boulogne-sur-Mer,50.72485,1.61373
 FR,Boulogne-Billancourt,48.83545,2.24128
-FR,Boulazac,45.11667,0.75
 FR,Bouillargues,43.80013,4.42753
 FR,Bouguenais,47.17941,-1.62468
 FR,Bougival,48.86223,2.14148
@@ -22764,7 +23352,6 @@ FR,Lyon 09,45.77255,4.80326
 FR,Bercy,48.83828,2.38167
 FR,Les Ulis,48.68167,2.16944
 FR,Carnoux-en-Provence,43.25639,5.56444
-FR,Bourgoin-Jallieu,45.58611,5.27361
 FR,Val-de-Reuil,49.27385,1.21021
 FR,Lyon 01,45.76758,4.8345
 FR,Marseille 01,43.29814,5.38407
@@ -24811,7 +25398,7 @@ GE,Sartich’ala,41.7179,45.1757
 GE,Samtredia,42.1537,42.33517
 GE,Sagarejo,41.73691,45.32596
 GE,Sadakhlo,41.2402,44.7891
-GE,Sachkhere,42.34528,43.41944
+GE,Sachkhere,42.33594,43.40575
 GE,Rustavi,41.56271,44.9787
 GE,Kvareli,41.95493,45.81716
 GE,Poti,42.14272,41.67384
@@ -24843,7 +25430,7 @@ GE,Chakvi,41.72528,41.73278
 GE,Borjomi,41.84692,43.3971
 GE,Bolnisi,41.45124,44.53835
 GE,Batumi,41.64077,41.6306
-GE,Ambrolauri,42.52111,43.16222
+GE,Ambrolauri,42.52322,43.14982
 GE,Akhmeta,42.03495,45.20804
 GE,Akhaltsikhe,41.63952,42.98604
 GE,Akhalkalaki,41.40514,43.48629
@@ -24853,10 +25440,13 @@ GE,Kareli,42.0215,43.89553
 GF,Saint-Laurent-du-Maroni,5.50153,-54.02916
 GF,Rémire-Montjoly,4.91667,-52.26667
 GF,Matoury,4.84921,-52.32355
+GF,Maripasoula,3.64155,-54.03167
 GF,Mana,5.66906,-53.77897
 GF,Macouria,4.91216,-52.37432
 GF,Kourou,5.16281,-52.64265
+GF,Grand-Santi,4.27295,-54.38146
 GF,Cayenne,4.9381,-52.33455
+GF,Apatou,5.15526,-54.34311
 GG,Torteval,49.43333,-2.65
 GG,Saint Sampson,49.48389,-2.52333
 GG,Saint Peter Port,49.45981,-2.53527
@@ -25111,7 +25701,6 @@ GP,Lamentin,16.27047,-61.63166
 GP,Grand-Bourg,15.88402,-61.3148
 GP,Gourbeyre,15.99454,-61.69203
 GP,Capesterre-Belle-Eau,16.04495,-61.56425
-GP,Bouillante,16.13043,-61.76895
 GP,Basse-Terre,15.99714,-61.73214
 GP,Baillif,16.02037,-61.74611
 GP,Baie-Mahault,16.26738,-61.58543
@@ -25629,6 +26218,7 @@ GW,Bafatá,12.16583,-14.66167
 GY,Vreed-en-Hoop,6.8109,-58.19375
 GY,Skeldon,5.87035,-57.14681
 GY,Rosignol,6.27095,-57.53697
+GY,Rose Hall,6.25577,-57.35502
 GY,New Amsterdam,6.24924,-57.51578
 GY,Mahdia,5.28473,-59.14982
 GY,Mabaruma,8.20377,-59.78117
@@ -25740,7 +26330,7 @@ HK,Fanling,22.49487,114.13949
 HK,Discovery Bay,22.3,114.01667
 HK,Chuk Yuen,22.34544,114.19327
 HK,Choi Hung,22.33548,114.20638
-HK,Cheung Sha Wan,22.23296,114.0045
+HK,Cheung Sha Wan,22.33447,114.1558
 HK,Cheung Chau,22.21085,114.02787
 HK,Chek Chue,22.21849,114.21241
 HK,Che Ha,22.43021,114.26264
@@ -26189,6 +26779,7 @@ HU,Elek,46.53333,21.25
 HU,Egyek,47.63333,20.9
 HU,Eger,47.90265,20.37329
 HU,Edelény,48.3,20.73333
+HU,Diósgyőr,48.1,20.68333
 HU,Dévaványa,47.03333,20.96667
 HU,Derecske,47.35,21.56667
 HU,Debrecen,47.53167,21.62444
@@ -26581,6 +27172,7 @@ ID,Selogiri,-7.78333,110.86667
 ID,Sawangan,-6.40278,106.77444
 ID,Saumlaki,-7.98618,131.29675
 ID,Sarmi,-1.85302,138.75093
+ID,Sangkapura,-5.84525,112.65173
 ID,Sanana,-2.05853,125.97786
 ID,Sampit,-2.5315,112.9496
 ID,Sampang,-7.1872,113.2394
@@ -32823,7 +33415,6 @@ IN,Maheshlundi,24.17601,86.26621
 IN,Dāndedih,24.16335,86.32728
 IN,Jiribam,24.80427,93.12148
 IN,Sukma,18.32741,81.62621
-IN,Rourkela,22.25916,84.86473
 IN,Kushinagar,26.74134,83.88689
 IN,Rohini,28.74322,77.06778
 IN,Shi Yomi,28.52999,94.37322
@@ -33753,7 +34344,7 @@ IQ,Hīt,33.63664,42.82768
 IQ,Ḩalabja,35.17778,45.98611
 IQ,Ḩadīthah,34.13661,42.37727
 IQ,Soran,36.65558,44.54217
-IQ,Dihok,36.86709,42.98845
+IQ,Dihok,36.86608,42.9879
 IQ,Jamjamāl,35.53356,44.8343
 IQ,Bayjī,34.92915,43.48878
 IQ,Begova,37.23749,43.16276
@@ -33940,6 +34531,7 @@ IR,Marāgheh,35.82916,59.63324
 IR,Manjīl,36.74445,49.40082
 IR,Malāyer,34.30158,48.82166
 IR,Malārd,35.6659,50.9767
+IR,Makū,27.8486,52.423
 IR,Maḩmūdābād,36.63191,52.26286
 IR,Mahābād,36.7631,45.7222
 IR,Landeh,30.98215,50.4206
@@ -38323,6 +38915,7 @@ KG,Kara-Kulja,40.63223,73.59249
 KG,Samarkandyk,39.9981,70.54589
 KG,Kulundu,40.10635,69.64127
 KH,Phnom Penh,11.56245,104.91601
+KH,Tuŏl Tumpung,11.55118,104.90628
 KH,Tăng Krâsăng,12.56743,105.04559
 KH,Ta Khmau,11.48333,104.95
 KH,Takeo,10.99081,104.78498
@@ -38336,24 +38929,68 @@ KH,Sen Monorom,12.45583,107.18811
 KH,Prey Veng,11.48682,105.32533
 KH,Pursat,12.53878,103.9192
 KH,Phumĭ Véal Srê,10.98081,104.77828
+KH,Trapeang Chan,12.47191,104.41047
+KH,Phumĭ Tnaôt Chŭm,12.52314,105.06288
 KH,Samraong,14.18175,103.51761
 KH,Preaek Khsay Kha,11.26235,105.28607
+KH,Koun Sat,10.60058,104.27964
+KH,Khnach Romeas,13.26428,102.95043
+KH,Kdol,12.23879,104.27848
+KH,Andoung Khmaer,10.60689,104.17419
+KH,Sdach Kong Khang Cheung,10.60595,104.55338
+KH,Chealea,11.91042,104.92953
+KH,Areaks Tnaot,12.36698,105.63799
+KH,Phum Ânlŭng Vĭl,13.08339,103.23503
+KH,Anhchanh Rung,12.35209,104.42551
+KH,Phumĭ Ânhchaeum,11.84714,105.71424
+KH,Angkoul,10.46701,104.38554
+KH,Angkor Sar,11.25152,105.62256
+KH,Phumĭ Ângkôr Borei,10.99497,104.97477
+KH,Angkor Angk,11.16057,105.31443
+KH,Andoung Trabaek,11.58003,105.76523
+KH,Phumĭ Ândong Snay,12.16682,104.66882
+KH,Phumĭ Ândong Poŭthĭ,11.35975,105.80812
+KH,Ampov Prey,11.38712,104.87958
+KH,Ampil Pram Daeum,13.26005,102.76972
+KH,Phumĭ Âmpĭl Leu,12.00923,105.43409
+KH,Aachar Leak,12.72553,104.89426
 KH,Tbeng Meanchey,13.80731,104.98046
+KH,Ph’av,12.02816,104.96478
 KH,Paoy Paet,13.65805,102.56365
 KH,Pailin,12.84895,102.60928
 KH,Lumphat,13.49146,106.98022
 KH,Krong Kep,10.48291,104.31672
 KH,Koh Kong,11.61531,102.9838
 KH,Kratié,12.48811,106.01879
+KH,Khŭm Ânsaông,11.12893,105.544
+KH,Khŭm Ângkôr Ban,11.95581,105.20791
 KH,Kampot,10.61041,104.18145
 KH,Kampong Thom,12.71112,104.88873
 KH,Kampong Speu,11.45332,104.52085
 KH,Sihanoukville,10.60932,103.52958
 KH,Kampong Chhnang,12.25,104.66667
 KH,Kampong Cham,11.99339,105.4635
+KH,Chhnok Tru,12.51508,104.45148
 KH,Banlung,13.73939,106.98727
 KH,Battambang,13.10271,103.19822
+KH,Ângk Tasaôm,11.0129,104.67292
 KH,Smach Mean Chey,11.54665,103.03569
+KH,Ou Bei Choan,13.77363,102.73731
+KH,Anlong Reab,12.27909,103.01656
+KH,Kantueu Pir,12.93163,103.13821
+KH,Angkor Meas,10.76895,104.3763
+KH,Anlong Thnaot,12.528,104.1999
+KH,Voat Angk Khang Cheung,10.74304,104.5177
+KH,Voat Angk Khang Tboung,10.72095,104.52964
+KH,Banteay Meas Khang Kaeut,10.62496,104.65427
+KH,Svay Rumpea,11.21281,104.57611
+KH,Otdam Souriya,11.06365,104.70636
+KH,Andoung Thma,10.66993,103.79704
+KH,Ou Smach,14.42479,103.69571
+KH,Haong Samnam,11.57149,104.23424
+KH,Ou Svay,14.3265,104.31952
+KH,Kuttasat,13.58665,102.7632
+KH,Kak,11.1956,104.53684
 KI,Betio Village,1.35797,172.92105
 KI,Tarawa,1.3278,172.97696
 KI,Bikenibeu Village,1.3673,173.12415
@@ -38465,7 +39102,7 @@ KP,Sinŭiju,40.10056,124.39806
 KP,Sijung,41.07889,126.375
 KP,Satan,42.48208,130.14303
 KP,Sakchu-ŭp,40.38944,125.04667
-KP,Puryŏng,42.06056,129.71167
+KP,Puryŏng-ŭp,42.06224,129.70457
 KP,Pukchil-lodongjagu,40.20194,125.74833
 KP,Yŏnggwang-ŭp,40.01833,127.45472
 KP,Ŏrang,41.44778,129.65556
@@ -38498,7 +39135,7 @@ KP,Chasŏng,41.46083,126.64139
 KP,Changam-ch’on,40.60611,128.78194
 KP,Aoji-ri,42.52182,130.39572
 KP,Sŭngjibaegam,41.24278,128.79889
-KP,Komusan Il-tong,42.10914,129.69997
+KP,Komusan Il-tong,42.11015,129.69919
 KP,Myŏnggan-dong,41.13722,129.49472
 KP,Yŏch’im-dong,40.36174,126.65852
 KR,Heunghae,36.10945,129.34517
@@ -39822,6 +40459,7 @@ MG,Ambohitrandriamanitra,-19.08333,47.78333
 MG,Ambohimahasoa,-21.11667,47.21667
 MG,Ambohidratrimo,-18.818,47.43382
 MG,Ambodivoara,-14.33333,49.98333
+MG,Ambodimanga II,-17.26667,49.16667
 MG,Ambodifotatra,-16.98333,49.85
 MG,Amboasary,-25.03333,46.38333
 MG,Amboanjo,-22.0,47.85
@@ -40045,6 +40683,8 @@ MM,Paungde,18.49167,95.50591
 MM,Pakokku,21.33489,95.08438
 MM,Hpa-An,16.88953,97.63482
 MM,Nyaunglebin,17.95363,96.72247
+MM,Ngapali,18.43664,94.32215
+MM,Namhkam,23.83342,97.67984
 MM,Myitkyina,25.38327,97.39637
 MM,Myingyan,21.46002,95.3884
 MM,Myawadi,16.68911,98.50893
@@ -40063,6 +40703,7 @@ MM,Mawlaik,23.64254,94.40478
 MM,Maubin,16.73148,95.65441
 MM,Martaban,16.52834,97.6157
 MM,Mandalay,21.97473,96.08359
+MM,Manaung,18.85479,93.72913
 MM,Magway,20.14956,94.93246
 MM,Loikaw,19.67798,97.20975
 MM,Letpandan,17.78664,95.75076
@@ -40078,12 +40719,14 @@ MM,Kayan,16.90802,96.56037
 MM,Kawthoung,9.98238,98.55034
 MM,Kanbe,16.70728,96.00168
 MM,Kalaw,20.63459,96.56454
+MM,Insein,16.88874,96.10257
 MM,Hinthada,17.64944,95.45705
 MM,Heho,20.72315,96.82278
 MM,Hakha,22.64452,93.61076
 MM,Gwa,17.59369,94.57996
 MM,Falam,22.91335,93.67779
 MM,Chauk,20.89921,94.81784
+MM,Buthidaung Town,20.87537,92.53
 MM,Bokpyin,11.26576,98.76087
 MM,Bogale,16.29415,95.39742
 MM,Bhamo,24.25256,97.23357
@@ -40092,6 +40735,7 @@ MM,Aungban,20.6606,96.63488
 MM,Ann,19.79537,94.04791
 MM,Amarapura,21.90709,96.04894
 MM,Myaydo,19.36838,95.21512
+MM,Möng Yawng,21.17924,100.35761
 MM,Nay Pyi Taw,19.745,96.12972
 MM,Tedim,23.37583,93.65389
 MM,Kyain Seikgyi Township,15.82288,98.25257
@@ -40385,7 +41029,7 @@ MW,Chikwawa,-16.03352,34.80091
 MW,Blantyre,-15.78499,35.00854
 MW,Balaka,-14.97928,34.95575
 MW,Chipeni,-13.40237,33.90928
-MX,Cuauhtémoc,22.54408,-98.15074
+MX,Cuauhtémoc,22.54501,-98.15139
 MX,González,22.82761,-98.42715
 MX,Xicoténcatl,22.99799,-98.94063
 MX,San Fernando,24.84713,-98.14885
@@ -40622,7 +41266,7 @@ MX,Heroica Ciudad de Tlaxiaco,17.26916,-97.68053
 MX,Santa María Ajoloapan,19.97694,-99.04472
 MX,Santa María Citendejé,19.7819,-99.92863
 MX,Santa Gertrudis,19.73333,-99.36667
-MX,Guillermo Zúñiga,24.01548,-99.20074
+MX,Guillermo Zúñiga,24.01982,-99.1927
 MX,Santa Cruz Xoxocotlán,17.02958,-96.73518
 MX,Tecámac,19.71288,-98.96895
 MX,Santa Cruz Cuauhtenco,19.24907,-99.72939
@@ -40818,7 +41462,7 @@ MX,Ocampo,22.84585,-99.33566
 MX,Oaxtepec,18.91825,-98.95644
 MX,Oaxaca,17.06025,-96.72544
 MX,Nunkiní,20.40046,-90.14803
-MX,Nuevo Progreso,26.0553,-97.95217
+MX,Nuevo Progreso,26.05378,-97.95149
 MX,Nueva Villa de Padilla,24.0482,-98.90063
 MX,Nuevo Laredo,27.47629,-99.51639
 MX,Nopalucán,19.2184,-97.82272
@@ -40862,7 +41506,7 @@ MX,Matías Romero,16.87902,-95.03939
 MX,Heroica Matamoros,25.87972,-97.50417
 MX,Martínez de la Torre,20.07082,-97.06078
 MX,Mapastepec,15.43358,-92.90039
-MX,Ursulo Galván,22.72779,-98.32191
+MX,Estación Manuel,22.72871,-98.32182
 MX,Manlio Fabio Altamirano,19.09425,-96.33351
 MX,Maltrata,18.81091,-97.27538
 MX,Malinalco,18.94847,-99.49619
@@ -41400,7 +42044,7 @@ MX,Ojo de Agua,19.68028,-99.01
 MX,Santo Tomás Chiconautla,19.63894,-99.00755
 MX,Buenavista,19.60833,-99.16944
 MX,San Ignacio Río Muerto,27.41611,-110.24468
-MX,Francisco Javier Mina,27.46141,-110.10853
+MX,Francisco Javier Mina,27.46136,-110.1085
 MX,Vicam,27.64307,-110.29459
 MX,Miguel Alemán (La Doce),28.84028,-111.4775
 MX,Los Zacatones,22.96139,-102.05556
@@ -41414,16 +42058,16 @@ MX,Eldorado,24.32444,-107.36722
 MX,Gabriel Leyva Solano,25.66157,-108.63657
 MX,Adolfo Ruiz Cortines,25.70387,-108.71894
 MX,Cihuatlán,19.2366,-104.56512
-MX,Minas de Barroterán,27.65407,-101.28369
-MX,Lázaro Cárdenas,30.52815,-115.92617
-MX,Camalú,30.84222,-116.06328
-MX,Progreso,32.58039,-115.58479
-MX,Santa Isabel,32.6333,-115.57605
+MX,Minas de Barroterán,27.65241,-101.28365
+MX,Lázaro Cárdenas,30.52663,-115.93137
+MX,Camalú,30.84355,-116.0623
+MX,Progreso,32.58165,-115.58434
+MX,Santa Isabel,32.63075,-115.57039
 MX,Estación Coahuila,32.19304,-114.99933
 MX,Doctor Alberto Oviedo Mota,32.22756,-115.16792
-MX,Colonia Venustiano Carranza,32.237,-115.16656
+MX,Colonia Venustiano Carranza,32.23017,-115.16751
 MX,Guadalupe Victoria,32.28924,-115.10534
-MX,Delta,32.35497,-115.19617
+MX,Delta,32.3545,-115.19639
 MX,Zinapécuaro,19.86006,-100.82857
 MX,Ixtapa-Zihuatanejo,17.64344,-101.55212
 MX,Zaragoza,28.4932,-100.9223
@@ -41506,7 +42150,7 @@ MX,Técpan de Galeana,17.21976,-100.63032
 MX,Tecomán,18.91614,-103.87713
 MX,Tecolots,32.56667,-114.98333
 MX,Tecolotlán,20.20144,-104.04834
-MX,Tecate,32.56717,-116.62509
+MX,Tecate,32.566,-116.63187
 MX,Tecalitlán,19.47156,-103.30708
 MX,Tayoltita,24.10278,-105.93083
 MX,Tarimoro,20.28336,-100.75477
@@ -41587,7 +42231,7 @@ MX,San Jeronimito,17.56818,-101.34562
 MX,San Ignacio Cerro Gordo,20.74322,-102.53658
 MX,San Francisco del Rincón,21.01843,-101.85515
 MX,San Francisco de los Romo,22.07748,-102.2714
-MX,San Felipe,31.02468,-114.83919
+MX,San Felipe,31.02526,-114.84173
 MX,San Felipe,21.47831,-101.21566
 MX,San Diego de la Unión,21.46749,-100.8731
 MX,San Diego de Alejandría,20.99306,-101.99322
@@ -41616,7 +42260,7 @@ MX,Romita,20.87127,-101.51683
 MX,Río Grande,23.82733,-103.03408
 MX,Rincón de Tamayo,20.42344,-100.7547
 MX,Rincón de Romos,22.22819,-102.32216
-MX,La Joya,32.44619,-117.00103
+MX,La Joya,32.44363,-117.00371
 MX,Ramos Arizpe,25.53928,-100.94742
 MX,Quiroga,19.66557,-101.52287
 MX,Quilá,24.42273,-107.22139
@@ -41631,9 +42275,9 @@ MX,Puga,21.58443,-104.82318
 MX,Puerto Vallarta,20.617,-105.23018
 MX,Puerto Peñasco,31.31716,-113.53799
 MX,Puerto Palomas,31.77718,-107.63439
-MX,Pueblo Yaqui,27.35444,-110.03301
+MX,Pueblo Yaqui,27.35515,-110.034
 MX,Pozo de Gamboa,22.94862,-102.57086
-MX,Pótam,27.62585,-110.41612
+MX,Pótam,27.62579,-110.41774
 MX,Poncitlán,20.38111,-102.92395
 MX,Pitiquito,30.67664,-112.05454
 MX,Pinos,22.29882,-101.57481
@@ -41667,7 +42311,7 @@ MX,Nuevo San Juan Parangaricutiro,19.41857,-102.13087
 MX,Nuevo México,20.7565,-103.44297
 MX,Nuevo Ideal,24.88819,-105.07455
 MX,Nuevo Casas Grandes,30.41552,-107.91166
-MX,Nueva Rosita,27.9373,-101.21755
+MX,Nueva Rosita,27.93712,-101.21746
 MX,Nueva Italia de Ruiz,19.02492,-102.09318
 MX,Nombre de Dios,23.84891,-104.24712
 MX,Nochistlán de Mejía,21.36355,-102.84754
@@ -41707,7 +42351,7 @@ MX,Marfil,20.99165,-101.28434
 MX,Maravatío de Ocampo,19.89113,-100.44443
 MX,Mapimí,25.83362,-103.84833
 MX,Manzanillo,19.11695,-104.34214
-MX,Rodolfo Sánchez Taboada,31.72099,-116.57184
+MX,Rodolfo Sánchez Taboada,31.72294,-116.57196
 MX,Magdalena de Kino,30.62681,-110.96151
 MX,Magdalena,20.90686,-103.9769
 MX,Madera,29.19039,-108.14123
@@ -41807,7 +42451,7 @@ MX,Francisco I. Madero,21.58186,-104.81927
 MX,Felipe Carrillo Puerto,19.16325,-102.70834
 MX,Etzatlán,20.76652,-104.07899
 MX,Etchojoa,26.91065,-109.62549
-MX,Esqueda,30.72412,-109.5893
+MX,Esqueda,30.7275,-109.58781
 MX,Escuinapa de Hidalgo,22.83474,-105.77766
 MX,Ensenada,31.87149,-116.60071
 MX,Encarnación de Díaz,21.52631,-102.24024
@@ -41815,10 +42459,10 @@ MX,Empalme Escobedo,20.6725,-100.74675
 MX,Empalme,27.96166,-110.81411
 MX,San José el Verde,20.55541,-103.27837
 MX,Tobarito,27.37057,-109.89603
-MX,El Sauzal de Rodríguez,31.89329,-116.69256
+MX,El Sauzal de Rodríguez,31.89491,-116.69323
 MX,El Sauz,20.47836,-100.11537
 MX,El Salto,23.77846,-105.36038
-MX,Pueblo Nuevo,23.37927,-105.38313
+MX,Pueblo Nuevo,23.38359,-105.37084
 MX,El Salto,20.51853,-103.18159
 MX,El Salto,20.33333,-104.5
 MX,El Rosario,24.25556,-107.18278
@@ -41831,10 +42475,10 @@ MX,San Antonio del Coyote,25.69488,-103.28442
 MX,El Colomo,19.06015,-104.25727
 MX,El Coacoyul,17.6381,-101.47571
 MX,El Arenal,20.77629,-103.6935
-MX,Puebla,32.56654,-115.3534
+MX,Puebla,32.56645,-115.35387
 MX,Ciudad Insurgentes,25.26345,-111.77444
-MX,Hermosillo,32.51097,-114.92278
-MX,Esperanza,27.5794,-109.93011
+MX,Ejido Hermosillo,32.51158,-114.92304
+MX,Esperanza,27.58046,-109.93119
 MX,Victoria de Durango,24.02032,-104.65756
 MX,Duarte,21.08712,-101.52431
 MX,Doctor Arroyo,23.67211,-100.18134
@@ -41864,14 +42508,14 @@ MX,Comonfort,20.72278,-100.75946
 MX,Comala,19.32717,-103.75926
 MX,Colotlán,22.11316,-103.26658
 MX,Colorines,19.17829,-100.21817
-MX,Vicente Guerrero,30.73097,-115.99071
+MX,Vicente Guerrero,30.73054,-115.98871
 MX,Ampliación Colonia Lázaro Cárdenas,28.38333,-105.61667
 MX,Colón,20.78299,-100.05005
 MX,Colima,19.24473,-103.7127
 MX,Cojumatlán de Régules,20.11729,-102.85171
 MX,Cofradía,19.43333,-103.55
 MX,Cocula,20.36517,-103.82215
-MX,Cócorit,27.57618,-109.95937
+MX,Cócorit,27.5765,-109.95919
 MX,Coalcomán de Vázquez Pallares,18.7775,-103.16
 MX,Ciudad Obregón,27.48642,-109.94079
 MX,Ciudad Manuel Doblado,20.72888,-101.95226
@@ -43535,6 +44179,7 @@ NL,Weert,51.25167,5.70694
 NL,Wassenaar,52.14583,4.40278
 NL,Waspik,51.68667,4.94444
 NL,Warnsveld,52.1375,6.23056
+NL,Warmenhuizen,52.7225,4.7375
 NL,Wageningen,51.97,5.66667
 NL,Waddinxveen,52.045,4.65139
 NL,Waalwijk,51.6825,5.07083
@@ -46452,6 +47097,7 @@ PK,Jampur,29.64235,70.59518
 PK,Jalalpur Pirwala,29.5051,71.22202
 PK,Jalalpur Jattan,32.64118,74.20561
 PK,Jahanian Shah,31.80541,72.2774
+PK,Jaglot,35.68842,74.62412
 PK,Jacobabad,28.28187,68.43761
 PK,Chak One Hundred Fifty-three -Nine Left,30.44539,72.99238
 PK,Islamkot,24.69904,70.17982
@@ -46558,7 +47204,7 @@ PK,Bhawana,31.56884,72.64917
 PK,Bhan,26.55831,67.72139
 PK,Bhalwal,32.26576,72.89809
 PK,Bhakkar,31.62685,71.06471
-PK,Mianke Mor,31.2024,73.94857
+PK,Phool Nagar,31.2024,73.94857
 PK,Bhagwal,32.82111,73.95528
 PK,Bhag,29.04174,67.82394
 PK,Berani,25.78497,68.80754
@@ -51073,6 +51719,7 @@ RU,Razvilka,55.59209,37.74085
 RU,Dubovka,53.95223,38.06276
 RU,Dagomys,43.66974,39.66863
 RU,Bugry,60.07121,30.39225
+RU,Gorod Shebekino,50.41667,36.91667
 RU,Korkmaskala,43.02469,47.29044
 RU,Pavlovo,55.9686,43.0912
 RU,Belidzhi,41.89184,48.41247
@@ -51092,7 +51739,7 @@ RU,Solnechnodol’sk,45.3179,41.5407
 RU,Vnukovo,55.61194,37.29611
 RU,Moskovskiy,55.59911,37.35495
 RU,Shamil’kala,42.6871,46.86845
-RU,Novyy Sulak,43.18126,46.8263
+RU,Novyy Sulak,43.21,46.823
 RU,Usinsk,66.00866,57.53054
 RU,Khankala,43.30212,45.75564
 RU,Yalga,54.12567,45.12958
@@ -51346,7 +51993,7 @@ RU,Mel’nikovo,56.55687,84.0814
 RU,Melioratorov,57.21065,65.60774
 RU,Megion,61.03429,76.10683
 RU,Mayna,53.00639,91.48361
-RU,Mayma,52.01577,85.90963
+RU,Mayma,52.00266,85.89741
 RU,Maslyanino,54.34263,84.21179
 RU,Mar’yanovka,54.96157,72.64467
 RU,Mariinsk,56.20978,87.73165
@@ -51570,7 +52217,7 @@ RU,Zhigalovo,54.81009,105.15932
 RU,Zheleznogorsk-Ilimskiy,56.57665,104.12968
 RU,Zheleznodorozhnyy,57.90525,102.77838
 RU,Zhatay,62.16263,129.83406
-RU,Zeya,53.73724,127.25484
+RU,Zeya,53.73586,127.25598
 RU,Zavodskoy,43.45916,132.28384
 RU,Zavitinsk,50.11105,129.44035
 RU,Zarechnyy,51.84928,107.521
@@ -51588,9 +52235,9 @@ RU,Vydrino,51.463,104.6425
 RU,Vyazemskiy,47.53342,134.75785
 RU,Vrangel’,42.73012,133.08381
 RU,Vozdvizhenka,43.89461,131.94505
-RU,Vol’no-Nadezhdinskoye,43.37477,131.99562
+RU,Vol’no-Nadezhdinskoye,43.37474,131.9955
 RU,Vladivostok,43.10562,131.87353
-RU,Vladimiro-Aleksandrovskoye,42.89317,133.07561
+RU,Vladimiro-Aleksandrovskoye,42.89199,133.07768
 RU,Vilyuysk,63.75136,121.63292
 RU,Vikhorevka,56.12128,101.17767
 RU,Vershino-Darasunskiy,52.36633,115.53046
@@ -51600,7 +52247,7 @@ RU,Ust’-Ordynskiy,52.80878,104.74705
 RU,Ust’-Kut,56.7979,105.78657
 RU,Ust’-Ilimsk,58.00056,102.66194
 RU,Ust’-Barguzin,53.41116,109.03103
-RU,Ussuriysk,43.80403,131.94987
+RU,Ussuriysk,43.80467,131.95734
 RU,Usol’ye-Sibirskoye,52.75194,103.64528
 RU,Ulety,51.35589,112.4843
 RU,Ulan-Ude,51.82721,107.60627
@@ -51614,7 +52261,7 @@ RU,Tulun,54.56759,100.57659
 RU,Trudovoye,43.30268,132.07888
 RU,Tommot,58.95717,126.29158
 RU,Tiksi,71.69075,128.86524
-RU,Tikhookeanskiy,42.97339,132.4014
+RU,Fokino,42.97096,132.41035
 RU,Tayturka,52.86917,103.46083
 RU,Tavrichanka,43.32551,131.86264
 RU,Tambovka,50.0995,128.05832
@@ -51626,15 +52273,15 @@ RU,Suntar,62.16083,117.65547
 RU,Sretensk,52.24877,117.70889
 RU,Srednebelaya,50.65889,128.01132
 RU,Spasskoye,44.61208,132.79884
-RU,Spassk-Dal’niy,44.60056,132.82034
+RU,Spassk-Dal’niy,44.60059,132.82042
 RU,Sosnovo-Ozërskoye,52.52289,111.53845
 RU,Solnechnyy,50.72498,136.63562
 RU,Solnechnyy,50.58333,137.03333
 RU,Sokol,51.80036,107.44437
-RU,Smolyaninovo,43.28582,132.45493
+RU,Smolyaninovo,43.28685,132.45494
 RU,Smidovich,48.59434,133.81029
 RU,Slyudyanka,51.6621,103.70996
-RU,Slavyanka,42.86413,131.3882
+RU,Slavyanka,42.86242,131.38919
 RU,Skovorodino,53.98367,123.94014
 RU,Sibirtsevo,44.20212,132.46117
 RU,Shkotovo,43.32056,132.35439
@@ -51654,14 +52301,14 @@ RU,Priargunsk,50.3648,119.09532
 RU,Preobrazheniye,42.90091,133.90422
 RU,Poyarkovo,49.62544,128.6505
 RU,Pokrovsk,61.47923,129.13864
-RU,Pokrovka,43.95144,131.6385
-RU,Pogranichnyy,44.4097,131.3778
+RU,Pokrovka,43.95134,131.63848
+RU,Pogranichnyy,44.41041,131.37847
 RU,Plastun,44.75997,136.28421
 RU,Petrovsk-Zabaykal’skiy,51.2758,108.84714
 RU,Petropavlovka,50.61213,105.32351
 RU,Pervomayskiy,51.66297,115.6242
 RU,Pereyaslavka,47.965,135.06356
-RU,Partizansk,43.12079,133.12396
+RU,Partizansk,43.11992,133.12316
 RU,Onokhoy,51.92859,108.06693
 RU,Olovyannaya,50.94649,115.57201
 RU,Olyokminsk,60.3743,120.4203
@@ -51678,7 +52325,7 @@ RU,Neryungri,56.65836,124.72499
 RU,Nerchinsk,51.97981,116.58693
 RU,Nekrasovka,48.35135,135.23898
 RU,Namtsy,62.72414,129.66606
-RU,Nakhodka,42.8438,132.91804
+RU,Nakhodka,42.8436,132.91831
 RU,Mukhorshibir’,51.04986,107.82997
 RU,Mokhsogollokh,61.39619,128.9381
 RU,Mogoytuy,51.28758,114.93178
@@ -51686,17 +52333,17 @@ RU,Mogocha,53.73965,119.76889
 RU,Mishelevka,52.8575,103.17194
 RU,Mirny,62.53528,113.96111
 RU,Mikhaylovka,52.9589,103.2846
-RU,Mikhaylovka,43.93293,132.00882
+RU,Mikhaylovka,43.93356,132.00895
 RU,Meget,52.415,104.04944
 RU,Mayya,61.73824,130.28161
 RU,Markovo,57.32056,107.08806
 RU,Markha,62.11454,129.74403
 RU,Magistral’nyy,56.17148,107.44166
 RU,Magdagachi,53.4524,125.80744
-RU,Luchegorsk,46.44292,134.29618
+RU,Luchegorsk,46.4446,134.29342
 RU,Livadiya,42.86837,132.67275
 RU,Lipovtsy,44.19985,131.72289
-RU,Lesozavodsk,45.47857,133.42802
+RU,Lesozavodsk,45.47171,133.39827
 RU,Lensk,60.72383,114.93447
 RU,Leninskoye,47.94275,132.61924
 RU,Kyren,51.68225,102.14044
@@ -51705,13 +52352,13 @@ RU,Kuytun,54.33886,101.50817
 RU,Kutulik,53.35296,102.78584
 RU,Kurumkan,54.32093,110.30651
 RU,Krasnokamensk,50.09784,118.03867
-RU,Korfovskiy,48.2216,135.06754
+RU,Korfovskiy,48.22211,135.0712
 RU,Konstantinovka,49.62038,127.99038
 RU,Komsomolsk-on-Amur,50.55034,137.00995
 RU,Kokuy,52.20818,117.55341
 RU,Knyaze-Volkonskoye,48.46532,135.45477
 RU,Kizhinga,51.84861,109.90647
-RU,Kirovskiy,45.09222,133.50144
+RU,Kirovskiy,45.09221,133.50145
 RU,Kirensk,57.7756,108.11535
 RU,Khurba,50.40657,136.88276
 RU,Khorol’,44.42697,132.07709
@@ -51720,10 +52367,10 @@ RU,Khor,47.88399,134.95577
 RU,Khilok,51.36336,110.45926
 RU,Khandyga,62.65302,135.56649
 RU,Khabarovsk,48.48032,135.08822
-RU,Kavalerovo,44.27156,135.05143
+RU,Kavalerovo,44.27163,135.05145
 RU,Karymskoye,51.62679,114.33681
 RU,Kamensk,51.9831,106.58477
-RU,Kamen’-Rybolov,44.74486,132.04887
+RU,Kamen’-Rybolov,44.74007,132.04217
 RU,Kachug,53.96227,105.88592
 RU,Kabansk,52.05227,106.65485
 RU,Ivolginsk,51.74522,107.28435
@@ -51738,17 +52385,17 @@ RU,Darasun,51.65853,113.97406
 RU,Dalnerechensk,45.93149,133.73906
 RU,Churapcha,61.99979,132.43298
 RU,Chul’man,56.84735,124.90812
-RU,Chuguyevka,44.16335,133.86623
+RU,Chuguyevka,44.16337,133.86625
 RU,Chita,52.03171,113.50087
 RU,Chernyshevskiy,63.01601,112.46901
 RU,Chernyshevsk,52.52225,117.01745
-RU,Chernigovka,44.34149,132.56937
+RU,Chernigovka,44.3415,132.56931
 RU,Cheremkhovo,53.14745,103.08192
 RU,Chegdomyn,51.13057,133.00199
 RU,Bureya,49.81291,129.81276
 RU,Borzya,50.38862,116.53062
 RU,Borogontsy,62.67007,131.17309
-RU,Bol’shoy Kamen’,43.11137,132.35002
+RU,Bol’shoy Kamen’,43.1112,132.35021
 RU,Bokhan,53.15265,103.77005
 RU,Bodaybo,57.85345,114.20407
 RU,Blagoveshchensk,50.27961,127.5405
@@ -51764,8 +52411,8 @@ RU,Baley,51.58166,116.63395
 RU,Bada,51.391,109.86145
 RU,Aykhal,65.93381,111.4834
 RU,Atamanovka,51.92934,113.64393
-RU,Artëm,43.35752,132.19138
-RU,Arsen’yev,44.15282,133.27713
+RU,Artëm,43.35757,132.19137
+RU,Arsen’yev,44.15695,133.27331
 RU,Arkhara,49.42449,130.08426
 RU,Angarsk,52.55968,103.91413
 RU,Amurzet,47.69447,131.09603
@@ -51793,7 +52440,7 @@ RU,Susuman,62.78045,148.15376
 RU,Sovetskaya Gavan’,48.97215,140.28881
 RU,Smirnykh,49.74425,142.83441
 RU,Shakhtërsk,49.16804,142.11571
-RU,Poronaysk,49.22306,143.09808
+RU,Poronaysk,49.22045,143.0912
 RU,Petropavlovsk-Kamchatsky,53.06393,158.62751
 RU,Ola,59.58032,151.29946
 RU,Oktyabr’skiy,49.05666,140.25473
@@ -52954,20 +53601,20 @@ SM,Valdragone,43.94021,12.45622
 SN,Ziguinchor,12.56801,-16.27326
 SN,Vélingara,13.15,-14.11667
 SN,Touba,14.85,-15.88333
-SN,Tivaouane,14.97444,-16.93972
+SN,Tivaouane,14.95186,-16.8152
 SN,Tionk Essil,12.78556,-16.52167
 SN,Tilogne Tokossel,15.96667,-13.6
 SN,Tiébo,14.63333,-16.23333
-SN,Tiadiaye,14.41667,-16.7
+SN,Thiadiaye,14.42038,-16.70258
 SN,Thilogne,15.92389,-13.65778
 SN,Thiès Nones,14.78333,-16.96667
 SN,Thiès,14.78944,-16.92602
 SN,Tambacounda,13.77073,-13.66734
-SN,Soum,14.06667,-16.48333
+SN,Soum,14.08179,-16.48127
 SN,Somone,14.48649,-17.07524
 SN,Sokone,13.88333,-16.36667
 SN,Sintiou Bamambé,15.36736,-13.13471
-SN,Sibassar,14.2,-16.16667
+SN,Sibassor,14.18645,-16.15947
 SN,Sémé,15.19422,-12.94482
 SN,Sédhiou,12.70806,-15.55694
 SN,Sébikhotane,14.74521,-17.13783
@@ -52978,7 +53625,7 @@ SN,Rosso,16.42028,-15.79834
 SN,Ross-Bétio,16.27333,-16.13778
 SN,Richard-Toll,16.4625,-15.70083
 SN,Pout,14.77099,-17.06107
-SN,Pourham,14.35,-16.41667
+SN,Poukham Un,14.35751,-16.41235
 SN,Poponguine,14.55735,-17.11396
 SN,Pikine,14.76457,-17.39071
 SN,Passi,13.98333,-16.26667
@@ -53013,7 +53660,7 @@ SN,Koungheul,13.98333,-14.8
 SN,Koumpentoum,13.98333,-14.56667
 SN,Kolda,12.8939,-14.94125
 SN,Kidira,14.45668,-12.21659
-SN,Khombole,14.76667,-16.7
+SN,Khombole,14.76361,-16.6916
 SN,Keur Madiabel,13.85,-16.06667
 SN,Kédougou,12.55561,-12.18076
 SN,Kébémer,15.365,-16.4339
@@ -53022,9 +53669,9 @@ SN,Kayar,14.91893,-17.11978
 SN,Karang,13.60778,-16.42694
 SN,Kaolack,14.15197,-16.07259
 SN,Kanel,15.4916,-13.17627
-SN,Kahone,14.15,-16.03333
+SN,Kahone,14.15838,-16.03572
 SN,Kaffrine,14.10594,-15.5508
-SN,Joal-Fadiout,14.16667,-16.83333
+SN,Joal,14.17309,-16.84929
 SN,Haïré Lao,16.39697,-14.32196
 SN,Guinguinéo,14.26667,-15.95
 SN,Guéoul,15.48333,-16.35
@@ -53033,15 +53680,15 @@ SN,Goudomp,12.57778,-15.87222
 SN,Goudiry,14.18146,-12.71803
 SN,Gossas Village,14.48409,-16.11377
 SN,Goléré,16.25575,-14.10165
-SN,Gandiaye,14.23333,-16.26667
+SN,Gandiaye,14.24362,-16.27231
 SN,Galoya Toucouleur,16.07397,-13.85894
 SN,Gaé,16.56667,-15.45
-SN,Foundiougne,14.13333,-16.46667
+SN,Foundiougne,14.12272,-16.46916
 SN,Fatick,14.33236,-16.40513
-SN,Dougnane,14.95,-16.86667
+SN,Dougnane,14.95856,-16.86999
 SN,Diourbel,14.64792,-16.24363
 SN,Diouloulou,13.05,-16.6
-SN,Diofior,14.18333,-16.66667
+SN,Diofior,14.1899,-16.66089
 SN,Diawara,15.02196,-12.54374
 SN,Diaoubé,12.91667,-14.16667
 SN,Ndiamakouta,13.31667,-15.63333
@@ -53284,7 +53931,7 @@ SY,Izra‘,32.86709,36.25072
 SY,‘Irbīn,33.53719,36.36635
 SY,Inkhil,33.01809,36.12828
 SY,Idlib,35.93062,36.63393
-SY,Homs,34.72682,36.72339
+SY,Homs,34.72405,36.72559
 SY,Ḩarastā,33.55869,36.36515
 SY,Ḩamāh,35.13179,36.75783
 SY,Ḩalfāyā,35.26014,36.60581
@@ -53321,7 +53968,7 @@ SY,Al Quşayr,34.5078,36.58029
 SY,Al Qunayţirah,33.12595,35.82461
 SY,Al Qaryatayn,34.22956,37.24066
 SY,Al Mayādīn,35.01982,40.45154
-SY,Latakia,35.53168,35.79011
+SY,Latakia,35.53125,35.79088
 SY,Al Kiswah,33.3581,36.2419
 SY,Al Ḩasakah,36.50237,40.74772
 SY,Al Ḩirāk,32.74948,36.30582
@@ -53940,6 +54587,8 @@ TL,Aileu,-8.72806,125.56639
 TL,Lospalos,-8.52167,126.99833
 TL,Gleno,-8.72389,125.43611
 TL,Venilale,-8.64306,126.37833
+TM,Etrek,37.66114,54.76645
+TM,Esenguly,37.46461,53.97256
 TM,Balkanabat,39.51075,54.36713
 TM,Kaka,37.34821,59.61431
 TM,Serdar,38.97644,56.27575
@@ -53950,6 +54599,7 @@ TM,Abadan,38.05415,58.19721
 TM,Baharly,38.43624,57.43158
 TM,Ashgabat,37.95,58.38333
 TM,Änew,37.88754,58.51596
+TM,Garadepe,38.03222,54.03556
 TM,Yylanly,41.83333,59.65
 TM,Tagta,41.65041,59.9164
 TM,Akdepe,42.05513,59.37877
@@ -55465,6 +56115,7 @@ UA,Zhdanivka,48.1532,38.25694
 UA,Zhashkiv,49.2459,30.09888
 UA,Zinkiv,50.20987,34.35952
 UA,Zelenivka,46.71717,32.65697
+UA,Zelenodolsk,47.55353,33.65648
 UA,Zdolbuniv,50.5206,26.24251
 UA,Zboriv,49.66493,25.14019
 UA,Zbarazh,49.66157,25.77925
@@ -55497,6 +56148,7 @@ UA,Voznesensk,47.56218,31.33602
 UA,Vorzel,50.5444,30.15305
 UA,Vorozhba,51.17334,34.21917
 UA,Voronovytsya,49.10903,28.68681
+UA,Voronizh,51.77572,33.45944
 UA,Volovets,48.7109,23.1851
 UA,Volodarka,49.52542,29.91023
 UA,Volochysk,49.53606,26.20681
@@ -55507,6 +56159,7 @@ UA,Vovchansk,50.29078,36.94108
 UA,Vodiane,47.48651,34.50422
 UA,Vlasivka,49.11832,33.27971
 UA,Volodymyr-Volynskyi,50.85253,24.32364
+UA,Volodymyrivka,47.73391,37.3882
 UA,Volodymyrets,51.4213,26.14469
 UA,Vyshneve,50.38913,30.3705
 UA,Vinnytsya,49.2322,28.46871
@@ -55524,13 +56177,16 @@ UA,Velyka Mykhaylivka,47.07847,29.85253
 UA,Velykyy Bychkiv,47.96821,24.01061
 UA,Velykodolynske,46.34642,30.57902
 UA,Velyki Mosty,50.24329,24.1423
+UA,Velyki Luchky,48.41822,22.56765
 UA,Velyki Kopani,46.48818,32.97348
+UA,Velyki Komiaty,48.23741,22.97717
 UA,Velykyi Dalnyk,46.47494,30.56099
 UA,Velykyy Bereznyy,48.8934,22.46121
 UA,Velyka Pysarivka,50.4243,35.47989
 UA,Velyka Novosilka,47.8451,36.83512
 UA,Velyka Lepetykha,47.17138,33.93147
 UA,Velyka Dymerka,50.59333,30.90313
+UA,Velyka Dobron,48.41979,22.38857
 UA,Velyka Berezovytsya,49.49869,25.61231
 UA,Velyka Bilozerka,47.27572,34.68457
 UA,Velyka Bahachka,49.79819,33.72013
@@ -55585,6 +56241,7 @@ UA,Bessarabske,46.18757,29.14635
 UA,Tarashcha,49.55883,30.49967
 UA,Talne,48.88891,30.6965
 UA,Talalaivka,50.95783,31.92085
+UA,Talalaivka,50.83913,33.14374
 UA,Sievierodonetsk,48.94628,38.48624
 UA,Svitlovodsk,49.06287,33.2458
 UA,Svetlodarsk,48.43374,38.22331
@@ -55786,6 +56443,7 @@ UA,Novooleksiyivka,46.22995,34.64576
 UA,Niu-York,48.33027,37.84114
 UA,Novhorod-Siverskyi,52.00683,33.26335
 UA,Novhorodka,48.36089,32.65469
+UA,Nova Zburivka,46.45456,32.45277
 UA,Nova Vodolaha,49.7199,35.86964
 UA,Nova Praha,48.56868,32.90431
 UA,Nova Odesa,47.31268,31.76972
@@ -55989,6 +56647,7 @@ UA,Irshava,48.31227,23.04065
 UA,Irshansk,50.75095,28.72387
 UA,Irpin,50.52175,30.25055
 UA,Ilovays’k,47.92498,38.20235
+UA,Ilnytsia,48.35662,23.07616
 UA,Chornomors’k,46.29914,30.65529
 UA,Yavornytske,48.40458,35.27933
 UA,Illintsi,49.10544,29.20589
@@ -56192,6 +56851,7 @@ UA,Okny,47.54293,29.45586
 UA,Teplodar,46.50196,30.32256
 UA,Tavriysk,46.75432,33.41665
 UA,Horishni Plavni,49.00835,33.62926
+UA,Saltivka,50.02207,36.34901
 UA,Slavutych,51.5225,30.71806
 UA,Novofedorovka,45.09473,33.57211
 UA,Pivdennoukrainsk,47.82879,31.17513
@@ -56208,6 +56868,7 @@ UA,Revivka,49.17771,33.74415
 UA,Nove,48.52725,32.12223
 UA,Tarasivtsi,48.20557,26.36444
 UA,Reni,45.45421,28.27731
+UA,Korabel,46.61884,32.5796
 UG,Yumbe,3.46506,31.24689
 UG,Wobulenzi,0.72833,32.51222
 UG,Wakiso,0.40444,32.45944
@@ -60954,6 +61615,7 @@ US,Glen Cove,40.86232,-73.63374
 US,Glen Oaks,40.74705,-73.71152
 US,Glendale,40.70149,-73.8868
 US,Glens Falls,43.30952,-73.64401
+US,Glenville,42.92924,-74.05207
 US,Gloversville,43.05285,-74.34375
 US,Goshen,41.40204,-74.32432
 US,Grand Island,43.03311,-78.96254
@@ -61784,7 +62446,7 @@ US,Harrisburg,43.43137,-96.69727
 US,Huron,44.36332,-98.21426
 US,Madison,44.00608,-97.11395
 US,Mitchell,43.70943,-98.0298
-US,Sioux Falls,43.54997,-96.70033
+US,Sioux Falls,43.54369,-96.72796
 US,Vermillion,42.77944,-96.92921
 US,Watertown,44.89941,-97.11507
 US,Yankton,42.87111,-97.39728
@@ -63536,6 +64198,7 @@ US,Branford Center,41.27738,-72.81511
 US,Cheshire Village,41.5026,-72.89952
 US,Fort Belvoir,38.7119,-77.14589
 US,Fort Drum,44.05843,-75.76189
+US,Fort Lee,37.24694,-77.33442
 US,Fort Meade,39.10815,-76.74323
 US,Ashton-Sandy Spring,39.14976,-77.00504
 US,Bel Air North,39.55429,-76.37309
@@ -63604,6 +64267,7 @@ US,New Port Richey East,28.26027,-82.69261
 US,North Weeki Wachee,28.55014,-82.55888
 US,Oak Grove,33.9809,-81.14286
 US,Palm River-Clair Mel,27.92386,-82.37939
+US,Pope Air Force Base (historical),35.17128,-79.01042
 US,Clarkston Heights-Vineland,46.38742,-117.083
 US,Air Force Academy,38.99425,-104.86375
 US,Arden-Arcade,38.6025,-121.37854
@@ -64279,7 +64943,8 @@ VI,Cruz Bay,18.33134,-64.79375
 VI,Saint Croix,17.72751,-64.74698
 VI,Tutu,18.33884,-64.88653
 VN,Yên Vinh,18.66667,105.66667
-VN,Khánh Vĩnh Yên,18.45,105.76667
+VN,Khánh Vĩnh Yên,18.46312,105.7131
+VN,Yên Viên,21.08333,105.91667
 VN,Yên Phụ,21.03333,105.83333
 VN,Yên Bái,21.72288,104.9113
 VN,Xuyên Mộc,10.56667,107.41667
@@ -64290,6 +64955,7 @@ VN,Trại Khoai,21.13174,105.34479
 VN,Ông Do,8.82432,105.00874
 VN,Xóm Mỹ Xuân,10.61667,107.06667
 VN,Xóm Cái Nước,9.8,105.1
+VN,Cái Đôi Vàm,8.85707,104.81199
 VN,Xóm Bến Củi,11.26667,106.35
 VN,Trảng Bom,10.95358,107.00589
 VN,Xã Long Hải,10.38706,107.23884
@@ -64322,7 +64988,7 @@ VN,Thượng Cát,21.09342,105.73188
 VN,Thủ Đức,10.84863,106.77209
 VN,Thủ Dầu Một,10.9804,106.6519
 VN,Thuan Thiện,18.45,105.78333
-VN,Thuận Thanh,21.01667,106.08333
+VN,Thuận Thanh,21.046,106.079
 VN,Thốt Nốt,10.27213,105.5338
 VN,Thới Lai,10.06522,105.55863
 VN,Ho Chi Minh City,10.82302,106.62965
@@ -64388,6 +65054,7 @@ VN,Mường Lay,22.0,103.13333
 VN,Móng Cái,21.52471,107.96619
 VN,Long Xuyên,10.38639,105.43518
 VN,Long Mỹ,9.68141,105.57226
+VN,Lộc Bình,21.75873,106.92335
 VN,Liễu Giai,21.03333,105.81667
 VN,Lào Cai,22.48556,103.97066
 VN,Lao Bảo,16.61406,106.60065
@@ -64406,6 +65073,7 @@ VN,Hương Khê,18.17669,105.70019
 VN,Hưng Yên,20.64637,106.05112
 VN,Huế,16.4619,107.59546
 VN,Bình Long,11.64711,106.60586
+VN,Hồng Ngự,10.8,105.35
 VN,Hạ Long,20.95045,107.07336
 VN,Hoi An,15.87944,108.335
 VN,Hòa Bình,20.81717,105.33759
@@ -64421,6 +65089,7 @@ VN,Gio Linh,16.9248,107.08438
 VN,Giá Rai,9.23444,105.45833
 VN,Gia Nghĩa,12.00423,107.69074
 VN,Đưc Trọng,11.73559,108.3733
+VN,Đức Thọ,18.53957,105.58302
 VN,Đức Phổ,14.81355,108.95931
 VN,Đố Sơn,20.71361,106.78944
 VN,Đồng Xoài,11.53495,106.88324
@@ -64487,9 +65156,11 @@ VN,Ông Yến,9.483,105.34588
 VN,Ấp Hô Phòng,9.22583,105.41861
 VN,Ấp Bình Châu,10.55,107.55
 VN,Ba Chúc,10.49427,104.9072
+VN,An Trạch,9.06861,105.39583
 VN,An Nhơn,13.88579,109.10823
 VN,An Khê,13.95,108.65
 VN,An Hà,15.58333,108.48333
+VN,A Lưới,16.27228,107.23385
 VN,Ba Dinh,21.03652,105.82684
 VN,Uyen Hung,11.08416,106.78834
 VN,Xuân Trùng,21.05751,105.28383
@@ -64515,6 +65186,7 @@ VN,Ea Drăng,13.2045,108.21029
 VN,Quảng Phú,12.81965,108.07738
 VN,Đinh Văn,11.78624,108.24282
 VN,Phú Quý,10.5166,108.93292
+VN,Long Khánh,10.92655,107.24783
 VN,Hòa Thành,11.28696,106.12936
 VN,Duyên Hải,9.63497,106.49237
 VN,Vĩnh Thạnh,10.22263,105.39841
@@ -64525,7 +65197,7 @@ VN,Quận Năm,10.75567,106.66745
 VN,Quận Mười Một,10.76383,106.64355
 VN,Quận Mười,10.76823,106.66632
 VN,Quận Ba,10.77494,106.68628
-VN,Đức Thọ,21.35402,106.19501
+VN,Gia Lâm,21.05352,106.00712
 VN,Thuần Thiện,18.47422,105.78691
 VN,Tra Que Vegetable Village,15.90223,108.33884
 VN,Quận Đức Thịnh,10.30989,105.73855
@@ -64547,6 +65219,7 @@ VN,Vinhomes Smart City,21.0045,105.7404
 VN,Vinhomes Times City,20.9945,105.8677
 VN,Vinhomes Royal City,21.0028,105.8151
 VN,Lay Nưa,22.01758,103.11625
+VN,Kim Song Trường,18.46343,105.68731
 VU,Sola,-13.87611,167.55167
 VU,Port-Vila,-17.73648,168.31366
 VU,Luganville,-15.51989,167.16235
@@ -64842,6 +65515,7 @@ ZA,Matatiele,-30.34357,28.81161
 ZA,Marquard,-28.66449,27.43048
 ZA,Margate,-30.8636,30.37052
 ZA,Mankoeng,-23.9,29.81667
+ZA,Manguzi,-26.99096,32.75102
 ZA,Makwassie,-27.31564,25.99497
 ZA,Maile,-25.44152,27.28165
 ZA,Magaliesburg,-25.9936,27.55619
@@ -65099,6 +65773,7 @@ ZA,Hermanus,-34.4187,19.23446
 ZA,Grabouw,-34.15152,19.01509
 ZA,Genadendal,-34.03779,19.56224
 ZA,Gansbaai,-34.58301,19.35048
+ZA,Franschhoek,-33.91075,19.1198
 ZA,eNduli,-33.35637,19.34097
 ZA,De Doorns,-33.47709,19.66625
 ZA,Darling,-33.37817,18.37938
