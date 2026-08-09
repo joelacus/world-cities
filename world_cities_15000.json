@@ -793,6 +793,12 @@
   },
   {
     "country": "AL",
+    "name": "Rrashbull",
+    "lat": "41.32278",
+    "lng": "19.51028"
+  },
+  {
+    "country": "AL",
     "name": "Peqin",
     "lat": "41.04611",
     "lng": "19.75111"
@@ -838,6 +844,12 @@
     "name": "Kavajë",
     "lat": "41.18556",
     "lng": "19.55694"
+  },
+  {
+    "country": "AL",
+    "name": "Fushë-Krujë",
+    "lat": "41.47833",
+    "lng": "19.71778"
   },
   {
     "country": "AL",
@@ -1567,6 +1579,12 @@
   },
   {
     "country": "AO",
+    "name": "Ecunna",
+    "lat": "-12.67889",
+    "lng": "15.50556"
+  },
+  {
+    "country": "AO",
     "name": "Dombe Grande",
     "lat": "-12.95167",
     "lng": "13.1025"
@@ -1666,6 +1684,12 @@
     "name": "Calulo",
     "lat": "-10.00055",
     "lng": "14.89519"
+  },
+  {
+    "country": "AO",
+    "name": "Cahama",
+    "lat": "-16.28556",
+    "lng": "14.30962"
   },
   {
     "country": "AO",
@@ -1873,6 +1897,18 @@
   },
   {
     "country": "AR",
+    "name": "Valentín Alsina",
+    "lat": "-34.67137",
+    "lng": "-58.40904"
+  },
+  {
+    "country": "AR",
+    "name": "Tristán Suárez",
+    "lat": "-34.88982",
+    "lng": "-58.56761"
+  },
+  {
+    "country": "AR",
     "name": "Tortuguitas",
     "lat": "-34.47513",
     "lng": "-58.75367"
@@ -1888,6 +1924,18 @@
     "name": "Tandil",
     "lat": "-37.3287",
     "lng": "-59.1369"
+  },
+  {
+    "country": "AR",
+    "name": "Sarandí",
+    "lat": "-34.68161",
+    "lng": "-58.34639"
+  },
+  {
+    "country": "AR",
+    "name": "San Vicente",
+    "lat": "-35.0249",
+    "lng": "-58.42409"
   },
   {
     "country": "AR",
@@ -1921,6 +1969,12 @@
   },
   {
     "country": "AR",
+    "name": "Santa Clara del Mar",
+    "lat": "-37.83438",
+    "lng": "-57.50749"
+  },
+  {
+    "country": "AR",
     "name": "San Pedro",
     "lat": "-33.67918",
     "lng": "-59.66633"
@@ -1930,6 +1984,12 @@
     "name": "San Pedro",
     "lat": "-26.6218",
     "lng": "-54.10902"
+  },
+  {
+    "country": "AR",
+    "name": "San Miguel del Monte",
+    "lat": "-35.43922",
+    "lng": "-58.80741"
   },
   {
     "country": "AR",
@@ -1999,6 +2059,12 @@
   },
   {
     "country": "AR",
+    "name": "Remedios de Escalada de San Martín",
+    "lat": "-34.72589",
+    "lng": "-58.39663"
+  },
+  {
+    "country": "AR",
     "name": "Reconquista",
     "lat": "-29.15",
     "lng": "-59.65"
@@ -2026,12 +2092,6 @@
     "name": "Puerto Esperanza",
     "lat": "-26.02267",
     "lng": "-54.61356"
-  },
-  {
-    "country": "AR",
-    "name": "Puerto Eldorado",
-    "lat": "-26.40843",
-    "lng": "-54.69463"
   },
   {
     "country": "AR",
@@ -2089,6 +2149,12 @@
   },
   {
     "country": "AR",
+    "name": "Navarro",
+    "lat": "-35.00587",
+    "lng": "-59.27828"
+  },
+  {
+    "country": "AR",
     "name": "Muñiz",
     "lat": "-34.55622",
     "lng": "-58.70739"
@@ -2101,6 +2167,12 @@
   },
   {
     "country": "AR",
+    "name": "Monte Chingolo",
+    "lat": "-34.7296",
+    "lng": "-58.35421"
+  },
+  {
+    "country": "AR",
     "name": "Monte Caseros",
     "lat": "-30.2518",
     "lng": "-57.63537"
@@ -2110,6 +2182,12 @@
     "name": "Montecarlo",
     "lat": "-26.56849",
     "lng": "-54.7579"
+  },
+  {
+    "country": "AR",
+    "name": "Miramar",
+    "lat": "-38.27161",
+    "lng": "-57.8389"
   },
   {
     "country": "AR",
@@ -2137,6 +2215,12 @@
   },
   {
     "country": "AR",
+    "name": "Mar del Tuyú",
+    "lat": "-36.57429",
+    "lng": "-56.6939"
+  },
+  {
+    "country": "AR",
     "name": "Mar del Plata",
     "lat": "-38.00042",
     "lng": "-57.5562"
@@ -2146,6 +2230,12 @@
     "name": "Mar de Ajó",
     "lat": "-36.72881",
     "lng": "-56.68265"
+  },
+  {
+    "country": "AR",
+    "name": "Magdalena",
+    "lat": "-35.07997",
+    "lng": "-57.51368"
   },
   {
     "country": "AR",
@@ -2167,6 +2257,24 @@
   },
   {
     "country": "AR",
+    "name": "Lobos",
+    "lat": "-35.18537",
+    "lng": "-59.09788"
+  },
+  {
+    "country": "AR",
+    "name": "Leandro N. Alem",
+    "lat": "-27.60376",
+    "lng": "-55.32365"
+  },
+  {
+    "country": "AR",
+    "name": "Las Flores",
+    "lat": "-36.01427",
+    "lng": "-59.09986"
+  },
+  {
+    "country": "AR",
     "name": "La Plata",
     "lat": "-34.92126",
     "lng": "-57.95442"
@@ -2179,6 +2287,12 @@
   },
   {
     "country": "AR",
+    "name": "Lanús",
+    "lat": "-34.70757",
+    "lng": "-58.39132"
+  },
+  {
+    "country": "AR",
     "name": "Jardín América",
     "lat": "-27.04346",
     "lng": "-55.22698"
@@ -2188,6 +2302,12 @@
     "name": "Ituzaingó",
     "lat": "-27.58504",
     "lng": "-56.68707"
+  },
+  {
+    "country": "AR",
+    "name": "Isidro Casanova",
+    "lat": "-34.7",
+    "lng": "-58.58745"
   },
   {
     "country": "AR",
@@ -2239,6 +2359,12 @@
   },
   {
     "country": "AR",
+    "name": "General Belgrano",
+    "lat": "-35.76842",
+    "lng": "-58.49444"
+  },
+  {
+    "country": "AR",
     "name": "Garupá",
     "lat": "-27.48315",
     "lng": "-55.82924"
@@ -2275,6 +2401,12 @@
   },
   {
     "country": "AR",
+    "name": "Ensenada",
+    "lat": "-34.86074",
+    "lng": "-57.91238"
+  },
+  {
+    "country": "AR",
     "name": "El Soberbio",
     "lat": "-27.29662",
     "lng": "-54.19811"
@@ -2284,6 +2416,12 @@
     "name": "El Palomar",
     "lat": "-34.61771",
     "lng": "-58.60153"
+  },
+  {
+    "country": "AR",
+    "name": "Eldorado",
+    "lat": "-26.40453",
+    "lng": "-54.61847"
   },
   {
     "country": "AR",
@@ -2353,9 +2491,27 @@
   },
   {
     "country": "AR",
+    "name": "Carmen de Areco",
+    "lat": "-34.3766",
+    "lng": "-59.82272"
+  },
+  {
+    "country": "AR",
+    "name": "Cañuelas",
+    "lat": "-35.05379",
+    "lng": "-58.76205"
+  },
+  {
+    "country": "AR",
     "name": "Campana",
     "lat": "-34.16327",
     "lng": "-58.95919"
+  },
+  {
+    "country": "AR",
+    "name": "Burzaco",
+    "lat": "-34.82584",
+    "lng": "-58.39502"
   },
   {
     "country": "AR",
@@ -2365,15 +2521,33 @@
   },
   {
     "country": "AR",
+    "name": "Coronel Brandsen",
+    "lat": "-35.16799",
+    "lng": "-58.23742"
+  },
+  {
+    "country": "AR",
     "name": "Boedo",
     "lat": "-34.63333",
     "lng": "-58.41667"
   },
   {
     "country": "AR",
+    "name": "Berisso",
+    "lat": "-34.8715",
+    "lng": "-57.88328"
+  },
+  {
+    "country": "AR",
     "name": "Berazategui",
     "lat": "-34.76531",
     "lng": "-58.21278"
+  },
+  {
+    "country": "AR",
+    "name": "Benito Juárez",
+    "lat": "-37.67188",
+    "lng": "-59.80653"
   },
   {
     "country": "AR",
@@ -2401,6 +2575,18 @@
   },
   {
     "country": "AR",
+    "name": "Baradero",
+    "lat": "-33.81199",
+    "lng": "-59.50467"
+  },
+  {
+    "country": "AR",
+    "name": "Banfield",
+    "lat": "-34.74563",
+    "lng": "-58.39365"
+  },
+  {
+    "country": "AR",
     "name": "Balcarce",
     "lat": "-37.84638",
     "lng": "-58.25549"
@@ -2422,12 +2608,6 @@
     "name": "Avellaneda",
     "lat": "-29.11761",
     "lng": "-59.65834"
-  },
-  {
-    "country": "AR",
-    "name": "Aristóbulo del Valle",
-    "lat": "-27.09571",
-    "lng": "-54.89344"
   },
   {
     "country": "AR",
@@ -2476,6 +2656,12 @@
     "name": "Villa Dolores",
     "lat": "-31.94504",
     "lng": "-65.19025"
+  },
+  {
+    "country": "AR",
+    "name": "Villa del Rosario",
+    "lat": "-31.55416",
+    "lng": "-63.53562"
   },
   {
     "country": "AR",
@@ -2545,6 +2731,18 @@
   },
   {
     "country": "AR",
+    "name": "Tupungato",
+    "lat": "-33.36926",
+    "lng": "-69.14781"
+  },
+  {
+    "country": "AR",
+    "name": "Tunuyán",
+    "lat": "-33.58125",
+    "lng": "-69.01537"
+  },
+  {
+    "country": "AR",
     "name": "Tres Isletas",
     "lat": "-26.34067",
     "lng": "-60.43207"
@@ -2566,6 +2764,18 @@
     "name": "Trelew",
     "lat": "-43.24895",
     "lng": "-65.30505"
+  },
+  {
+    "country": "AR",
+    "name": "Tostado",
+    "lat": "-29.23269",
+    "lng": "-61.76869"
+  },
+  {
+    "country": "AR",
+    "name": "Toay",
+    "lat": "-36.6739",
+    "lng": "-64.37979"
   },
   {
     "country": "AR",
@@ -2608,6 +2818,18 @@
     "name": "Santa Rosa",
     "lat": "-36.61617",
     "lng": "-64.28991"
+  },
+  {
+    "country": "AR",
+    "name": "Santa Rosa",
+    "lat": "-23.39432",
+    "lng": "-64.42509"
+  },
+  {
+    "country": "AR",
+    "name": "Santa María",
+    "lat": "-26.69456",
+    "lng": "-66.04805"
   },
   {
     "country": "AR",
@@ -2671,9 +2893,21 @@
   },
   {
     "country": "AR",
+    "name": "Villa General San Martín",
+    "lat": "-31.43963",
+    "lng": "-68.5205"
+  },
+  {
+    "country": "AR",
     "name": "San Luis",
     "lat": "-33.2914",
     "lng": "-66.32467"
+  },
+  {
+    "country": "AR",
+    "name": "San Lorenzo",
+    "lat": "-24.73623",
+    "lng": "-65.48727"
   },
   {
     "country": "AR",
@@ -2689,15 +2923,15 @@
   },
   {
     "country": "AR",
-    "name": "San José de Jáchal",
-    "lat": "-30.24162",
-    "lng": "-68.74662"
-  },
-  {
-    "country": "AR",
     "name": "San Jorge",
     "lat": "-31.89706",
     "lng": "-61.85993"
+  },
+  {
+    "country": "AR",
+    "name": "San Isidro",
+    "lat": "-28.45775",
+    "lng": "-65.72498"
   },
   {
     "country": "AR",
@@ -2743,9 +2977,39 @@
   },
   {
     "country": "AR",
+    "name": "Rosario de Lerma",
+    "lat": "-24.98583",
+    "lng": "-65.5784"
+  },
+  {
+    "country": "AR",
+    "name": "Rosario de la Frontera",
+    "lat": "-25.79856",
+    "lng": "-64.97386"
+  },
+  {
+    "country": "AR",
     "name": "Rosario",
     "lat": "-32.94682",
     "lng": "-60.63932"
+  },
+  {
+    "country": "AR",
+    "name": "Rojas",
+    "lat": "-34.19774",
+    "lng": "-60.7337"
+  },
+  {
+    "country": "AR",
+    "name": "Rodeo del Medio",
+    "lat": "-32.99487",
+    "lng": "-68.68597"
+  },
+  {
+    "country": "AR",
+    "name": "Rivadavia",
+    "lat": "-33.19097",
+    "lng": "-68.4622"
   },
   {
     "country": "AR",
@@ -2797,6 +3061,12 @@
   },
   {
     "country": "AR",
+    "name": "Ramallo",
+    "lat": "-33.48508",
+    "lng": "-60.00629"
+  },
+  {
+    "country": "AR",
     "name": "Rafaela",
     "lat": "-31.25285",
     "lng": "-61.49078"
@@ -2818,6 +3088,12 @@
     "name": "Puerto Madryn",
     "lat": "-42.76848",
     "lng": "-65.03827"
+  },
+  {
+    "country": "AR",
+    "name": "Puerto Deseado",
+    "lat": "-47.75131",
+    "lng": "-65.89674"
   },
   {
     "country": "AR",
@@ -2845,6 +3121,30 @@
   },
   {
     "country": "AR",
+    "name": "Pilar",
+    "lat": "-31.68129",
+    "lng": "-63.8824"
+  },
+  {
+    "country": "AR",
+    "name": "Pigüé",
+    "lat": "-37.60255",
+    "lng": "-62.40836"
+  },
+  {
+    "country": "AR",
+    "name": "Pico Truncado",
+    "lat": "-46.79942",
+    "lng": "-67.95785"
+  },
+  {
+    "country": "AR",
+    "name": "Pichanal",
+    "lat": "-23.31644",
+    "lng": "-64.21826"
+  },
+  {
+    "country": "AR",
     "name": "Pergamino",
     "lat": "-33.89101",
     "lng": "-60.57462"
@@ -2854,6 +3154,12 @@
     "name": "Pérez",
     "lat": "-32.99835",
     "lng": "-60.76791"
+  },
+  {
+    "country": "AR",
+    "name": "Perdriel",
+    "lat": "-33.0749",
+    "lng": "-68.8884"
   },
   {
     "country": "AR",
@@ -2905,6 +3211,12 @@
   },
   {
     "country": "AR",
+    "name": "San José de Metán",
+    "lat": "-25.49711",
+    "lng": "-64.97106"
+  },
+  {
+    "country": "AR",
     "name": "Mendoza",
     "lat": "-32.88946",
     "lng": "-68.84582"
@@ -2914,6 +3226,12 @@
     "name": "Marcos Juárez",
     "lat": "-32.6978",
     "lng": "-62.10672"
+  },
+  {
+    "country": "AR",
+    "name": "Malargüe",
+    "lat": "-35.47791",
+    "lng": "-69.58521"
   },
   {
     "country": "AR",
@@ -2932,6 +3250,18 @@
     "name": "Libertador General San Martín",
     "lat": "-23.81305",
     "lng": "-64.79353"
+  },
+  {
+    "country": "AR",
+    "name": "Las Varillas",
+    "lat": "-31.8704",
+    "lng": "-62.71968"
+  },
+  {
+    "country": "AR",
+    "name": "Las Heras",
+    "lat": "-46.54131",
+    "lng": "-68.93227"
   },
   {
     "country": "AR",
@@ -3001,6 +3331,12 @@
   },
   {
     "country": "AR",
+    "name": "Los Toldos",
+    "lat": "-34.99997",
+    "lng": "-61.03874"
+  },
+  {
+    "country": "AR",
     "name": "General Roca",
     "lat": "-39.03333",
     "lng": "-67.58333"
@@ -3019,9 +3355,27 @@
   },
   {
     "country": "AR",
+    "name": "General Güemes",
+    "lat": "-24.67445",
+    "lng": "-65.0466"
+  },
+  {
+    "country": "AR",
     "name": "General Mosconi",
     "lat": "-22.59617",
     "lng": "-63.811"
+  },
+  {
+    "country": "AR",
+    "name": "General Alvear",
+    "lat": "-34.97747",
+    "lng": "-67.69618"
+  },
+  {
+    "country": "AR",
+    "name": "General Acha",
+    "lat": "-37.37821",
+    "lng": "-64.60422"
   },
   {
     "country": "AR",
@@ -3064,6 +3418,12 @@
     "name": "Embalse",
     "lat": "-32.20681",
     "lng": "-64.40064"
+  },
+  {
+    "country": "AR",
+    "name": "El Calafate",
+    "lat": "-50.34075",
+    "lng": "-72.27682"
   },
   {
     "country": "AR",
@@ -3115,6 +3475,12 @@
   },
   {
     "country": "AR",
+    "name": "Coronel Pringles",
+    "lat": "-37.98567",
+    "lng": "-61.3504"
+  },
+  {
+    "country": "AR",
     "name": "Coronda",
     "lat": "-31.97365",
     "lng": "-60.91935"
@@ -3130,6 +3496,18 @@
     "name": "Comodoro Rivadavia",
     "lat": "-45.86256",
     "lng": "-67.494"
+  },
+  {
+    "country": "AR",
+    "name": "Colonia Caroya",
+    "lat": "-31.02202",
+    "lng": "-64.06172"
+  },
+  {
+    "country": "AR",
+    "name": "Colón",
+    "lat": "-33.89713",
+    "lng": "-61.09942"
   },
   {
     "country": "AR",
@@ -3175,6 +3553,12 @@
   },
   {
     "country": "AR",
+    "name": "San José de los Cerrillos",
+    "lat": "-24.89715",
+    "lng": "-65.48445"
+  },
+  {
+    "country": "AR",
     "name": "Centenario",
     "lat": "-38.82955",
     "lng": "-68.1318"
@@ -3211,6 +3595,12 @@
   },
   {
     "country": "AR",
+    "name": "Carlos Casares",
+    "lat": "-35.62247",
+    "lng": "-61.3655"
+  },
+  {
+    "country": "AR",
     "name": "Carcarañá",
     "lat": "-32.85704",
     "lng": "-61.15114"
@@ -3235,6 +3625,18 @@
   },
   {
     "country": "AR",
+    "name": "Cafayate",
+    "lat": "-26.07286",
+    "lng": "-65.97766"
+  },
+  {
+    "country": "AR",
+    "name": "Bragado",
+    "lat": "-35.11557",
+    "lng": "-60.48965"
+  },
+  {
+    "country": "AR",
     "name": "Bell Ville",
     "lat": "-32.63021",
     "lng": "-62.68883"
@@ -3244,6 +3646,12 @@
     "name": "Bella Vista",
     "lat": "-27.03424",
     "lng": "-65.30196"
+  },
+  {
+    "country": "AR",
+    "name": "Belén",
+    "lat": "-27.64953",
+    "lng": "-67.02632"
   },
   {
     "country": "AR",
@@ -3331,6 +3739,12 @@
   },
   {
     "country": "AR",
+    "name": "Avellaneda",
+    "lat": "-34.66018",
+    "lng": "-58.36744"
+  },
+  {
+    "country": "AR",
     "name": "San Miguel",
     "lat": "-34.54335",
     "lng": "-58.71229"
@@ -3343,9 +3757,21 @@
   },
   {
     "country": "AR",
+    "name": "Moreno",
+    "lat": "-34.63401",
+    "lng": "-58.79138"
+  },
+  {
+    "country": "AR",
     "name": "Adrogué",
     "lat": "-34.80041",
     "lng": "-58.38384"
+  },
+  {
+    "country": "AR",
+    "name": "La Unión",
+    "lat": "-34.87558",
+    "lng": "-58.54192"
   },
   {
     "country": "AR",
@@ -3361,9 +3787,21 @@
   },
   {
     "country": "AR",
+    "name": "San Vicente",
+    "lat": "-26.99627",
+    "lng": "-54.47697"
+  },
+  {
+    "country": "AR",
     "name": "José C. Paz",
     "lat": "-34.51541",
     "lng": "-58.76813"
+  },
+  {
+    "country": "AR",
+    "name": "Rawson",
+    "lat": "-31.58189",
+    "lng": "-68.54211"
   },
   {
     "country": "AS",
@@ -3619,6 +4057,12 @@
   },
   {
     "country": "AT",
+    "name": "Eisenzicken",
+    "lat": "47.27603",
+    "lng": "16.25908"
+  },
+  {
+    "country": "AT",
     "name": "Eggenberg",
     "lat": "47.07",
     "lng": "15.39871"
@@ -3652,6 +4096,12 @@
     "name": "Aspern",
     "lat": "48.21806",
     "lng": "16.48306"
+  },
+  {
+    "country": "AT",
+    "name": "Ansfelden",
+    "lat": "48.20969",
+    "lng": "14.29004"
   },
   {
     "country": "AT",
@@ -3754,6 +4204,12 @@
     "name": "Brigittenau",
     "lat": "48.24275",
     "lng": "16.37551"
+  },
+  {
+    "country": "AU",
+    "name": "Whyalla",
+    "lat": "-33.03268",
+    "lng": "137.56483"
   },
   {
     "country": "AU",
@@ -3967,7 +4423,7 @@
   },
   {
     "country": "AU",
-    "name": "Tuggeranong Administrative District",
+    "name": "Tuggeranong",
     "lat": "-35.41647",
     "lng": "149.06954"
   },
@@ -5119,6 +5575,12 @@
   },
   {
     "country": "AU",
+    "name": "Karratha",
+    "lat": "-20.73765",
+    "lng": "116.84629"
+  },
+  {
+    "country": "AU",
     "name": "Kingsford",
     "lat": "-33.92399",
     "lng": "151.22749"
@@ -5629,9 +6091,9 @@
   },
   {
     "country": "AW",
-    "name": "San Nicolas",
-    "lat": "12.43624",
-    "lng": "-69.90713"
+    "name": "Santa Cruz",
+    "lat": "12.50953",
+    "lng": "-69.98094"
   },
   {
     "country": "AW",
@@ -5659,7 +6121,7 @@
   },
   {
     "country": "AZ",
-    "name": "Şuşa",
+    "name": "Shusha",
     "lat": "39.76006",
     "lng": "46.74989"
   },
@@ -5674,6 +6136,12 @@
     "name": "Saatlı",
     "lat": "39.93214",
     "lng": "48.36892"
+  },
+  {
+    "country": "AZ",
+    "name": "Nehram",
+    "lat": "39.11597",
+    "lng": "45.46168"
   },
   {
     "country": "AZ",
@@ -5707,7 +6175,7 @@
   },
   {
     "country": "AZ",
-    "name": "Fizuli",
+    "name": "Fuzuli",
     "lat": "39.60094",
     "lng": "47.14529"
   },
@@ -5743,7 +6211,7 @@
   },
   {
     "country": "AZ",
-    "name": "Ağdam",
+    "name": "Aghdam",
     "lat": "39.99096",
     "lng": "46.92736"
   },
@@ -5767,7 +6235,7 @@
   },
   {
     "country": "AZ",
-    "name": "Göygöl",
+    "name": "Goygol",
     "lat": "40.58584",
     "lng": "46.3189"
   },
@@ -5785,21 +6253,21 @@
   },
   {
     "country": "AZ",
-    "name": "Tovuz",
-    "lat": "40.99249",
-    "lng": "45.62838"
-  },
-  {
-    "country": "AZ",
-    "name": "Terter",
+    "name": "Tartar",
     "lat": "40.34201",
     "lng": "46.93161"
   },
   {
     "country": "AZ",
-    "name": "Sumqayıt",
+    "name": "Sumgayit",
     "lat": "40.58972",
     "lng": "49.66861"
+  },
+  {
+    "country": "AZ",
+    "name": "Siyazan",
+    "lat": "41.07811",
+    "lng": "49.11564"
   },
   {
     "country": "AZ",
@@ -5809,7 +6277,13 @@
   },
   {
     "country": "AZ",
-    "name": "Shamkhor",
+    "name": "Saray",
+    "lat": "40.53299",
+    "lng": "49.71681"
+  },
+  {
+    "country": "AZ",
+    "name": "Shamkhir",
     "lat": "40.82975",
     "lng": "46.0178"
   },
@@ -5857,13 +6331,13 @@
   },
   {
     "country": "AZ",
-    "name": "Qazax",
+    "name": "Gazakh",
     "lat": "41.09246",
     "lng": "45.36561"
   },
   {
     "country": "AZ",
-    "name": "Hacı Zeynalabdin",
+    "name": "Haji Zeynalabdin",
     "lat": "40.62333",
     "lng": "49.55861"
   },
@@ -5899,13 +6373,25 @@
   },
   {
     "country": "AZ",
+    "name": "Govlar",
+    "lat": "40.94595",
+    "lng": "45.73175"
+  },
+  {
+    "country": "AZ",
+    "name": "Gobu",
+    "lat": "40.40472",
+    "lng": "49.71306"
+  },
+  {
+    "country": "AZ",
     "name": "Khirdalan",
     "lat": "40.44808",
     "lng": "49.75502"
   },
   {
     "country": "AZ",
-    "name": "İsmayıllı",
+    "name": "Ismayilli",
     "lat": "40.78485",
     "lng": "48.15141"
   },
@@ -5929,9 +6415,21 @@
   },
   {
     "country": "AZ",
+    "name": "Hokmali",
+    "lat": "40.43111",
+    "lng": "49.73722"
+  },
+  {
+    "country": "AZ",
     "name": "Ganja",
     "lat": "40.68157",
     "lng": "46.36134"
+  },
+  {
+    "country": "AZ",
+    "name": "Jorat",
+    "lat": "40.57176",
+    "lng": "49.70509"
   },
   {
     "country": "AZ",
@@ -5989,7 +6487,7 @@
   },
   {
     "country": "AZ",
-    "name": "Agdzhabedy",
+    "name": "Aghjabadi",
     "lat": "40.05015",
     "lng": "47.45937"
   },
@@ -5998,6 +6496,12 @@
     "name": "Bakıxanov",
     "lat": "40.41894",
     "lng": "49.96693"
+  },
+  {
+    "country": "AZ",
+    "name": "Mehdiabad",
+    "lat": "40.49691",
+    "lng": "49.8517"
   },
   {
     "country": "BA",
@@ -8263,7 +8767,7 @@
   },
   {
     "country": "BE",
-    "name": "Antwerpen",
+    "name": "Antwerp",
     "lat": "51.22047",
     "lng": "4.40026"
   },
@@ -10117,6 +10621,12 @@
   },
   {
     "country": "BR",
+    "name": "Triunfo",
+    "lat": "-7.83806",
+    "lng": "-38.10167"
+  },
+  {
+    "country": "BR",
     "name": "Trindade",
     "lat": "-7.76194",
     "lng": "-40.26778"
@@ -10225,6 +10735,12 @@
   },
   {
     "country": "BR",
+    "name": "Tartarugalzinho",
+    "lat": "1.50556",
+    "lng": "-50.91194"
+  },
+  {
+    "country": "BR",
     "name": "Taquaritinga do Norte",
     "lat": "-7.90306",
     "lng": "-36.04417"
@@ -10303,6 +10819,12 @@
   },
   {
     "country": "BR",
+    "name": "Soledade",
+    "lat": "-7.05722",
+    "lng": "-36.36278"
+  },
+  {
+    "country": "BR",
     "name": "Solânea",
     "lat": "-6.75459",
     "lng": "-35.66449"
@@ -10348,12 +10870,6 @@
     "name": "Senador Pompeu",
     "lat": "-5.58806",
     "lng": "-39.37167"
-  },
-  {
-    "country": "BR",
-    "name": "Senador José Porfírio",
-    "lat": "-2.59083",
-    "lng": "-51.95417"
   },
   {
     "country": "BR",
@@ -10708,6 +11224,12 @@
     "name": "Santa Luzia",
     "lat": "-7.64265",
     "lng": "-47.21738"
+  },
+  {
+    "country": "BR",
+    "name": "Santa Luzia",
+    "lat": "-6.87222",
+    "lng": "-36.91861"
   },
   {
     "country": "BR",
@@ -11395,6 +11917,12 @@
   },
   {
     "country": "BR",
+    "name": "Nova Timboteua",
+    "lat": "-1.20778",
+    "lng": "-47.3925"
+  },
+  {
+    "country": "BR",
     "name": "Nova Russas",
     "lat": "-4.70667",
     "lng": "-40.56306"
@@ -11971,12 +12499,6 @@
   },
   {
     "country": "BR",
-    "name": "Jaboatão",
-    "lat": "-8.18028",
-    "lng": "-35.00139"
-  },
-  {
-    "country": "BR",
     "name": "Itupiranga",
     "lat": "-5.13472",
     "lng": "-49.32667"
@@ -12118,6 +12640,12 @@
     "name": "Ipojuca",
     "lat": "-8.39889",
     "lng": "-35.06389"
+  },
+  {
+    "country": "BR",
+    "name": "Inhuma",
+    "lat": "-6.66833",
+    "lng": "-41.70778"
   },
   {
     "country": "BR",
@@ -12322,12 +12850,6 @@
     "name": "Gameleira",
     "lat": "-8.58444",
     "lng": "-35.38667"
-  },
-  {
-    "country": "BR",
-    "name": "Frecheirinha",
-    "lat": "-3.76",
-    "lng": "-40.81639"
   },
   {
     "country": "BR",
@@ -12571,6 +13093,12 @@
   },
   {
     "country": "BR",
+    "name": "Coremas",
+    "lat": "-7.01444",
+    "lng": "-37.94583"
+  },
+  {
+    "country": "BR",
     "name": "Coreaú",
     "lat": "-3.55097",
     "lng": "-40.65724"
@@ -12688,6 +13216,12 @@
     "name": "Catende",
     "lat": "-8.66667",
     "lng": "-35.71667"
+  },
+  {
+    "country": "BR",
+    "name": "Catarina",
+    "lat": "-6.13083",
+    "lng": "-39.8775"
   },
   {
     "country": "BR",
@@ -13075,6 +13609,12 @@
   },
   {
     "country": "BR",
+    "name": "Bonito",
+    "lat": "-1.3625",
+    "lng": "-47.30583"
+  },
+  {
+    "country": "BR",
     "name": "Bom Jesus",
     "lat": "-9.07444",
     "lng": "-44.35861"
@@ -13240,6 +13780,12 @@
     "name": "Barra de Santo Antônio",
     "lat": "-9.40472",
     "lng": "-35.50722"
+  },
+  {
+    "country": "BR",
+    "name": "Barra de Santa Rosa",
+    "lat": "-6.71972",
+    "lng": "-36.06056"
   },
   {
     "country": "BR",
@@ -13468,6 +14014,12 @@
     "name": "Anajás",
     "lat": "-0.98667",
     "lng": "-49.94"
+  },
+  {
+    "country": "BR",
+    "name": "Anadia",
+    "lat": "-9.68444",
+    "lng": "-36.30417"
   },
   {
     "country": "BR",
@@ -13951,6 +14503,12 @@
   },
   {
     "country": "BR",
+    "name": "Umburanas",
+    "lat": "-10.73278",
+    "lng": "-41.32639"
+  },
+  {
+    "country": "BR",
     "name": "Umbaúba",
     "lat": "-11.38333",
     "lng": "-37.65778"
@@ -14203,6 +14761,12 @@
   },
   {
     "country": "BR",
+    "name": "Terra Rica",
+    "lat": "-22.72643",
+    "lng": "-52.6202"
+  },
+  {
+    "country": "BR",
     "name": "Terra Preta",
     "lat": "-22.63333",
     "lng": "-47.05"
@@ -14338,6 +14902,12 @@
     "name": "Tambaú",
     "lat": "-21.705",
     "lng": "-47.27444"
+  },
+  {
+    "country": "BR",
+    "name": "Tamarana",
+    "lat": "-23.72333",
+    "lng": "-51.09722"
   },
   {
     "country": "BR",
@@ -15481,6 +16051,12 @@
   },
   {
     "country": "BR",
+    "name": "Rio do Antônio",
+    "lat": "-14.41139",
+    "lng": "-42.07556"
+  },
+  {
+    "country": "BR",
     "name": "Rio de Janeiro",
     "lat": "-22.90642",
     "lng": "-43.18223"
@@ -15538,6 +16114,12 @@
     "name": "Rio Bananal",
     "lat": "-19.265",
     "lng": "-40.33333"
+  },
+  {
+    "country": "BR",
+    "name": "Rio Azul",
+    "lat": "-25.73278",
+    "lng": "-50.79639"
   },
   {
     "country": "BR",
@@ -15889,12 +16471,6 @@
   },
   {
     "country": "BR",
-    "name": "Ponto Novo",
-    "lat": "-10.86278",
-    "lng": "-40.13361"
-  },
-  {
-    "country": "BR",
     "name": "Pontes e Lacerda",
     "lat": "-15.22611",
     "lng": "-59.33528"
@@ -16180,6 +16756,12 @@
     "name": "Pindamonhangaba",
     "lat": "-22.92389",
     "lng": "-45.46167"
+  },
+  {
+    "country": "BR",
+    "name": "Pindaí",
+    "lat": "-14.4925",
+    "lng": "-42.68722"
   },
   {
     "country": "BR",
@@ -16846,12 +17428,6 @@
     "name": "Nossa Senhora da Glória",
     "lat": "-10.21833",
     "lng": "-37.42028"
-  },
-  {
-    "country": "BR",
-    "name": "Nordestina",
-    "lat": "-10.8225",
-    "lng": "-39.42694"
   },
   {
     "country": "BR",
@@ -17725,6 +18301,12 @@
   },
   {
     "country": "BR",
+    "name": "Lagoa Real",
+    "lat": "-14.03472",
+    "lng": "-42.14222"
+  },
+  {
+    "country": "BR",
     "name": "Lagoa Formosa",
     "lat": "-18.77861",
     "lng": "-46.4075"
@@ -18385,12 +18967,6 @@
   },
   {
     "country": "BR",
-    "name": "Itagibá",
-    "lat": "-14.28361",
-    "lng": "-39.84278"
-  },
-  {
-    "country": "BR",
     "name": "Itajaí",
     "lat": "-26.90778",
     "lng": "-48.66194"
@@ -18412,6 +18988,12 @@
     "name": "Itaguaí",
     "lat": "-22.85222",
     "lng": "-43.77528"
+  },
+  {
+    "country": "BR",
+    "name": "Itaeté",
+    "lat": "-12.98639",
+    "lng": "-40.9725"
   },
   {
     "country": "BR",
@@ -18745,6 +19327,12 @@
   },
   {
     "country": "BR",
+    "name": "Ibitiara",
+    "lat": "-12.65222",
+    "lng": "-42.21778"
+  },
+  {
+    "country": "BR",
     "name": "Ibirubá",
     "lat": "-28.6275",
     "lng": "-53.08972"
@@ -18754,12 +19342,6 @@
     "name": "Ibirité",
     "lat": "-20.02194",
     "lng": "-44.05889"
-  },
-  {
-    "country": "BR",
-    "name": "Ibirataia",
-    "lat": "-14.06694",
-    "lng": "-39.64056"
   },
   {
     "country": "BR",
@@ -18790,6 +19372,12 @@
     "name": "Ibipeba",
     "lat": "-11.64083",
     "lng": "-42.01111"
+  },
+  {
+    "country": "BR",
+    "name": "Ibicuí",
+    "lat": "-14.84167",
+    "lng": "-39.98667"
   },
   {
     "country": "BR",
@@ -19030,6 +19618,12 @@
     "name": "Gravataí",
     "lat": "-29.94218",
     "lng": "-50.99278"
+  },
+  {
+    "country": "BR",
+    "name": "Gramado",
+    "lat": "-29.37861",
+    "lng": "-50.87389"
   },
   {
     "country": "BR",
@@ -20779,6 +21373,12 @@
   },
   {
     "country": "BR",
+    "name": "Buerarema",
+    "lat": "-14.95944",
+    "lng": "-39.29972"
+  },
+  {
+    "country": "BR",
     "name": "Brusque",
     "lat": "-27.09795",
     "lng": "-48.91281"
@@ -21028,6 +21628,12 @@
     "name": "Belford Roxo",
     "lat": "-22.76417",
     "lng": "-43.39944"
+  },
+  {
+    "country": "BR",
+    "name": "Bela Vista do Paraíso",
+    "lat": "-22.99667",
+    "lng": "-51.19056"
   },
   {
     "country": "BR",
@@ -21745,9 +22351,21 @@
   },
   {
     "country": "BR",
+    "name": "Adustina",
+    "lat": "-10.53333",
+    "lng": "-38.1"
+  },
+  {
+    "country": "BR",
     "name": "Adamantina",
     "lat": "-21.68528",
     "lng": "-51.0725"
+  },
+  {
+    "country": "BR",
+    "name": "Acajutiba",
+    "lat": "-11.66222",
+    "lng": "-38.01722"
   },
   {
     "country": "BR",
@@ -21766,6 +22384,12 @@
     "name": "Leblon",
     "lat": "-22.98444",
     "lng": "-43.22315"
+  },
+  {
+    "country": "BR",
+    "name": "Copacabana",
+    "lat": "-22.96898",
+    "lng": "-43.18563"
   },
   {
     "country": "BR",
@@ -21796,12 +22420,6 @@
     "name": "Pontal do Paraná",
     "lat": "-25.67361",
     "lng": "-48.51111"
-  },
-  {
-    "country": "BR",
-    "name": "Lagoa da Confusão",
-    "lat": "-10.79361",
-    "lng": "-49.62361"
   },
   {
     "country": "BR",
@@ -22615,12 +23233,6 @@
   },
   {
     "country": "BR",
-    "name": "Itatim",
-    "lat": "-12.71194",
-    "lng": "-39.69806"
-  },
-  {
-    "country": "BR",
     "name": "Itinga do Maranhão",
     "lat": "-4.44972",
     "lng": "-47.52556"
@@ -22765,6 +23377,12 @@
   },
   {
     "country": "BR",
+    "name": "Nova Ipixuna",
+    "lat": "-4.92111",
+    "lng": "-49.07694"
+  },
+  {
+    "country": "BR",
     "name": "Nova Mamoré",
     "lat": "-10.40194",
     "lng": "-65.32667"
@@ -22834,6 +23452,12 @@
     "name": "Parauapebas",
     "lat": "-6.0675",
     "lng": "-49.90222"
+  },
+  {
+    "country": "BR",
+    "name": "Pedra Branca do Amapari",
+    "lat": "0.77806",
+    "lng": "-51.94361"
   },
   {
     "country": "BR",
@@ -23140,6 +23764,12 @@
     "name": "Tangará da Serra",
     "lat": "-14.61944",
     "lng": "-57.48583"
+  },
+  {
+    "country": "BR",
+    "name": "Teixeira de Freitas",
+    "lat": "-17.535",
+    "lng": "-39.74194"
   },
   {
     "country": "BR",
@@ -24217,7 +24847,7 @@
   },
   {
     "country": "BY",
-    "name": "Volkovysk",
+    "name": "Vaukavysk",
     "lat": "53.1561",
     "lng": "24.4513"
   },
@@ -24415,12 +25045,6 @@
   },
   {
     "country": "BY",
-    "name": "Klimovichi",
-    "lat": "53.60492",
-    "lng": "31.95632"
-  },
-  {
-    "country": "BY",
     "name": "Kalinkovichi",
     "lat": "52.1323",
     "lng": "29.3257"
@@ -24500,14 +25124,14 @@
   {
     "country": "BY",
     "name": "Baranovichi",
-    "lat": "53.13253",
-    "lng": "26.00774"
+    "lat": "53.13255",
+    "lng": "26.00775"
   },
   {
     "country": "BY",
     "name": "Bobruysk",
-    "lat": "53.14636",
-    "lng": "29.20552"
+    "lat": "53.14676",
+    "lng": "29.20548"
   },
   {
     "country": "BY",
@@ -24526,6 +25150,12 @@
     "name": "San Pedro",
     "lat": "17.91598",
     "lng": "-87.9659"
+  },
+  {
+    "country": "BZ",
+    "name": "San Ignacio",
+    "lat": "17.1588",
+    "lng": "-89.0696"
   },
   {
     "country": "BZ",
@@ -24724,6 +25354,12 @@
     "name": "Brantford",
     "lat": "43.1334",
     "lng": "-80.26636"
+  },
+  {
+    "country": "CA",
+    "name": "Bridlewood",
+    "lat": "45.28522",
+    "lng": "-75.8569"
   },
   {
     "country": "CA",
@@ -24980,8 +25616,8 @@
   {
     "country": "CA",
     "name": "Delta",
-    "lat": "49.14399",
-    "lng": "-122.9068"
+    "lat": "49.08917",
+    "lng": "-123.05322"
   },
   {
     "country": "CA",
@@ -26311,6 +26947,12 @@
   },
   {
     "country": "CA",
+    "name": "Thornhill",
+    "lat": "43.815",
+    "lng": "-79.4242"
+  },
+  {
+    "country": "CA",
     "name": "Thorold",
     "lat": "43.11682",
     "lng": "-79.19958"
@@ -26647,6 +27289,12 @@
   },
   {
     "country": "CA",
+    "name": "La Baie",
+    "lat": "48.33982",
+    "lng": "-70.88928"
+  },
+  {
+    "country": "CA",
     "name": "Hull",
     "lat": "45.42761",
     "lng": "-75.71056"
@@ -26834,8 +27482,8 @@
   {
     "country": "CA",
     "name": "Downtown Vancouver",
-    "lat": "49.27784",
-    "lng": "-123.12794"
+    "lat": "49.28277",
+    "lng": "-123.11935"
   },
   {
     "country": "CA",
@@ -27568,6 +28216,24 @@
     "name": "Clayton Park West",
     "lat": "44.65759",
     "lng": "-63.66887"
+  },
+  {
+    "country": "CA",
+    "name": "Fort Garry South",
+    "lat": "49.79225",
+    "lng": "-97.16359"
+  },
+  {
+    "country": "CA",
+    "name": "St. James-Assiniboia East",
+    "lat": "49.88986",
+    "lng": "-97.22653"
+  },
+  {
+    "country": "CA",
+    "name": "Centre City",
+    "lat": "51.04512",
+    "lng": "-114.07431"
   },
   {
     "country": "CC",
@@ -28452,6 +29118,12 @@
     "lng": "14.82799"
   },
   {
+    "country": "CF",
+    "name": "Abba",
+    "lat": "5.33354",
+    "lng": "15.15199"
+  },
+  {
     "country": "CG",
     "name": "Sibiti",
     "lat": "-3.68192",
@@ -28891,7 +29563,7 @@
   },
   {
     "country": "CH",
-    "name": "Genève",
+    "name": "Geneva",
     "lat": "46.20222",
     "lng": "6.14569"
   },
@@ -30337,12 +31009,6 @@
   },
   {
     "country": "CL",
-    "name": "Tiltil",
-    "lat": "-33.0831",
-    "lng": "-70.92924"
-  },
-  {
-    "country": "CL",
     "name": "Teodoro Schmidt",
     "lat": "-38.99442",
     "lng": "-73.08927"
@@ -30397,21 +31063,9 @@
   },
   {
     "country": "CL",
-    "name": "San José de Maipo",
-    "lat": "-33.63912",
-    "lng": "-70.35318"
-  },
-  {
-    "country": "CL",
     "name": "San Javier",
     "lat": "-35.5952",
     "lng": "-71.72924"
-  },
-  {
-    "country": "CL",
-    "name": "San Francisco de Mostazal",
-    "lat": "-33.98219",
-    "lng": "-70.7104"
   },
   {
     "country": "CL",
@@ -30577,15 +31231,15 @@
   },
   {
     "country": "CL",
-    "name": "Pitrufquén",
-    "lat": "-38.98635",
-    "lng": "-72.63721"
+    "name": "Placilla",
+    "lat": "-33.1144",
+    "lng": "-71.56806"
   },
   {
     "country": "CL",
-    "name": "Pirque",
-    "lat": "-33.63638",
-    "lng": "-70.57361"
+    "name": "Pitrufquén",
+    "lat": "-38.98635",
+    "lng": "-72.63721"
   },
   {
     "country": "CL",
@@ -30664,12 +31318,6 @@
     "name": "Nueva Imperial",
     "lat": "-38.74451",
     "lng": "-72.95025"
-  },
-  {
-    "country": "CL",
-    "name": "Nancagua",
-    "lat": "-34.65187",
-    "lng": "-71.19724"
   },
   {
     "country": "CL",
@@ -30829,6 +31477,12 @@
   },
   {
     "country": "CL",
+    "name": "Labranza",
+    "lat": "-38.76523",
+    "lng": "-72.75296"
+  },
+  {
+    "country": "CL",
     "name": "Iquique",
     "lat": "-20.21326",
     "lng": "-70.15027"
@@ -30838,6 +31492,12 @@
     "name": "Illapel",
     "lat": "-31.63349",
     "lng": "-71.16967"
+  },
+  {
+    "country": "CL",
+    "name": "Hualpén",
+    "lat": "-36.78908",
+    "lng": "-73.10165"
   },
   {
     "country": "CL",
@@ -30859,9 +31519,21 @@
   },
   {
     "country": "CL",
+    "name": "Frutillar",
+    "lat": "-41.12162",
+    "lng": "-73.0581"
+  },
+  {
+    "country": "CL",
     "name": "Freire",
     "lat": "-38.95252",
     "lng": "-72.62653"
+  },
+  {
+    "country": "CL",
+    "name": "El Quisco",
+    "lat": "-33.39772",
+    "lng": "-71.69388"
   },
   {
     "country": "CL",
@@ -30880,6 +31552,12 @@
     "name": "Curanilahue",
     "lat": "-37.47793",
     "lng": "-73.34495"
+  },
+  {
+    "country": "CL",
+    "name": "Curacaví",
+    "lat": "-33.39762",
+    "lng": "-71.12708"
   },
   {
     "country": "CL",
@@ -31969,6 +32647,12 @@
   },
   {
     "country": "CN",
+    "name": "Gengqing",
+    "lat": "31.81668",
+    "lng": "98.5806"
+  },
+  {
+    "country": "CN",
     "name": "Elixku",
     "lat": "38.70917",
     "lng": "77.37056"
@@ -32546,8 +33230,8 @@
   {
     "country": "CN",
     "name": "Zhumadian",
-    "lat": "32.97944",
-    "lng": "114.02944"
+    "lat": "32.98385",
+    "lng": "114.02586"
   },
   {
     "country": "CN",
@@ -33025,6 +33709,12 @@
   },
   {
     "country": "CN",
+    "name": "Yuepu",
+    "lat": "31.42694",
+    "lng": "121.42139"
+  },
+  {
+    "country": "CN",
     "name": "Yudong",
     "lat": "29.385",
     "lng": "106.51944"
@@ -33403,6 +34093,12 @@
   },
   {
     "country": "CN",
+    "name": "Yanghang",
+    "lat": "31.37022",
+    "lng": "121.43742"
+  },
+  {
+    "country": "CN",
     "name": "Yanggu",
     "lat": "36.11056",
     "lng": "115.77528"
@@ -33637,6 +34333,12 @@
   },
   {
     "country": "CN",
+    "name": "Xinqiao",
+    "lat": "31.065",
+    "lng": "121.3075"
+  },
+  {
+    "country": "CN",
     "name": "Xinmin",
     "lat": "30.90343",
     "lng": "109.46682"
@@ -33718,6 +34420,12 @@
     "name": "Xindian",
     "lat": "36.7975",
     "lng": "118.29444"
+  },
+  {
+    "country": "CN",
+    "name": "Xindian",
+    "lat": "25.28139",
+    "lng": "101.55833"
   },
   {
     "country": "CN",
@@ -34633,6 +35341,12 @@
   },
   {
     "country": "CN",
+    "name": "Songnan",
+    "lat": "31.35043",
+    "lng": "121.48218"
+  },
+  {
+    "country": "CN",
     "name": "Songjiang",
     "lat": "31.03443",
     "lng": "121.22326"
@@ -35209,9 +35923,9 @@
   },
   {
     "country": "CN",
-    "name": "Runing",
-    "lat": "33.00111",
-    "lng": "114.35417"
+    "name": "Runan",
+    "lat": "33.00016",
+    "lng": "114.34587"
   },
   {
     "country": "CN",
@@ -36001,6 +36715,12 @@
   },
   {
     "country": "CN",
+    "name": "Miaohang",
+    "lat": "31.32466",
+    "lng": "121.43953"
+  },
+  {
+    "country": "CN",
     "name": "Mianyang",
     "lat": "31.46784",
     "lng": "104.68168"
@@ -36205,6 +36925,12 @@
   },
   {
     "country": "CN",
+    "name": "Luojing",
+    "lat": "31.4782",
+    "lng": "121.33907"
+  },
+  {
+    "country": "CN",
     "name": "Luojiang",
     "lat": "31.30497",
     "lng": "104.50484"
@@ -36220,6 +36946,12 @@
     "name": "Luohe",
     "lat": "33.57424",
     "lng": "114.03261"
+  },
+  {
+    "country": "CN",
+    "name": "Luodian",
+    "lat": "31.41556",
+    "lng": "121.33444"
   },
   {
     "country": "CN",
@@ -37471,9 +38203,9 @@
   },
   {
     "country": "CN",
-    "name": "Dingcheng",
-    "lat": "32.12722",
-    "lng": "115.03944"
+    "name": "Huangchuan",
+    "lat": "32.13902",
+    "lng": "115.04286"
   },
   {
     "country": "CN",
@@ -37915,6 +38647,12 @@
   },
   {
     "country": "CN",
+    "name": "Gucun",
+    "lat": "31.34933",
+    "lng": "121.39341"
+  },
+  {
+    "country": "CN",
     "name": "Gucheng Chengguanzhen",
     "lat": "32.26604",
     "lng": "111.63476"
@@ -37942,6 +38680,12 @@
     "name": "Guangzhou",
     "lat": "23.11667",
     "lng": "113.25"
+  },
+  {
+    "country": "CN",
+    "name": "Guangtong",
+    "lat": "25.16861",
+    "lng": "101.74861"
   },
   {
     "country": "CN",
@@ -38674,6 +39418,12 @@
     "name": "Dafengdong",
     "lat": "26.71194",
     "lng": "107.81139"
+  },
+  {
+    "country": "CN",
+    "name": "Dachang",
+    "lat": "31.30873",
+    "lng": "121.41526"
   },
   {
     "country": "CN",
@@ -40231,6 +40981,12 @@
   },
   {
     "country": "CN",
+    "name": "Wūdān",
+    "lat": "42.93444",
+    "lng": "119.02389"
+  },
+  {
+    "country": "CN",
     "name": "Wuchang",
     "lat": "44.92754",
     "lng": "127.16039"
@@ -41611,6 +42367,12 @@
   },
   {
     "country": "CN",
+    "name": "Gaojing",
+    "lat": "31.32225",
+    "lng": "121.4751"
+  },
+  {
+    "country": "CN",
     "name": "Changzheng",
     "lat": "31.23913",
     "lng": "121.36779"
@@ -41650,6 +42412,12 @@
     "name": "Lhoka",
     "lat": "29.24301",
     "lng": "91.77239"
+  },
+  {
+    "country": "CN",
+    "name": "Huajing",
+    "lat": "31.122",
+    "lng": "121.44925"
   },
   {
     "country": "CN",
@@ -42940,6 +43708,12 @@
     "name": "Baoji",
     "lat": "34.36775",
     "lng": "107.23705"
+  },
+  {
+    "country": "CN",
+    "name": "Puxi",
+    "lat": "31.24414",
+    "lng": "121.46592"
   },
   {
     "country": "CN",
@@ -46370,14 +47144,14 @@
   {
     "country": "CU",
     "name": "Yara",
-    "lat": "20.27465",
-    "lng": "-76.95132"
+    "lat": "20.27417",
+    "lng": "-76.95227"
   },
   {
     "country": "CU",
     "name": "Yaguajay",
-    "lat": "22.32691",
-    "lng": "-79.23567"
+    "lat": "22.32693",
+    "lng": "-79.23687"
   },
   {
     "country": "CU",
@@ -46394,14 +47168,14 @@
   {
     "country": "CU",
     "name": "Vertientes",
-    "lat": "21.25817",
-    "lng": "-78.14979"
+    "lat": "21.25892",
+    "lng": "-78.14932"
   },
   {
     "country": "CU",
     "name": "Venezuela",
-    "lat": "21.73748",
-    "lng": "-78.79336"
+    "lat": "21.73792",
+    "lng": "-78.79331"
   },
   {
     "country": "CU",
@@ -46424,20 +47198,20 @@
   {
     "country": "CU",
     "name": "San Germán",
-    "lat": "20.60009",
-    "lng": "-76.13364"
+    "lat": "20.59971",
+    "lng": "-76.1347"
   },
   {
     "country": "CU",
     "name": "Unión de Reyes",
-    "lat": "22.79505",
-    "lng": "-81.53617"
+    "lat": "22.79528",
+    "lng": "-81.53685"
   },
   {
     "country": "CU",
     "name": "Trinidad",
-    "lat": "21.80224",
-    "lng": "-79.98467"
+    "lat": "21.79956",
+    "lng": "-79.98349"
   },
   {
     "country": "CU",
@@ -46448,8 +47222,8 @@
   {
     "country": "CU",
     "name": "Santo Domingo",
-    "lat": "22.58677",
-    "lng": "-80.24261"
+    "lat": "22.5867",
+    "lng": "-80.24259"
   },
   {
     "country": "CU",
@@ -46466,8 +47240,8 @@
   {
     "country": "CU",
     "name": "Santa Cruz del Sur",
-    "lat": "20.71633",
-    "lng": "-77.99816"
+    "lat": "20.71549",
+    "lng": "-77.99551"
   },
   {
     "country": "CU",
@@ -46490,8 +47264,8 @@
   {
     "country": "CU",
     "name": "San Luis",
-    "lat": "20.18809",
-    "lng": "-75.85031"
+    "lat": "20.18813",
+    "lng": "-75.8503"
   },
   {
     "country": "CU",
@@ -46514,26 +47288,26 @@
   {
     "country": "CU",
     "name": "San Antonio de los Baños",
-    "lat": "22.89018",
-    "lng": "-82.50099"
+    "lat": "22.889",
+    "lng": "-82.5059"
   },
   {
     "country": "CU",
     "name": "Sagua la Grande",
-    "lat": "22.80667",
-    "lng": "-80.07556"
+    "lat": "22.80599",
+    "lng": "-80.0742"
   },
   {
     "country": "CU",
     "name": "Sagua de Tánamo",
-    "lat": "20.58269",
-    "lng": "-75.24116"
+    "lat": "20.5828",
+    "lng": "-75.24119"
   },
   {
     "country": "CU",
     "name": "Rodas",
-    "lat": "22.34184",
-    "lng": "-80.55596"
+    "lat": "22.34185",
+    "lng": "-80.5558"
   },
   {
     "country": "CU",
@@ -46544,20 +47318,20 @@
   {
     "country": "CU",
     "name": "Río Cauto",
-    "lat": "20.55971",
-    "lng": "-76.91673"
+    "lat": "20.55981",
+    "lng": "-76.91665"
   },
   {
     "country": "CU",
     "name": "Remedios",
-    "lat": "22.49502",
-    "lng": "-79.54548"
+    "lat": "22.49493",
+    "lng": "-79.54536"
   },
   {
     "country": "CU",
     "name": "Regla",
-    "lat": "23.125",
-    "lng": "-82.33194"
+    "lat": "23.12576",
+    "lng": "-82.33058"
   },
   {
     "country": "CU",
@@ -46568,20 +47342,20 @@
   {
     "country": "CU",
     "name": "Puerto Padre",
-    "lat": "21.19517",
-    "lng": "-76.60358"
+    "lat": "21.19594",
+    "lng": "-76.60351"
   },
   {
     "country": "CU",
     "name": "Primero de Enero",
-    "lat": "21.94501",
-    "lng": "-78.4313"
+    "lat": "21.9455",
+    "lng": "-78.42853"
   },
   {
     "country": "CU",
     "name": "Placetas",
-    "lat": "22.31184",
-    "lng": "-79.6544"
+    "lat": "22.31377",
+    "lng": "-79.65384"
   },
   {
     "country": "CU",
@@ -46598,32 +47372,32 @@
   {
     "country": "CU",
     "name": "Perico",
-    "lat": "22.76987",
-    "lng": "-81.0183"
+    "lat": "22.76889",
+    "lng": "-81.01845"
   },
   {
     "country": "CU",
     "name": "Pedro Betancourt",
-    "lat": "22.72709",
-    "lng": "-81.28963"
+    "lat": "22.72778",
+    "lng": "-81.28872"
   },
   {
     "country": "CU",
     "name": "Palmira",
-    "lat": "22.24126",
-    "lng": "-80.3911"
+    "lat": "22.24217",
+    "lng": "-80.39164"
   },
   {
     "country": "CU",
     "name": "Palma Soriano",
-    "lat": "20.2113",
-    "lng": "-75.99362"
+    "lat": "20.21149",
+    "lng": "-75.99438"
   },
   {
     "country": "CU",
     "name": "Nuevitas",
-    "lat": "21.54585",
-    "lng": "-77.26504"
+    "lat": "21.54446",
+    "lng": "-77.26489"
   },
   {
     "country": "CU",
@@ -46634,8 +47408,8 @@
   {
     "country": "CU",
     "name": "Niquero",
-    "lat": "20.04698",
-    "lng": "-77.58089"
+    "lat": "20.04592",
+    "lng": "-77.58042"
   },
   {
     "country": "CU",
@@ -46646,8 +47420,8 @@
   {
     "country": "CU",
     "name": "Morón",
-    "lat": "22.10774",
-    "lng": "-78.62667"
+    "lat": "22.10881",
+    "lng": "-78.62685"
   },
   {
     "country": "CU",
@@ -46658,20 +47432,20 @@
   {
     "country": "CU",
     "name": "Minas de Matahambre",
-    "lat": "22.58691",
-    "lng": "-83.94551"
+    "lat": "22.58692",
+    "lng": "-83.94567"
   },
   {
     "country": "CU",
     "name": "Minas",
-    "lat": "21.48802",
-    "lng": "-77.61033"
+    "lat": "21.48764",
+    "lng": "-77.6094"
   },
   {
     "country": "CU",
     "name": "Media Luna",
-    "lat": "20.14298",
-    "lng": "-77.43532"
+    "lat": "20.14211",
+    "lng": "-77.43594"
   },
   {
     "country": "CU",
@@ -46682,20 +47456,20 @@
   {
     "country": "CU",
     "name": "Mariel",
-    "lat": "22.98931",
-    "lng": "-82.75376"
+    "lat": "22.98976",
+    "lng": "-82.75422"
   },
   {
     "country": "CU",
     "name": "Marianao",
-    "lat": "23.07385",
-    "lng": "-82.4189"
+    "lat": "23.07387",
+    "lng": "-82.42969"
   },
   {
     "country": "CU",
     "name": "Manzanillo",
-    "lat": "20.34173",
-    "lng": "-77.12126"
+    "lat": "20.3424",
+    "lng": "-77.11928"
   },
   {
     "country": "CU",
@@ -46718,20 +47492,20 @@
   {
     "country": "CU",
     "name": "Madruga",
-    "lat": "22.91",
-    "lng": "-81.85639"
+    "lat": "22.90977",
+    "lng": "-81.85663"
   },
   {
     "country": "CU",
     "name": "Los Palacios",
-    "lat": "22.58882",
-    "lng": "-83.24671"
+    "lat": "22.58756",
+    "lng": "-83.24757"
   },
   {
     "country": "CU",
     "name": "Limonar",
-    "lat": "22.95035",
-    "lng": "-81.41059"
+    "lat": "22.95002",
+    "lng": "-81.41113"
   },
   {
     "country": "CU",
@@ -46748,20 +47522,20 @@
   {
     "country": "CU",
     "name": "La Sierpe",
-    "lat": "21.77241",
-    "lng": "-79.26832"
+    "lat": "21.77166",
+    "lng": "-79.26775"
   },
   {
     "country": "CU",
     "name": "La Salud",
-    "lat": "22.87199",
-    "lng": "-82.42328"
+    "lat": "22.87369",
+    "lng": "-82.41989"
   },
   {
     "country": "CU",
     "name": "Lajas",
-    "lat": "22.41479",
-    "lng": "-80.2931"
+    "lat": "22.41436",
+    "lng": "-80.29363"
   },
   {
     "country": "CU",
@@ -46772,8 +47546,8 @@
   {
     "country": "CU",
     "name": "Jovellanos",
-    "lat": "22.80375",
-    "lng": "-81.19127"
+    "lat": "22.80454",
+    "lng": "-81.19177"
   },
   {
     "country": "CU",
@@ -46784,38 +47558,38 @@
   {
     "country": "CU",
     "name": "Jobabo",
-    "lat": "20.90748",
-    "lng": "-77.28194"
+    "lat": "20.90981",
+    "lng": "-77.28454"
   },
   {
     "country": "CU",
     "name": "Jiguaní",
-    "lat": "20.36785",
-    "lng": "-76.42741"
+    "lat": "20.36839",
+    "lng": "-76.42905"
   },
   {
     "country": "CU",
     "name": "Jesús Menéndez",
-    "lat": "21.16139",
-    "lng": "-76.47919"
+    "lat": "21.16153",
+    "lng": "-76.4777"
   },
   {
     "country": "CU",
     "name": "Jatibonico",
-    "lat": "21.94333",
-    "lng": "-79.16906"
+    "lat": "21.94332",
+    "lng": "-79.16745"
   },
   {
     "country": "CU",
     "name": "Jaruco",
-    "lat": "23.04419",
+    "lat": "23.044",
     "lng": "-82.00919"
   },
   {
     "country": "CU",
     "name": "Jagüey Grande",
-    "lat": "22.52694",
-    "lng": "-81.12861"
+    "lat": "22.52629",
+    "lng": "-81.12855"
   },
   {
     "country": "CU",
@@ -46826,20 +47600,20 @@
   {
     "country": "CU",
     "name": "Guisa",
-    "lat": "20.25494",
-    "lng": "-76.5393"
+    "lat": "20.25606",
+    "lng": "-76.53914"
   },
   {
     "country": "CU",
     "name": "Güira de Melena",
-    "lat": "22.79613",
-    "lng": "-82.50667"
+    "lat": "22.79688",
+    "lng": "-82.50651"
   },
   {
     "country": "CU",
     "name": "Güines",
-    "lat": "22.83727",
-    "lng": "-82.02641"
+    "lat": "22.83837",
+    "lng": "-82.02673"
   },
   {
     "country": "CU",
@@ -46850,14 +47624,14 @@
   {
     "country": "CU",
     "name": "Guane",
-    "lat": "22.20179",
-    "lng": "-84.08484"
+    "lat": "22.20397",
+    "lng": "-84.0885"
   },
   {
     "country": "CU",
     "name": "Guanajay",
-    "lat": "22.92616",
-    "lng": "-82.68687"
+    "lat": "22.92615",
+    "lng": "-82.68686"
   },
   {
     "country": "CU",
@@ -46868,14 +47642,14 @@
   {
     "country": "CU",
     "name": "Guáimaro",
-    "lat": "21.05222",
-    "lng": "-77.3499"
+    "lat": "21.05383",
+    "lng": "-77.3494"
   },
   {
     "country": "CU",
     "name": "Gibara",
-    "lat": "21.10988",
-    "lng": "-76.13145"
+    "lat": "21.10982",
+    "lng": "-76.13031"
   },
   {
     "country": "CU",
@@ -46886,32 +47660,32 @@
   {
     "country": "CU",
     "name": "Fomento",
-    "lat": "22.10475",
-    "lng": "-79.72141"
+    "lat": "22.10349",
+    "lng": "-79.71984"
   },
   {
     "country": "CU",
     "name": "Florida",
-    "lat": "21.52536",
-    "lng": "-78.22579"
+    "lat": "21.5264",
+    "lng": "-78.22553"
   },
   {
     "country": "CU",
     "name": "Florencia",
-    "lat": "22.1461",
-    "lng": "-78.97328"
+    "lat": "22.14594",
+    "lng": "-78.97221"
   },
   {
     "country": "CU",
     "name": "Esmeralda",
-    "lat": "21.85139",
-    "lng": "-78.11725"
+    "lat": "21.85207",
+    "lng": "-78.11694"
   },
   {
     "country": "CU",
     "name": "Encrucijada",
-    "lat": "22.61802",
-    "lng": "-79.86603"
+    "lat": "22.61775",
+    "lng": "-79.86495"
   },
   {
     "country": "CU",
@@ -46928,44 +47702,44 @@
   {
     "country": "CU",
     "name": "Cruces",
-    "lat": "22.34203",
-    "lng": "-80.27021"
+    "lat": "22.34282",
+    "lng": "-80.27082"
   },
   {
     "country": "CU",
     "name": "Corralillo",
-    "lat": "22.98212",
-    "lng": "-80.58556"
+    "lat": "22.98213",
+    "lng": "-80.58532"
   },
   {
     "country": "CU",
     "name": "Contramaestre",
-    "lat": "20.29879",
-    "lng": "-76.24511"
+    "lat": "20.29884",
+    "lng": "-76.24499"
   },
   {
     "country": "CU",
     "name": "Consolación del Sur",
-    "lat": "22.50419",
-    "lng": "-83.51442"
+    "lat": "22.50545",
+    "lng": "-83.51309"
   },
   {
     "country": "CU",
     "name": "Condado",
-    "lat": "21.8767",
-    "lng": "-79.84014"
+    "lat": "21.87596",
+    "lng": "-79.84008"
   },
   {
     "country": "CU",
     "name": "Colón",
-    "lat": "22.72064",
-    "lng": "-80.90492"
+    "lat": "22.72108",
+    "lng": "-80.90368"
   },
   {
     "country": "CU",
     "name": "Colombia",
-    "lat": "20.98812",
-    "lng": "-77.42598"
+    "lat": "20.98553",
+    "lng": "-77.42555"
   },
   {
     "country": "CU",
@@ -47000,32 +47774,32 @@
   {
     "country": "CU",
     "name": "Chambas",
-    "lat": "22.19534",
-    "lng": "-78.9123"
+    "lat": "22.19265",
+    "lng": "-78.91414"
   },
   {
     "country": "CU",
     "name": "Cerro",
-    "lat": "23.10809",
-    "lng": "-82.3866"
+    "lat": "23.10789",
+    "lng": "-82.38356"
   },
   {
     "country": "CU",
     "name": "Cauto Cristo",
-    "lat": "20.55709",
-    "lng": "-76.4727"
+    "lat": "20.55711",
+    "lng": "-76.47273"
   },
   {
     "country": "CU",
     "name": "Cárdenas",
-    "lat": "23.03661",
-    "lng": "-81.20596"
+    "lat": "23.03632",
+    "lng": "-81.20602"
   },
   {
     "country": "CU",
     "name": "Campechuela",
-    "lat": "20.23329",
-    "lng": "-77.2799"
+    "lat": "20.23272",
+    "lng": "-77.27949"
   },
   {
     "country": "CU",
@@ -47048,26 +47822,26 @@
   {
     "country": "CU",
     "name": "Caibarién",
-    "lat": "22.51996",
-    "lng": "-79.46599"
+    "lat": "22.51992",
+    "lng": "-79.46601"
   },
   {
     "country": "CU",
     "name": "Cacocum",
-    "lat": "20.73775",
-    "lng": "-76.32574"
+    "lat": "20.73682",
+    "lng": "-76.32622"
   },
   {
     "country": "CU",
     "name": "Cabaiguán",
-    "lat": "22.07874",
-    "lng": "-79.49726"
+    "lat": "22.0784",
+    "lng": "-79.49626"
   },
   {
     "country": "CU",
     "name": "Bejucal",
-    "lat": "22.92861",
-    "lng": "-82.38861"
+    "lat": "22.92832",
+    "lng": "-82.38875"
   },
   {
     "country": "CU",
@@ -47078,14 +47852,14 @@
   {
     "country": "CU",
     "name": "Bauta",
-    "lat": "22.98226",
-    "lng": "-82.54719"
+    "lat": "22.9821",
+    "lng": "-82.54764"
   },
   {
     "country": "CU",
     "name": "Bartolomé Masó",
-    "lat": "20.16635",
-    "lng": "-76.94291"
+    "lat": "20.16657",
+    "lng": "-76.94395"
   },
   {
     "country": "CU",
@@ -47096,14 +47870,14 @@
   {
     "country": "CU",
     "name": "Baracoa",
-    "lat": "20.34711",
-    "lng": "-74.49624"
+    "lat": "20.34801",
+    "lng": "-74.49714"
   },
   {
     "country": "CU",
     "name": "Banes",
-    "lat": "20.96116",
-    "lng": "-75.722"
+    "lat": "20.96134",
+    "lng": "-75.72306"
   },
   {
     "country": "CU",
@@ -47114,7 +47888,7 @@
   {
     "country": "CU",
     "name": "Bahía Honda",
-    "lat": "22.90332",
+    "lat": "22.90333",
     "lng": "-83.15994"
   },
   {
@@ -47132,14 +47906,14 @@
   {
     "country": "CU",
     "name": "Amancio",
-    "lat": "20.81914",
-    "lng": "-77.57958"
+    "lat": "20.82876",
+    "lng": "-77.5786"
   },
   {
     "country": "CU",
     "name": "Alquízar",
-    "lat": "22.80517",
-    "lng": "-82.58392"
+    "lat": "22.80474",
+    "lng": "-82.58381"
   },
   {
     "country": "CU",
@@ -47162,8 +47936,8 @@
   {
     "country": "CU",
     "name": "Abreus",
-    "lat": "22.27797",
-    "lng": "-80.56931"
+    "lat": "22.27776",
+    "lng": "-80.5689"
   },
   {
     "country": "CU",
@@ -47174,8 +47948,8 @@
   {
     "country": "CU",
     "name": "Centro Habana",
-    "lat": "23.13833",
-    "lng": "-82.36417"
+    "lat": "23.13488",
+    "lng": "-82.36893"
   },
   {
     "country": "CU",
@@ -47186,8 +47960,8 @@
   {
     "country": "CU",
     "name": "Jimaguayú",
-    "lat": "21.24224",
-    "lng": "-77.82625"
+    "lat": "21.24194",
+    "lng": "-77.82574"
   },
   {
     "country": "CU",
@@ -48794,8 +49568,8 @@
   {
     "country": "DE",
     "name": "Vechta",
-    "lat": "52.72632",
-    "lng": "8.28598"
+    "lat": "52.73064",
+    "lng": "8.28968"
   },
   {
     "country": "DE",
@@ -49076,8 +49850,8 @@
   {
     "country": "DE",
     "name": "Stendal",
-    "lat": "52.6069",
-    "lng": "11.85867"
+    "lat": "52.60578",
+    "lng": "11.86091"
   },
   {
     "country": "DE",
@@ -49886,8 +50660,8 @@
   {
     "country": "DE",
     "name": "Rahden",
-    "lat": "52.43367",
-    "lng": "8.61263"
+    "lat": "52.43425",
+    "lng": "8.61266"
   },
   {
     "country": "DE",
@@ -50162,8 +50936,8 @@
   {
     "country": "DE",
     "name": "Oranienburg",
-    "lat": "52.75577",
-    "lng": "13.24197"
+    "lat": "52.748",
+    "lng": "13.25194"
   },
   {
     "country": "DE",
@@ -50372,8 +51146,8 @@
   {
     "country": "DE",
     "name": "Nienburg",
-    "lat": "52.6461",
-    "lng": "9.22086"
+    "lat": "52.64437",
+    "lng": "9.21658"
   },
   {
     "country": "DE",
@@ -51062,8 +51836,8 @@
   {
     "country": "DE",
     "name": "Lohne",
-    "lat": "52.66625",
-    "lng": "8.2375"
+    "lat": "52.66561",
+    "lng": "8.23826"
   },
   {
     "country": "DE",
@@ -51944,8 +52718,8 @@
   {
     "country": "DE",
     "name": "Hohen Neuendorf",
-    "lat": "52.67631",
-    "lng": "13.27775"
+    "lat": "52.67737",
+    "lng": "13.27887"
   },
   {
     "country": "DE",
@@ -53018,8 +53792,8 @@
   {
     "country": "DE",
     "name": "Espelkamp",
-    "lat": "52.38251",
-    "lng": "8.62127"
+    "lat": "52.38141",
+    "lng": "8.62303"
   },
   {
     "country": "DE",
@@ -53408,8 +54182,8 @@
   {
     "country": "DE",
     "name": "Diepholz",
-    "lat": "52.60783",
-    "lng": "8.37005"
+    "lat": "52.60695",
+    "lng": "8.37027"
   },
   {
     "country": "DE",
@@ -54960,6 +55734,12 @@
     "lng": "42.7125"
   },
   {
+    "country": "DJ",
+    "name": "Balbala",
+    "lat": "11.56194",
+    "lng": "43.10666"
+  },
+  {
     "country": "DK",
     "name": "Vordingborg",
     "lat": "55.00801",
@@ -55540,6 +56320,12 @@
     "name": "Hato Mayor del Rey",
     "lat": "18.76575",
     "lng": "-69.25579"
+  },
+  {
+    "country": "DO",
+    "name": "Guayacanes",
+    "lat": "18.42495",
+    "lng": "-69.4576"
   },
   {
     "country": "DO",
@@ -57853,6 +58639,12 @@
   },
   {
     "country": "EE",
+    "name": "Pirita",
+    "lat": "59.469",
+    "lng": "24.838"
+  },
+  {
+    "country": "EE",
     "name": "Pärnu",
     "lat": "58.38588",
     "lng": "24.49711"
@@ -57877,9 +58669,45 @@
   },
   {
     "country": "EE",
+    "name": "Lasnamäe",
+    "lat": "59.4336",
+    "lng": "24.86017"
+  },
+  {
+    "country": "EE",
     "name": "Kohtla-Järve",
     "lat": "59.39861",
     "lng": "27.27306"
+  },
+  {
+    "country": "EE",
+    "name": "Mustamäe",
+    "lat": "59.40482",
+    "lng": "24.68119"
+  },
+  {
+    "country": "EE",
+    "name": "Kesklinn",
+    "lat": "59.4355",
+    "lng": "24.75748"
+  },
+  {
+    "country": "EE",
+    "name": "Haabersti",
+    "lat": "59.42334",
+    "lng": "24.64654"
+  },
+  {
+    "country": "EE",
+    "name": "Kristiine",
+    "lat": "59.415",
+    "lng": "24.70915"
+  },
+  {
+    "country": "EE",
+    "name": "Põhja-Tallinn",
+    "lat": "59.44901",
+    "lng": "24.69812"
   },
   {
     "country": "EG",
@@ -58396,6 +59224,12 @@
     "name": "Esna",
     "lat": "25.29336",
     "lng": "32.55402"
+  },
+  {
+    "country": "EG",
+    "name": "Ihnāsyā al Madīnah",
+    "lat": "29.0895",
+    "lng": "30.94319"
   },
   {
     "country": "EG",
@@ -59155,6 +59989,12 @@
   },
   {
     "country": "EG",
+    "name": "Al-Manākh",
+    "lat": "31.26786",
+    "lng": "32.28464"
+  },
+  {
+    "country": "EG",
     "name": "Badr",
     "lat": "30.136",
     "lng": "31.715"
@@ -59251,6 +60091,12 @@
   },
   {
     "country": "EG",
+    "name": "Būr Fu’ād",
+    "lat": "31.24408",
+    "lng": "32.31955"
+  },
+  {
+    "country": "EG",
     "name": "Al-'Ubūr",
     "lat": "30.22886",
     "lng": "31.48149"
@@ -59296,6 +60142,18 @@
     "name": "New Bani Sewif City",
     "lat": "29.03556",
     "lng": "31.11792"
+  },
+  {
+    "country": "EG",
+    "name": "Aḍ-Ḍawāḥy",
+    "lat": "31.24408",
+    "lng": "32.27731"
+  },
+  {
+    "country": "EG",
+    "name": "Az-Zuhūr",
+    "lat": "31.26504",
+    "lng": "32.26405"
   },
   {
     "country": "EH",
@@ -68551,7 +69409,7 @@
   },
   {
     "country": "FR",
-    "name": "Dunkerque",
+    "name": "Dunkirk",
     "lat": "51.0344",
     "lng": "2.37681"
   },
@@ -72082,6 +72940,12 @@
     "name": "Louth",
     "lat": "53.36664",
     "lng": "-0.00438"
+  },
+  {
+    "country": "GB",
+    "name": "Loughton",
+    "lat": "52.43333",
+    "lng": "-2.56667"
   },
   {
     "country": "GB",
@@ -77059,7 +77923,7 @@
   },
   {
     "country": "GR",
-    "name": "Ródos",
+    "name": "Rhodes",
     "lat": "36.43556",
     "lng": "28.22199"
   },
@@ -77155,6 +78019,12 @@
   },
   {
     "country": "GR",
+    "name": "Lagkadás",
+    "lat": "40.75",
+    "lng": "23.06667"
+  },
+  {
+    "country": "GR",
     "name": "Kozáni",
     "lat": "40.29931",
     "lng": "21.78984"
@@ -77170,6 +78040,18 @@
     "name": "Kilkís",
     "lat": "40.99302",
     "lng": "22.87433"
+  },
+  {
+    "country": "GR",
+    "name": "Chortiátis",
+    "lat": "40.60954",
+    "lng": "23.10014"
+  },
+  {
+    "country": "GR",
+    "name": "Chalkidóna",
+    "lat": "40.73184",
+    "lng": "22.59992"
   },
   {
     "country": "GR",
@@ -77959,9 +78841,39 @@
   },
   {
     "country": "GW",
+    "name": "Reino de Bandim",
+    "lat": "11.85",
+    "lng": "-15.6"
+  },
+  {
+    "country": "GW",
+    "name": "Reino de Antula",
+    "lat": "11.9",
+    "lng": "-15.58333"
+  },
+  {
+    "country": "GW",
+    "name": "Quelele",
+    "lat": "11.86667",
+    "lng": "-15.63333"
+  },
+  {
+    "country": "GW",
+    "name": "Plaque",
+    "lat": "11.88333",
+    "lng": "-15.61667"
+  },
+  {
+    "country": "GW",
     "name": "Gabú",
     "lat": "12.28",
     "lng": "-14.22222"
+  },
+  {
+    "country": "GW",
+    "name": "Contumo",
+    "lat": "11.85",
+    "lng": "-15.61667"
   },
   {
     "country": "GW",
@@ -77974,6 +78886,42 @@
     "name": "Bafatá",
     "lat": "12.16583",
     "lng": "-14.66167"
+  },
+  {
+    "country": "GW",
+    "name": "Bairro Militar",
+    "lat": "11.8746",
+    "lng": "-15.6158"
+  },
+  {
+    "country": "GW",
+    "name": "Belem",
+    "lat": "11.85336",
+    "lng": "-15.60297"
+  },
+  {
+    "country": "GW",
+    "name": "Luanda",
+    "lat": "11.8787",
+    "lng": "-15.60047"
+  },
+  {
+    "country": "GW",
+    "name": "Missira",
+    "lat": "11.86145",
+    "lng": "-15.60679"
+  },
+  {
+    "country": "GW",
+    "name": "Sintra-Nema",
+    "lat": "11.86236",
+    "lng": "-15.59736"
+  },
+  {
+    "country": "GW",
+    "name": "Santa-Luzia",
+    "lat": "11.88798",
+    "lng": "-15.59003"
   },
   {
     "country": "GY",
@@ -78853,15 +79801,45 @@
   },
   {
     "country": "HN",
+    "name": "Yorito",
+    "lat": "15.06667",
+    "lng": "-87.28333"
+  },
+  {
+    "country": "HN",
+    "name": "Yamaranguila",
+    "lat": "14.28333",
+    "lng": "-88.24199"
+  },
+  {
+    "country": "HN",
     "name": "Villanueva",
     "lat": "15.31476",
     "lng": "-87.99383"
   },
   {
     "country": "HN",
+    "name": "Villa de San Antonio",
+    "lat": "14.32594",
+    "lng": "-87.61351"
+  },
+  {
+    "country": "HN",
+    "name": "Victoria",
+    "lat": "14.93761",
+    "lng": "-87.39354"
+  },
+  {
+    "country": "HN",
     "name": "Tocoa",
     "lat": "15.68333",
     "lng": "-86.0"
+  },
+  {
+    "country": "HN",
+    "name": "Teupasenti",
+    "lat": "14.21667",
+    "lng": "-86.7"
   },
   {
     "country": "HN",
@@ -78877,15 +79855,45 @@
   },
   {
     "country": "HN",
+    "name": "Sulaco",
+    "lat": "14.91667",
+    "lng": "-87.26667"
+  },
+  {
+    "country": "HN",
+    "name": "Sonaguera",
+    "lat": "15.63333",
+    "lng": "-86.33333"
+  },
+  {
+    "country": "HN",
     "name": "Siguatepeque",
     "lat": "14.59691",
     "lng": "-87.83102"
   },
   {
     "country": "HN",
+    "name": "Sabá",
+    "lat": "15.46667",
+    "lng": "-86.25"
+  },
+  {
+    "country": "HN",
     "name": "Santa Rosa de Copán",
     "lat": "14.77388",
     "lng": "-88.7756"
+  },
+  {
+    "country": "HN",
+    "name": "Santa Rita",
+    "lat": "15.2",
+    "lng": "-87.88333"
+  },
+  {
+    "country": "HN",
+    "name": "Santa Cruz de Yojoa",
+    "lat": "14.98086",
+    "lng": "-87.89091"
   },
   {
     "country": "HN",
@@ -78901,9 +79909,57 @@
   },
   {
     "country": "HN",
+    "name": "San Pedro de Copán",
+    "lat": "14.61667",
+    "lng": "-88.86667"
+  },
+  {
+    "country": "HN",
+    "name": "San Luis",
+    "lat": "15.12692",
+    "lng": "-88.43931"
+  },
+  {
+    "country": "HN",
     "name": "San Lorenzo",
     "lat": "13.42417",
     "lng": "-87.44722"
+  },
+  {
+    "country": "HN",
+    "name": "San Juan de Flores",
+    "lat": "14.26667",
+    "lng": "-87.03333"
+  },
+  {
+    "country": "HN",
+    "name": "San José de Colinas",
+    "lat": "15.04101",
+    "lng": "-88.30186"
+  },
+  {
+    "country": "HN",
+    "name": "San Francisco de Yojoa",
+    "lat": "15.01442",
+    "lng": "-87.9716"
+  },
+  {
+    "country": "HN",
+    "name": "San Antonio de Cortés",
+    "lat": "15.11611",
+    "lng": "-88.04074"
+  },
+  {
+    "country": "HN",
+    "name": "Sabanagrande",
+    "lat": "13.80778",
+    "lng": "-87.25917"
+  },
+  {
+    "country": "HN",
+    "name": "Quimistán",
+    "lat": "15.34752",
+    "lng": "-88.4052"
   },
   {
     "country": "HN",
@@ -78913,9 +79969,39 @@
   },
   {
     "country": "HN",
+    "name": "Omoa",
+    "lat": "15.77603",
+    "lng": "-88.03833"
+  },
+  {
+    "country": "HN",
     "name": "Olanchito",
     "lat": "15.48131",
     "lng": "-86.57415"
+  },
+  {
+    "country": "HN",
+    "name": "Morocelí",
+    "lat": "14.11667",
+    "lng": "-86.86667"
+  },
+  {
+    "country": "HN",
+    "name": "Marcovia",
+    "lat": "13.28806",
+    "lng": "-87.30972"
+  },
+  {
+    "country": "HN",
+    "name": "Macuelizo",
+    "lat": "15.31276",
+    "lng": "-88.54113"
+  },
+  {
+    "country": "HN",
+    "name": "Lepaera",
+    "lat": "14.77876",
+    "lng": "-88.5902"
   },
   {
     "country": "HN",
@@ -78925,9 +80011,21 @@
   },
   {
     "country": "HN",
+    "name": "Langue",
+    "lat": "13.62083",
+    "lng": "-87.6525"
+  },
+  {
+    "country": "HN",
     "name": "La Lima",
     "lat": "15.43333",
     "lng": "-87.91667"
+  },
+  {
+    "country": "HN",
+    "name": "La Iguala",
+    "lat": "14.61667",
+    "lng": "-88.46667"
   },
   {
     "country": "HN",
@@ -78943,6 +80041,36 @@
   },
   {
     "country": "HN",
+    "name": "Iriona",
+    "lat": "15.96777",
+    "lng": "-85.09323"
+  },
+  {
+    "country": "HN",
+    "name": "Gualaco",
+    "lat": "15.02521",
+    "lng": "-86.07076"
+  },
+  {
+    "country": "HN",
+    "name": "Esquías",
+    "lat": "14.74392",
+    "lng": "-87.3712"
+  },
+  {
+    "country": "HN",
+    "name": "Erandique",
+    "lat": "14.23787",
+    "lng": "-88.46447"
+  },
+  {
+    "country": "HN",
+    "name": "El Rosario",
+    "lat": "14.57909",
+    "lng": "-87.72677"
+  },
+  {
+    "country": "HN",
     "name": "El Progreso",
     "lat": "15.4",
     "lng": "-87.8"
@@ -78955,15 +80083,45 @@
   },
   {
     "country": "HN",
+    "name": "El Negrito",
+    "lat": "15.31667",
+    "lng": "-87.7"
+  },
+  {
+    "country": "HN",
+    "name": "Dulce Nombre de Culmí",
+    "lat": "15.1",
+    "lng": "-85.53333"
+  },
+  {
+    "country": "HN",
     "name": "Danlí",
     "lat": "14.03333",
     "lng": "-86.58333"
   },
   {
     "country": "HN",
+    "name": "Cucuyagua",
+    "lat": "14.64777",
+    "lng": "-88.87385"
+  },
+  {
+    "country": "HN",
+    "name": "Corquín",
+    "lat": "14.56667",
+    "lng": "-88.86667"
+  },
+  {
+    "country": "HN",
     "name": "Comayagua",
     "lat": "14.45577",
     "lng": "-87.63968"
+  },
+  {
+    "country": "HN",
+    "name": "Colomoncagua",
+    "lat": "13.95",
+    "lng": "-88.28333"
   },
   {
     "country": "HN",
@@ -78982,6 +80140,42 @@
     "name": "Choloma",
     "lat": "15.61444",
     "lng": "-87.95302"
+  },
+  {
+    "country": "HN",
+    "name": "Catacamas",
+    "lat": "14.85114",
+    "lng": "-85.89412"
+  },
+  {
+    "country": "HN",
+    "name": "Belén Gualcho",
+    "lat": "14.48333",
+    "lng": "-88.8"
+  },
+  {
+    "country": "HN",
+    "name": "Azacualpa",
+    "lat": "14.71218",
+    "lng": "-88.0901"
+  },
+  {
+    "country": "HN",
+    "name": "Atima",
+    "lat": "14.93253",
+    "lng": "-88.48965"
+  },
+  {
+    "country": "HN",
+    "name": "Arizona",
+    "lat": "15.63333",
+    "lng": "-87.31667"
+  },
+  {
+    "country": "HN",
+    "name": "La Ceiba",
+    "lat": "15.76667",
+    "lng": "-86.83333"
   },
   {
     "country": "HR",
@@ -79273,6 +80467,12 @@
   },
   {
     "country": "HT",
+    "name": "Dessalines",
+    "lat": "19.26177",
+    "lng": "-72.51611"
+  },
+  {
+    "country": "HT",
     "name": "Désarmes",
     "lat": "18.99345",
     "lng": "-72.39058"
@@ -79297,12 +80497,6 @@
   },
   {
     "country": "HT",
-    "name": "Carrefour",
-    "lat": "18.54114",
-    "lng": "-72.39922"
-  },
-  {
-    "country": "HT",
     "name": "Cap-Haïtien",
     "lat": "19.75938",
     "lng": "-72.19815"
@@ -79312,6 +80506,12 @@
     "name": "Arcahaie",
     "lat": "18.77019",
     "lng": "-72.51226"
+  },
+  {
+    "country": "HT",
+    "name": "Cité Soleil",
+    "lat": "18.58028",
+    "lng": "-72.33806"
   },
   {
     "country": "HT",
@@ -80154,6 +81354,12 @@
     "lng": "19.05279"
   },
   {
+    "country": "HU",
+    "name": "Alsórákos",
+    "lat": "47.52791",
+    "lng": "19.12287"
+  },
+  {
     "country": "ID",
     "name": "Tongging",
     "lat": "2.8985",
@@ -80272,6 +81478,12 @@
     "name": "Paropo",
     "lat": "2.8663",
     "lng": "98.5211"
+  },
+  {
+    "country": "ID",
+    "name": "Pangururan",
+    "lat": "2.6081",
+    "lng": "98.6961"
   },
   {
     "country": "ID",
@@ -80560,6 +81772,12 @@
     "name": "Tomohon",
     "lat": "1.31678",
     "lng": "124.80379"
+  },
+  {
+    "country": "ID",
+    "name": "Toli-Toli",
+    "lat": "1.04018",
+    "lng": "120.81764"
   },
   {
     "country": "ID",
@@ -81757,6 +82975,12 @@
   },
   {
     "country": "ID",
+    "name": "Kotamobagu",
+    "lat": "0.74194",
+    "lng": "124.31208"
+  },
+  {
+    "country": "ID",
     "name": "Kotabumi",
     "lat": "-4.82505",
     "lng": "104.8817"
@@ -82405,6 +83629,12 @@
   },
   {
     "country": "ID",
+    "name": "Benoa",
+    "lat": "-8.7548",
+    "lng": "115.2184"
+  },
+  {
+    "country": "ID",
     "name": "Bengkulu",
     "lat": "-3.80044",
     "lng": "102.26554"
@@ -82480,6 +83710,12 @@
     "name": "Banjarmasin",
     "lat": "-3.31987",
     "lng": "114.59075"
+  },
+  {
+    "country": "ID",
+    "name": "Banjarbaru",
+    "lat": "-3.4406",
+    "lng": "114.8365"
   },
   {
     "country": "ID",
@@ -82606,6 +83842,12 @@
     "name": "Amahai",
     "lat": "-3.33984",
     "lng": "128.91975"
+  },
+  {
+    "country": "ID",
+    "name": "Airmadidi",
+    "lat": "1.42804",
+    "lng": "124.97774"
   },
   {
     "country": "ID",
@@ -82753,6 +83995,18 @@
   },
   {
     "country": "ID",
+    "name": "Tuban",
+    "lat": "-8.7427",
+    "lng": "115.1724"
+  },
+  {
+    "country": "ID",
+    "name": "Batubulan",
+    "lat": "-8.62379",
+    "lng": "115.26203"
+  },
+  {
+    "country": "ID",
     "name": "Pekan Bahapal",
     "lat": "3.11313",
     "lng": "99.17352"
@@ -82782,6 +84036,18 @@
     "lng": "109.30093"
   },
   {
+    "country": "ID",
+    "name": "Dalung",
+    "lat": "-8.62553",
+    "lng": "115.17042"
+  },
+  {
+    "country": "ID",
+    "name": "Nusantara",
+    "lat": "-0.97306",
+    "lng": "116.70861"
+  },
+  {
     "country": "IE",
     "name": "Wexford",
     "lat": "52.33417",
@@ -82792,6 +84058,12 @@
     "name": "Waterford",
     "lat": "52.25833",
     "lng": "-7.11194"
+  },
+  {
+    "country": "IE",
+    "name": "Tullamore",
+    "lat": "53.27389",
+    "lng": "-7.48889"
   },
   {
     "country": "IE",
@@ -82825,6 +84097,12 @@
   },
   {
     "country": "IE",
+    "name": "Portlaoise",
+    "lat": "53.03441",
+    "lng": "-7.29979"
+  },
+  {
+    "country": "IE",
     "name": "Droichead Nua",
     "lat": "53.18194",
     "lng": "-6.79667"
@@ -82846,6 +84124,12 @@
     "name": "An Muileann gCearr",
     "lat": "53.52466",
     "lng": "-7.3385"
+  },
+  {
+    "country": "IE",
+    "name": "Maynooth",
+    "lat": "53.385",
+    "lng": "-6.59361"
   },
   {
     "country": "IE",
@@ -83002,6 +84286,12 @@
     "name": "Sandyford",
     "lat": "53.2747",
     "lng": "-6.2253"
+  },
+  {
+    "country": "IE",
+    "name": "Templeogue",
+    "lat": "53.29528",
+    "lng": "-6.30889"
   },
   {
     "country": "IE",
@@ -83312,8 +84602,8 @@
   {
     "country": "IL",
     "name": "Migdal Ha‘Emeq",
-    "lat": "32.67597",
-    "lng": "35.23986"
+    "lat": "32.67788",
+    "lng": "35.24158"
   },
   {
     "country": "IL",
@@ -83461,9 +84751,9 @@
   },
   {
     "country": "IL",
-    "name": "Er Reina",
-    "lat": "32.72339",
-    "lng": "35.31622"
+    "name": "Ar Rayna",
+    "lat": "32.7222",
+    "lng": "35.3156"
   },
   {
     "country": "IL",
@@ -83498,8 +84788,8 @@
   {
     "country": "IL",
     "name": "Bet She’an",
-    "lat": "32.49728",
-    "lng": "35.49632"
+    "lat": "32.49658",
+    "lng": "35.4965"
   },
   {
     "country": "IL",
@@ -90121,7 +91411,7 @@
   },
   {
     "country": "IN",
-    "name": "Mughal Sarāi",
+    "name": "Pandit Deen Dayal Upadhyaya Nagar",
     "lat": "25.28307",
     "lng": "83.11968"
   },
@@ -94930,12 +96220,6 @@
     "name": "Gorantla",
     "lat": "13.98411",
     "lng": "77.77224"
-  },
-  {
-    "country": "IN",
-    "name": "Gorakhpur",
-    "lat": "29.44768",
-    "lng": "75.67206"
   },
   {
     "country": "IN",
@@ -101029,6 +102313,12 @@
   },
   {
     "country": "IN",
+    "name": "Modīnagar",
+    "lat": "28.83059",
+    "lng": "77.57295"
+  },
+  {
+    "country": "IN",
     "name": "Bagru",
     "lat": "26.81067",
     "lng": "75.54702"
@@ -102094,6 +103384,12 @@
     "name": "Tirorā",
     "lat": "21.40409",
     "lng": "79.92617"
+  },
+  {
+    "country": "IN",
+    "name": "Jājmau",
+    "lat": "26.4304",
+    "lng": "80.4095"
   },
   {
     "country": "IN",
@@ -106314,6 +107610,18 @@
     "lng": "91.24805"
   },
   {
+    "country": "IN",
+    "name": "Kanpur Cantonment",
+    "lat": "26.45942",
+    "lng": "80.37514"
+  },
+  {
+    "country": "IN",
+    "name": "Nani Daman",
+    "lat": "20.41431",
+    "lng": "72.83236"
+  },
+  {
     "country": "IQ",
     "name": "Zaxo",
     "lat": "37.14871",
@@ -106417,6 +107725,12 @@
   },
   {
     "country": "IQ",
+    "name": "Habhab",
+    "lat": "33.78406",
+    "lng": "44.50659"
+  },
+  {
+    "country": "IQ",
     "name": "Al-Hamdaniya",
     "lat": "36.27093",
     "lng": "43.37758"
@@ -106432,6 +107746,12 @@
     "name": "Qal‘at Şāliḩ",
     "lat": "31.52802",
     "lng": "47.29362"
+  },
+  {
+    "country": "IQ",
+    "name": "Qeładizê",
+    "lat": "36.18254",
+    "lng": "45.13017"
   },
   {
     "country": "IQ",
@@ -106504,6 +107824,12 @@
     "name": "Ḩadīthah",
     "lat": "34.13661",
     "lng": "42.37727"
+  },
+  {
+    "country": "IQ",
+    "name": "Xebat",
+    "lat": "36.27798",
+    "lng": "43.67065"
   },
   {
     "country": "IQ",
@@ -106837,9 +108163,9 @@
   },
   {
     "country": "IQ",
-    "name": "Al Başrah al Qadīmah",
-    "lat": "30.50316",
-    "lng": "47.81507"
+    "name": "Derbendîxan",
+    "lat": "35.11207",
+    "lng": "45.68663"
   },
   {
     "country": "IQ",
@@ -106891,6 +108217,12 @@
   },
   {
     "country": "IQ",
+    "name": "Dêrelûk Devera Nihêliya",
+    "lat": "37.05598",
+    "lng": "43.65188"
+  },
+  {
+    "country": "IQ",
     "name": "Simele",
     "lat": "36.85833",
     "lng": "42.8501"
@@ -106906,6 +108238,18 @@
     "name": "Abū al-Kahṣīb",
     "lat": "30.4431",
     "lng": "47.87802"
+  },
+  {
+    "country": "IQ",
+    "name": "Shelādiz",
+    "lat": "37.0326",
+    "lng": "43.77616"
+  },
+  {
+    "country": "IR",
+    "name": "Shahrak-e Qods",
+    "lat": "35.75936",
+    "lng": "51.37601"
   },
   {
     "country": "IR",
@@ -106927,9 +108271,9 @@
   },
   {
     "country": "IR",
-    "name": "Āzādshahr",
-    "lat": "34.79049",
-    "lng": "48.57011"
+    "name": "Bostānābād",
+    "lat": "37.84633",
+    "lng": "46.83542"
   },
   {
     "country": "IR",
@@ -106987,9 +108331,15 @@
   },
   {
     "country": "IR",
-    "name": "Dezfūl",
-    "lat": "32.41667",
-    "lng": "48.21667"
+    "name": "Hādīshahr",
+    "lat": "38.8479",
+    "lng": "45.6623"
+  },
+  {
+    "country": "IR",
+    "name": "Gomīshān",
+    "lat": "37.0718",
+    "lng": "54.07654"
   },
   {
     "country": "IR",
@@ -107005,6 +108355,12 @@
   },
   {
     "country": "IR",
+    "name": "Malekābād",
+    "lat": "35.8164",
+    "lng": "50.8228"
+  },
+  {
+    "country": "IR",
     "name": "Kamālshahr",
     "lat": "35.86187",
     "lng": "50.87424"
@@ -107014,6 +108370,18 @@
     "name": "Shahrak-e Mohandesī-ye Zerā‘ī",
     "lat": "35.772",
     "lng": "50.956"
+  },
+  {
+    "country": "IR",
+    "name": "Chahārbāgh",
+    "lat": "35.8389",
+    "lng": "50.8481"
+  },
+  {
+    "country": "IR",
+    "name": "‘Eyn-e Do",
+    "lat": "31.3456",
+    "lng": "48.60063"
   },
   {
     "country": "IR",
@@ -107044,6 +108412,12 @@
     "name": "Yasuj",
     "lat": "30.66824",
     "lng": "51.58796"
+  },
+  {
+    "country": "IR",
+    "name": "Ashkez̄ar",
+    "lat": "31.99679",
+    "lng": "54.20852"
   },
   {
     "country": "IR",
@@ -107092,6 +108466,12 @@
     "name": "Tūyserkān",
     "lat": "34.551",
     "lng": "48.44353"
+  },
+  {
+    "country": "IR",
+    "name": "Ţorqabeh",
+    "lat": "36.3104",
+    "lng": "59.3735"
   },
   {
     "country": "IR",
@@ -107260,6 +108640,12 @@
     "name": "Shabestar",
     "lat": "38.1804",
     "lng": "45.7028"
+  },
+  {
+    "country": "IR",
+    "name": "Seyah Cheshmeh",
+    "lat": "39.06508",
+    "lng": "44.38416"
   },
   {
     "country": "IR",
@@ -107473,6 +108859,12 @@
   },
   {
     "country": "IR",
+    "name": "Qaşr-e Shīrīn",
+    "lat": "34.5156",
+    "lng": "45.5791"
+  },
+  {
+    "country": "IR",
     "name": "Qarah Ẕīā’ od Dīn",
     "lat": "38.8915",
     "lng": "45.0255"
@@ -107504,8 +108896,8 @@
   {
     "country": "IR",
     "name": "Qā’em Shahr",
-    "lat": "36.46306",
-    "lng": "52.86007"
+    "lat": "36.46671",
+    "lng": "52.86762"
   },
   {
     "country": "IR",
@@ -107617,9 +109009,21 @@
   },
   {
     "country": "IR",
+    "name": "Nasirshahr",
+    "lat": "35.49209",
+    "lng": "51.13836"
+  },
+  {
+    "country": "IR",
     "name": "Naqadeh",
     "lat": "36.9553",
     "lng": "45.388"
+  },
+  {
+    "country": "IR",
+    "name": "Nakhl-e Taqī",
+    "lat": "27.49752",
+    "lng": "52.58653"
   },
   {
     "country": "IR",
@@ -107744,8 +109148,8 @@
   {
     "country": "IR",
     "name": "Manūjān",
-    "lat": "27.40698",
-    "lng": "57.50128"
+    "lat": "27.39893",
+    "lng": "57.49722"
   },
   {
     "country": "IR",
@@ -107773,6 +109177,12 @@
   },
   {
     "country": "IR",
+    "name": "Maku",
+    "lat": "39.28992",
+    "lng": "44.46035"
+  },
+  {
+    "country": "IR",
     "name": "Makū",
     "lat": "27.8486",
     "lng": "52.423"
@@ -107785,6 +109195,18 @@
   },
   {
     "country": "IR",
+    "name": "Maḩmūdābād Nemūneh",
+    "lat": "36.28967",
+    "lng": "49.9014"
+  },
+  {
+    "country": "IR",
+    "name": "Māhān",
+    "lat": "30.05943",
+    "lng": "57.29198"
+  },
+  {
+    "country": "IR",
     "name": "Maḩallāt",
     "lat": "33.91108",
     "lng": "50.45317"
@@ -107794,6 +109216,12 @@
     "name": "Mahābād",
     "lat": "36.7631",
     "lng": "45.7222"
+  },
+  {
+    "country": "IR",
+    "name": "Mādavān",
+    "lat": "30.71525",
+    "lng": "51.54131"
   },
   {
     "country": "IR",
@@ -107863,7 +109291,7 @@
   },
   {
     "country": "IR",
-    "name": "Khowy",
+    "name": "Khūy",
     "lat": "38.5503",
     "lng": "44.9521"
   },
@@ -107875,7 +109303,7 @@
   },
   {
     "country": "IR",
-    "name": "Khvānsār",
+    "name": "Khānsār",
     "lat": "33.22052",
     "lng": "50.31497"
   },
@@ -107899,6 +109327,12 @@
   },
   {
     "country": "IR",
+    "name": "Khonj",
+    "lat": "27.8913",
+    "lng": "53.4344"
+  },
+  {
+    "country": "IR",
     "name": "Khomeyn",
     "lat": "33.63889",
     "lng": "50.08003"
@@ -107908,6 +109342,12 @@
     "name": "Khomām",
     "lat": "37.39016",
     "lng": "49.65846"
+  },
+  {
+    "country": "IR",
+    "name": "Bandar-e Khamīr",
+    "lat": "26.9521",
+    "lng": "55.5851"
   },
   {
     "country": "IR",
@@ -107935,9 +109375,21 @@
   },
   {
     "country": "IR",
+    "name": "Sīmīn Shahr",
+    "lat": "37.01422",
+    "lng": "54.23004"
+  },
+  {
+    "country": "IR",
     "name": "Kāshmar",
     "lat": "35.23831",
     "lng": "58.46558"
+  },
+  {
+    "country": "IR",
+    "name": "Kashan",
+    "lat": "33.98237",
+    "lng": "51.42769"
   },
   {
     "country": "IR",
@@ -108001,15 +109453,21 @@
   },
   {
     "country": "IR",
-    "name": "Javānrūd",
-    "lat": "34.79611",
-    "lng": "46.51722"
+    "name": "Jask",
+    "lat": "25.64533",
+    "lng": "57.77552"
   },
   {
     "country": "IR",
     "name": "Jam",
     "lat": "27.82977",
     "lng": "52.32518"
+  },
+  {
+    "country": "IR",
+    "name": "Jājarm",
+    "lat": "36.95012",
+    "lng": "56.38005"
   },
   {
     "country": "IR",
@@ -108046,6 +109504,12 @@
     "name": "Hashtgerd",
     "lat": "35.962",
     "lng": "50.6799"
+  },
+  {
+    "country": "IR",
+    "name": "Ḩasanābād",
+    "lat": "35.36732",
+    "lng": "51.23498"
   },
   {
     "country": "IR",
@@ -108133,6 +109597,12 @@
   },
   {
     "country": "IR",
+    "name": "Garmsār",
+    "lat": "35.21824",
+    "lng": "52.34085"
+  },
+  {
+    "country": "IR",
     "name": "Germī",
     "lat": "39.0215",
     "lng": "48.0801"
@@ -108169,6 +109639,12 @@
   },
   {
     "country": "IR",
+    "name": "Fīrūzkūh",
+    "lat": "35.75674",
+    "lng": "52.77062"
+  },
+  {
+    "country": "IR",
     "name": "Fīrūzābād",
     "lat": "28.84459",
     "lng": "52.57151"
@@ -108184,6 +109660,12 @@
     "name": "Fereydūn Kenār",
     "lat": "36.68489",
     "lng": "52.51917"
+  },
+  {
+    "country": "IR",
+    "name": "Ferdows",
+    "lat": "34.0185",
+    "lng": "58.17222"
   },
   {
     "country": "IR",
@@ -108271,6 +109753,12 @@
   },
   {
     "country": "IR",
+    "name": "Dezful",
+    "lat": "32.38114",
+    "lng": "48.40581"
+  },
+  {
+    "country": "IR",
     "name": "Bandar-e Deyr",
     "lat": "27.8399",
     "lng": "51.9378"
@@ -108295,6 +109783,12 @@
   },
   {
     "country": "IR",
+    "name": "Şafāshahr",
+    "lat": "30.6131",
+    "lng": "53.1954"
+  },
+  {
+    "country": "IR",
     "name": "Dehāqān",
     "lat": "31.93986",
     "lng": "51.64731"
@@ -108310,6 +109804,12 @@
     "name": "Darreh Shahr",
     "lat": "33.14447",
     "lng": "47.3799"
+  },
+  {
+    "country": "IR",
+    "name": "Dargaz",
+    "lat": "37.44447",
+    "lng": "59.10809"
   },
   {
     "country": "IR",
@@ -108358,6 +109858,12 @@
     "name": "Chālūs",
     "lat": "36.655",
     "lng": "51.4204"
+  },
+  {
+    "country": "IR",
+    "name": "Chahār Dangeh",
+    "lat": "35.6031",
+    "lng": "51.3098"
   },
   {
     "country": "IR",
@@ -108470,8 +109976,14 @@
   {
     "country": "IR",
     "name": "Bandar-e Lengeh",
-    "lat": "26.55792",
-    "lng": "54.88067"
+    "lat": "26.56207",
+    "lng": "54.88382"
+  },
+  {
+    "country": "IR",
+    "name": "Bandar-e Kong",
+    "lat": "26.59775",
+    "lng": "54.93694"
   },
   {
     "country": "IR",
@@ -108577,6 +110089,12 @@
   },
   {
     "country": "IR",
+    "name": "Āshkhāneh",
+    "lat": "37.5615",
+    "lng": "56.92125"
+  },
+  {
+    "country": "IR",
     "name": "Asadābād",
     "lat": "34.78241",
     "lng": "48.12012"
@@ -108655,12 +110173,6 @@
   },
   {
     "country": "IR",
-    "name": "Alvand",
-    "lat": "36.31885",
-    "lng": "49.16773"
-  },
-  {
-    "country": "IR",
     "name": "Shahrīār",
     "lat": "35.65884",
     "lng": "51.05775"
@@ -108670,6 +110182,12 @@
     "name": "Alīgūdarz",
     "lat": "33.404",
     "lng": "49.69179"
+  },
+  {
+    "country": "IR",
+    "name": "'Alī Ābād-e Katūl",
+    "lat": "36.91011",
+    "lng": "54.86737"
   },
   {
     "country": "IR",
@@ -108733,6 +110251,12 @@
   },
   {
     "country": "IR",
+    "name": "Abarkūh",
+    "lat": "31.1289",
+    "lng": "53.2824"
+  },
+  {
+    "country": "IR",
     "name": "Abadeh",
     "lat": "31.1608",
     "lng": "52.6506"
@@ -108787,7 +110311,7 @@
   },
   {
     "country": "IR",
-    "name": "Naz̧arābād",
+    "name": "Nasir Abaad",
     "lat": "35.6102",
     "lng": "51.1611"
   },
@@ -109034,8 +110558,8 @@
   {
     "country": "IR",
     "name": "Khvāf",
-    "lat": "34.5763",
-    "lng": "60.14093"
+    "lat": "34.57232",
+    "lng": "60.14404"
   },
   {
     "country": "IR",
@@ -109111,6 +110635,12 @@
   },
   {
     "country": "IR",
+    "name": "Shahrak-e Pardīsān",
+    "lat": "34.55734",
+    "lng": "50.80201"
+  },
+  {
+    "country": "IR",
     "name": "Şabbāshahr",
     "lat": "35.58026",
     "lng": "51.11392"
@@ -109135,9 +110665,21 @@
   },
   {
     "country": "IR",
+    "name": "Āz̄arshahr",
+    "lat": "37.759",
+    "lng": "45.9783"
+  },
+  {
+    "country": "IR",
     "name": "Mahājerān",
     "lat": "34.05042",
     "lng": "49.43498"
+  },
+  {
+    "country": "IR",
+    "name": "Kāshān",
+    "lat": "34.00228",
+    "lng": "51.43879"
   },
   {
     "country": "IR",
@@ -109189,6 +110731,12 @@
   },
   {
     "country": "IR",
+    "name": "Vaḩīdīyeh",
+    "lat": "35.60709",
+    "lng": "51.03457"
+  },
+  {
+    "country": "IR",
     "name": "Khabarābād",
     "lat": "35.54263",
     "lng": "51.14813"
@@ -109207,7 +110755,7 @@
   },
   {
     "country": "IR",
-    "name": "Shahr-e Jadīd-e Mehestan",
+    "name": "Mehestan",
     "lat": "35.98907",
     "lng": "50.74512"
   },
@@ -109231,6 +110779,12 @@
   },
   {
     "country": "IR",
+    "name": "Kahrīzak",
+    "lat": "35.51718",
+    "lng": "51.36052"
+  },
+  {
+    "country": "IR",
     "name": "Nasimshahr",
     "lat": "35.56528",
     "lng": "51.1583"
@@ -109246,6 +110800,18 @@
     "name": "Sahand",
     "lat": "37.95104",
     "lng": "46.1103"
+  },
+  {
+    "country": "IR",
+    "name": "Ṣafādasht",
+    "lat": "35.69244",
+    "lng": "50.84828"
+  },
+  {
+    "country": "IR",
+    "name": "Gorjī-ye Soflá",
+    "lat": "36.35636",
+    "lng": "59.66004"
   },
   {
     "country": "IS",
@@ -110542,6 +112108,12 @@
     "name": "Rosignano Solvay-Castiglioncello",
     "lat": "43.38946",
     "lng": "10.43615"
+  },
+  {
+    "country": "IT",
+    "name": "Rosignano Marittimo",
+    "lat": "43.40686",
+    "lng": "10.47231"
   },
   {
     "country": "IT",
@@ -112280,8 +113852,14 @@
   {
     "country": "IT",
     "name": "Cardito",
-    "lat": "40.9459",
-    "lng": "14.29952"
+    "lat": "40.94643",
+    "lng": "14.29533"
+  },
+  {
+    "country": "IT",
+    "name": "Carbonara di Bari",
+    "lat": "41.06667",
+    "lng": "16.86667"
   },
   {
     "country": "IT",
@@ -113053,6 +114631,12 @@
   },
   {
     "country": "IT",
+    "name": "Malafede",
+    "lat": "41.77451",
+    "lng": "12.37739"
+  },
+  {
+    "country": "IT",
     "name": "Campo di Marte",
     "lat": "43.77693",
     "lng": "11.27707"
@@ -113220,6 +114804,12 @@
     "lng": "7.68376"
   },
   {
+    "country": "IT",
+    "name": "Chieti Scalo",
+    "lat": "42.35904",
+    "lng": "14.13867"
+  },
+  {
     "country": "JE",
     "name": "Saint Helier",
     "lat": "49.18804",
@@ -113248,6 +114838,12 @@
     "name": "Old Harbour",
     "lat": "17.94144",
     "lng": "-77.10898"
+  },
+  {
+    "country": "JM",
+    "name": "Ocho Rios",
+    "lat": "18.4076",
+    "lng": "-77.10312"
   },
   {
     "country": "JM",
@@ -113290,6 +114886,12 @@
     "name": "Half Way Tree",
     "lat": "18.01248",
     "lng": "-76.79928"
+  },
+  {
+    "country": "JM",
+    "name": "Barrett Town",
+    "lat": "18.51491",
+    "lng": "-77.80178"
   },
   {
     "country": "JO",
@@ -115558,6 +117160,12 @@
     "name": "Minamirinkan",
     "lat": "35.49527",
     "lng": "139.44279"
+  },
+  {
+    "country": "JP",
+    "name": "Minami-aoyama",
+    "lat": "35.66463",
+    "lng": "139.71547"
   },
   {
     "country": "JP",
@@ -118855,6 +120463,12 @@
   },
   {
     "country": "JP",
+    "name": "Sakuragawa",
+    "lat": "36.25052",
+    "lng": "140.11565"
+  },
+  {
+    "country": "JP",
     "name": "Bandō",
     "lat": "36.06997",
     "lng": "139.86705"
@@ -120094,6 +121708,12 @@
     "name": "Yomitan",
     "lat": "26.40167",
     "lng": "127.74503"
+  },
+  {
+    "country": "JP",
+    "name": "Azamino",
+    "lat": "35.5699",
+    "lng": "139.54482"
   },
   {
     "country": "JP",
@@ -123337,7 +124957,7 @@
   },
   {
     "country": "KR",
-    "name": "Puan",
+    "name": "Buan",
     "lat": "35.72806",
     "lng": "126.73194"
   },
@@ -124249,7 +125869,7 @@
   },
   {
     "country": "KZ",
-    "name": "Turkestan",
+    "name": "Turkistan",
     "lat": "43.29458",
     "lng": "68.25685"
   },
@@ -124300,6 +125920,12 @@
     "name": "Shemonaikha",
     "lat": "50.62899",
     "lng": "81.91092"
+  },
+  {
+    "country": "KZ",
+    "name": "Shelek",
+    "lat": "43.59623",
+    "lng": "78.25745"
   },
   {
     "country": "KZ",
@@ -124754,8 +126380,8 @@
   {
     "country": "LB",
     "name": "Habboûch",
-    "lat": "33.40729",
-    "lng": "35.48169"
+    "lat": "33.40753",
+    "lng": "35.48177"
   },
   {
     "country": "LB",
@@ -126937,6 +128563,12 @@
   },
   {
     "country": "MA",
+    "name": "Azla",
+    "lat": "35.55303",
+    "lng": "-5.24472"
+  },
+  {
+    "country": "MA",
     "name": "Ribat Al Khayr",
     "lat": "33.81518",
     "lng": "-4.40717"
@@ -128318,8 +129950,8 @@
   {
     "country": "ML",
     "name": "Kolokani",
-    "lat": "13.5728",
-    "lng": "-8.0339"
+    "lat": "13.57388",
+    "lng": "-8.03267"
   },
   {
     "country": "ML",
@@ -128462,8 +130094,8 @@
   {
     "country": "ML",
     "name": "Bla",
-    "lat": "12.95007",
-    "lng": "-5.76024"
+    "lat": "12.95083",
+    "lng": "-5.75557"
   },
   {
     "country": "ML",
@@ -128848,6 +130480,12 @@
     "name": "Paung",
     "lat": "16.61753",
     "lng": "97.45851"
+  },
+  {
+    "country": "MM",
+    "name": "Pangtara",
+    "lat": "20.94318",
+    "lng": "96.66266"
   },
   {
     "country": "MM",
@@ -131162,8 +132800,8 @@
   {
     "country": "MX",
     "name": "Montemorelos",
-    "lat": "25.18909",
-    "lng": "-99.82865"
+    "lat": "25.18897",
+    "lng": "-99.82933"
   },
   {
     "country": "MX",
@@ -131822,8 +133460,8 @@
   {
     "country": "MX",
     "name": "Champotón",
-    "lat": "19.34745",
-    "lng": "-90.72039"
+    "lat": "19.34241",
+    "lng": "-90.72272"
   },
   {
     "country": "MX",
@@ -131888,8 +133526,8 @@
   {
     "country": "MX",
     "name": "Cadereyta Jiménez",
-    "lat": "25.58896",
-    "lng": "-100.00156"
+    "lat": "25.59051",
+    "lng": "-100.00095"
   },
   {
     "country": "MX",
@@ -132428,8 +134066,8 @@
   {
     "country": "MX",
     "name": "García",
-    "lat": "25.81201",
-    "lng": "-100.59874"
+    "lat": "25.80092",
+    "lng": "-100.58612"
   },
   {
     "country": "MX",
@@ -132632,8 +134270,8 @@
   {
     "country": "MX",
     "name": "Santiago",
-    "lat": "25.42533",
-    "lng": "-100.15205"
+    "lat": "25.42596",
+    "lng": "-100.15399"
   },
   {
     "country": "MX",
@@ -132812,8 +134450,8 @@
   {
     "country": "MX",
     "name": "Ciudad Sabinas Hidalgo",
-    "lat": "26.50358",
-    "lng": "-100.18187"
+    "lat": "26.50193",
+    "lng": "-100.18121"
   },
   {
     "country": "MX",
@@ -133202,8 +134840,8 @@
   {
     "country": "MX",
     "name": "Ciudad Benito Juárez",
-    "lat": "25.64724",
-    "lng": "-100.09582"
+    "lat": "25.6466",
+    "lng": "-100.09142"
   },
   {
     "country": "MX",
@@ -133358,8 +134996,8 @@
   {
     "country": "MX",
     "name": "Guadalupe",
-    "lat": "25.67678",
-    "lng": "-100.25646"
+    "lat": "25.67663",
+    "lng": "-100.25907"
   },
   {
     "country": "MX",
@@ -133394,14 +135032,14 @@
   {
     "country": "MX",
     "name": "Ciudad General Escobedo",
-    "lat": "25.79698",
-    "lng": "-100.31791"
+    "lat": "25.79663",
+    "lng": "-100.31767"
   },
   {
     "country": "MX",
     "name": "San Pedro Garza García",
-    "lat": "25.6604",
-    "lng": "-100.40651"
+    "lat": "25.66158",
+    "lng": "-100.4034"
   },
   {
     "country": "MX",
@@ -133610,8 +135248,8 @@
   {
     "country": "MX",
     "name": "Anáhuac",
-    "lat": "27.24457",
-    "lng": "-100.13229"
+    "lat": "27.24123",
+    "lng": "-100.13337"
   },
   {
     "country": "MX",
@@ -133628,8 +135266,8 @@
   {
     "country": "MX",
     "name": "Ciénega de Flores",
-    "lat": "25.95467",
-    "lng": "-100.16695"
+    "lat": "25.9545",
+    "lng": "-100.16617"
   },
   {
     "country": "MX",
@@ -133724,8 +135362,8 @@
   {
     "country": "MX",
     "name": "Ciudad Apodaca",
-    "lat": "25.78195",
-    "lng": "-100.18839"
+    "lat": "25.78143",
+    "lng": "-100.18911"
   },
   {
     "country": "MX",
@@ -133760,8 +135398,8 @@
   {
     "country": "MX",
     "name": "Ciudad de Allende",
-    "lat": "25.27673",
-    "lng": "-100.01442"
+    "lat": "25.28123",
+    "lng": "-100.01928"
   },
   {
     "country": "MX",
@@ -133808,8 +135446,8 @@
   {
     "country": "MX",
     "name": "Hidalgo",
-    "lat": "25.97205",
-    "lng": "-100.45029"
+    "lat": "25.9724",
+    "lng": "-100.45221"
   },
   {
     "country": "MX",
@@ -137275,6 +138913,12 @@
   },
   {
     "country": "NG",
+    "name": "Ota",
+    "lat": "6.68867",
+    "lng": "3.23202"
+  },
+  {
+    "country": "NG",
     "name": "Otan Ayegbaju",
     "lat": "7.94783",
     "lng": "4.78836"
@@ -137551,12 +139195,6 @@
   },
   {
     "country": "NG",
-    "name": "Lekki",
-    "lat": "6.41222",
-    "lng": "4.0947"
-  },
-  {
-    "country": "NG",
     "name": "Lapai",
     "lat": "9.04439",
     "lng": "6.57089"
@@ -137743,6 +139381,12 @@
   },
   {
     "country": "NG",
+    "name": "Iyesi",
+    "lat": "6.66056",
+    "lng": "3.1798"
+  },
+  {
+    "country": "NG",
     "name": "Iwo",
     "lat": "7.63527",
     "lng": "4.18156"
@@ -137878,6 +139522,18 @@
     "name": "Ikare",
     "lat": "7.52591",
     "lng": "5.75342"
+  },
+  {
+    "country": "NG",
+    "name": "River Atuwara",
+    "lat": "6.68194",
+    "lng": "3.14306"
+  },
+  {
+    "country": "NG",
+    "name": "Ijoko",
+    "lat": "6.74241",
+    "lng": "3.26217"
   },
   {
     "country": "NG",
@@ -138493,6 +140149,12 @@
   },
   {
     "country": "NG",
+    "name": "Alasia",
+    "lat": "6.47489",
+    "lng": "3.16914"
+  },
+  {
+    "country": "NG",
     "name": "Akwanga",
     "lat": "8.91077",
     "lng": "8.40655"
@@ -138520,6 +140182,12 @@
     "name": "Agulu",
     "lat": "6.10045",
     "lng": "7.061"
+  },
+  {
+    "country": "NG",
+    "name": "Agege",
+    "lat": "6.61563",
+    "lng": "3.33337"
   },
   {
     "country": "NG",
@@ -138598,6 +140266,12 @@
     "name": "Degema Hulk",
     "lat": "4.76145",
     "lng": "6.74957"
+  },
+  {
+    "country": "NG",
+    "name": "Lekki",
+    "lat": "6.44632",
+    "lng": "3.47717"
   },
   {
     "country": "NG",
@@ -140280,6 +141954,12 @@
     "lng": "5.30194"
   },
   {
+    "country": "NL",
+    "name": "Leidsche Rijn",
+    "lat": "52.09497",
+    "lng": "5.04613"
+  },
+  {
     "country": "NO",
     "name": "Alta",
     "lat": "69.96887",
@@ -140714,8 +142394,8 @@
   {
     "country": "NP",
     "name": "Butwāl",
-    "lat": "27.70055",
-    "lng": "83.44836"
+    "lat": "27.69121",
+    "lng": "83.45251"
   },
   {
     "country": "NP",
@@ -141583,6 +143263,12 @@
   },
   {
     "country": "PE",
+    "name": "Requena",
+    "lat": "-5.06083",
+    "lng": "-73.85028"
+  },
+  {
+    "country": "PE",
     "name": "Querecotillo",
     "lat": "-4.83778",
     "lng": "-80.64556"
@@ -141733,6 +143419,12 @@
   },
   {
     "country": "PE",
+    "name": "Contamana",
+    "lat": "-7.33333",
+    "lng": "-75.01667"
+  },
+  {
+    "country": "PE",
     "name": "Coishco",
     "lat": "-9.02306",
     "lng": "-78.61556"
@@ -141829,12 +143521,6 @@
   },
   {
     "country": "PE",
-    "name": "Yunguyo",
-    "lat": "-16.25",
-    "lng": "-69.08333"
-  },
-  {
-    "country": "PE",
     "name": "Yauri",
     "lat": "-14.79083",
     "lng": "-71.40986"
@@ -141904,6 +143590,12 @@
     "name": "San Clemente",
     "lat": "-13.66667",
     "lng": "-76.15"
+  },
+  {
+    "country": "PE",
+    "name": "Quillabamba",
+    "lat": "-12.86334",
+    "lng": "-72.69306"
   },
   {
     "country": "PE",
@@ -142153,6 +143845,12 @@
   },
   {
     "country": "PE",
+    "name": "Atalaya",
+    "lat": "-10.73067",
+    "lng": "-73.75867"
+  },
+  {
+    "country": "PE",
     "name": "Arequipa",
     "lat": "-16.39899",
     "lng": "-71.53747"
@@ -142300,6 +143998,12 @@
     "name": "Breña",
     "lat": "-12.05605",
     "lng": "-77.05295"
+  },
+  {
+    "country": "PE",
+    "name": "San Miguel",
+    "lat": "-15.47798",
+    "lng": "-70.12498"
   },
   {
     "country": "PF",
@@ -144211,7 +145915,7 @@
   },
   {
     "country": "PH",
-    "name": "Kalibo (poblacion)",
+    "name": "Kalibo",
     "lat": "11.70611",
     "lng": "122.36444"
   },
@@ -145273,6 +146977,12 @@
   },
   {
     "country": "PH",
+    "name": "Balulang",
+    "lat": "8.44528",
+    "lng": "124.63139"
+  },
+  {
+    "country": "PH",
     "name": "Baliuag",
     "lat": "14.95472",
     "lng": "120.89694"
@@ -145768,6 +147478,12 @@
     "name": "Tando Jam",
     "lat": "25.42813",
     "lng": "68.52923"
+  },
+  {
+    "country": "PK",
+    "name": "Tando Bago",
+    "lat": "24.78914",
+    "lng": "68.96535"
   },
   {
     "country": "PK",
@@ -147067,6 +148783,12 @@
   },
   {
     "country": "PK",
+    "name": "Harappa",
+    "lat": "30.63251",
+    "lng": "72.87032"
+  },
+  {
+    "country": "PK",
     "name": "Hangu",
     "lat": "33.53198",
     "lng": "71.0595"
@@ -147163,6 +148885,12 @@
   },
   {
     "country": "PK",
+    "name": "Gadani",
+    "lat": "25.11879",
+    "lng": "66.73219"
+  },
+  {
+    "country": "PK",
     "name": "Fort Abbas",
     "lat": "29.19344",
     "lng": "72.85525"
@@ -147235,6 +148963,12 @@
   },
   {
     "country": "PK",
+    "name": "Dokri",
+    "lat": "27.37421",
+    "lng": "68.09715"
+  },
+  {
+    "country": "PK",
     "name": "Upper Dir",
     "lat": "35.2074",
     "lng": "71.8768"
@@ -147268,6 +149002,12 @@
     "name": "Dhoro Naro",
     "lat": "25.50484",
     "lng": "69.5709"
+  },
+  {
+    "country": "PK",
+    "name": "Dhaunkal",
+    "lat": "32.40613",
+    "lng": "74.13706"
   },
   {
     "country": "PK",
@@ -147415,6 +149155,12 @@
   },
   {
     "country": "PK",
+    "name": "Chak",
+    "lat": "27.85838",
+    "lng": "68.83378"
+  },
+  {
+    "country": "PK",
     "name": "Burewala",
     "lat": "30.16667",
     "lng": "72.65"
@@ -147538,6 +149284,12 @@
     "name": "Bāgh",
     "lat": "33.98111",
     "lng": "73.77608"
+  },
+  {
+    "country": "PK",
+    "name": "Baffa",
+    "lat": "34.4377",
+    "lng": "73.22368"
   },
   {
     "country": "PK",
@@ -147748,6 +149500,12 @@
     "name": "Wah Cantt",
     "lat": "33.77094",
     "lng": "72.75116"
+  },
+  {
+    "country": "PK",
+    "name": "Hub",
+    "lat": "25.02555",
+    "lng": "66.88534"
   },
   {
     "country": "PL",
@@ -150163,6 +151921,12 @@
   },
   {
     "country": "PS",
+    "name": "Shu‘fāţ",
+    "lat": "31.81651",
+    "lng": "35.22745"
+  },
+  {
+    "country": "PS",
     "name": "Ramallah",
     "lat": "31.89964",
     "lng": "35.20422"
@@ -151417,6 +153181,12 @@
   },
   {
     "country": "PY",
+    "name": "Villeta",
+    "lat": "-25.50691",
+    "lng": "-57.56633"
+  },
+  {
+    "country": "PY",
     "name": "Villarrica",
     "lat": "-25.74946",
     "lng": "-56.43518"
@@ -151477,6 +153247,12 @@
   },
   {
     "country": "PY",
+    "name": "Loma Plata",
+    "lat": "-22.3829",
+    "lng": "-59.83549"
+  },
+  {
+    "country": "PY",
     "name": "Limpio",
     "lat": "-25.16611",
     "lng": "-57.48562"
@@ -151486,6 +153262,12 @@
     "name": "Lambaré",
     "lat": "-25.34682",
     "lng": "-57.60647"
+  },
+  {
+    "country": "PY",
+    "name": "Doctor Juan Eulogio Estigarribia",
+    "lat": "-25.37184",
+    "lng": "-55.70457"
   },
   {
     "country": "PY",
@@ -152716,6 +154498,12 @@
     "name": "Novi Pazar",
     "lat": "43.13667",
     "lng": "20.51222"
+  },
+  {
+    "country": "RS",
+    "name": "Novi Beograd",
+    "lat": "44.80556",
+    "lng": "20.42417"
   },
   {
     "country": "RS",
@@ -154130,8 +155918,8 @@
   {
     "country": "RU",
     "name": "Shcherbinka",
-    "lat": "55.49972",
-    "lng": "37.55972"
+    "lat": "55.498",
+    "lng": "37.5579"
   },
   {
     "country": "RU",
@@ -155090,8 +156878,8 @@
   {
     "country": "RU",
     "name": "Novogireyevo",
-    "lat": "55.75378",
-    "lng": "37.81885"
+    "lat": "55.75455",
+    "lng": "37.81834"
   },
   {
     "country": "RU",
@@ -155762,8 +157550,8 @@
   {
     "country": "RU",
     "name": "Kuskovo",
-    "lat": "55.73423",
-    "lng": "37.82616"
+    "lat": "55.73796",
+    "lng": "37.79542"
   },
   {
     "country": "RU",
@@ -155786,8 +157574,8 @@
   {
     "country": "RU",
     "name": "Kur’yanovo",
-    "lat": "55.65",
-    "lng": "37.7"
+    "lat": "55.65581",
+    "lng": "37.70094"
   },
   {
     "country": "RU",
@@ -155912,8 +157700,8 @@
   {
     "country": "RU",
     "name": "Biryulëvo Zapadnoye",
-    "lat": "55.58766",
-    "lng": "37.64282"
+    "lat": "55.58726",
+    "lng": "37.64579"
   },
   {
     "country": "RU",
@@ -155978,8 +157766,8 @@
   {
     "country": "RU",
     "name": "Presnenskiy",
-    "lat": "55.75",
-    "lng": "37.55"
+    "lat": "55.75894",
+    "lng": "37.55816"
   },
   {
     "country": "RU",
@@ -155990,8 +157778,8 @@
   {
     "country": "RU",
     "name": "Kozhukhovo",
-    "lat": "55.7",
-    "lng": "37.66667"
+    "lat": "55.70601",
+    "lng": "37.67563"
   },
   {
     "country": "RU",
@@ -156506,8 +158294,8 @@
   {
     "country": "RU",
     "name": "Izmaylovo",
-    "lat": "55.78677",
-    "lng": "37.80165"
+    "lat": "55.7966",
+    "lng": "37.78242"
   },
   {
     "country": "RU",
@@ -156602,8 +158390,8 @@
   {
     "country": "RU",
     "name": "Gukovo",
-    "lat": "48.06212",
-    "lng": "39.9355"
+    "lat": "48.05133",
+    "lng": "39.93048"
   },
   {
     "country": "RU",
@@ -156776,8 +158564,8 @@
   {
     "country": "RU",
     "name": "Fili",
-    "lat": "55.74819",
-    "lng": "37.47969"
+    "lat": "55.74543",
+    "lng": "37.48837"
   },
   {
     "country": "RU",
@@ -156866,8 +158654,8 @@
   {
     "country": "RU",
     "name": "Dorogomilovo",
-    "lat": "55.75",
-    "lng": "37.56667"
+    "lat": "55.7418",
+    "lng": "37.54706"
   },
   {
     "country": "RU",
@@ -156884,8 +158672,8 @@
   {
     "country": "RU",
     "name": "Donetsk",
-    "lat": "48.33751",
-    "lng": "39.95416"
+    "lat": "48.33711",
+    "lng": "39.95229"
   },
   {
     "country": "RU",
@@ -157196,8 +158984,8 @@
   {
     "country": "RU",
     "name": "Bogorodskoye",
-    "lat": "55.81353",
-    "lng": "37.71617"
+    "lat": "55.81396",
+    "lng": "37.72117"
   },
   {
     "country": "RU",
@@ -157580,8 +159368,8 @@
   {
     "country": "RU",
     "name": "Levoberezhnyy",
-    "lat": "55.85",
-    "lng": "37.48333"
+    "lat": "55.86477",
+    "lng": "37.47342"
   },
   {
     "country": "RU",
@@ -157670,14 +159458,14 @@
   {
     "country": "RU",
     "name": "Annino",
-    "lat": "55.58316",
-    "lng": "37.26019"
+    "lat": "55.58264",
+    "lng": "37.26223"
   },
   {
     "country": "RU",
     "name": "Drozhzhino",
-    "lat": "55.52806",
-    "lng": "37.59917"
+    "lat": "55.52376",
+    "lng": "37.58948"
   },
   {
     "country": "RU",
@@ -157748,8 +159536,8 @@
   {
     "country": "RU",
     "name": "Moskovskiy",
-    "lat": "55.59911",
-    "lng": "37.35495"
+    "lat": "55.5991",
+    "lng": "37.3552"
   },
   {
     "country": "RU",
@@ -159229,12 +161017,6 @@
   },
   {
     "country": "RU",
-    "name": "Khabarovsk Vtoroy",
-    "lat": "48.43787",
-    "lng": "135.12994"
-  },
-  {
-    "country": "RU",
     "name": "Markova",
     "lat": "52.20667",
     "lng": "104.2177"
@@ -159562,6 +161344,12 @@
     "name": "gorod Solnetchnogorsk",
     "lat": "56.18595",
     "lng": "36.97561"
+  },
+  {
+    "country": "RU",
+    "name": "Narian-Mar",
+    "lat": "67.66782",
+    "lng": "53.09792"
   },
   {
     "country": "RW",
@@ -159991,6 +161779,12 @@
   },
   {
     "country": "SA",
+    "name": "King Faisal Military City",
+    "lat": "28.45",
+    "lng": "45.96667"
+  },
+  {
+    "country": "SA",
     "name": "Khulayş",
     "lat": "22.15553",
     "lng": "39.32015"
@@ -160051,6 +161845,12 @@
   },
   {
     "country": "SA",
+    "name": "Ḑamad",
+    "lat": "17.10426",
+    "lng": "42.78155"
+  },
+  {
+    "country": "SA",
     "name": "Buraydah",
     "lat": "26.32599",
     "lng": "43.97497"
@@ -160066,6 +161866,12 @@
     "name": "Baq‘ā’",
     "lat": "27.90647",
     "lng": "42.38898"
+  },
+  {
+    "country": "SA",
+    "name": "Baljurashi",
+    "lat": "19.85944",
+    "lng": "41.55722"
   },
   {
     "country": "SA",
@@ -160285,6 +162091,12 @@
   },
   {
     "country": "SA",
+    "name": "Al ‘Aqīq",
+    "lat": "20.27358",
+    "lng": "41.66434"
+  },
+  {
+    "country": "SA",
     "name": "Afif",
     "lat": "23.9065",
     "lng": "42.91724"
@@ -160351,6 +162163,12 @@
   },
   {
     "country": "SA",
+    "name": "King Khalid Military City",
+    "lat": "27.90509",
+    "lng": "45.55326"
+  },
+  {
+    "country": "SA",
     "name": "Sabt Alalayah",
     "lat": "19.5773",
     "lng": "41.96357"
@@ -160372,6 +162190,12 @@
     "name": "Sarāt ‘Abīdah",
     "lat": "18.089",
     "lng": "43.132"
+  },
+  {
+    "country": "SA",
+    "name": "Al Mash‘ilīyah",
+    "lat": "17.75558",
+    "lng": "44.468"
   },
   {
     "country": "SA",
@@ -161029,6 +162853,12 @@
   },
   {
     "country": "SE",
+    "name": "Trångsund",
+    "lat": "59.23333",
+    "lng": "18.13333"
+  },
+  {
+    "country": "SE",
     "name": "Täby",
     "lat": "59.4439",
     "lng": "18.06872"
@@ -161230,6 +163060,12 @@
     "name": "Linköping",
     "lat": "58.41086",
     "lng": "15.62157"
+  },
+  {
+    "country": "SE",
+    "name": "Limhamn",
+    "lat": "55.58333",
+    "lng": "12.95"
   },
   {
     "country": "SE",
@@ -163039,6 +164875,12 @@
   },
   {
     "country": "SO",
+    "name": "Bu’aale",
+    "lat": "1.08333",
+    "lng": "42.58333"
+  },
+  {
+    "country": "SO",
     "name": "Bosaso",
     "lat": "11.28421",
     "lng": "49.18158"
@@ -163660,6 +165502,12 @@
     "name": "Maharda",
     "lat": "35.2479",
     "lng": "36.5725"
+  },
+  {
+    "country": "SY",
+    "name": "Muadamiyat al-Sham",
+    "lat": "33.46466",
+    "lng": "36.20175"
   },
   {
     "country": "SY",
@@ -164524,6 +166372,12 @@
     "name": "Tha Maka",
     "lat": "13.9",
     "lng": "99.76667"
+  },
+  {
+    "country": "TH",
+    "name": "Takua Pa",
+    "lat": "8.8705",
+    "lng": "98.34383"
   },
   {
     "country": "TH",
@@ -166693,9 +168547,15 @@
   },
   {
     "country": "TM",
+    "name": "Gämi",
+    "lat": "37.90735",
+    "lng": "58.47039"
+  },
+  {
+    "country": "TM",
     "name": "Gumdag",
-    "lat": "39.20611",
-    "lng": "54.59056"
+    "lat": "39.20237",
+    "lng": "54.58746"
   },
   {
     "country": "TM",
@@ -166712,14 +168572,14 @@
   {
     "country": "TM",
     "name": "Magtymguly",
-    "lat": "38.43749",
-    "lng": "56.28081"
+    "lat": "38.43637",
+    "lng": "56.28401"
   },
   {
     "country": "TM",
     "name": "Jebel",
-    "lat": "39.63415",
-    "lng": "54.23053"
+    "lat": "39.63101",
+    "lng": "54.23758"
   },
   {
     "country": "TM",
@@ -166837,21 +168697,27 @@
   },
   {
     "country": "TM",
-    "name": "Hojambaz",
-    "lat": "38.11635",
-    "lng": "65.00347"
+    "name": "Halaç",
+    "lat": "38.07201",
+    "lng": "64.87938"
   },
   {
     "country": "TM",
     "name": "Kerki",
-    "lat": "37.83573",
-    "lng": "65.21058"
+    "lat": "37.84079",
+    "lng": "65.20639"
   },
   {
     "country": "TM",
     "name": "Magdanly",
     "lat": "37.81244",
     "lng": "66.04656"
+  },
+  {
+    "country": "TM",
+    "name": "Çaşgyn",
+    "lat": "37.79729",
+    "lng": "61.54905"
   },
   {
     "country": "TM",
@@ -166942,6 +168808,12 @@
     "name": "Tajerouine",
     "lat": "35.89174",
     "lng": "8.55276"
+  },
+  {
+    "country": "TN",
+    "name": "Tabursuq",
+    "lat": "36.45692",
+    "lng": "9.24751"
   },
   {
     "country": "TN",
@@ -167155,6 +169027,12 @@
   },
   {
     "country": "TN",
+    "name": "Mareth",
+    "lat": "33.61794",
+    "lng": "10.28536"
+  },
+  {
+    "country": "TN",
     "name": "Mégrine",
     "lat": "36.76917",
     "lng": "10.23639"
@@ -167293,9 +169171,9 @@
   },
   {
     "country": "TN",
-    "name": "Bou Salem",
-    "lat": "36.60732",
-    "lng": "8.96981"
+    "name": "Dahmani",
+    "lat": "35.94388",
+    "lng": "8.82778"
   },
   {
     "country": "TN",
@@ -167353,9 +169231,15 @@
   },
   {
     "country": "TN",
-    "name": "Sejoumi",
+    "name": "Sīdī Ḥusayn",
     "lat": "36.75583",
     "lng": "10.11833"
+  },
+  {
+    "country": "TN",
+    "name": "Sahline",
+    "lat": "35.75166",
+    "lng": "10.71109"
   },
   {
     "country": "TN",
@@ -167446,6 +169330,12 @@
     "name": "Metlaoui",
     "lat": "34.32081",
     "lng": "8.40157"
+  },
+  {
+    "country": "TN",
+    "name": "Métouia",
+    "lat": "33.95918",
+    "lng": "9.99619"
   },
   {
     "country": "TN",
@@ -167575,7 +169465,7 @@
   },
   {
     "country": "TN",
-    "name": "La Gazelle",
+    "name": "Rawad",
     "lat": "36.89479",
     "lng": "10.18604"
   },
@@ -167638,6 +169528,12 @@
     "name": "Nuku‘alofa",
     "lat": "-21.13683",
     "lng": "-175.20114"
+  },
+  {
+    "country": "TR",
+    "name": "Yumurtalık",
+    "lat": "36.76863",
+    "lng": "35.78938"
   },
   {
     "country": "TR",
@@ -169309,6 +171205,12 @@
   },
   {
     "country": "TR",
+    "name": "Şile",
+    "lat": "41.17891",
+    "lng": "29.61085"
+  },
+  {
+    "country": "TR",
     "name": "Şebin Karahisar",
     "lat": "40.28833",
     "lng": "38.42361"
@@ -169441,6 +171343,12 @@
   },
   {
     "country": "TR",
+    "name": "Küçükçekmece",
+    "lat": "40.99104",
+    "lng": "28.77123"
+  },
+  {
+    "country": "TR",
     "name": "Korgan",
     "lat": "40.82472",
     "lng": "37.34667"
@@ -169540,6 +171448,12 @@
     "name": "Karabük",
     "lat": "41.20488",
     "lng": "32.62768"
+  },
+  {
+    "country": "TR",
+    "name": "Kandıra",
+    "lat": "41.07",
+    "lng": "30.15262"
   },
   {
     "country": "TR",
@@ -169708,6 +171622,12 @@
     "name": "Fatsa",
     "lat": "41.02886",
     "lng": "37.49977"
+  },
+  {
+    "country": "TR",
+    "name": "Fatih",
+    "lat": "41.0225",
+    "lng": "28.94083"
   },
   {
     "country": "TR",
@@ -170167,6 +172087,12 @@
   },
   {
     "country": "TR",
+    "name": "Evka-Üç",
+    "lat": "38.47071",
+    "lng": "27.25094"
+  },
+  {
+    "country": "TR",
     "name": "Nilüfer",
     "lat": "40.21401",
     "lng": "28.91567"
@@ -170590,6 +172516,12 @@
     "name": "Xizhou",
     "lat": "24.27667",
     "lng": "120.68917"
+  },
+  {
+    "country": "TW",
+    "name": "Erlun",
+    "lat": "23.77045",
+    "lng": "120.4134"
   },
   {
     "country": "TW",
@@ -172016,8 +173948,8 @@
   {
     "country": "UA",
     "name": "Lebedyn",
-    "lat": "50.58518",
-    "lng": "34.4849"
+    "lat": "50.58228",
+    "lng": "34.48258"
   },
   {
     "country": "UA",
@@ -172124,14 +174056,14 @@
   {
     "country": "UA",
     "name": "Yahotyn",
-    "lat": "50.27975",
-    "lng": "31.76246"
+    "lat": "50.27535",
+    "lng": "31.76343"
   },
   {
     "country": "UA",
     "name": "Vyshhorod",
-    "lat": "50.58476",
-    "lng": "30.4898"
+    "lat": "50.58312",
+    "lng": "30.48566"
   },
   {
     "country": "UA",
@@ -172184,8 +174116,8 @@
   {
     "country": "UA",
     "name": "Vyshneve",
-    "lat": "50.38913",
-    "lng": "30.3705"
+    "lat": "50.38834",
+    "lng": "30.36809"
   },
   {
     "country": "UA",
@@ -172213,12 +174145,6 @@
   },
   {
     "country": "UA",
-    "name": "Velyka Kokhnivka",
-    "lat": "49.11719",
-    "lng": "33.48033"
-  },
-  {
-    "country": "UA",
     "name": "Bahacheve",
     "lat": "49.01198",
     "lng": "31.04659"
@@ -172226,8 +174152,8 @@
   {
     "country": "UA",
     "name": "Vasylkiv",
-    "lat": "50.18693",
-    "lng": "30.31346"
+    "lat": "50.18023",
+    "lng": "30.31189"
   },
   {
     "country": "UA",
@@ -172304,8 +174230,8 @@
   {
     "country": "UA",
     "name": "Siverskodonetsk",
-    "lat": "48.94628",
-    "lng": "38.48624"
+    "lat": "48.94414",
+    "lng": "38.48754"
   },
   {
     "country": "UA",
@@ -172316,14 +174242,14 @@
   {
     "country": "UA",
     "name": "Dovzhansk",
-    "lat": "48.08964",
-    "lng": "39.65243"
+    "lat": "48.07615",
+    "lng": "39.64744"
   },
   {
     "country": "UA",
     "name": "Svatove",
-    "lat": "49.40719",
-    "lng": "38.15362"
+    "lat": "49.40926",
+    "lng": "38.15534"
   },
   {
     "country": "UA",
@@ -172340,8 +174266,8 @@
   {
     "country": "UA",
     "name": "Sukhodilsk",
-    "lat": "48.35022",
-    "lng": "39.72698"
+    "lat": "48.35083",
+    "lng": "39.72573"
   },
   {
     "country": "UA",
@@ -172370,8 +174296,8 @@
   {
     "country": "UA",
     "name": "Starobilsk",
-    "lat": "49.27719",
-    "lng": "38.91673"
+    "lat": "49.27881",
+    "lng": "38.9075"
   },
   {
     "country": "UA",
@@ -172424,8 +174350,8 @@
   {
     "country": "UA",
     "name": "Skvyra",
-    "lat": "49.73303",
-    "lng": "29.66426"
+    "lat": "49.73401",
+    "lng": "29.66353"
   },
   {
     "country": "UA",
@@ -172460,8 +174386,8 @@
   {
     "country": "UA",
     "name": "Shostka",
-    "lat": "51.86296",
-    "lng": "33.4698"
+    "lat": "51.86434",
+    "lng": "33.47283"
   },
   {
     "country": "UA",
@@ -172501,15 +174427,15 @@
   },
   {
     "country": "UA",
-    "name": "Saki",
+    "name": "Saky",
     "lat": "45.13424",
     "lng": "33.59996"
   },
   {
     "country": "UA",
     "name": "Rubizhne",
-    "lat": "49.00606",
-    "lng": "38.38119"
+    "lat": "49.00849",
+    "lng": "38.37972"
   },
   {
     "country": "UA",
@@ -172526,14 +174452,14 @@
   {
     "country": "UA",
     "name": "Rovenky",
-    "lat": "48.08331",
-    "lng": "39.37764"
+    "lat": "48.08277",
+    "lng": "39.37696"
   },
   {
     "country": "UA",
     "name": "Romny",
-    "lat": "50.75104",
-    "lng": "33.47471"
+    "lat": "50.74025",
+    "lng": "33.4952"
   },
   {
     "country": "UA",
@@ -172568,8 +174494,8 @@
   {
     "country": "UA",
     "name": "Popasna",
-    "lat": "48.63328",
-    "lng": "38.37804"
+    "lat": "48.63168",
+    "lng": "38.37104"
   },
   {
     "country": "UA",
@@ -172597,7 +174523,7 @@
   },
   {
     "country": "UA",
-    "name": "Pidhorodne",
+    "name": "Pidhorodnye",
     "lat": "48.57422",
     "lng": "35.09702"
   },
@@ -172622,8 +174548,8 @@
   {
     "country": "UA",
     "name": "Sokolohirsk",
-    "lat": "48.62831",
-    "lng": "38.56205"
+    "lat": "48.6279",
+    "lng": "38.52389"
   },
   {
     "country": "UA",
@@ -172646,8 +174572,8 @@
   {
     "country": "UA",
     "name": "Perevalsk",
-    "lat": "48.43779",
-    "lng": "38.84384"
+    "lat": "48.43921",
+    "lng": "38.82839"
   },
   {
     "country": "UA",
@@ -172694,8 +174620,8 @@
   {
     "country": "UA",
     "name": "Obukhiv",
-    "lat": "50.10689",
-    "lng": "30.61848"
+    "lat": "50.11632",
+    "lng": "30.63329"
   },
   {
     "country": "UA",
@@ -172796,8 +174722,8 @@
   {
     "country": "UA",
     "name": "Otamanivka",
-    "lat": "48.34511",
-    "lng": "39.65244"
+    "lat": "48.34586",
+    "lng": "39.65233"
   },
   {
     "country": "UA",
@@ -172868,8 +174794,8 @@
   {
     "country": "UA",
     "name": "Lutuhyne",
-    "lat": "48.40507",
-    "lng": "39.22675"
+    "lat": "48.40433",
+    "lng": "39.21302"
   },
   {
     "country": "UA",
@@ -172898,8 +174824,8 @@
   {
     "country": "UA",
     "name": "Lysychansk",
-    "lat": "48.90421",
-    "lng": "38.44094"
+    "lat": "48.91211",
+    "lng": "38.42088"
   },
   {
     "country": "UA",
@@ -172934,14 +174860,14 @@
   {
     "country": "UA",
     "name": "Krolevets",
-    "lat": "51.54775",
-    "lng": "33.38475"
+    "lat": "51.55181",
+    "lng": "33.38044"
   },
   {
     "country": "UA",
     "name": "Kreminna",
-    "lat": "49.0495",
-    "lng": "38.21893"
+    "lat": "49.04811",
+    "lng": "38.21552"
   },
   {
     "country": "UA",
@@ -172958,8 +174884,8 @@
   {
     "country": "UA",
     "name": "Khrustalnyi",
-    "lat": "48.13954",
-    "lng": "38.93715"
+    "lat": "48.14241",
+    "lng": "38.92369"
   },
   {
     "country": "UA",
@@ -172982,8 +174908,8 @@
   {
     "country": "UA",
     "name": "Sorokyne",
-    "lat": "48.29235",
-    "lng": "39.73921"
+    "lat": "48.29329",
+    "lng": "39.73327"
   },
   {
     "country": "UA",
@@ -173035,7 +174961,7 @@
   },
   {
     "country": "UA",
-    "name": "Korsun-Shevchenkivskyy",
+    "name": "Korsun-Shevchenkivskyi",
     "lat": "49.41822",
     "lng": "31.25174"
   },
@@ -173060,8 +174986,8 @@
   {
     "country": "UA",
     "name": "Konotop",
-    "lat": "51.24032",
-    "lng": "33.20263"
+    "lat": "51.23251",
+    "lng": "33.2004"
   },
   {
     "country": "UA",
@@ -173098,6 +175024,12 @@
     "name": "Kiliya",
     "lat": "45.44445",
     "lng": "29.26396"
+  },
+  {
+    "country": "UA",
+    "name": "Trudivskyi",
+    "lat": "47.94699",
+    "lng": "37.55806"
   },
   {
     "country": "UA",
@@ -173149,7 +175081,7 @@
   },
   {
     "country": "UA",
-    "name": "Koziatyn",
+    "name": "Kozyatyn",
     "lat": "49.7164",
     "lng": "28.83858"
   },
@@ -173210,8 +175142,8 @@
   {
     "country": "UA",
     "name": "Irpin",
-    "lat": "50.52175",
-    "lng": "30.25055"
+    "lat": "50.52201",
+    "lng": "30.24037"
   },
   {
     "country": "UA",
@@ -173246,8 +175178,8 @@
   {
     "country": "UA",
     "name": "Hlukhiv",
-    "lat": "51.67822",
-    "lng": "33.9162"
+    "lat": "51.67982",
+    "lng": "33.91682"
   },
   {
     "country": "UA",
@@ -173288,8 +175220,8 @@
   {
     "country": "UA",
     "name": "Fastiv",
-    "lat": "50.0767",
-    "lng": "29.9177"
+    "lat": "50.07796",
+    "lng": "29.91963"
   },
   {
     "country": "UA",
@@ -173353,7 +175285,7 @@
   },
   {
     "country": "UA",
-    "name": "Dobropillia",
+    "name": "Dobropillya",
     "lat": "48.46674",
     "lng": "37.08567"
   },
@@ -173438,8 +175370,8 @@
   {
     "country": "UA",
     "name": "Bucha",
-    "lat": "50.54345",
-    "lng": "30.21201"
+    "lat": "50.54741",
+    "lng": "30.20879"
   },
   {
     "country": "UA",
@@ -173450,8 +175382,8 @@
   {
     "country": "UA",
     "name": "Brovary",
-    "lat": "50.51809",
-    "lng": "30.80671"
+    "lat": "50.51097",
+    "lng": "30.79106"
   },
   {
     "country": "UA",
@@ -173474,8 +175406,8 @@
   {
     "country": "UA",
     "name": "Boryspil",
-    "lat": "50.35269",
-    "lng": "30.95501"
+    "lat": "50.35051",
+    "lng": "30.95263"
   },
   {
     "country": "UA",
@@ -173516,8 +175448,8 @@
   {
     "country": "UA",
     "name": "Bila Tserkva",
-    "lat": "49.8004",
-    "lng": "30.12851"
+    "lat": "49.7994",
+    "lng": "30.1165"
   },
   {
     "country": "UA",
@@ -173528,8 +175460,8 @@
   {
     "country": "UA",
     "name": "Berezan",
-    "lat": "50.3112",
-    "lng": "31.46712"
+    "lat": "50.31073",
+    "lng": "31.46768"
   },
   {
     "country": "UA",
@@ -173552,8 +175484,8 @@
   {
     "country": "UA",
     "name": "Bilopillia",
-    "lat": "51.15016",
-    "lng": "34.31287"
+    "lat": "51.14747",
+    "lng": "34.31079"
   },
   {
     "country": "UA",
@@ -173564,8 +175496,8 @@
   {
     "country": "UA",
     "name": "Bilohorodka",
-    "lat": "50.38969",
-    "lng": "30.22532"
+    "lat": "50.3898",
+    "lng": "30.22726"
   },
   {
     "country": "UA",
@@ -173623,6 +175555,12 @@
   },
   {
     "country": "UA",
+    "name": "Arshyntseve",
+    "lat": "45.30109",
+    "lng": "36.42687"
+  },
+  {
+    "country": "UA",
     "name": "Armyansk",
     "lat": "46.10919",
     "lng": "33.69206"
@@ -173636,12 +175574,12 @@
   {
     "country": "UA",
     "name": "Antratsyt",
-    "lat": "48.11503",
-    "lng": "39.09128"
+    "lat": "48.11638",
+    "lng": "39.08863"
   },
   {
     "country": "UA",
-    "name": "Amvrosiivka",
+    "name": "Amvrosiyivka",
     "lat": "47.79062",
     "lng": "38.47851"
   },
@@ -173654,14 +175592,14 @@
   {
     "country": "UA",
     "name": "Alchevsk",
-    "lat": "48.46893",
-    "lng": "38.81669"
+    "lat": "48.46906",
+    "lng": "38.79744"
   },
   {
     "country": "UA",
     "name": "Okhtyrka",
-    "lat": "50.31036",
-    "lng": "34.89879"
+    "lat": "50.30852",
+    "lng": "34.89468"
   },
   {
     "country": "UA",
@@ -173731,7 +175669,7 @@
   },
   {
     "country": "UA",
-    "name": "Molodizhnyi",
+    "name": "Molodizhne",
     "lat": "49.1504",
     "lng": "33.4305"
   },
@@ -173779,6 +175717,12 @@
   },
   {
     "country": "UA",
+    "name": "Darnytsya Car Repair Plant Microdistrict",
+    "lat": "50.44953",
+    "lng": "30.67608"
+  },
+  {
+    "country": "UA",
     "name": "Holosiyiv",
     "lat": "50.34433",
     "lng": "30.55178"
@@ -173797,6 +175741,12 @@
   },
   {
     "country": "UA",
+    "name": "Rakivka",
+    "lat": "49.02446",
+    "lng": "33.46398"
+  },
+  {
+    "country": "UA",
     "name": "Dniprovskyi",
     "lat": "50.45366",
     "lng": "30.60146"
@@ -173809,7 +175759,7 @@
   },
   {
     "country": "UA",
-    "name": "Solomyansk",
+    "name": "Solomyanka",
     "lat": "50.42838",
     "lng": "30.45211"
   },
@@ -173818,12 +175768,6 @@
     "name": "Shevchenkivskyi",
     "lat": "50.46408",
     "lng": "30.46576"
-  },
-  {
-    "country": "UA",
-    "name": "Zhulyany",
-    "lat": "50.39428",
-    "lng": "30.44057"
   },
   {
     "country": "UA",
@@ -173917,7 +175861,7 @@
   },
   {
     "country": "UA",
-    "name": "Rayon KTZ",
+    "name": "Rayon KhTZ",
     "lat": "49.94349",
     "lng": "36.36959"
   },
@@ -173977,6 +175921,12 @@
   },
   {
     "country": "UA",
+    "name": "Teremky-II",
+    "lat": "50.38067",
+    "lng": "30.45249"
+  },
+  {
+    "country": "UA",
     "name": "Teremky",
     "lat": "50.37053",
     "lng": "30.45881"
@@ -173986,6 +175936,12 @@
     "name": "Vidradnyi",
     "lat": "50.43194",
     "lng": "30.42231"
+  },
+  {
+    "country": "UA",
+    "name": "Oleksandrivska Slobidka",
+    "lat": "50.41827",
+    "lng": "30.47807"
   },
   {
     "country": "UA",
@@ -174001,6 +175957,18 @@
   },
   {
     "country": "UA",
+    "name": "Livoberezhnyi Masyv",
+    "lat": "50.45544",
+    "lng": "30.58969"
+  },
+  {
+    "country": "UA",
+    "name": "Lisovyi Masyv",
+    "lat": "50.4725",
+    "lng": "30.63113"
+  },
+  {
+    "country": "UA",
     "name": "Rayduzhnyi Masyv",
     "lat": "50.48551",
     "lng": "30.58571"
@@ -174010,6 +175978,12 @@
     "name": "Vyshhorodskyi Masyv",
     "lat": "50.50978",
     "lng": "30.45355"
+  },
+  {
+    "country": "UA",
+    "name": "Priorka",
+    "lat": "50.50977",
+    "lng": "30.45773"
   },
   {
     "country": "UA",
@@ -174043,12 +176017,6 @@
   },
   {
     "country": "UA",
-    "name": "Galagany",
-    "lat": "50.45537",
-    "lng": "30.40233"
-  },
-  {
-    "country": "UA",
     "name": "Lukyanivka",
     "lat": "50.46642",
     "lng": "30.47591"
@@ -174076,12 +176044,6 @@
     "name": "Klov",
     "lat": "50.4349",
     "lng": "30.53807"
-  },
-  {
-    "country": "UA",
-    "name": "Zvirynets",
-    "lat": "50.41626",
-    "lng": "30.5492"
   },
   {
     "country": "UA",
@@ -174241,6 +176203,12 @@
   },
   {
     "country": "UA",
+    "name": "Hladkivka",
+    "lat": "48.03556",
+    "lng": "37.81009"
+  },
+  {
+    "country": "UA",
     "name": "Korolyov",
     "lat": "50.24487",
     "lng": "28.70013"
@@ -174256,6 +176224,108 @@
     "name": "Nyzhnya Telychka",
     "lat": "50.38809",
     "lng": "30.57487"
+  },
+  {
+    "country": "UA",
+    "name": "Sonyachnyi",
+    "lat": "48.72284",
+    "lng": "37.5981"
+  },
+  {
+    "country": "UA",
+    "name": "Skhidni Kvartaly",
+    "lat": "48.56622",
+    "lng": "39.38256"
+  },
+  {
+    "country": "UA",
+    "name": "Vitryani Hory",
+    "lat": "50.51138",
+    "lng": "30.43657"
+  },
+  {
+    "country": "UA",
+    "name": "Karavayevi Dachi",
+    "lat": "50.43044",
+    "lng": "30.43659"
+  },
+  {
+    "country": "UA",
+    "name": "Pivdenna Borshchahivka",
+    "lat": "50.41059",
+    "lng": "30.40396"
+  },
+  {
+    "country": "UA",
+    "name": "Novobilychi",
+    "lat": "50.47611",
+    "lng": "30.34669"
+  },
+  {
+    "country": "UA",
+    "name": "Nova Zabudova",
+    "lat": "50.42811",
+    "lng": "30.5153"
+  },
+  {
+    "country": "UA",
+    "name": "Industrialnyi",
+    "lat": "49.95458",
+    "lng": "36.36915"
+  },
+  {
+    "country": "UA",
+    "name": "Kyivskyi",
+    "lat": "50.04475",
+    "lng": "36.28883"
+  },
+  {
+    "country": "UA",
+    "name": "Nemyshlyanskyi",
+    "lat": "49.96437",
+    "lng": "36.33385"
+  },
+  {
+    "country": "UA",
+    "name": "Novobavarskyi",
+    "lat": "49.95143",
+    "lng": "36.16499"
+  },
+  {
+    "country": "UA",
+    "name": "Nova Bavariya",
+    "lat": "49.94522",
+    "lng": "36.15006"
+  },
+  {
+    "country": "UA",
+    "name": "Osnovyanskyi",
+    "lat": "49.93657",
+    "lng": "36.24128"
+  },
+  {
+    "country": "UA",
+    "name": "Saltivskyi",
+    "lat": "49.99897",
+    "lng": "36.31605"
+  },
+  {
+    "country": "UA",
+    "name": "Slobidskyi",
+    "lat": "49.94479",
+    "lng": "36.2813"
+  },
+  {
+    "country": "UA",
+    "name": "Kholodna Hora",
+    "lat": "50.0042",
+    "lng": "36.1762"
+  },
+  {
+    "country": "UA",
+    "name": "Shevchenkivskyi",
+    "lat": "50.02021",
+    "lng": "36.22468"
   },
   {
     "country": "UG",
@@ -180976,6 +183046,12 @@
     "name": "Cedar Park",
     "lat": "30.5052",
     "lng": "-97.82029"
+  },
+  {
+    "country": "US",
+    "name": "Celina",
+    "lat": "33.32456",
+    "lng": "-96.78444"
   },
   {
     "country": "US",
@@ -195492,6 +197568,54 @@
     "lng": "-105.13934"
   },
   {
+    "country": "US",
+    "name": "Waiau-Pacific Palisades",
+    "lat": "21.40022",
+    "lng": "-157.95445"
+  },
+  {
+    "country": "US",
+    "name": "ʻEwa Gentry-West Loch",
+    "lat": "21.35335",
+    "lng": "-158.02836"
+  },
+  {
+    "country": "US",
+    "name": "ʻEwa Beach-Iroquois Point",
+    "lat": "21.31532",
+    "lng": "-157.99133"
+  },
+  {
+    "country": "US",
+    "name": "Kapolei Villages",
+    "lat": "21.33596",
+    "lng": "-158.067"
+  },
+  {
+    "country": "US",
+    "name": "Makakilo-Makaīwa Hills-Kunia",
+    "lat": "21.36676",
+    "lng": "-158.07326"
+  },
+  {
+    "country": "US",
+    "name": "Mililani Mauka",
+    "lat": "21.47793",
+    "lng": "-157.99452"
+  },
+  {
+    "country": "US",
+    "name": "Wahiawā-Whitmore",
+    "lat": "21.50565",
+    "lng": "-158.03353"
+  },
+  {
+    "country": "US",
+    "name": "Schofield-Wheeler",
+    "lat": "21.48394",
+    "lng": "-158.04681"
+  },
+  {
     "country": "UY",
     "name": "Young",
     "lat": "-32.69844",
@@ -197743,6 +199867,12 @@
   },
   {
     "country": "VN",
+    "name": "Long Diền",
+    "lat": "10.48333",
+    "lng": "107.21667"
+  },
+  {
+    "country": "VN",
     "name": "Vũng Tàu",
     "lat": "10.34599",
     "lng": "107.08426"
@@ -197923,6 +200053,12 @@
   },
   {
     "country": "VN",
+    "name": "Phú Lộc",
+    "lat": "9.42838",
+    "lng": "105.74111"
+  },
+  {
+    "country": "VN",
     "name": "Ho Chi Minh City",
     "lat": "10.82302",
     "lng": "106.62965"
@@ -197950,6 +200086,12 @@
     "name": "Thái Bình",
     "lat": "20.45",
     "lng": "106.34002"
+  },
+  {
+    "country": "VN",
+    "name": "Tây Tựu",
+    "lat": "21.073",
+    "lng": "105.73"
   },
   {
     "country": "VN",
@@ -198043,6 +200185,12 @@
   },
   {
     "country": "VN",
+    "name": "Đông Phú",
+    "lat": "15.67356",
+    "lng": "108.2201"
+  },
+  {
+    "country": "VN",
     "name": "Ba Đồn",
     "lat": "17.75353",
     "lng": "106.42355"
@@ -198064,6 +200212,12 @@
     "name": "Pleiku",
     "lat": "13.98333",
     "lng": "108.0"
+  },
+  {
+    "country": "VN",
+    "name": "Từ Sơn",
+    "lat": "21.1",
+    "lng": "105.96667"
   },
   {
     "country": "VN",
@@ -198193,12 +200347,6 @@
   },
   {
     "country": "VN",
-    "name": "Nghi Xuân",
-    "lat": "18.658",
-    "lng": "105.752"
-  },
-  {
-    "country": "VN",
     "name": "Nghi Sơn",
     "lat": "19.32746",
     "lng": "105.82145"
@@ -198214,6 +200362,12 @@
     "name": "Nghĩa Đô",
     "lat": "21.05",
     "lng": "105.8"
+  },
+  {
+    "country": "VN",
+    "name": "Nga Sơn",
+    "lat": "20.00722",
+    "lng": "105.97044"
   },
   {
     "country": "VN",
@@ -198355,9 +200509,27 @@
   },
   {
     "country": "VN",
+    "name": "Kim Liên",
+    "lat": "18.88333",
+    "lng": "105.31667"
+  },
+  {
+    "country": "VN",
     "name": "Kiến An",
     "lat": "20.80528",
     "lng": "106.62556"
+  },
+  {
+    "country": "VN",
+    "name": "Kiến An",
+    "lat": "10.56667",
+    "lng": "105.36667"
+  },
+  {
+    "country": "VN",
+    "name": "Khánh Hòa",
+    "lat": "10.68333",
+    "lng": "105.16667"
   },
   {
     "country": "VN",
@@ -198406,6 +200578,12 @@
     "name": "Hoi An",
     "lat": "15.87944",
     "lng": "108.335"
+  },
+  {
+    "country": "VN",
+    "name": "Hoang Cau",
+    "lat": "21.01667",
+    "lng": "105.83333"
   },
   {
     "country": "VN",
@@ -198667,6 +200845,12 @@
   },
   {
     "country": "VN",
+    "name": "Chiềng Cơi",
+    "lat": "21.3",
+    "lng": "103.9"
+  },
+  {
+    "country": "VN",
     "name": "Châu Phong",
     "lat": "10.71667",
     "lng": "105.13333"
@@ -198778,6 +200962,12 @@
     "name": "Buôn Hồ",
     "lat": "12.95226",
     "lng": "108.2962"
+  },
+  {
+    "country": "VN",
+    "name": "Hoàn Lão",
+    "lat": "17.58436",
+    "lng": "106.53425"
   },
   {
     "country": "VN",
@@ -198895,6 +201085,12 @@
   },
   {
     "country": "VN",
+    "name": "Ấp Long Thạnh",
+    "lat": "10.76067",
+    "lng": "105.27428"
+  },
+  {
+    "country": "VN",
     "name": "Ấp Hô Phòng",
     "lat": "9.22583",
     "lng": "105.41861"
@@ -198988,6 +201184,18 @@
     "name": "Bình Minh",
     "lat": "10.06821",
     "lng": "105.82221"
+  },
+  {
+    "country": "VN",
+    "name": "Thị Trấn Vân Du",
+    "lat": "20.15186",
+    "lng": "105.73097"
+  },
+  {
+    "country": "VN",
+    "name": "Thị Trấn Sao Vàng",
+    "lat": "19.88862",
+    "lng": "105.46189"
   },
   {
     "country": "VN",
@@ -199135,9 +201343,21 @@
   },
   {
     "country": "VN",
+    "name": "Ea T’ling",
+    "lat": "12.58904",
+    "lng": "107.89578"
+  },
+  {
+    "country": "VN",
     "name": "Đinh Văn",
     "lat": "11.78624",
     "lng": "108.24282"
+  },
+  {
+    "country": "VN",
+    "name": "Khánh Hải",
+    "lat": "11.59105",
+    "lng": "109.04052"
   },
   {
     "country": "VN",
@@ -199384,6 +201604,78 @@
     "name": "Phổ Yên",
     "lat": "21.41978",
     "lng": "105.8899"
+  },
+  {
+    "country": "VN",
+    "name": "Yên Nghĩa",
+    "lat": "20.95414",
+    "lng": "105.73474"
+  },
+  {
+    "country": "VN",
+    "name": "Dương Nội",
+    "lat": "20.97736",
+    "lng": "105.75383"
+  },
+  {
+    "country": "VN",
+    "name": "Định Công",
+    "lat": "20.98389",
+    "lng": "105.82694"
+  },
+  {
+    "country": "VN",
+    "name": "Đông Ngạc",
+    "lat": "21.08063",
+    "lng": "105.77397"
+  },
+  {
+    "country": "VN",
+    "name": "Giảng Võ",
+    "lat": "21.03066",
+    "lng": "105.81252"
+  },
+  {
+    "country": "VN",
+    "name": "Hoàng Liệt",
+    "lat": "20.96403",
+    "lng": "105.84055"
+  },
+  {
+    "country": "VN",
+    "name": "Khương Đình",
+    "lat": "20.98366",
+    "lng": "105.81537"
+  },
+  {
+    "country": "VN",
+    "name": "Kiến Hưng",
+    "lat": "20.95833",
+    "lng": "105.78972"
+  },
+  {
+    "country": "VN",
+    "name": "Lĩnh Nam",
+    "lat": "20.97966",
+    "lng": "105.89044"
+  },
+  {
+    "country": "VN",
+    "name": "Phúc Lợi",
+    "lat": "21.04507",
+    "lng": "105.9294"
+  },
+  {
+    "country": "VN",
+    "name": "Phú Thương",
+    "lat": "21.08734",
+    "lng": "105.80671"
+  },
+  {
+    "country": "VN",
+    "name": "Tương Mai",
+    "lat": "20.9888",
+    "lng": "105.85525"
   },
   {
     "country": "VU",
@@ -202054,6 +204346,12 @@
     "name": "Mutare",
     "lat": "-18.9707",
     "lng": "32.67086"
+  },
+  {
+    "country": "ZW",
+    "name": "Mount Hampden",
+    "lat": "-17.74167",
+    "lng": "30.93889"
   },
   {
     "country": "ZW",

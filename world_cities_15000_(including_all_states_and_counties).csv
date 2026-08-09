@@ -131,6 +131,7 @@ AL,Northern Albania,Dibër County,Bulqizë,41.49167,20.22194
 AL,Southern Albania,Vlorë County,Vlorë,40.4696,19.48379
 AL,Central Albania,Tirana County,Tirana,41.32744,19.81866
 AL,Northern Albania,Shkodër County,Shkodër,42.06828,19.51258
+AL,Northern Albania,Durrës County,Rrashbull,41.32278,19.51028
 AL,Central Albania,Elbasan County,Peqin,41.04611,19.75111
 AL,Southern Albania,Fier County,Patos Fshat,40.64278,19.65083
 AL,Southern Albania,Fier County,Patos,40.68333,19.61944
@@ -139,6 +140,7 @@ AL,Northern Albania,Lezhë County,Lezhë,41.78361,19.64361
 AL,Southern Albania,Berat County,Kuçovë,40.80028,19.91667
 AL,Northern Albania,Durrës County,Krujë,41.50917,19.79278
 AL,Central Albania,Tirana County,Kavajë,41.18556,19.55694
+AL,Northern Albania,Durrës County,Fushë-Krujë,41.47833,19.71778
 AL,Southern Albania,Fier County,Fier-Çifçi,40.71667,19.56667
 AL,Southern Albania,Fier County,Fier,40.7251,19.55823
 AL,Northern Albania,Durrës County,Durrës,41.32355,19.45469
@@ -260,6 +262,7 @@ AO,Cunene,,Humbe,-16.6864,14.90317
 AO,Huambo,,Huambo,-12.77611,15.73917
 AO,Benguela,,Ganda,-13.01592,14.63502
 AO,Cuanza Sul,,Gabela,-10.85147,14.37993
+AO,Huambo,,Ecunna,-12.67889,15.50556
 AO,Benguela,,Dombe Grande,-12.95167,13.1025
 AO,Bié,,Cuemba,-12.15,18.08333
 AO,Benguela,,Cubal do Lumbo,-12.31261,14.1265
@@ -277,6 +280,7 @@ AO,Malanje,,Cambundi Catembo,-10.07531,17.55058
 AO,Bié,,Camacupa,-12.01667,17.48333
 AO,Huíla,,Caluquembe,-13.86667,14.43333
 AO,Cuanza Sul,,Calulo,-10.00055,14.89519
+AO,Cunene,,Cahama,-16.28556,14.30962
 AO,Huambo,,Caála,-12.8525,15.56056
 AO,Benguela,,Bocoio,-12.47017,14.13688
 AO,Benguela Province,Shkodër County,Benguela,-12.57674,13.40268
@@ -311,16 +315,22 @@ AR,Autonomous City of Buenos Aires,,Villa Lugano,-34.67907,-58.47263
 AR,Entre Ríos Province,Distrito Lucas al Sud,Villaguay,-31.86767,-59.02701
 AR,Buenos Aires,,Villa Gesell,-37.26394,-56.97304
 AR,Buenos Aires,,Villa de Mayo,-34.5108,-58.68059
+AR,Buenos Aires,,Valentín Alsina,-34.67137,-58.40904
+AR,Buenos Aires,,Tristán Suárez,-34.88982,-58.56761
 AR,Buenos Aires,,Tortuguitas,-34.47513,-58.75367
 AR,Buenos Aires,,Tigre,-34.42603,-58.57962
 AR,Buenos Aires,Distrito Sexto,Tandil,-37.3287,-59.1369
+AR,Buenos Aires,,Sarandí,-34.68161,-58.34639
+AR,Buenos Aires,,San Vicente,-35.0249,-58.42409
 AR,Misiones,,San Vicente,-26.61667,-54.13333
 AR,Corrientes,Distrito Sauce de Luna,Santo Tomé,-28.55104,-56.04125
 AR,Buenos Aires,Distrito Sauce de Luna,Santos Lugares,-34.60306,-58.54074
 AR,Buenos Aires,,Santa Teresita,-36.54059,-56.69294
 AR,Entre Ríos Province,Distrito Feliciano,Santa Elena,-30.94432,-59.78832
+AR,Buenos Aires,,Santa Clara del Mar,-37.83438,-57.50749
 AR,Buenos Aires,,San Pedro,-33.67918,-59.66633
 AR,Misiones,,San Pedro,-26.6218,-54.10902
+AR,Buenos Aires,Distrito Arroyo Grande,San Miguel del Monte,-35.43922,-58.80741
 AR,Corrientes,Distrito Arroyo Grande,San Luis del Palmar,-27.50766,-58.55625
 AR,Corrientes,Distrito Arroyo Grande,San Lorenzo,-28.13442,-58.76685
 AR,Buenos Aires,Distrito Arroyo Grande,San Justo,-34.68107,-58.56379
@@ -332,12 +342,12 @@ AR,Buenos Aires,Distrito Estacas,Saladillo,-35.63884,-59.77938
 AR,Corrientes,Distrito Estacas,Saladas,-28.25504,-58.62386
 AR,Autonomous City of Buenos Aires,,Retiro,-34.58333,-58.38333
 AR,Chaco,,Resistencia,-27.46363,-58.98665
+AR,Buenos Aires,,Remedios de Escalada de San Martín,-34.72589,-58.39663
 AR,Santa Fe,,Reconquista,-29.15,-59.65
 AR,Buenos Aires,Distrito Pueblo Segundo,Quilmes,-34.72065,-58.25454
 AR,Misiones,,Puerto Rico,-26.8089,-55.02147
 AR,Misiones,,Puerto Iguazú,-25.59912,-54.57355
 AR,Misiones,,Puerto Esperanza,-26.02267,-54.61356
-AR,Misiones,,Puerto Eldorado,-26.40843,-54.69463
 AR,Misiones,,Posadas,-27.39184,-55.92379
 AR,Buenos Aires,Distrito Yuquerí,Pontevedra,-34.74947,-58.70158
 AR,Formosa,,Pirané,-25.73271,-59.10989
@@ -347,23 +357,33 @@ AR,Corrientes,,Paso de los Libres,-29.71251,-57.08771
 AR,Misiones,,Oberá,-27.48683,-55.11994
 AR,Entre Ríos Province,Distrito Montoya,Nogoyá,-32.39375,-59.78955
 AR,Buenos Aires,,Necochea,-38.5545,-58.73961
+AR,Buenos Aires,,Navarro,-35.00587,-59.27828
 AR,Buenos Aires,,Muñiz,-34.55622,-58.70739
 AR,Buenos Aires,Distrito Montoya,Morón,-34.65118,-58.62205
+AR,Buenos Aires,,Monte Chingolo,-34.7296,-58.35421
 AR,Corrientes,Distrito Montoya,Monte Caseros,-30.2518,-57.63537
 AR,Misiones,,Montecarlo,-26.56849,-54.7579
+AR,Buenos Aires,,Miramar,-38.27161,-57.8389
 AR,Buenos Aires,Distrito Montoya,Merlo,-34.66536,-58.72744
 AR,Buenos Aires,Distrito Montoya,Mercedes,-34.65072,-59.43143
 AR,Corrientes,,Mercedes,-29.18416,-58.07519
 AR,Buenos Aires,Distrito Montoya,Haedo,-34.64239,-58.59212
+AR,Buenos Aires,Distrito Montoya,Mar del Tuyú,-36.57429,-56.6939
 AR,Buenos Aires,,Mar del Plata,-38.00042,-57.5562
 AR,Buenos Aires,,Mar de Ajó,-36.72881,-56.68265
+AR,Buenos Aires,Distrito Montoya,Magdalena,-35.07997,-57.51368
 AR,Buenos Aires,Distrito Raíces al Sur,Luján,-34.5664,-59.11478
 AR,Buenos Aires,,Los Polvorines,-34.50316,-58.70596
 AR,Buenos Aires,Distrito Suburbios,Lomas de Zamora,-34.7574,-58.40279
+AR,Buenos Aires,Lobos,Lobos,-35.18537,-59.09788
+AR,Misiones,,Leandro N. Alem,-27.60376,-55.32365
+AR,Buenos Aires,Distrito Suburbios,Las Flores,-36.01427,-59.09986
 AR,Buenos Aires,,La Plata,-34.92126,-57.95442
 AR,Entre Ríos Province,Distrito Estacas,La Paz,-30.74179,-59.64517
+AR,Buenos Aires,Distrito Talitas,Lanús,-34.70757,-58.39132
 AR,Misiones,,Jardín América,-27.04346,-55.22698
 AR,Corrientes,Distrito Suburbios,Ituzaingó,-27.58504,-56.68707
+AR,Buenos Aires,,Isidro Casanova,-34.7,-58.58745
 AR,Buenos Aires,,Hurlingham,-34.5904,-58.62904
 AR,Entre Ríos Province,Distrito Costa Uruguay Sur,Gualeguaychú,-33.00777,-58.51836
 AR,Entre Ríos Province,Distrito Cuchilla,Gualeguay,-33.14091,-59.31257
@@ -372,14 +392,17 @@ AR,Corrientes,,Gobernador Virasora,-28.05,-56.03333
 AR,Buenos Aires,,General Pacheco,-34.45256,-58.64312
 AR,Buenos Aires,Distrito Cle Tala,General Juan Madariaga,-37.00196,-57.13584
 AR,Chaco,,General José de San Martín,-26.53643,-59.34138
+AR,Buenos Aires,Distrito General Campos,General Belgrano,-35.76842,-58.49444
 AR,Misiones,,Garupá,-27.48315,-55.82924
 AR,Formosa,,Formosa,-26.18489,-58.17313
 AR,Chaco,,Fontana,-27.42039,-59.03731
 AR,Entre Ríos Province,Distrito Francisco Ramírez,Federal,-30.95619,-58.7797
 AR,Buenos Aires,Distrito Gualeguaycito,Ezeiza,-34.8544,-58.52474
 AR,Corrientes,,Esquina,-30.01476,-59.5289
+AR,Buenos Aires,,Ensenada,-34.86074,-57.91238
 AR,Misiones,,El Soberbio,-27.29662,-54.19811
 AR,Buenos Aires,,El Palomar,-34.61771,-58.60153
+AR,Misiones,,Eldorado,-26.40453,-54.61847
 AR,Buenos Aires,,Don Torcuato,-34.49459,-58.62729
 AR,Buenos Aires,Distrito Bergara,Dolores,-36.31539,-57.67546
 AR,Corrientes,Distrito Bergara,Curuzú Cuatiá,-29.79145,-58.0499
@@ -391,19 +414,26 @@ AR,Autonomous City of Buenos Aires,,Colegiales,-34.57365,-58.44924
 AR,Buenos Aires,Distrito Suburbios,Chascomús,-35.57681,-58.01215
 AR,Entre Ríos Province,Distrito Mandisoví,Chajarí,-30.75482,-57.98196
 AR,Buenos Aires,Distrito Ceibas,Castelar,-34.65142,-58.64074
+AR,Buenos Aires,Distrito Molino,Carmen de Areco,-34.3766,-59.82272
+AR,Buenos Aires,,Cañuelas,-35.05379,-58.76205
 AR,Buenos Aires,,Campana,-34.16327,-58.95919
+AR,Buenos Aires,,Burzaco,-34.82584,-58.39502
 AR,Autonomous City of Buenos Aires,,Buenos Aires,-34.61315,-58.37723
+AR,Buenos Aires,Distrito Molino,Coronel Brandsen,-35.16799,-58.23742
 AR,Autonomous City of Buenos Aires,,Boedo,-34.63333,-58.41667
+AR,Buenos Aires,Distrito Alcaraz Primero,Berisso,-34.8715,-57.88328
 AR,Buenos Aires,,Berazategui,-34.76531,-58.21278
+AR,Buenos Aires,,Benito Juárez,-37.67188,-59.80653
 AR,Buenos Aires,,Bella Vista,-34.5651,-58.69034
 AR,Autonomous City of Buenos Aires,,Belgrano,-34.5627,-58.45829
 AR,Chaco,,Barranqueras,-27.48132,-58.93925
 AR,Autonomous City of Buenos Aires,,Barracas,-34.64966,-58.38341
+AR,Buenos Aires,Distrito Alcaraz Primero,Baradero,-33.81199,-59.50467
+AR,Buenos Aires,,Banfield,-34.74563,-58.39365
 AR,Buenos Aires,Distrito Alcaraz Primero,Balcarce,-37.84638,-58.25549
 AR,Buenos Aires,Distrito Alcaraz Primero,Azul,-36.77803,-59.85848
 AR,Buenos Aires,Distrito Alcaraz Primero,Ayacucho,-37.15276,-58.48838
 AR,Santa Fe,,Avellaneda,-29.11761,-59.65834
-AR,Misiones,,Aristóbulo del Valle,-27.09571,-54.89344
 AR,Misiones,,Apóstoles,-27.91421,-55.75355
 AR,Neuquén Province,,Zapala,-38.90056,-70.06674
 AR,Tucumán,Distrito Alcaraz Primero,Yerba Buena,-26.81298,-65.29543
@@ -412,6 +442,7 @@ AR,San Juan,,Villa Paula de Sarmiento,-31.4933,-68.53838
 AR,Córdoba,Pedanía Villa Nueva,Villa Nueva,-32.43289,-63.24811
 AR,Córdoba,Pedanía Villa María,Villa María,-32.40751,-63.24016
 AR,Córdoba,Pedanía Dolores,Villa Dolores,-31.94504,-65.19025
+AR,Córdoba,Pedanía Villa del Rosario,Villa del Rosario,-31.55416,-63.53562
 AR,Santa Fe,,Villa Constitución,-33.22795,-60.32994
 AR,Córdoba,Pedanía San Roque,Villa Carlos Paz,-31.4183,-64.49008
 AR,Chaco,,Villa Ángela,-27.57679,-60.71114
@@ -423,10 +454,14 @@ AR,Santa Fe,,Venado Tuerto,-33.74585,-61.96711
 AR,Buenos Aires,Distrito Quebracho,Veinticinco de Mayo,-35.43247,-60.17156
 AR,Tierra del Fuego Province,,Ushuaia,-54.81084,-68.31591
 AR,Córdoba,Pedanía Río Ceballos,Unquillo,-31.23717,-64.31176
+AR,Mendoza,,Tupungato,-33.36926,-69.14781
+AR,Mendoza,,Tunuyán,-33.58125,-69.01537
 AR,Chaco,,Tres Isletas,-26.34067,-60.43207
 AR,Buenos Aires,Distrito Quebracho,Tres Arroyos,-38.37694,-60.27563
 AR,Buenos Aires,Trenque Lauquen,Trenque Lauquen,-35.97334,-62.73275
 AR,Chubut Province,,Trelew,-43.24895,-65.30505
+AR,Santa Fe,,Tostado,-29.23269,-61.76869
+AR,La Pampa,,Toay,-36.6739,-64.37979
 AR,Santiago del Estero,,Termas de Río Hondo,-27.49362,-64.85972
 AR,Salta,,Tartagal,-22.51682,-63.8056
 AR,Tucumán,Pedanía Capilla de Rodríguez,Tafí Viejo,-26.7333,-65.26146
@@ -434,6 +469,8 @@ AR,Santa Fe,,Sunchales,-30.94478,-61.5597
 AR,Santa Fe,,Santo Tomé,-31.66274,-60.7653
 AR,Santiago del Estero,,Santiago del Estero,-27.80047,-64.26285
 AR,La Pampa,,Santa Rosa,-36.61617,-64.28991
+AR,Salta,,Santa Rosa,-23.39432,-64.42509
+AR,Catamarca,,Santa María,-26.69456,-66.04805
 AR,San Juan,,Santa Lucía,-31.54055,-68.49794
 AR,Santa Fe,,Santa Fe,-31.64881,-60.70868
 AR,Jujuy,,San Salvador de Jujuy,-24.1928,-65.29342
@@ -444,11 +481,13 @@ AR,Buenos Aires,,San Nicolás de los Arroyos,-33.33425,-60.2108
 AR,Tucumán,,San Miguel de Tucumán,-26.81601,-65.21051
 AR,Neuquén Province,,San Martín de los Andes,-40.15789,-71.35337
 AR,Mendoza,,San Martín,-33.08338,-68.47312
+AR,San Juan,,Villa General San Martín,-31.43963,-68.5205
 AR,San Luis,,San Luis,-33.2914,-66.32467
+AR,Salta,,San Lorenzo,-24.73623,-65.48727
 AR,Santa Fe,,San Justo,-30.78991,-60.59276
 AR,San Juan,,San Juan,-31.53726,-68.52568
-AR,San Juan,,San José de Jáchal,-30.24162,-68.74662
 AR,Santa Fe,,San Jorge,-31.89706,-61.85993
+AR,Catamarca,,San Isidro,-28.45775,-65.72498
 AR,Córdoba,Pedanía Juárez Celman,San Francisco,-31.42497,-62.08404
 AR,Catamarca,,Catamarca,-28.46957,-65.78524
 AR,Buenos Aires,,San Carlos de Bolívar,-36.23071,-61.1157
@@ -456,7 +495,12 @@ AR,Río Negro Province,,San Antonio Oeste,-40.73193,-64.94769
 AR,Buenos Aires,Pedanía Achiras,Salto,-34.29175,-60.2545
 AR,Salta,,Salta,-24.80645,-65.41999
 AR,Santa Fe,,Rufino,-34.26237,-62.71128
+AR,Salta,,Rosario de Lerma,-24.98583,-65.5784
+AR,Salta,,Rosario de la Frontera,-25.79856,-64.97386
 AR,Santa Fe,,Rosario,-32.94682,-60.63932
+AR,Buenos Aires,Pedanía Achiras,Rojas,-34.19774,-60.7337
+AR,Mendoza,Departamento Maipú,Rodeo del Medio,-32.99487,-68.68597
+AR,Mendoza,Distrito Ciudad de Rivadavia,Rivadavia,-33.19097,-68.4622
 AR,Córdoba,Pedanía Salto,Río Tercero,-32.17675,-64.11295
 AR,Córdoba,Pedanía Pilar,Río Segundo,-31.6501,-63.91165
 AR,Tierra del Fuego Province,,Río Grande,-53.78773,-67.70975
@@ -465,16 +509,23 @@ AR,Córdoba,Pedanía Río Cuarto,Río Cuarto,-33.13044,-64.35272
 AR,Río Negro Province,,Río Colorado,-38.99081,-64.09574
 AR,Córdoba,Pedanía Río Ceballos,Río Ceballos,-31.1697,-64.3175
 AR,Chubut Province,,Rawson,-43.30031,-65.10564
+AR,Buenos Aires,,Ramallo,-33.48508,-60.00629
 AR,Santa Fe,,Rafaela,-31.25285,-61.49078
 AR,Chaco,Pedanía La Carlota,Quitilipi,-26.8708,-60.21537
 AR,Buenos Aires,Pedanía Quilino,Punta Alta,-38.8805,-62.07503
 AR,Chubut Province,,Puerto Madryn,-42.76848,-65.03827
+AR,Santa Cruz Province,,Puerto Deseado,-47.75131,-65.89674
 AR,Salta,,Profesor Salvador Mazza,-22.04897,-63.69075
 AR,Chaco,Pedanía La Carlota,Presidencia Roque Sáenz Peña,-26.79095,-60.44132
 AR,San Juan,,Pocito,-31.68333,-68.58333
 AR,Neuquén Province,,Plottier,-38.96667,-68.23333
+AR,Córdoba,Pedanía Pilar,Pilar,-31.68129,-63.8824
+AR,Buenos Aires,Pedanía Pilar,Pigüé,-37.60255,-62.40836
+AR,Santa Cruz Province,,Pico Truncado,-46.79942,-67.95785
+AR,Salta,,Pichanal,-23.31644,-64.21826
 AR,Buenos Aires,Pedanía Pilar,Pergamino,-33.89101,-60.57462
 AR,Santa Fe,,Pérez,-32.99835,-60.76791
+AR,Mendoza,Departamento Luján de Cuyo,Perdriel,-33.0749,-68.8884
 AR,Buenos Aires,Pedanía Pilar,Pehuajó,-35.81081,-61.89897
 AR,Entre Ríos Province,Distrito Sauce,Paraná,-31.73271,-60.52897
 AR,Jujuy,,Palpalá,-24.25798,-65.21358
@@ -483,11 +534,15 @@ AR,Buenos Aires,Nueve de Julio,Nueve de Julio,-35.44394,-60.88463
 AR,Neuquén Province,,Neuquén,-38.95078,-68.0592
 AR,Córdoba,Pedanía Libertad,Morteros,-30.71066,-62.00714
 AR,Tucumán,Pedanía Litín,Monteros,-27.16825,-65.49892
+AR,Salta,,San José de Metán,-25.49711,-64.97106
 AR,Mendoza,Sección 2ª Barrio Cívico,Mendoza,-32.88946,-68.84582
 AR,Córdoba,Pedanía Espinillos,Marcos Juárez,-32.6978,-62.10672
+AR,Mendoza,Distrito Ciudad de Malargüe,Malargüe,-35.47791,-69.58521
 AR,Chaco,Pedanía Saladillo,Machagai,-26.92617,-60.04852
 AR,Buenos Aires,Pedanía Cóndores,Lincoln,-34.86819,-61.52929
 AR,Jujuy,,Libertador General San Martín,-23.81305,-64.79353
+AR,Córdoba,Pedanía Sacanta,Las Varillas,-31.8704,-62.71968
+AR,Santa Cruz Province,,Las Heras,-46.54131,-68.93227
 AR,Chaco,Pedanía Espinillos,Las Breñas,-27.08819,-61.08217
 AR,La Rioja,,La Rioja,-29.41328,-66.85637
 AR,Córdoba,Pedanía San Antonio,La Falda,-31.09321,-64.48448
@@ -499,10 +554,14 @@ AR,Córdoba,Pedanía Las Cañas,Jesús María,-30.98153,-64.09424
 AR,Santa Fe,,Granadero Baigorria,-32.85683,-60.71754
 AR,Santa Fe,,Gobernador Gálvez,-33.03016,-60.64045
 AR,Buenos Aires,Distrito Algarrobitos,General Villegas,-35.03264,-63.01484
+AR,Buenos Aires,Distrito Algarrobitos,Los Toldos,-34.99997,-61.03874
 AR,Río Negro Province,,General Roca,-39.03333,-67.58333
 AR,Chaco,Pedanía Espinillos,General Pinedo,-27.32534,-61.28101
 AR,La Pampa,,General Pico,-35.6593,-63.75787
+AR,Salta,,General Güemes,-24.67445,-65.0466
 AR,Salta,,General Mosconi,-22.59617,-63.811
+AR,Mendoza,,General Alvear,-34.97747,-67.69618
+AR,La Pampa,,General Acha,-37.37821,-64.60422
 AR,Santa Fe,,Gálvez,-32.02957,-61.22097
 AR,Santa Fe,,Firmat,-33.45937,-61.4832
 AR,Tucumán,Pedanía La Amarga,Famaillá,-27.05452,-65.40189
@@ -510,6 +569,7 @@ AR,Chubut Province,,Esquel,-42.91147,-71.31947
 AR,Santa Fe,,Esperanza,-31.44957,-60.93153
 AR,Salta,,Embarcación,-23.21003,-64.09965
 AR,Córdoba,Pedanía Cóndores,Embalse,-32.20681,-64.40064
+AR,Santa Cruz Province,,El Calafate,-50.34075,-72.27682
 AR,Río Negro Province,,El Bolsón,-41.96051,-71.53336
 AR,Entre Ríos Province,Distrito Costa Grande,Diamante,-32.0671,-60.64267
 AR,Córdoba,Pedanía Toyos,Deán Funes,-30.42498,-64.35274
@@ -518,9 +578,12 @@ AR,Córdoba,Pedanía Cruz del Eje,Cruz del Eje,-30.72644,-64.80387
 AR,Entre Ríos Province,Distrito Espinillo,Crespo,-32.03077,-60.30619
 AR,Córdoba,Pedanía Rosario,Cosquín,-31.24525,-64.46574
 AR,Buenos Aires,Pedanía Salto,Coronel Suárez,-37.45859,-61.93294
+AR,Buenos Aires,Pedanía Salto,Coronel Pringles,-37.98567,-61.3504
 AR,Santa Fe,,Coronda,-31.97365,-60.91935
 AR,Córdoba,Pedanía Capital,Córdoba,-31.40648,-64.18853
 AR,Chubut Province,,Comodoro Rivadavia,-45.86256,-67.494
+AR,Provincia de Córdoba,Pedanía Las Cañas,Colonia Caroya,-31.02202,-64.06172
+AR,Buenos Aires,Pedanía Tegua,Colón,-33.89713,-61.09942
 AR,Río Negro Province,,Cipolletti,-38.93392,-67.99032
 AR,Río Negro Province,,Cinco Saltos,-38.82225,-68.06293
 AR,Buenos Aires,Pedanía Litín,Chivilcoy,-34.8969,-60.01909
@@ -528,18 +591,23 @@ AR,San Juan,,Chimbas,-31.49313,-68.53263
 AR,La Rioja,,Chilecito,-29.16163,-67.49934
 AR,Chaco,Pedanía Chucul,Charata,-27.21787,-61.18738
 AR,Buenos Aires,Pedanía Chazón,Chacabuco,-34.64203,-60.47124
+AR,Salta,,San José de los Cerrillos,-24.89715,-65.48445
 AR,Neuquén Province,,Centenario,-38.82955,-68.1318
 AR,San Juan,,Caucete,-31.6515,-68.28216
 AR,Río Negro Province,,Catriel,-37.87552,-67.79451
 AR,Chaco,Pedanía Caldera,Juan José Castelli,-25.9466,-60.62008
 AR,Santa Fe,,Casilda,-33.04459,-61.16423
 AR,Buenos Aires,Cuartel I,Carmen de Patagones,-40.80255,-62.98349
+AR,Buenos Aires,Cuartel I,Carlos Casares,-35.62247,-61.3655
 AR,Santa Fe,,Carcarañá,-32.85704,-61.15114
 AR,Santa Fe,,Capitán Bermúdez,-32.82262,-60.71852
 AR,Santa Fe,,Cañada de Gómez,-32.82033,-61.39513
 AR,Santa Cruz Province,,Caleta Olivia,-46.44785,-67.52274
+AR,Salta,,Cafayate,-26.07286,-65.97766
+AR,Buenos Aires,Pedanía Italó,Bragado,-35.11557,-60.48965
 AR,Córdoba,Pedanía Bell Ville,Bell Ville,-32.63021,-62.68883
 AR,Tucumán,,Bella Vista,-27.03424,-65.30196
+AR,Catamarca,,Belén,-27.64953,-67.02632
 AR,Buenos Aires,Pedanía Bell Ville,Bahía Blanca,-38.7176,-62.26545
 AR,Santa Fe,,Arroyo Seco,-33.15365,-60.51168
 AR,Córdoba,Pedanía Arroyito,Arroyito,-31.41917,-63.05084
@@ -554,12 +622,17 @@ AR,Tucumán,Pedanía Salto,Aguilares,-27.4315,-65.61465
 AR,Autonomous City of Buenos Aires,,Balvanera,-34.61032,-58.39766
 AR,Autonomous City of Buenos Aires,,Villa Santa Rita,-34.61082,-58.481
 AR,San Luis,,Villa Mercedes,-33.67571,-65.45783
+AR,Buenos Aires,,Avellaneda,-34.66018,-58.36744
 AR,Buenos Aires,,San Miguel,-34.54335,-58.71229
 AR,Río Negro Province,,San Carlos de Bariloche,-41.14557,-71.30822
+AR,Buenos Aires,,Moreno,-34.63401,-58.79138
 AR,Buenos Aires,,Adrogué,-34.80041,-58.38384
+AR,Buenos Aires,,La Unión,-34.87558,-58.54192
 AR,Buenos Aires,,Ingeniero Pablo Nogués,-34.47775,-58.70652
 AR,Buenos Aires,Pedanía Achiras,Villa Sarmiento,-34.63364,-58.57047
+AR,Misiones,,San Vicente,-26.99627,-54.47697
 AR,Buenos Aires,,José C. Paz,-34.51541,-58.76813
+AR,San Juan,,Rawson,-31.58189,-68.54211
 AS,American Samoa,Eastern District,Pago Pago,-14.27806,-170.7025
 AT,American Samoa,Western District,Döbling,48.25,16.33333
 AT,Carinthia,Bezirk Wolfsberg,Wolfsberg,46.84056,14.84417
@@ -602,12 +675,14 @@ AT,American Samoa,Western District,Fünfhaus,48.19596,16.3183
 AT,,,Floridsdorf,48.25,16.4
 AT,Vorarlberg,Bezirk Feldkirch,Feldkirch,47.23645,9.59734
 AT,Tyrol,Bezirk Innsbruck-Land,Essling,48.21289,16.52442
+AT,Burgenland,Bezirk Oberwart,Eisenzicken,47.27603,16.25908
 AT,Styria,,Eggenberg,47.07,15.39871
 AT,Vorarlberg,,Dornbirn,47.41427,9.74195
 AT,Vorarlberg,Bezirk Bregenz,Bregenz,47.50311,9.7471
 AT,Vorarlberg,Bezirk Bludenz,Bludenz,47.15476,9.82255
 AT,Lower Austria,Bezirk Baden,Baden,48.00543,16.23264
 AT,Salzburg,Bezirk Salzburg-Umgebung,Aspern,48.21806,16.48306
+AT,Upper Austria,Bezirk Linz-Land,Ansfelden,48.20969,14.29004
 AT,Lower Austria,Bezirk Amstetten,Amstetten,48.1229,14.87206
 AT,,,Favoriten,48.16116,16.38233
 AT,,,Donaustadt,48.2333,16.46002
@@ -625,6 +700,7 @@ AT,American Samoa,Western District,Neubau,48.20172,16.34715
 AT,American Samoa,Western District,Josefstadt,48.21243,16.34549
 AT,American Samoa,Western District,Alsergrund,48.22321,16.35506
 AT,American Samoa,Western District,Brigittenau,48.24275,16.37551
+AU,South Australia,,Whyalla,-33.03268,137.56483
 AU,Western Australia,,Scarborough,-31.89578,115.76431
 AU,Western Australia,,Rockingham,-32.27682,115.72978
 AU,Western Australia,,Port Hedland,-20.31215,118.61059
@@ -660,7 +736,7 @@ AU,Victoria,,Wangaratta,-36.35846,146.32056
 AU,Victoria,,Wallan,-37.41625,144.97859
 AU,New South Wales,,Wahroonga,-33.71816,151.11561
 AU,Queensland,,Upper Coomera,-27.87683,153.28572
-AU,American Samoa,Eastern District,Tuggeranong Administrative District,-35.41647,149.06954
+AU,American Samoa,Eastern District,Tuggeranong,-35.41647,149.06954
 AU,Victoria,,Truganina,-37.81667,144.75
 AU,Victoria,,Traralgon,-38.19528,146.5415
 AU,Queensland,,Townsville,-19.26639,146.80569
@@ -852,6 +928,7 @@ AU,,City of Palmerston,Palmerston,-12.48602,130.9833
 AU,Queensland,,Hervey Bay,-25.28762,152.76936
 AU,New South Wales,,Blue Mountains,-33.71331,150.33065
 AU,New South Wales,,Sydney Central Business District,-33.86482,151.20773
+AU,Western Australia,,Karratha,-20.73765,116.84629
 AU,New South Wales,,Kingsford,-33.92399,151.22749
 AU,Queensland,,Springfield Lakes,-27.66757,152.92488
 AU,Queensland,,Bracken Ridge,-27.3171,153.03097
@@ -937,37 +1014,39 @@ AU,Victoria,,Melbourne City Centre,-37.81501,144.96657
 AU,South Australia,Adelaide City Council,Adelaide city centre,-34.92873,138.60334
 AU,New South Wales,,Wollongong city centre,-34.4279,150.89268
 AW,,,Tanki Leendert,12.53914,-70.02004
-AW,,,San Nicolas,12.43624,-69.90713
+AW,,,Santa Cruz,12.50953,-69.98094
 AW,,,Oranjestad,12.52398,-70.02703
 AW,New South Wales,Lachlan Shire Council,Noord,12.56596,-70.03198
 AX,,Åland Islands,Mariehamn,60.09726,19.93481
 AZ,Mil-Mughan,,Əhmədbəyli,39.88074,48.39158
-AZ,Karabakh,,Şuşa,39.76006,46.74989
+AZ,Karabakh,,Shusha,39.76006,46.74989
 AZ,Shirvan-Salyan,,Salyan,39.59621,48.98479
 AZ,Mil-Mughan,,Saatlı,39.93214,48.36892
+AZ,,,Nehram,39.11597,45.46168
 AZ,Shirvan-Salyan,,Neftçala,39.3768,49.247
 AZ,,Pedanía Achiras,Naxçıvan,39.20889,45.41222
 AZ,Lankaran-Astara,,Lerik,38.77388,48.41497
 AZ,Lankaran-Astara,,Lankaran,38.75428,48.85062
 AZ,Mil-Mughan,,Imishli,39.87095,48.05995
-AZ,Karabakh,,Fizuli,39.60094,47.14529
+AZ,Karabakh,,Fuzuli,39.60094,47.14529
 AZ,Lankaran-Astara,,Jalilabad,39.20963,48.49186
 AZ,Shirvan-Salyan,,Pushkino,39.45833,48.545
 AZ,Mil-Mughan,,Beylagan,39.77556,47.61861
 AZ,Lankaran-Astara,,Astara,38.45598,48.87498
 AZ,Shirvan-Salyan,,Şirvan,39.93778,48.929
-AZ,Karabakh,,Ağdam,39.99096,46.92736
+AZ,Karabakh,,Aghdam,39.99096,46.92736
 AZ,Sheki-Zaqatala,,Zaqatala,41.6316,46.64479
 AZ,Baku,,Zabrat,40.47746,49.94174
 AZ,Central Aran,,Yevlakh,40.61832,47.15014
-AZ,Ganja-Dashkasan,,Göygöl,40.58584,46.3189
+AZ,Ganja-Dashkasan,,Goygol,40.58584,46.3189
 AZ,Quba-Khachmaz,,Xaçmaz,41.46426,48.80565
 AZ,Central Aran,,Ujar,40.51902,47.65423
-AZ,Qazakh-Tovuz,,Tovuz,40.99249,45.62838
-AZ,Karabakh,,Terter,40.34201,46.93161
-AZ,Absheron-Khizi,,Sumqayıt,40.58972,49.66861
+AZ,Karabakh,,Tartar,40.34201,46.93161
+AZ,Absheron-Khizi,,Sumgayit,40.58972,49.66861
+AZ,Quba-Khachmaz,,Siyazan,41.07811,49.11564
 AZ,Baku,,Qaraçuxur,40.39667,49.97361
-AZ,Qazakh-Tovuz,,Shamkhor,40.82975,46.0178
+AZ,Absheron-Khizi,,Saray,40.53299,49.71681
+AZ,Qazakh-Tovuz,,Shamkhir,40.82975,46.0178
 AZ,Mountainous Shirvan,,Shamakhi,40.63141,48.64137
 AZ,Sheki-Zaqatala,,Sheki,41.19194,47.17056
 AZ,Baku,,Sabunçu,40.4425,49.94806
@@ -975,19 +1054,23 @@ AZ,Mil-Mughan,,Sabirabad,40.00869,48.47701
 AZ,Quba-Khachmaz,,Qusar,41.4275,48.4302
 AZ,Quba-Khachmaz,,Quba,41.36108,48.51341
 AZ,Shirvan-Salyan,,Hacıqabul,40.03874,48.94286
-AZ,Qazakh-Tovuz,,Qazax,41.09246,45.36561
-AZ,Absheron-Khizi,,Hacı Zeynalabdin,40.62333,49.55861
+AZ,Qazakh-Tovuz,,Gazakh,41.09246,45.36561
+AZ,Absheron-Khizi,,Haji Zeynalabdin,40.62333,49.55861
 AZ,,,Mingachevir,40.76422,47.06227
 AZ,Baku,,Maştağa,40.52983,50.00616
 AZ,Baku,,Mardakan,40.49182,50.14292
 AZ,Baku,,Lokbatan,40.3256,49.73376
 AZ,Central Aran,,Kyurdarmir,40.34257,48.15649
+AZ,,,Govlar,40.94595,45.73175
+AZ,Absheron-Khizi,,Gobu,40.40472,49.71306
 AZ,Absheron-Khizi,,Khirdalan,40.44808,49.75502
-AZ,Mountainous Shirvan,,İsmayıllı,40.78485,48.15141
+AZ,Mountainous Shirvan,,Ismayilli,40.78485,48.15141
 AZ,Baku,,Yeni Suraxanı,40.43026,50.03598
 AZ,Central Aran,,Göyçay,40.65055,47.74219
 AZ,Baku,,Hövsan,40.37444,50.08528
+AZ,,,Hokmali,40.43111,49.73722
 AZ,,,Ganja,40.68157,46.36134
+AZ,Absheron-Khizi,,Jorat,40.57176,49.70509
 AZ,Quba-Khachmaz,,Divichibazar,41.20117,48.98712
 AZ,Baku,,Buzovna,40.51903,50.11438
 AZ,Baku,,Biny Selo,40.45076,50.08686
@@ -997,8 +1080,9 @@ AZ,Baku,,Baku,40.37767,49.89201
 AZ,Baku,,Amirdzhan,40.42639,49.98361
 AZ,Mountainous Shirvan,,Aghsu,40.57028,48.40087
 AZ,Central Aran,,Ağdaş,40.64699,47.4738
-AZ,Karabakh,,Agdzhabedy,40.05015,47.45937
+AZ,Karabakh,,Aghjabadi,40.05015,47.45937
 AZ,Baku,,Bakıxanov,40.41894,49.96693
+AZ,,,Mehdiabad,40.49691,49.8517
 BA,Federation of Bosnia and Herzegovina,City of Zenica,Zenica,44.20169,17.90397
 BA,Federation of Bosnia and Herzegovina,Grad Visoko,Visoko,43.98889,18.17806
 BA,Federation of Bosnia and Herzegovina,,Velika Kladuša,45.18497,15.80579
@@ -1376,7 +1460,7 @@ BE,Hainaut,Ath,Ath,50.62937,3.77801
 BE,West Flanders,Brugge,Assebroek,51.19367,3.2623
 BE,Flemish Brabant,Halle-Vilvoorde,Asse,50.91011,4.19836
 BE,Luxembourg,Arlon,Arlon,49.68333,5.81667
-BE,Antwerp,Antwerp,Antwerpen,51.22047,4.40026
+BE,Antwerp,Antwerp,Antwerp,51.22047,4.40026
 BE,Liège,Liège,Ans,50.6623,5.52029
 BE,,Brussels-Capital,Anderlecht,50.83619,4.31454
 BE,Namur,Namur,Andenne,50.48941,5.09513
@@ -1685,6 +1769,7 @@ BR,Pernambuco,,Tupanatinga,-8.75333,-37.33972
 BR,Maranhão,,Tuntum,-5.25806,-44.64889
 BR,Pará,,Tucuruí,-3.76585,-49.67923
 BR,Pará,Maheshpur Upazila,Tucumã,-0.15491,-50.0615
+BR,Pernambuco,,Triunfo,-7.83806,-38.10167
 BR,Pernambuco,,Trindade,-7.76194,-40.26778
 BR,Ceará,,Trairi,-3.27778,-39.26889
 BR,Alagoas,,Traipu,-9.97056,-37.00333
@@ -1703,6 +1788,7 @@ BR,Piauí,Região Integrada de Desenvolvimento da Grande Teresina,Teresina,-5.08
 BR,Ceará,,Tejuçuoca,-3.98889,-39.58056
 BR,Ceará,,Tauá,-6.00306,-40.29278
 BR,Ceará,,São João dos Inhamuns,-6.0,-40.28333
+BR,Amapá,,Tartarugalzinho,1.50556,-50.91194
 BR,Pernambuco,,Taquaritinga do Norte,-7.90306,-36.04417
 BR,Alagoas,,Taquarana,-9.645,-36.49722
 BR,Ceará,,Tamboril,-4.83222,-40.32056
@@ -1716,6 +1802,7 @@ BR,Paraíba,,Sumé,-7.67167,-36.88
 BR,Paraíba,Região Metropolitana de Sousa,Sousa,-6.75917,-38.22806
 BR,Pará,,Soure,-0.71667,-48.52333
 BR,Ceará,,Solonópole,-5.73333,-39.0075
+BR,Paraíba,,Soledade,-7.05722,-36.36278
 BR,Paraíba,,Solânea,-6.75459,-35.66449
 BR,Ceará,,Sobral,-3.68611,-40.34972
 BR,Bahia,Região Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro,Sobradinho,-9.47184,-40.80155
@@ -1724,7 +1811,6 @@ BR,Pernambuco,,Sertânia,-8.07361,-37.26444
 BR,Pernambuco,,Serrita,-7.93333,-39.29583
 BR,Pernambuco,,Serra Talhada,-7.99194,-38.29833
 BR,Ceará,,Senador Pompeu,-5.58806,-39.37167
-BR,Pará,,Senador José Porfírio,-2.59083,-51.95417
 BR,Alagoas,,Satuba,-9.56333,-35.82444
 BR,Paraíba,,Sapé,-7.09639,-35.23278
 BR,Pernambuco,,São Vicente Férrer,-7.59111,-35.49139
@@ -1784,6 +1870,7 @@ BR,Pará,,Santa Maria do Pará,-1.35028,-47.57556
 BR,Pará,,Santa Maria das Barreiras,-8.87167,-49.71278
 BR,Pernambuco,Região Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro,Santa Maria da Boa Vista,-8.80778,-39.82556
 BR,Maranhão,,Santa Luzia,-7.64265,-47.21738
+BR,Paraíba,Região Metropolitana de Patos,Santa Luzia,-6.87222,-36.91861
 BR,Pará,,Santa Isabel do Pará,-1.29861,-48.16056
 BR,Maranhão,,Santa Inês,-3.66667,-45.38
 BR,Maranhão,,Santa Helena,-2.23111,-45.3
@@ -1898,6 +1985,7 @@ BR,Piauí,,Oeiras,-7.02528,-42.13111
 BR,Ceará,,Ocara,-4.49083,-38.59667
 BR,Pará,,Óbidos,-1.9175,-55.51806
 BR,Ceará,,Novo Oriente,-5.53444,-40.77417
+BR,Pará,,Nova Timboteua,-1.20778,-47.3925
 BR,Ceará,,Nova Russas,-4.70667,-40.56306
 BR,Amazonas,,Nova Olinda do Norte,-3.89174,-59.09542
 BR,Ceará,,Nova Olinda,-7.09167,-39.68056
@@ -1994,7 +2082,6 @@ BR,Ceará,,Jaguaribe,-5.89056,-38.62194
 BR,Ceará,,Jaguaretama,-5.61278,-38.76694
 BR,Pará,Região Integrada de Desenvolvimento da Grande Teresina,Jacundá,-4.44696,-49.11556
 BR,Pará,,Jacareacanga,-6.22222,-57.75278
-BR,Pernambuco,Região Metropolitana do Recife,Jaboatão,-8.18028,-35.00139
 BR,Pará,,Itupiranga,-5.13472,-49.32667
 BR,Ceará,,Itatira,-4.52889,-39.62222
 BR,Ceará,,Itarema,-2.92028,-39.915
@@ -2019,6 +2106,7 @@ BR,Ceará,,Ipueiras,-4.54167,-40.71889
 BR,Pernambuco,,Ipubi,-7.65194,-40.14889
 BR,Ceará,,Ipu,-4.32222,-40.71083
 BR,Pernambuco,Região Metropolitana do Recife,Ipojuca,-8.39889,-35.06389
+BR,Piauí,,Inhuma,-6.66833,-41.70778
 BR,Alagoas,,Inhapi,-9.22139,-37.74861
 BR,Paraíba,Região Metropolitana de Itabaiana,Ingá,-7.28083,-35.60444
 BR,Ceará,,Independência,-5.39639,-40.30861
@@ -2053,7 +2141,6 @@ BR,Pernambuco,,Glória do Goitá,-8.00167,-35.29278
 BR,Bahia,,Glória,-9.33806,-38.25472
 BR,Pernambuco,,Garanhuns,-8.88202,-36.50216
 BR,Pernambuco,,Gameleira,-8.58444,-35.38667
-BR,Ceará,,Frecheirinha,-3.76,-40.81639
 BR,Maranhão,,Fortuna,-5.73333,-44.15833
 BR,Ceará,,Fortim,-4.45194,-37.79722
 BR,Ceará,,Fortaleza,-3.71722,-38.54306
@@ -2094,6 +2181,7 @@ BR,Alagoas,,Craíbas,-9.61806,-36.76806
 BR,Ceará,,Quiterianópolis,-5.84426,-40.70195
 BR,Pernambuco,,Correntes,-9.12889,-36.33028
 BR,Maranhão,,Coroatá,-4.13,-44.12417
+BR,Paraíba,Região Metropolitana do Vale do Piancó,Coremas,-7.01444,-37.94583
 BR,Ceará,,Coreaú,-3.55097,-40.65724
 BR,Pernambuco,,Condado,-7.58583,-35.10583
 BR,Pará,,Conceição do Araguaia,-8.26441,-49.26982
@@ -2114,6 +2202,7 @@ BR,Ceará,,Caucaia,-3.73611,-38.65306
 BR,Paraíba,,Catolé do Rocha,-6.34389,-37.74667
 BR,Bahia,,Campo Alegre de Lourdes,-9.51729,-43.01026
 BR,Pernambuco,,Catende,-8.66667,-35.71667
+BR,Ceará,,Catarina,-6.13083,-39.8775
 BR,Piauí,,Castelo do Piauí,-5.32222,-41.5525
 BR,Pará,,Castanhal,-1.29389,-47.92639
 BR,Ceará,,Cascavel,-4.13306,-38.24194
@@ -2178,6 +2267,7 @@ BR,Pará,,Bragança,-1.05361,-46.76556
 BR,Amazonas,,Borba,-4.39143,-59.58864
 BR,Paraíba,Região Metropolitana de Campina Grande,Boqueirão,-7.48179,-36.13222
 BR,Pernambuco,,Bonito,-8.47028,-35.72861
+BR,Pará,,Bonito,-1.3625,-47.30583
 BR,Piauí,,Bom Jesus,-9.07444,-44.35861
 BR,Pernambuco,,Bom Jardim,-7.79583,-35.58722
 BR,Pernambuco,,Bom Conselho,-9.16972,-36.67972
@@ -2206,6 +2296,7 @@ BR,Ceará,,Barreira,-4.28694,-38.64306
 BR,Piauí,,Barras,-4.24444,-42.29444
 BR,Maranhão,,Barra do Corda,-5.50556,-45.24333
 BR,Alagoas,,Barra de Santo Antônio,-9.40472,-35.50722
+BR,Paraíba,Região Metropolitana de Barra de Santa Rosa,Barra de Santa Rosa,-6.71972,-36.06056
 BR,Pará,,Barcarena,-1.50583,-48.62583
 BR,Ceará,,Barbalha,-7.31111,-39.30417
 BR,Rio Grande do Norte,,Baraúna,-5.08,-37.61667
@@ -2244,6 +2335,7 @@ BR,Paraíba,Região Metropolitana de Cajazeiras,São João do Rio do Peixe,-6.72
 BR,Pará,,Ananindeua,-1.36556,-48.37222
 BR,Maranhão,,Anajatuba,-3.26444,-44.61972
 BR,Pará,,Anajás,-0.98667,-49.94
+BR,Alagoas,,Anadia,-9.68444,-36.30417
 BR,Ceará,,Amontada,-3.36167,-39.83167
 BR,Maranhão,,Amarante do Maranhão,-5.56667,-46.74222
 BR,Piauí,,Amarante,-6.24316,-42.84544
@@ -2324,6 +2416,7 @@ BR,Paraná,,União da Vitória,-26.23,-51.08639
 BR,Minas Gerais,Região Integrada de Desenvolvimento do Distrito Federal e Entorno,Unaí,-16.3575,-46.90611
 BR,Bahia,,Una,-15.29333,-39.07528
 BR,Paraná,Região Metropolitana de Umuarama,Umuarama,-23.76639,-53.325
+BR,Bahia,,Umburanas,-10.73278,-41.32639
 BR,Sergipe,,Umbaúba,-11.38333,-37.65778
 BR,Minas Gerais,,Uberlândia,-18.91861,-48.27722
 BR,Minas Gerais,,Uberaba,-19.74833,-47.93194
@@ -2366,6 +2459,7 @@ BR,Santa Catarina,,Tijucas,-27.24139,-48.63361
 BR,São Paulo,Região Metropolitana de Sorocaba,Tietê,-23.10194,-47.71472
 BR,Paraná,,Tibagi,-24.50944,-50.41361
 BR,Rio Grande do Sul,,Teutônia,-29.44806,-51.80639
+BR,Paraná,,Terra Rica,-22.72643,-52.6202
 BR,São Paulo,Região Metropolitana de Campinas,Terra Preta,-22.63333,-47.05
 BR,Paraná,,Terra Boa,-23.76806,-52.44417
 BR,Rio de Janeiro,,Teresópolis,-22.4167,-42.97822
@@ -2389,6 +2483,7 @@ BR,Bahia,,Tanhaçu,-14.02139,-41.24806
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Tanguá,-22.73028,-42.71417
 BR,São Paulo,,Tanabi,-20.62639,-49.64917
 BR,São Paulo,Região Metropolitana de Ribeirão Preto,Tambaú,-21.705,-47.27444
+BR,Paraná,,Tamarana,-23.72333,-51.09722
 BR,Minas Gerais,,Taiobeiras,-15.80778,-42.23306
 BR,Santa Catarina,,Taió,-27.11639,-49.99806
 BR,São Paulo,Região Metropolitana de São Paulo,Taboão da Serra,-23.62611,-46.79167
@@ -2579,6 +2674,7 @@ BR,Santa Catarina,,Rio Negrinho,-26.25444,-49.51833
 BR,São Paulo,Região Metropolitana de São Paulo,Rio Grande da Serra,-23.74417,-46.39833
 BR,Rio Grande do Sul,Aglomeração Urbana do Sul,Rio Grande,-32.035,-52.09861
 BR,Santa Catarina,,Rio do Sul,-27.21417,-49.64306
+BR,Bahia,,Rio do Antônio,-14.41139,-42.07556
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Rio de Janeiro,-22.90642,-43.18223
 BR,São Paulo,,Rio das Pedras,-22.84333,-47.60611
 BR,Rio de Janeiro,,Rio das Ostras,-22.52694,-41.945
@@ -2589,6 +2685,7 @@ BR,Mato Grosso do Sul,,Rio Brilhante,-21.80194,-54.54639
 BR,Paraná,Região Metropolitana de Curitiba,Rio Branco do Sul,-25.19,-49.31417
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Rio Bonito,-22.70861,-42.60972
 BR,Espírito Santo,,Rio Bananal,-19.265,-40.33333
+BR,Paraná,,Rio Azul,-25.73278,-50.79639
 BR,Sergipe,,Ribeirópolis,-10.53944,-37.41667
 BR,São Paulo,Região Metropolitana de Ribeirão Preto,Ribeirão Preto,-21.1775,-47.81028
 BR,São Paulo,Região Metropolitana de São Paulo,Ribeirão Pires,-23.71056,-46.41333
@@ -2647,7 +2744,6 @@ BR,Minas Gerais,,Porteirinha,-15.74333,-43.02833
 BR,Rio Grande do Sul,Metropolitan Region of Porto Alegre,Portão,-29.70167,-51.24194
 BR,Rio de Janeiro,,Porciúncula,-20.96278,-42.04083
 BR,Goiás,,Porangatu,-13.44083,-49.14861
-BR,Bahia,,Ponto Novo,-10.86278,-40.13361
 BR,Mato Grosso,,Pontes e Lacerda,-15.22611,-59.33528
 BR,Minas Gerais,,Ponte Nova,-20.41639,-42.90861
 BR,Mato Grosso do Sul,,Ponta Porã,-22.53611,-55.72556
@@ -2696,6 +2792,7 @@ BR,São Paulo,,Pinhalzinho,-22.77944,-46.59056
 BR,São Paulo,,Espírito Santo do Pinhal,-22.19591,-46.74884
 BR,Bahia,,Pindobaçu,-10.74167,-40.36083
 BR,São Paulo,Região Metropolitana do Vale do Paraíba e Litoral Norte,Pindamonhangaba,-22.92389,-45.46167
+BR,Bahia,,Pindaí,-14.4925,-42.68722
 BR,São Paulo,Região Metropolitana de Sorocaba,Pilar do Sul,-23.81306,-47.71639
 BR,São Paulo,Região Metropolitana de Sorocaba,Piedade,-23.71194,-47.42778
 BR,Santa Catarina,,Balneário Piçarras,-26.76389,-48.67167
@@ -2807,7 +2904,6 @@ BR,Sergipe,,Nossa Senhora do Socorro,-10.855,-37.12611
 BR,São Paulo,Região Metropolitana de São Paulo,Freguesia do Ó,-23.49877,-46.69983
 BR,Sergipe,,Nossa Senhora das Dores,-10.49167,-37.19333
 BR,Sergipe,,Nossa Senhora da Glória,-10.21833,-37.42028
-BR,Bahia,,Nordestina,-10.8225,-39.42694
 BR,Mato Grosso,,Nobres,-14.72028,-56.3275
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Niterói,-22.88333,-43.10361
 BR,Goiás,,Niquelândia,-14.47389,-48.45972
@@ -2953,6 +3049,7 @@ BR,Bahia,,Laje,-13.18222,-39.425
 BR,Santa Catarina,,Laguna,-28.4825,-48.78083
 BR,Rio Grande do Sul,,Lagoa Vermelha,-28.20861,-51.52583
 BR,Minas Gerais,Região Metropolitana de Belo Horizonte,Lagoa Santa,-19.63006,-43.9009
+BR,Bahia,,Lagoa Real,-14.03472,-42.14222
 BR,Minas Gerais,,Lagoa Formosa,-18.77861,-46.4075
 BR,Minas Gerais,,Lagoa da Prata,-20.0225,-45.54361
 BR,Bahia,,Presidente Dutra,-11.2951,-41.98605
@@ -3063,11 +3160,11 @@ BR,Bahia,,Itamaraju,-17.03917,-39.53111
 BR,Bahia,,Itajuípe,-14.67806,-39.375
 BR,Minas Gerais,,Itajubá,-22.42556,-45.45278
 BR,São Paulo,,Itajobi,-21.31806,-49.05444
-BR,Bahia,,Itagibá,-14.28361,-39.84278
 BR,Santa Catarina,,Itajaí,-26.90778,-48.66194
 BR,Santa Catarina,,Itaiópolis,-26.33639,-49.90639
 BR,São Paulo,,Itaí,-23.41778,-49.09056
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Itaguaí,-22.85222,-43.77528
+BR,Bahia,,Itaeté,-12.98639,-40.9725
 BR,Bahia,,Itacaré,-14.2789,-38.99584
 BR,Minas Gerais,,Itacarambi,-15.10222,-44.09194
 BR,Bahia,,Itabuna,-14.78556,-39.28028
@@ -3123,14 +3220,15 @@ BR,Bahia,,Ibotirama,-12.18528,-43.22056
 BR,São Paulo,Região Metropolitana de Sorocaba,Ibiúna,-23.65639,-47.2225
 BR,Bahia,,Ibititá,-11.54722,-41.9775
 BR,São Paulo,,Ibitinga,-21.75778,-48.82889
+BR,Bahia,,Ibitiara,-12.65222,-42.21778
 BR,Rio Grande do Sul,,Ibirubá,-28.6275,-53.08972
 BR,Minas Gerais,Região Metropolitana de Belo Horizonte,Ibirité,-20.02194,-44.05889
-BR,Bahia,,Ibirataia,-14.06694,-39.64056
 BR,Bahia,,Ibirapitanga,-14.16417,-39.37361
 BR,Santa Catarina,,Ibirama,-27.05694,-49.51778
 BR,Paraná,,Ibiporã,-23.26917,-51.04806
 BR,Bahia,,Santa Rita de Cássia,-11.00861,-44.51944
 BR,Bahia,,Ibipeba,-11.64083,-42.01111
+BR,Bahia,,Ibicuí,-14.84167,-39.98667
 BR,Bahia,,Ibicoara,-13.41316,-41.28572
 BR,Bahia,,Ibicaraí,-14.865,-39.5875
 BR,Minas Gerais,,Ibiá,-19.47833,-46.53889
@@ -3171,6 +3269,7 @@ BR,São Paulo,Região Metropolitana de Campinas,Engenheiro Coelho,-22.49123,-47.
 BR,São Paulo,Região Metropolitana de São Paulo,Guaianases,-23.54333,-46.41083
 BR,Espírito Santo,,Guaçuí,-20.77556,-41.67944
 BR,Rio Grande do Sul,Metropolitan Region of Porto Alegre,Gravataí,-29.94218,-50.99278
+BR,Rio Grande do Sul,,Gramado,-29.37861,-50.87389
 BR,Minas Gerais,,Governador Valadares,-18.85111,-41.94944
 BR,Paraná,,Goioerê,-24.18472,-53.0275
 BR,Goiás,,Goiatuba,-18.0125,-49.35472
@@ -3462,6 +3561,7 @@ BR,Bahia,,Buritirama,-10.70778,-43.63056
 BR,São Paulo,,Buritama,-21.06611,-50.14722
 BR,São Paulo,,Buri,-23.7975,-48.59278
 BR,Sergipe,,Boquim,-11.14694,-37.62056
+BR,Bahia,,Buerarema,-14.95944,-39.29972
 BR,Santa Catarina,,Brusque,-27.09795,-48.91281
 BR,Bahia,,Brumado,-14.20361,-41.66528
 BR,Minas Gerais,Região Metropolitana de Belo Horizonte,Brumadinho,-20.14333,-44.19972
@@ -3504,6 +3604,7 @@ BR,Minas Gerais,Região Metropolitana de Belo Horizonte,Belo Horizonte,-19.92083
 BR,Bahia,,Belo Campo,-15.03833,-41.25972
 BR,Bahia,,Belmonte,-15.86126,-38.87982
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Belford Roxo,-22.76417,-43.39944
+BR,Paraná,,Bela Vista do Paraíso,-22.99667,-51.19056
 BR,Goiás,,Bela Vista de Goiás,-16.97278,-48.95333
 BR,Mato Grosso do Sul,,Bela Vista,-22.10809,-56.53253
 BR,São Paulo,,Bebedouro,-20.94944,-48.47917
@@ -3623,16 +3724,18 @@ BR,Minas Gerais,Região Metropolitana de Piracicaba,Água Rasa,-20.43333,-45.166
 BR,São Paulo,,Aguaí,-22.05944,-46.97861
 BR,Mato Grosso do Sul,,Água Clara,-20.44806,-52.87806
 BR,Espírito Santo,,Afonso Cláudio,-20.07417,-41.12389
+BR,Bahia,,Adustina,-10.53333,-38.1
 BR,São Paulo,,Adamantina,-21.68528,-51.0725
+BR,Bahia,,Acajutiba,-11.66222,-38.01722
 BR,Santa Catarina,,Abelardo Luz,-26.56472,-52.32833
 BR,Minas Gerais,,Abaeté,-19.16,-45.44583
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Leblon,-22.98444,-43.22315
+BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Copacabana,-22.96898,-43.18563
 BR,Rio Grande do Sul,Metropolitan Region of Porto Alegre,Guaíba,-30.11389,-51.325
 BR,Mato Grosso,,Comodoro,-13.66306,-59.78583
 BR,Tocantins,,Palmas,-10.16745,-48.32766
 BR,Santa Catarina,,Bombinhas,-27.1518,-48.48941
 BR,Paraná,,Pontal do Paraná,-25.67361,-48.51111
-BR,Tocantins,,Lagoa da Confusão,-10.79361,-49.62361
 BR,Tocantins,,Paraíso do Tocantins,-10.17611,-48.86667
 BR,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,Universidade Rural,-22.76639,-43.69139
 BR,Amazonas,,Uarini,-2.99,-65.10833
@@ -3768,7 +3871,6 @@ BR,Bahia,,Itabela,-16.575,-39.55333
 BR,São Paulo,Região Metropolitana de São Paulo,Itaim Paulista,-23.50308,-46.38566
 BR,Minas Gerais,,Itaobim,-16.56167,-41.50333
 BR,Mato Grosso do Sul,,Itaquiraí,-23.47444,-54.185
-BR,Bahia,,Itatim,-12.71194,-39.69806
 BR,Maranhão,,Itinga do Maranhão,-4.44972,-47.52556
 BR,Pernambuco,Região Metropolitana do Recife,Jaboatão dos Guararapes,-8.11278,-35.01472
 BR,Minas Gerais,,Jaíba,-15.33833,-43.67444
@@ -3793,6 +3895,7 @@ BR,Pará,,Mojuí dos Campos,-2.68333,-54.64278
 BR,Mato Grosso do Sul,,Nova Alvorada do Sul,-21.46583,-54.38389
 BR,Mato Grosso do Sul,,Nova Andradina,-22.23333,-53.34306
 BR,Pará,,Nova Esperança do Piriá,-2.26778,-46.9675
+BR,Pará,,Nova Ipixuna,-4.92111,-49.07694
 BR,Rondônia,,Nova Mamoré,-10.40194,-65.32667
 BR,Mato Grosso,,Nova Mutum,-13.82889,-56.08222
 BR,Goiás,Região Integrada de Desenvolvimento do Distrito Federal e Entorno,Novo Gama,-16.05917,-48.03944
@@ -3805,6 +3908,7 @@ BR,Maranhão,,Paço do Lumiar,-2.53222,-44.1075
 BR,Maranhão,,Palmeirândia,-2.64528,-44.895
 BR,Mato Grosso,,Paranatinga,-14.43167,-54.05111
 BR,Pará,,Parauapebas,-6.0675,-49.90222
+BR,Amapá,,Pedra Branca do Amapari,0.77806,-51.94361
 BR,Mato Grosso,,Pedra Preta,-16.62306,-54.47389
 BR,Espírito Santo,,Pedro Canário,-18.03028,-40.15056
 BR,Maranhão,,Pedro do Rosário,-2.97236,-45.35126
@@ -3856,6 +3960,7 @@ BR,Mato Grosso,,Sorriso,-12.54528,-55.71139
 BR,Bahia,,Souto Soares,-12.08861,-41.63778
 BR,Pará,,Tailândia,-2.94722,-48.95306
 BR,Mato Grosso,Região Metropolitana de Campina Grande,Tangará da Serra,-14.61944,-57.48583
+BR,Bahia,,Teixeira de Freitas,-17.535,-39.74194
 BR,Pará,,Trairão,-4.57444,-55.94361
 BR,Minas Gerais,,Três Marias,-18.20639,-45.24167
 BR,Maranhão,,Trizidela do Vale,-4.57194,-44.62083
@@ -4035,7 +4140,7 @@ BY,Homyel Region,Zhytkavichy District,Žytkavičy,52.2168,27.8561
 BY,Minsk Region,Minsk District,Zaslawye,54.0114,27.2695
 BY,Vitsebsk Region,,Vitebsk,55.1904,30.2049
 BY,Minsk Region,Vileyka District,Vileyka,54.4914,26.9111
-BY,Hrodna Region,Vawkavysk District,Volkovysk,53.1561,24.4513
+BY,Hrodna Region,Vawkavysk District,Vaukavysk,53.1561,24.4513
 BY,Homyel Region,Svietlahorsk District,Svetlogorsk,52.6329,29.7389
 BY,Minsk Region,Stowbtsy District,Stowbtsy,53.47994,26.7351
 BY,Hrodna Region,Smarhon' District,Smarhoń,54.4798,26.3957
@@ -4068,7 +4173,6 @@ BY,Hrodna Region,Lida District,Lida,53.88333,25.29972
 BY,Mahilyow Region,Krychaw District,Krychaw,53.71924,31.71356
 BY,Minsk Region,Minsk District,Kalodzishchy,53.944,27.7823
 BY,Brest Region,Kobryn District,Kobryn,52.21173,24.3563
-BY,Mahilyow Region,Klimavichy District,Klimovichi,53.60492,31.95632
 BY,Homyel Region,Kalinkavichy District,Kalinkovichi,52.1323,29.3257
 BY,Brest Region,Ivatsevichy District,Ivatsevichi,52.70793,25.33509
 BY,Brest Region,Ivanava District,Ivanovo,52.14724,25.53198
@@ -4082,11 +4186,12 @@ BY,Mahilyow Region,Bychaw District,Bykhov,53.52131,30.23078
 BY,Brest Region,Byaroza District,Byaroza,52.53129,24.9782
 BY,Brest Region,,Brest,52.10894,23.71749
 BY,Minsk Region,Barysaw District,Barysaw,54.2279,28.505
-BY,Brest Region,,Baranovichi,53.13253,26.00774
-BY,Mahilyow Region,Byalynichy District,Bobruysk,53.14636,29.20552
+BY,Брэсцкая вобласць,,Baranovichi,53.13255,26.00775
+BY,Магілёўская вобласць,,Bobruysk,53.14676,29.20548
 BY,Hrodna Region,Ashmyany District,Oshmyany,54.41815,25.93734
 BY,Minsk Region,Dzyarzhynsk District,Fanipol,53.74998,27.33338
 BZ,Belize District,,San Pedro,17.91598,-87.9659
+BZ,Cayo,,San Ignacio,17.1588,-89.0696
 BZ,Orange Walk,,Orange Walk,18.08124,-88.56328
 BZ,Cayo District,,Belmopan,17.25376,-88.76401
 BZ,Belize District,,Belize City,17.49952,-88.19756
@@ -4120,6 +4225,7 @@ CA,Ontario,Peel Region,Brampton,43.68341,-79.76633
 CA,Manitoba,,Brandon,49.84692,-99.95306
 CA,Ontario,Brant County,Brant,43.1334,-80.34967
 CA,Ontario,,Brantford,43.1334,-80.26636
+CA,Ontario,,Bridlewood,45.28522,-75.8569
 CA,British Columbia,Metro Vancouver Regional District,Brighouse-City Centre,49.16667,-123.13333
 CA,British Columbia,Metro Vancouver Regional District,Broadmoor,49.15,-123.13333
 CA,British Columbia,Thompson-Nicola Regional District,Brocklehurst,50.70825,-120.41337
@@ -4162,7 +4268,7 @@ CA,British Columbia,Comox Valley Regional District,Courtenay,49.68657,-124.9936
 CA,Alberta,,Coventry Hills,51.16869,-114.05903
 CA,British Columbia,Regional District of East Kootenay,Cranbrook,49.49991,-115.76879
 CA,Nova Scotia,Halifax County,Dartmouth,44.67134,-63.57719
-CA,British Columbia,Metro Vancouver Regional District,Delta,49.14399,-122.9068
+CA,British Columbia,Metro Vancouver Regional District,Delta,49.08917,-123.05322
 CA,Quebec,Deux-Montagnes,Deux-Montagnes,45.53455,-73.90168
 CA,New Brunswick,Westmorland County,Dieppe,46.07844,-64.68735
 CA,Quebec,Urban agglomeration of Montreal,Dollard-Des Ormeaux,45.49452,-73.82419
@@ -4384,6 +4490,7 @@ CA,Quebec,,Templeton-Est,45.49389,-75.58833
 CA,British Columbia,Regional District of Kitimat-Stikine,Terrace,54.51634,-128.60345
 CA,Quebec,Les Moulins,Terrebonne,45.70004,-73.64732
 CA,Ontario,,The Beaches,43.67372,-79.29539
+CA,Ontario,York Region,Thornhill,43.815,-79.4242
 CA,Ontario,Niagara Region,Thorold,43.11682,-79.19958
 CA,Ontario,Thunder Bay District,Thunder Bay,48.38202,-89.25018
 CA,Ontario,Oxford County,Tillsonburg,42.85986,-80.72617
@@ -4440,6 +4547,7 @@ CA,Quebec,York Region,Aylmer,45.4002,-75.80644
 CA,Quebec,Québec (Agglomération),L'Ancienne-Lorette,46.79392,-71.35191
 CA,New Brunswick,Madawaska County,Edmundston,47.3737,-68.32512
 CA,Quebec,Beauce-Sartigan,Saint-Georges,46.11353,-70.66526
+CA,Québec,,La Baie,48.33982,-70.88928
 CA,Québec,,Hull,45.42761,-75.71056
 CA,Quebec,,Buckingham,45.58563,-75.4208
 CA,Quebec,Les Appalaches,Thetford-Mines,46.09371,-71.30539
@@ -4471,7 +4579,7 @@ CA,Ontario,,Willowdale,43.76672,-79.39909
 CA,Nova Scotia,Halifax County,Lower Sackville,44.77599,-63.67865
 CA,Quebec,Québec (Agglomération),La Haute-Saint-Charles,46.89028,-71.37222
 CA,Quebec,Urban agglomeration of Québec,Neufchâtel-Est–Lebourgneuf,46.85436,-71.34191
-CA,British Columbia,Metro Vancouver Regional District,Downtown Vancouver,49.27784,-123.12794
+CA,British Columbia,Metro Vancouver Regional District,Downtown Vancouver,49.28277,-123.11935
 CA,British Columbia,Metro Vancouver Regional District,Chinatown,49.27997,-123.10556
 CA,Ontario,Ottawa,Fallingbrook,45.47558,-75.48401
 CA,British Columbia,Regional District of Central Okanagan,Lake Country,50.0088,-119.39672
@@ -4594,6 +4702,9 @@ CA,Saskatchewan,,Arcola East,50.43308,-104.53601
 CA,Saskatchewan,,Dewdney East,50.45428,-104.54671
 CA,New Brunswick / Nouveau-Brunswick,York County,Fredericton Northside,45.97594,-66.64117
 CA,Nova Scotia,Halifax County,Clayton Park West,44.65759,-63.66887
+CA,Manitoba,,Fort Garry South,49.79225,-97.16359
+CA,Manitoba,,St. James-Assiniboia East,49.88986,-97.22653
+CA,Alberta,,Centre City,51.04512,-114.07431
 CC,,,West Island,-12.15681,96.82251
 CD,Tshopo,,Yangambi,0.76755,24.43973
 CD,Upper Uele,,Watsa,3.03716,29.53551
@@ -4741,6 +4852,7 @@ CF,Ouham,,Batangafo,7.30082,18.2833
 CF,Nana-Mambéré,,Baoro,5.66667,15.96667
 CF,Bangui,,Bangui,4.36122,18.55496
 CF,Nana-Mambéré,,Baboua,5.79565,14.82799
+CF,Nana-Mambéré,,Abba,5.33354,15.15199
 CG,Lékoumou,Sibiti,Sibiti,-3.68192,13.34985
 CG,Pointe-Noire,Hinda,Pointe-Noire,-4.77609,11.86352
 CG,Cuvette,Owando,Owando,-0.48193,15.89988
@@ -4814,7 +4926,7 @@ CH,Zurich,District Zurich,Zürich (Kreis 10) / Höngg,47.40313,8.4971
 CH,Appenzell Ausserrhoden,Hinterland,Herisau,47.38615,9.27916
 CH,Solothurn,Amtei Solothurn-Lebern,Grenchen,47.1921,7.39586
 CH,St. Gallen,Wahlkreis St. Gallen,Gossau,47.41551,9.25482
-CH,Geneva,,Genève,46.20222,6.14569
+CH,Geneva,,Geneva,46.20222,6.14569
 CH,Fribourg,Sarine District,Fribourg,46.80237,7.15128
 CH,Thurgau,Bezirk Frauenfeld,Frauenfeld,47.55776,8.89893
 CH,Lucerne,,Emmen,47.07819,8.27331
@@ -5055,7 +5167,6 @@ CL,Los Ríos Region,Provincia de Valdivia,Valdivia,-39.81422,-73.24589
 CL,Araucanía Region,Provincia de Malleco,Traiguén,-38.2496,-72.67027
 CL,Biobío Region,Provincia de Concepción,Tomé,-36.61756,-72.95593
 CL,Antofagasta Region,Provincia de Tocopilla,Tocopilla,-22.09198,-70.19792
-CL,Santiago Metropolitan Region,Provincia de Chacabuco,Tiltil,-33.0831,-70.92924
 CL,Región de la Araucanía,Provincia de Cautín,Teodoro Schmidt,-38.99442,-73.08927
 CL,Araucania Region,Provincia de Cautín,Temuco,-38.73628,-72.59738
 CL,Biobío Region,Provincia de Concepción,Talcahuano,-36.72494,-73.11684
@@ -5065,9 +5176,7 @@ CL,O'Higgins Region,Provincia de Cachapoal,San Vicente de Tagua Tagua,-34.43859,
 CL,O'Higgins Region,Provincia de Cachapoal,San Vicente,-34.43333,-71.08333
 CL,Santiago Metropolitan Region,Provincia de Santiago,Santiago,-33.45694,-70.64827
 CL,O'Higgins Region,Provincia de Colchagua,Santa Cruz,-34.63881,-71.36576
-CL,Santiago Metropolitan Region,Provincia de Cordillera,San José de Maipo,-33.63912,-70.35318
 CL,Maule Region,Provincia de Linares,San Javier,-35.5952,-71.72924
-CL,O'Higgins Region,Provincia de Cachapoal,San Francisco de Mostazal,-33.98219,-70.7104
 CL,Valparaiso Region,Provincia de San Felipe de Aconcagua,San Felipe,-32.74976,-70.72584
 CL,Valparaiso Region,Provincia de Los Andes,San Esteban,-32.79871,-70.5807
 CL,Maule Region,Provincia de Talca,San Clemente,-35.53777,-71.487
@@ -5095,8 +5204,8 @@ CL,Aysén Region,Provincia de Aysén,Puerto Aysén,-45.40303,-72.69184
 CL,Santiago Metropolitan Region,Provincia de Cordillera,Puente Alto,-33.61169,-70.57577
 CL,Araucanía Region,Provincia de Cautín,Pucón,-39.28223,-71.95427
 CL,Tarapacá Region,Provincia del Tamarugal,Pozo Almonte,-20.25585,-69.7863
+CL,Región de Valparaíso,Provincia de Valparaíso,Placilla,-33.1144,-71.56806
 CL,Araucanía Region,Provincia de Cautín,Pitrufquén,-38.98635,-72.63721
-CL,Santiago Metropolitan Region,Provincia de Cordillera,Pirque,-33.63638,-70.57361
 CL,Biobío Region,Provincia de Concepción,Penco,-36.74075,-72.99528
 CL,Santiago Metropolitan Region,Provincia de Santiago,Peñalolén,-33.46836,-70.53411
 CL,Santiago Metropolitan Region,Provincia de Talagante,Peñaflor,-33.60627,-70.87649
@@ -5110,7 +5219,6 @@ CL,Coquimbo Region,Provincia de Limarí,Ovalle,-30.60106,-71.19901
 CL,Los Lagos Region,Provincia de Osorno,Osorno,-40.57395,-73.13348
 CL,Santiago Metropolitan Region,Provincia de Santiago,Ñuñoa,-33.44735,-70.58279
 CL,Araucanía Region,Provincia de Cautín,Nueva Imperial,-38.74451,-72.95025
-CL,O'Higgins Region,Provincia de Colchagua,Nancagua,-34.65187,-71.19724
 CL,Biobío Region,Provincia de Bío-Bío,Nacimiento,-37.50253,-72.67307
 CL,Biobío Region,Provincia de Bío-Bío,Mulchén,-37.71893,-72.24099
 CL,Maule Region,Provincia de Curicó,Molina,-35.11428,-71.28232
@@ -5137,15 +5245,20 @@ CL,Santiago Metropolitan Region,Provincia de Chacabuco,Lampa,-33.2863,-70.87561
 CL,Valparaiso Region,Provincia de Petorca,La Ligua,-32.45242,-71.23106
 CL,Región de Valparaíso,Provincia de Quillota,La Cruz,-32.82748,-71.22634
 CL,Región de Valparaíso,Provincia de Quillota,La Calera,-32.78676,-71.19795
+CL,Región de la Araucanía,Provincia de Cautín,Labranza,-38.76523,-72.75296
 CL,Tarapacá Region,Provincia de Iquique,Iquique,-20.21326,-70.15027
 CL,Coquimbo Region,Provincia de Choapa,Illapel,-31.63349,-71.16967
+CL,Región del Biobío,Provincia de Concepción,Hualpén,-36.78908,-73.10165
 CL,Valparaiso Region,Provincia de Quillota,Hacienda La Calera,-32.78333,-71.21667
 CL,Región del Biobío,Provincia de Concepción,Hualqui,-36.97266,-72.93559
 CL,O'Higgins Region,Provincia de Cachapoal,Graneros,-34.06863,-70.72747
+CL,Región de Los Lagos,Provincia de Llanquihue,Frutillar,-41.12162,-73.0581
 CL,Araucanía Region,Provincia de Cautín,Freire,-38.95252,-72.62653
+CL,Región de Valparaíso,Provincia de San Antonio,El Quisco,-33.39772,-71.69388
 CL,Santiago Metropolitan Region,Provincia de Talagante,El Monte,-33.67969,-70.98482
 CL,Maule Region,Provincia de Curicó,Curicó,-34.98279,-71.23943
 CL,Biobío Region,Provincia de Arauco,Curanilahue,-37.47793,-73.34495
+CL,Región Metropolitana de Santiago,Provincia de Melipilla,Curacaví,-33.39762,-71.12708
 CL,Región de la Araucanía,Provincia de Cautín,Cunco,-38.93181,-72.03151
 CL,Biobío Region,Provincia de Concepción,Coronel,-37.03386,-73.14019
 CL,Coquimbo Region,Provincia de Elqui,Coquimbo,-29.95332,-71.33947
@@ -5327,6 +5440,7 @@ CN,Yunnan,Tengchong City,Houqiao,25.32356,98.27802
 CN,Xinjiang,,Gujangbagh,37.10927,79.93433
 CN,Qinghai,Yushu City,Yushu,33.00118,97.00893
 CN,Yunnan,Tengchong City,Gudong,25.34165,98.48297
+CN,四川省,德格县 སྡེ་དགེ་རྫོང།,Gengqing,31.81668,98.5806
 CN,Xinjiang,Yarkant County,Elixku,38.70917,77.37056
 CN,Tibet,,Dêqên,29.96178,90.71875
 CN,Tibet,,Dagzê,29.67329,91.34531
@@ -5423,7 +5537,7 @@ CN,Chongqing,,Zhuyang,29.06423,105.94487
 CN,Chongqing,,Zhuxi,29.53614,105.66685
 CN,Chongqing,,Zhutuo,29.0184,105.84877
 CN,Chongqing,,Zhuoshui,29.30309,108.7702
-CN,Henan,,Zhumadian,32.97944,114.02944
+CN,河南省,,Zhumadian,32.98385,114.02586
 CN,上海市,,Zhujing,30.901,121.15966
 CN,Shanghai,,Zhujiajiao,31.10757,121.05696
 CN,Zhejiang,,Zhuji,29.71877,120.24233
@@ -5503,6 +5617,7 @@ CN,Guangxi,,Yulin,22.6305,110.14686
 CN,Hunan,,Wulingyuan,29.34936,110.54407
 CN,Chongqing,,Yujia,30.8115,107.95377
 CN,Chongqing,,Yuexi,30.91127,108.15926
+CN,上海市,,Yuepu,31.42694,121.42139
 CN,Chongqing,,Yudong,29.385,106.51944
 CN,Shanxi,,Yuci,37.68028,112.73194
 CN,Shandong,,Yucheng,34.92889,116.46528
@@ -5566,6 +5681,7 @@ CN,Shanghai,,Yangpu,31.26193,121.51904
 CN,Tianjin,,Yangliuqing,39.1375,116.99972
 CN,Shanxi,Pianguan County,Yangjiaying,39.48055,111.69301
 CN,Ningxia,Yongning County,Yanghe,38.27852,106.24776
+CN,上海市,,Yanghang,31.37022,121.43742
 CN,Shandong,,Yanggu,36.11056,115.77528
 CN,Tianjin,,Yangcun,39.36389,117.06028
 CN,Jiangsu,,Yancheng,33.3575,120.1573
@@ -5605,6 +5721,7 @@ CN,Henan,,Xinxiang,35.19033,113.80151
 CN,Chongqing,,Xintian,30.69866,108.40193
 CN,Shandong,,Xintai,35.90056,117.75194
 CN,Hubei,Jingshan,Xinshi,31.04704,113.14098
+CN,上海市,,Xinqiao,31.065,121.3075
 CN,Chongqing,Fengjie County,Xinmin,30.90343,109.46682
 CN,Chongqing,,Xinmiao,29.65528,107.04988
 CN,Hebei,Gao'an,Xinji,37.92595,115.21907
@@ -5619,6 +5736,7 @@ CN,Gansu,Qin'an County,Xingguo,34.85861,105.66861
 CN,Shaanxi,,Ankang,32.68,109.01722
 CN,Chongqing,Wuxi County,Wenfeng,31.40495,109.23459
 CN,Shandong,,Xindian,36.7975,118.29444
+CN,云南省,牟定县,Xindian,25.28139,101.55833
 CN,Hubei,,Xindi,29.81667,113.46667
 CN,Shandong,,Feicheng,36.24861,116.76583
 CN,Gansu,Lintan County,Xincheng,34.67431,103.5868
@@ -5771,6 +5889,7 @@ CN,Hubei,,Suizhou,31.71111,113.36306
 CN,Anhui,,Suixi,33.89067,116.77473
 CN,Jiangsu,睢宁县,Suicheng,33.8963,117.93307
 CN,Sichuan,,Suining,30.50802,105.57332
+CN,上海市,,Songnan,31.35043,121.48218
 CN,Shanghai,,Songjiang,31.03443,121.22326
 CN,Guangdong Province,,Songgang,22.77866,113.8454
 CN,Fujian,Xiapu County,Songcheng,26.88194,120.00111
@@ -5867,7 +5986,7 @@ CN,Chongqing,,Xiaodu,29.96207,105.88678
 CN,Hebei,,Sanhe,39.98049,117.06887
 CN,Chongqing,,Sangzhe,29.27837,108.39822
 CN,Guangdong Province,Kaiping,Changsha,22.38124,112.68492
-CN,Henan,Runan County,Runing,33.00111,114.35417
+CN,河南省,汝南县,Runan,33.00016,114.34587
 CN,Zhejiang,,Rui’an,27.77605,120.65859
 CN,Qinghai,,Tongren,35.51483,102.016
 CN,Chongqing,,Ronglong,29.43589,105.44865
@@ -5999,6 +6118,7 @@ CN,Henan,,Minggang,32.45861,114.04861
 CN,Shandong,,Mingcun,36.75361,119.64083
 CN,Yunnan,Midu County,Micheng,25.34294,100.48725
 CN,Chongqing,Wushan County,Miaoyu,30.86868,109.64614
+CN,上海市,,Miaohang,31.32466,121.43953
 CN,Sichuan,,Mianyang,31.46784,104.68168
 CN,Shaanxi,Mian County,Mianyang,33.15703,106.69445
 CN,Beijing,,Mentougou,39.93819,116.09307
@@ -6033,9 +6153,11 @@ CN,Chongqing,,Luoqi,29.72235,106.93206
 CN,Chongqing,Wushan County,Luoping,31.20659,110.08679
 CN,Gansu,Wushan County,Luomen,34.75417,105.02472
 CN,Sichuan,,Luolong,28.80557,104.89906
+CN,上海市,,Luojing,31.4782,121.33907
 CN,Sichuan,,Luojiang,31.30497,104.50484
 CN,Chongqing,,Luohuang,29.34662,106.43514
 CN,河南省,,Luohe,33.57424,114.03261
+CN,上海市,,Luodian,31.41556,121.33444
 CN,Sichuan,,Luocheng,29.38481,104.02862
 CN,Jiangsu,,Lulou,34.71667,116.76667
 CN,Anhui,,Lucheng,31.23357,117.28057
@@ -6244,7 +6366,7 @@ CN,Jiangsu,,Huangji,34.43333,116.98333
 CN,Shandong,,Huanghua,35.88917,119.45778
 CN,Guangdong Province,Raoping County,Huanggang,23.67704,116.99961
 CN,Beijing,,Daxing,39.74025,116.32693
-CN,Henan,Huangchuan County,Dingcheng,32.12722,115.03944
+CN,河南省,潢川县,Huangchuan,32.13902,115.04286
 CN,Guizhou,,Xingyi,25.09617,104.90639
 CN,Anhui,,Huaiyuan Chengguanzhen,32.95893,117.16566
 CN,Anhui,,Huainan,32.62639,116.99694
@@ -6318,11 +6440,13 @@ CN,Jiangsu,,Guiren,33.66972,118.18889
 CN,Guangxi,Guiping City,Guiping,23.39483,110.07434
 CN,Guangxi,,Guilin,25.28022,110.29639
 CN,Guangxi,,Guigang,23.11603,109.59472
+CN,上海市,,Gucun,31.34933,121.39341
 CN,Hubei,谷城县,Gucheng Chengguanzhen,32.26604,111.63476
 CN,Shandong,,Guanzhuang,36.26333,119.19389
 CN,Sichuan,,Guanyin,29.09926,104.39416
 CN,Jiangsu,,Guanhu,34.42528,117.99528
 CN,Guangdong Province,,Guangzhou,23.11667,113.25
+CN,云南省,,Guangtong,25.16861,101.74861
 CN,Chongqing,,Guangshun,29.37483,105.52653
 CN,Hubei,Guangshui,Guangshui,31.6199,113.9978
 CN,Chongqing,Wushan County,Guandu,30.95589,109.84697
@@ -6445,6 +6569,7 @@ CN,Chongqing,,Dajin,31.50955,108.44579
 CN,Jiangsu,,Dahuangshan,34.29341,117.34436
 CN,Chongqing,,Daguan,29.255,106.97694
 CN,Guizhou,Kaili,Dafengdong,26.71194,107.81139
+CN,上海市,,Dachang,31.30873,121.41526
 CN,Chongqing,Wushan County,Dachang,31.26861,109.8021
 CN,Chongqing,Fengdu County,Shuren,29.98661,107.73923
 CN,Chongqing,,Da’an,29.3831,106.01476
@@ -6704,6 +6829,7 @@ CN,Liaoning,Xingcheng City,Xingcheng,40.61667,120.71667
 CN,Inner Mongolia,,Xilin Hot,43.96667,116.03333
 CN,Liaoning,Xifeng County,Xifeng,42.73722,124.72222
 CN,Liaoning,,Xiaoshi,41.29711,124.12092
+CN,Inner Mongolia,,Wūdān,42.93444,119.02389
 CN,Heilongjiang,,Wuchang,44.92754,127.16039
 CN,Jilin,,Wangqing,43.31077,129.76334
 CN,Jilin,,Hepingjie,42.05972,126.91583
@@ -6934,6 +7060,7 @@ CN,Gansu,Wushan County,Hualin,34.82559,104.75198
 CN,Guangxi,,Hezhou,24.40357,111.56675
 CN,Shandong,,Zhu Cheng City,35.99502,119.40259
 CN,浙江省,,Xingqiao,30.39943,120.25171
+CN,上海市,,Gaojing,31.32225,121.4751
 CN,Shanghai,,Changzheng,31.23913,121.36779
 CN,Shanghai,,Xiayang,31.14967,121.11588
 CN,Yunnan,Shangri-La County,Shangri-La,27.82511,99.70779
@@ -6941,6 +7068,7 @@ CN,Qinghai,,Maqin County,34.47442,100.24496
 CN,Inner Mongolia,,Tongyangdao,41.77031,109.96987
 CN,Inner Mongolia,,Xilinhot,43.93889,116.07021
 CN,Tibet,,Lhoka,29.24301,91.77239
+CN,上海市,,Huajing,31.122,121.44925
 CN,上海市,,Huangpu,31.2378,121.4781
 CN,Guangdong Province,,Xili,22.58809,113.94786
 CN,Inner Mongolia,Hanshou County,Ulanqab,40.993,113.133
@@ -7156,6 +7284,7 @@ CN,Jiangsu,,Lianyungang,34.59845,119.21556
 CN,Jiangsu,,Rugao,32.37035,120.57649
 CN,Shanxi,,Jinzhong,37.68403,112.75471
 CN,Shaanxi,,Baoji,34.36775,107.23705
+CN,上海市,,Puxi,31.24414,121.46592
 CN,Jiangsu,,Qipan,34.24469,118.22113
 CN,Xinjiang,Huocheng County,Huocheng,44.05305,80.87173
 CN,Gansu,,Longnan,33.39791,104.91703
@@ -7727,143 +7856,143 @@ CR,,Cantón Goicoechea,Calle Blancos,9.9453,-84.0669
 CR,,Cantón Aserrí,Aserrí,9.86142,-84.09266
 CR,,Cantón Alajuela,Alajuela,10.01723,-84.21275
 CR,,Cantón Moravia,San Vicente de Moravia,9.96164,-84.0488
-CU,Granma,,Yara,20.27465,-76.95132
-CU,Sancti Spiritus,,Yaguajay,22.32691,-79.23567
+CU,Granma,,Yara,20.27417,-76.95227
+CU,Sancti Spíritus,,Yaguajay,22.32693,-79.23687
 CU,Pinar del Rio,,Viñales,22.61892,-83.70694
 CU,Havana,Arroyo Naranjo,Víbora Park,23.08105,-82.35448
-CU,Camagüey,Vertientes,Vertientes,21.25817,-78.14979
-CU,Ciego de Avila,,Venezuela,21.73748,-78.79336
+CU,Camagüey,,Vertientes,21.25892,-78.14932
+CU,Ciego de Ávila,,Venezuela,21.73792,-78.79331
 CU,Havana,San Miguel del Padrón,Vedado del Cotorro,23.05,-82.25
 CU,Havana,Revolution Square,Vedado,23.13767,-82.39339
 CU,Matanzas,,Varadero,23.15678,-81.24441
-CU,Holguín,,San Germán,20.60009,-76.13364
-CU,Matanzas,,Unión de Reyes,22.79505,-81.53617
-CU,Sancti Spiritus,,Trinidad,21.80224,-79.98467
+CU,Holguín,,San Germán,20.59971,-76.1347
+CU,Matanzas,,Unión de Reyes,22.79528,-81.53685
+CU,Sancti Spíritus,,Trinidad,21.79956,-79.98349
 CU,Camagüey,Sibanicú,Sibanicú,21.23631,-77.52561
-CU,Villa Clara,,Santo Domingo,22.58677,-80.24261
+CU,Villa Clara,,Santo Domingo,22.5867,-80.24259
 CU,Havana,,Santiago de las Vegas,22.97,-82.38694
 CU,Santiago de Cuba,,Santiago de Cuba,20.02287,-75.82171
-CU,Camagüey,,Santa Cruz del Sur,20.71633,-77.99816
+CU,Camagüey,,Santa Cruz del Sur,20.71549,-77.99551
 CU,Mayabeque,Habana del Este,Santa Cruz del Norte,23.15356,-81.92262
 CU,Villa Clara,,Santa Clara,22.40711,-79.96581
 CU,,San Miguel del Padrón,San Miguel del Padrón,23.09544,-82.32669
-CU,Santiago de Cuba,,San Luis,20.18809,-75.85031
+CU,Santiago de Cuba,,San Luis,20.18813,-75.8503
 CU,Mayabeque,,San José de las Lajas,22.96121,-82.15151
 CU,,,Sancti Spíritus,21.93429,-79.4398
 CU,Artemisa,,San Cristobal,22.71658,-83.05647
-CU,Artemisa,,San Antonio de los Baños,22.89018,-82.50099
-CU,Villa Clara,,Sagua la Grande,22.80667,-80.07556
-CU,Holguín,,Sagua de Tánamo,20.58269,-75.24116
-CU,Cienfuegos,,Rodas,22.34184,-80.55596
+CU,Artemisa,,San Antonio de los Baños,22.889,-82.5059
+CU,Villa Clara,,Sagua la Grande,22.80599,-80.0742
+CU,Holguín,,Sagua de Tánamo,20.5828,-75.24119
+CU,Cienfuegos,,Rodas,22.34185,-80.5558
 CU,Guantánamo,Yateras,Río Guayabal de Yateras,20.36667,-75.01667
-CU,Granma,,Río Cauto,20.55971,-76.91673
-CU,Villa Clara,,Remedios,22.49502,-79.54548
-CU,,San Miguel del Padrón,Regla,23.125,-82.33194
+CU,Granma,,Río Cauto,20.55981,-76.91665
+CU,Villa Clara,,Remedios,22.49493,-79.54536
+CU,La Habana,,Regla,23.12576,-82.33058
 CU,Villa Clara,,Ranchuelo,22.37266,-80.15046
-CU,Las Tunas,,Puerto Padre,21.19517,-76.60358
-CU,Ciego de Avila,,Primero de Enero,21.94501,-78.4313
-CU,Villa Clara,,Placetas,22.31184,-79.6544
+CU,Las Tunas,,Puerto Padre,21.19594,-76.60351
+CU,Ciego de Ávila,,Primero de Enero,21.9455,-78.42853
+CU,Villa Clara,,Placetas,22.31377,-79.65384
 CU,Pinar del Rio,,Pinar del Río,22.41649,-83.69657
 CU,Granma,,Pilón,19.90553,-77.32152
-CU,Matanzas,,Perico,22.76987,-81.0183
-CU,Matanzas,,Pedro Betancourt,22.72709,-81.28963
-CU,Cienfuegos,,Palmira,22.24126,-80.3911
-CU,Santiago de Cuba,,Palma Soriano,20.2113,-75.99362
-CU,Camagüey,,Nuevitas,21.54585,-77.26504
+CU,Matanzas,,Perico,22.76889,-81.01845
+CU,Matanzas,,Pedro Betancourt,22.72778,-81.28872
+CU,Cienfuegos,,Palmira,22.24217,-80.39164
+CU,Santiago de Cuba,,Palma Soriano,20.21149,-75.99438
+CU,Camagüey,,Nuevitas,21.54446,-77.26489
 CU,Isle of Youth,,Nueva Gerona,21.88759,-82.80662
-CU,Granma,,Niquero,20.04698,-77.58089
+CU,Granma,,Niquero,20.04592,-77.58042
 CU,Havana,Arroyo Naranjo,Naranjito,23.07939,-82.3769
-CU,Ciego de Avila,,Morón,22.10774,-78.62667
+CU,Ciego de Ávila,,Morón,22.10881,-78.62685
 CU,Holguín,,Moa,20.65776,-74.95075
-CU,Pinar del Rio,,Minas de Matahambre,22.58691,-83.94551
-CU,Camagüey,,Minas,21.48802,-77.61033
-CU,Granma,,Media Luna,20.14298,-77.43532
+CU,Pinar del Río,,Minas de Matahambre,22.58692,-83.94567
+CU,Camagüey,,Minas,21.48764,-77.6094
+CU,Granma,,Media Luna,20.14211,-77.43594
 CU,Matanzas,,Matanzas,23.04388,-81.58284
-CU,Artemisa,,Mariel,22.98931,-82.75376
-CU,Havana,San Miguel del Padrón,Marianao,23.07385,-82.4189
-CU,Granma,,Manzanillo,20.34173,-77.12126
+CU,Artemisa,,Mariel,22.98976,-82.75422
+CU,La Habana,,Marianao,23.07387,-82.42969
+CU,Granma,,Manzanillo,20.3424,-77.11928
 CU,Havana,Arroyo Naranjo,Mantilla,23.06794,-82.34143
 CU,Villa Clara,,Manicaragua,22.15021,-79.97867
 CU,Guantánamo,Maisí,Maisí,20.24673,-74.15181
-CU,Mayabeque,,Madruga,22.91,-81.85639
-CU,Pinar del Rio,,Los Palacios,22.58882,-83.24671
-CU,Matanzas,,Limonar,22.95035,-81.41059
+CU,Mayabeque,,Madruga,22.90977,-81.85663
+CU,Pinar del Río,,Los Palacios,22.58756,-83.24757
+CU,Matanzas,,Limonar,22.95002,-81.41113
 CU,Havana,Diez de Octubre,Víbora,23.09387,-82.37191
 CU,Las Tunas,,Las Tunas,20.96135,-76.95192
-CU,Sancti Spiritus,,La Sierpe,21.77241,-79.26832
-CU,Mayabeque,,La Salud,22.87199,-82.42328
-CU,Cienfuegos,,Lajas,22.41479,-80.2931
+CU,Sancti Spíritus,,La Sierpe,21.77166,-79.26775
+CU,Mayabeque,,La Salud,22.87369,-82.41989
+CU,Cienfuegos,,Lajas,22.41436,-80.29363
 CU,,Playa,Havana,23.13302,-82.38304
-CU,Matanzas,,Jovellanos,22.80375,-81.19127
+CU,Matanzas,,Jovellanos,22.80454,-81.19177
 CU,Holguín,,Jobabo,20.96917,-76.29944
-CU,Las Tunas,,Jobabo,20.90748,-77.28194
-CU,Granma,,Jiguaní,20.36785,-76.42741
-CU,Las Tunas,,Jesús Menéndez,21.16139,-76.47919
-CU,Sancti Spiritus,,Jatibonico,21.94333,-79.16906
-CU,Mayabeque,,Jaruco,23.04419,-82.00919
-CU,Matanzas,,Jagüey Grande,22.52694,-81.12861
+CU,Las Tunas,,Jobabo,20.90981,-77.28454
+CU,Granma,,Jiguaní,20.36839,-76.42905
+CU,Las Tunas,,Jesús Menéndez,21.16153,-76.4777
+CU,Sancti Spíritus,,Jatibonico,21.94332,-79.16745
+CU,Mayabeque,,Jaruco,23.044,-82.00919
+CU,Matanzas,,Jagüey Grande,22.52629,-81.12855
 CU,Holguín,,Holguín,20.88722,-76.26306
-CU,Granma,,Guisa,20.25494,-76.5393
-CU,Artemisa,,Güira de Melena,22.79613,-82.50667
-CU,Mayabeque,,Güines,22.83727,-82.02641
+CU,Granma,,Guisa,20.25606,-76.53914
+CU,Artemisa,,Güira de Melena,22.79688,-82.50651
+CU,Mayabeque,,Güines,22.83837,-82.02673
 CU,Guantánamo,,Guantánamo,20.14444,-75.20917
-CU,Pinar del Rio,,Guane,22.20179,-84.08484
-CU,Artemisa,,Guanajay,22.92616,-82.68687
+CU,Pinar del Río,,Guane,22.20397,-84.0885
+CU,Artemisa,,Guanajay,22.92615,-82.68686
 CU,,San Miguel del Padrón,Guanabacoa,23.12518,-82.30067
-CU,Camagüey,,Guáimaro,21.05222,-77.3499
-CU,Holguín,,Gibara,21.10988,-76.13145
+CU,Camagüey,,Guáimaro,21.05383,-77.3494
+CU,Holguín,,Gibara,21.10982,-76.13031
 CU,Havana,San Miguel del Padrón,Fontanar,23.02389,-82.408
-CU,Sancti Spiritus,,Fomento,22.10475,-79.72141
-CU,Camagüey,,Florida,21.52536,-78.22579
-CU,Ciego de Avila,,Florencia,22.1461,-78.97328
-CU,Camagüey,,Esmeralda,21.85139,-78.11725
-CU,Villa Clara,,Encrucijada,22.61802,-79.86603
+CU,Sancti Spíritus,,Fomento,22.10349,-79.71984
+CU,Camagüey,,Florida,21.5264,-78.22553
+CU,Ciego de Ávila,,Florencia,22.14594,-78.97221
+CU,Camagüey,,Esmeralda,21.85207,-78.11694
+CU,Villa Clara,Encrucijada,Encrucijada,22.61775,-79.86495
 CU,Cienfuegos,,Cumanayagua,22.15247,-80.20354
 CU,Holguín,,Cueto,20.64855,-75.92967
-CU,Cienfuegos,,Cruces,22.34203,-80.27021
-CU,Villa Clara,,Corralillo,22.98212,-80.58556
-CU,Santiago de Cuba,,Contramaestre,20.29879,-76.24511
-CU,Pinar del Rio,,Consolación del Sur,22.50419,-83.51442
-CU,Sancti Spiritus,,Condado,21.8767,-79.84014
-CU,Matanzas,,Colón,22.72064,-80.90492
-CU,Las Tunas,,Colombia,20.98812,-77.42598
+CU,Cienfuegos,,Cruces,22.34282,-80.27082
+CU,Villa Clara,,Corralillo,22.98213,-80.58532
+CU,Santiago de Cuba,,Contramaestre,20.29884,-76.24499
+CU,Pinar del Río,,Consolación del Sur,22.50545,-83.51309
+CU,Sancti Spíritus,,Condado,21.87596,-79.84008
+CU,Matanzas,,Colón,22.72108,-80.90368
+CU,Las Tunas,,Colombia,20.98553,-77.42555
 CU,Havana,Habana del Este,Cojímar,23.16481,-82.30116
 CU,Ciego de Avila,,Ciro Redondo,22.01921,-78.70365
 CU,Villa Clara,,Cifuentes,22.6493,-80.04935
 CU,Cienfuegos,,Cienfuegos,22.14681,-80.4481
 CU,,,Ciego de Ávila,21.8422,-78.76034
-CU,Ciego de Avila,,Chambas,22.19534,-78.9123
-CU,,Playa,Cerro,23.10809,-82.3866
-CU,Granma,,Cauto Cristo,20.55709,-76.4727
-CU,Matanzas,,Cárdenas,23.03661,-81.20596
-CU,Granma,,Campechuela,20.23329,-77.2799
+CU,Ciego de Ávila,,Chambas,22.19265,-78.91414
+CU,La Habana,Cerro,Cerro,23.10789,-82.38356
+CU,Granma,,Cauto Cristo,20.55711,-76.47273
+CU,Matanzas,,Cárdenas,23.03632,-81.20602
+CU,Granma,,Campechuela,20.23272,-77.27949
 CU,Villa Clara,,Camajuaní,22.48333,-79.75
 CU,Camagüey,Camagüey,Camagüey,21.38083,-77.91694
 CU,Matanzas,,Calimete,22.5342,-80.91105
-CU,Villa Clara,,Caibarién,22.51996,-79.46599
-CU,Holguín,,Cacocum,20.73775,-76.32574
-CU,Sancti Spiritus,,Cabaiguán,22.07874,-79.49726
-CU,Mayabeque,,Bejucal,22.92861,-82.38861
+CU,Villa Clara,,Caibarién,22.51992,-79.46601
+CU,Holguín,,Cacocum,20.73682,-76.32622
+CU,Sancti Spíritus,,Cabaiguán,22.0784,-79.49626
+CU,Mayabeque,,Bejucal,22.92832,-82.38875
 CU,Granma,,Bayamo,20.37368,-76.64272
-CU,Artemisa,,Bauta,22.98226,-82.54719
-CU,Granma,,Bartolomé Masó,20.16635,-76.94291
+CU,Artemisa,,Bauta,22.9821,-82.54764
+CU,Granma,,Bartolomé Masó,20.16657,-76.94395
 CU,Ciego de Avila,Baraguá,Baraguá,21.68216,-78.62567
-CU,Guantánamo,,Baracoa,20.34711,-74.49624
-CU,Holguín,,Banes,20.96116,-75.722
+CU,Guantánamo,,Baracoa,20.34801,-74.49714
+CU,Holguín,,Banes,20.96134,-75.72306
 CU,Havana,La Lisa,Balcón de la Lisa,23.05346,-82.4476
-CU,Artemisa,Bahía Honda,Bahía Honda,22.90332,-83.15994
+CU,Artemisa,Bahía Honda,Bahía Honda,22.90333,-83.15994
 CU,Artemisa,,Artemisa,22.81366,-82.75814
 CU,,Marianao,Arroyo Naranjo,23.03811,-82.37703
-CU,Las Tunas,,Amancio,20.81914,-77.57958
-CU,Artemisa,,Alquízar,22.80517,-82.58392
+CU,Las Tunas,,Amancio,20.82876,-77.5786
+CU,Artemisa,,Alquízar,22.80474,-82.58381
 CU,Havana,San Miguel del Padrón,Almendares,23.11012,-82.42322
 CU,,San Miguel del Padrón,Alamar,23.15794,-82.27837
 CU,Cienfuegos,,Aguada de Pasajeros,22.3852,-80.84792
-CU,Cienfuegos,,Abreus,22.27797,-80.56931
+CU,Cienfuegos,,Abreus,22.27776,-80.5689
 CU,,San Miguel del Padrón,Ciudad Camilo Cienfuegos,23.16076,-82.32798
-CU,,San Miguel del Padrón,Centro Habana,23.13833,-82.36417
+CU,La Habana,Centro Habana,Centro Habana,23.13488,-82.36893
 CU,,San Miguel del Padrón,La Habana Vieja,23.13028,-82.35306
-CU,Camagüey,Jimaguayú,Jimaguayú,21.24224,-77.82625
+CU,Camagüey,,Jimaguayú,21.24194,-77.82574
 CU,,Marianao,Boyeros,23.0072,-82.4017
 CU,,San Miguel del Padrón,Diez de Octubre,23.0881,-82.3597
 CU,Havana,Revolution Square,Plaza de la Revolución,23.11936,-82.39197
@@ -8131,7 +8260,7 @@ DE,North Rhine-Westphalia,Kreis Gütersloh,Verl,51.88333,8.51667
 DE,Niedersachsen,Landkreis Verden,Verden,52.92334,9.23804
 DE,North Rhine-Westphalia,Kreis Mettmann,Velbert,51.33537,7.04348
 DE,Bremen,Adiaké,Vegesack,53.17923,8.62228
-DE,Lower Saxony,Vechta district,Vechta,52.72632,8.28598
+DE,Niedersachsen,Landkreis Vechta,Vechta,52.73064,8.28968
 DE,Lower Saxony,Landkreis Peine,Vechelde,52.26038,10.36491
 DE,Bavaria,Landkreis Ebersberg,Vaterstetten,48.10537,11.76825
 DE,Lower Saxony,Landkreis Friesland,Varel,53.39693,8.13621
@@ -8178,7 +8307,7 @@ DE,North Rhine-Westphalia,Kreis Kleve,Straelen,51.4419,6.26639
 DE,North Rhine-Westphalia,Städteregion Aachen,Stolberg,50.77368,6.22595
 DE,Schleswig-Holstein,Ostholstein,Stockelsdorf,53.8922,10.64713
 DE,Baden-Württemberg,Landkreis Konstanz,Stockach,47.85105,9.0091
-DE,Saxony-Anhalt,Stendal,Stendal,52.6069,11.85867
+DE,Sachsen-Anhalt,Stendal,Stendal,52.60578,11.86091
 DE,Hamburg,,Stellingen,53.5922,9.9287
 DE,North Rhine-Westphalia,Kreis Gütersloh,Steinhagen,52.0,8.4
 DE,North Rhine-Westphalia,Kreis Steinfurt,Steinfurt,52.15045,7.33664
@@ -8313,7 +8442,7 @@ DE,Schleswig-Holstein,Ostholstein,Ratekau,53.94646,10.7312
 DE,Niedersachsen,Landkreis Ammerland,Rastede,53.24508,8.19718
 DE,Baden-Württemberg,Landkreis Rastatt,Rastatt,48.85851,8.20965
 DE,Hamburg,,Rahlstedt,53.60194,10.15667
-DE,North Rhine-Westphalia,Kreis Minden-Lübbecke,Rahden,52.43367,8.61263
+DE,Nordrhein-Westfalen,Kreis Minden-Lübbecke,Rahden,52.43425,8.61266
 DE,Baden-Württemberg,Landkreis Konstanz,Radolfzell,47.74194,8.97098
 DE,North Rhine-Westphalia,Oberbergischer Kreis,Radevormwald,51.20219,7.36027
 DE,Saxony,Meißen,Radebeul,51.10654,13.66047
@@ -8359,7 +8488,7 @@ DE,Lower Saxony,,Osnabrück,52.27264,8.0498
 DE,Hamburg,,Osdorf,53.57982,9.85826
 DE,Saxony-Anhalt,Börde,Oschersleben,52.03039,11.22898
 DE,Saxony,Nordsachsen,Oschatz,51.30001,13.10984
-DE,Brandenburg,Oberhavel,Oranienburg,52.75577,13.24197
+DE,Brandenburg,Oberhavel,Oranienburg,52.748,13.25194
 DE,North Rhine-Westphalia,,Opladen,51.06863,7.00387
 DE,North Rhine-Westphalia,Hochsauerlandkreis,Olsberg,51.35613,8.48899
 DE,North Rhine-Westphalia,Kreis Olpe,Olpe,51.02899,7.85139
@@ -8394,7 +8523,7 @@ DE,Lower Saxony,Landkreis Wesermarsch,Nordenham,53.50098,8.48965
 DE,Lower Saxony,Landkreis Aurich,Norden,53.59549,7.20615
 DE,North Rhine-Westphalia,,Nippes,50.96545,6.95314
 DE,Hamburg,,Niendorf,53.61769,9.95032
-DE,Lower Saxony,Landkreis Nienburg/Weser,Nienburg,52.6461,9.22086
+DE,Niedersachsen,Landkreis Nienburg/Weser,Nienburg,52.64437,9.21658
 DE,,,Niederschönhausen,52.58483,13.40272
 DE,North Rhine-Westphalia,Kreis Viersen,Niederkrüchten,51.2,6.21667
 DE,North Rhine-Westphalia,Rhein-Sieg-Kreis,Niederkassel,50.81503,7.03777
@@ -8509,7 +8638,7 @@ DE,Saarland,Landkreis Merzig-Wadern,Losheim,49.5099,6.74549
 DE,Saxony,,Loschwitz,51.05386,13.81393
 DE,Baden-Württemberg,Landkreis Lörrach,Lörrach,47.61497,7.66457
 DE,Bavaria,Landkreis Main-Spessart,Lohr am Main,49.98922,9.57223
-DE,Lower Saxony,Vechta district,Lohne,52.66625,8.2375
+DE,Niedersachsen,Landkreis Vechta,Lohne,52.66561,8.23826
 DE,North Rhine-Westphalia,Kreis Herford,Löhne,52.18848,8.6922
 DE,North Rhine-Westphalia,Rhein-Sieg-Kreis,Lohmar,50.83868,7.21399
 DE,Saxony,,Löbtau,51.04358,13.69444
@@ -8656,7 +8785,7 @@ DE,North Rhine-Westphalia,Kreis Unna,Holzwickede,51.5,7.63333
 DE,Lower Saxony,Landkreis Holzminden,Holzminden,51.82798,9.4455
 DE,Bavaria,Landkreis Miesbach,Holzkirchen,47.87663,11.70181
 DE,Saxony,Zwickau,Hohenstein-Ernstthal,50.80064,12.71287
-DE,Brandenburg,Oberhavel,Hohen Neuendorf,52.67631,13.27775
+DE,Brandenburg,Oberhavel,Hohen Neuendorf,52.67737,13.27887
 DE,Hesse,Main-Taunus-Kreis,Hofheim am Taunus,50.09019,8.4493
 DE,Hesse,Landkreis Kassel,Hofgeismar,51.49607,9.385
 DE,Bavaria,,Hof,50.31297,11.91261
@@ -8835,7 +8964,7 @@ DE,North Rhine-Westphalia,Kreis Euskirchen,Euskirchen,50.66057,6.78722
 DE,Baden-Württemberg,Landkreis Karlsruhe,Ettlingen,48.94094,8.40763
 DE,Baden-Württemberg,Landkreis Esslingen,Esslingen,48.73961,9.30473
 DE,North Rhine-Westphalia,,Essen,51.45657,7.01228
-DE,North Rhine-Westphalia,Kreis Minden-Lübbecke,Espelkamp,52.38251,8.62127
+DE,Nordrhein-Westfalen,Kreis Minden-Lübbecke,Espelkamp,52.38141,8.62303
 DE,North Rhine-Westphalia,Städteregion Aachen,Eschweiler,50.81854,6.27184
 DE,Hesse,Werra-Meißner-Kreis,Eschwege,51.18386,10.05329
 DE,Hesse,Main-Taunus-Kreis,Eschborn,50.14328,8.57111
@@ -8900,7 +9029,7 @@ DE,Bavaria,Landkreis Dillingen an der Donau,Dillingen an der Donau,48.58153,10.4
 DE,Saarland,Landkreis Saarlouis,Dillingen,49.35557,6.72781
 DE,Hesse,Lahn-Dill-Kreis,Dillenburg,50.74114,8.28699
 DE,Hesse,Landkreis Offenbach,Dietzenbach,50.00976,8.77783
-DE,Lower Saxony,Landkreis Diepholz,Diepholz,52.60783,8.37005
+DE,Niedersachsen,Landkreis Diepholz,Diepholz,52.60695,8.37027
 DE,Hesse,Landkreis Darmstadt-Dieburg,Dieburg,49.89738,8.84613
 DE,North Rhine-Westphalia,,Deutz,50.93463,6.97495
 DE,North Rhine-Westphalia,Kreis Lippe,Detmold,51.93855,8.87318
@@ -9159,6 +9288,7 @@ DJ,,,Djibouti,11.58901,43.14503
 DJ,Dikhil,Dikhil,Dikhil,11.10454,42.36971
 DJ,Arta,,Arta,11.52639,42.85194
 DJ,Ali Sabieh,,Ali Sabih,11.15583,42.7125
+DJ,,,Balbala,11.56194,43.10666
 DK,Region Zealand,,Vordingborg,55.00801,11.91057
 DK,Central Denmark Region,,Viby,56.12259,10.15145
 DK,Central Denmark Region,,Viborg,56.45319,9.40201
@@ -9256,6 +9386,7 @@ DO,San Juan,Las Matas De Farfán,Las Matas de Farfán,18.87309,-71.51656
 DO,La Romana,,La Romana,18.42332,-68.96635
 DO,La Vega,Jarabacoa,Jarabacoa,19.11683,-70.63595
 DO,Hato Mayor,アト・マジョール州,Hato Mayor del Rey,18.76575,-69.25579
+DO,San Pedro de Macorís,,Guayacanes,18.42495,-69.4576
 DO,Valverde,Esperanza,Esperanza,19.58469,-70.98489
 DO,Dajabón,,Dajabón,19.54811,-71.70821
 DO,Distrito Nacional,,Cristo Rey,18.5,-69.93333
@@ -9641,11 +9772,18 @@ EC,Tungurahua,Ambato,Ambato,-1.24908,-78.61675
 EE,,Viljandi maakond,Viljandi,58.36319,25.59159
 EE,,Tartu maakond,Tartu,58.38062,26.72509
 EE,,Harju maakond,Tallinn,59.43696,24.75353
+EE,,Harju maakond,Pirita,59.469,24.838
 EE,,Pärnu maakond,Pärnu,58.38588,24.49711
 EE,,Harju maakond,Nõmme,59.37757,24.68587
 EE,,Ida-Viru maakond,Narva,59.37722,28.19028
 EE,,Harju maakond,Maardu,59.46529,24.98215
+EE,,Harju maakond,Lasnamäe,59.4336,24.86017
 EE,,Ida-Viru maakond,Kohtla-Järve,59.39861,27.27306
+EE,,Harju maakond,Mustamäe,59.40482,24.68119
+EE,,Harju maakond,Kesklinn,59.4355,24.75748
+EE,,Harju maakond,Haabersti,59.42334,24.64654
+EE,,Harju maakond,Kristiine,59.415,24.70915
+EE,,Harju maakond,Põhja-Tallinn,59.44901,24.69812
 EG,,,Zefta,30.7142,31.24425
 EG,البحر الأحمر,,Zaafarana,29.11007,32.66012
 EG,Qalyubia Governorate,,Ţūkh,30.35487,31.20105
@@ -9732,6 +9870,7 @@ EG,Damietta Governorate,,‘Izbat al Burj,31.5084,31.84106
 EG,Beheira Governorate,,Ītāy al Bārūd,30.88697,30.66724
 EG,Faiyum Governorate,,Iţsā,29.2376,30.78944
 EG,Qena Governorate,,Esna,25.29336,32.55402
+EG,بنى سويف,,Ihnāsyā al Madīnah,29.0895,30.94319
 EG,Beni Suef Governorate,,Ihnāsīyah,29.09285,31.02043
 EG,Beheira Governorate,,Idkū,31.3073,30.2981
 EG,Assouan,,Edfu,24.97916,32.87722
@@ -9858,6 +9997,7 @@ EG,البحر الأحمر,,Hala'ib,22.22273,36.64679
 EG,Beheira Governorate,,An Nūbārīyah,30.6687,30.07391
 EG,Dakahlia Governorate,,Awlād Şaqr,30.93055,31.69864
 EG,North Sinai,,Bi’r al ‘Abd,31.01887,33.0098
+EG,بورسعيد,,Al-Manākh,31.26786,32.28464
 EG,Cairo Governorate,,Badr,30.136,31.715
 EG,,,Ar Riyāḑ,31.24193,30.94504
 EG,Dakahlia Governorate,,Az Zarqā,31.20864,31.63528
@@ -9874,6 +10014,7 @@ EG,Cairo Governorate,,New Cairo,30.03,31.47
 EG,Cairo Governorate,,El Shorouk,30.13806,31.61556
 EG,Cairo Governorate,,Al Qāhirah al Jadīdah,30.04214,31.44446
 EG,Luxor Governate,,Aţ Ţārif,25.73826,32.63684
+EG,بورسعيد,,Būr Fu’ād,31.24408,32.31955
 EG,Qalyubia Governorate,,Al-'Ubūr,30.22886,31.48149
 EG,New Valley Governorate,,Al-Khārijah,25.25,30.55
 EG,Minya Governate,,Al-Minyā al-Jadīdah,28.08639,30.81464
@@ -9882,6 +10023,8 @@ EG,Damietta Governorate,,Ar-Rawḍah,31.32336,31.76122
 EG,Giza Governorate,,Ash-Shaykh Zāyid,30.02,31.0
 EG,Faiyum,Yiwu County,Yūsuf aṣ-Ṣiddīq,29.385,30.557
 EG,Bani Sweif,Saraguro,New Bani Sewif City,29.03556,31.11792
+EG,بورسعيد,,Aḍ-Ḍawāḥy,31.24408,32.27731
+EG,بورسعيد,,Az-Zuhūr,31.26504,32.26405
 EH,,Pachalik d'EL Marsa باشوية المرسى,El Marsa,27.09611,-13.41583
 EH,,Pachalik de Laâyoune باشوية العيون,Laayoune,27.1418,-13.18797
 EH,,Pachalik de Boujdour إقليم بوجدور,Boujdour,26.13073,-14.48513
@@ -11424,7 +11567,7 @@ FR,Ile-de-France,Yvelines,Élancourt,48.78421,1.9552
 FR,Auvergne-Rhône-Alpes,Métropole de Lyon,Écully,45.77437,4.77758
 FR,Auvergne-Rhône-Alpes,Isère,Échirolles,45.14603,5.71441
 FR,Ile-de-France,Val-d'Oise,Eaubonne,48.99712,2.28249
-FR,Hauts-de-France,Nord,Dunkerque,51.0344,2.37681
+FR,Hauts-de-France,Nord,Dunkirk,51.0344,2.37681
 FR,Centre-Loire Valley,Eure-et-Loir,Dreux,48.73649,1.36566
 FR,Ile-de-France,,Draveil,48.68466,2.41418
 FR,Ile-de-France,Seine-Saint-Denis,Drancy,48.92578,2.44533
@@ -12013,6 +12156,7 @@ GB,England,Cheshire East,Macclesfield,53.26023,-2.12564
 GB,England,Luton,Luton,51.87967,-0.41748
 GB,England,Suffolk,Lowestoft,52.47523,1.75167
 GB,England,Lincolnshire,Louth,53.36664,-0.00438
+GB,England,Shropshire,Loughton,52.43333,-2.56667
 GB,England,Leicestershire,Loughborough,52.76667,-1.2
 GB,England,,Longton,52.98333,-2.13333
 GB,England,Kent,Longfield,51.3969,0.30212
@@ -12842,7 +12986,7 @@ GR,Attica,Regional Unit of East Attica,Acharnés,38.08333,23.73333
 GR,"Peloponnese, Western Greece and the Ionian",Achaea Regional Unit,Aígio,38.24861,22.08194
 GR,Attica,Regional Unit of West Athens,Aigáleo,37.98333,23.68333
 GR,"Peloponnese, Western Greece and the Ionian",Aetolia-Acarnania Regional Unit,Agrínio,38.62139,21.40778
-GR,Aegean,Rhodes Regional Unit,Ródos,36.43556,28.22199
+GR,Aegean,Rhodes Regional Unit,Rhodes,36.43556,28.22199
 GR,Macedonia and Thrace,Pella Regional Unit,Giannitsá,40.79194,22.4075
 GR,Macedonia and Thrace,Xanthi Regional Unit,Xánthi,41.13488,24.888
 GR,Macedonia and Thrace,Imathia Regional Unit,Véroia,40.52437,22.20242
@@ -12858,9 +13002,12 @@ GR,Macedonia and Thrace,Thessaloniki Regional Unit,Panórama,40.58779,23.0315
 GR,Macedonia and Thrace,Evros Regional Unit,Orestiáda,41.50306,26.52972
 GR,Macedonia and Thrace,Thessaloniki Regional Unit,Oraiókastro,40.73083,22.91722
 GR,Macedonia and Thrace,Imathia Regional Unit,Náousa,40.62944,22.06806
+GR,Macedonia and Thrace,Thessaloniki Regional Unit,Lagkadás,40.75,23.06667
 GR,Epirus and Western Macedonia,Kozani Regional Unit,Kozáni,40.29931,21.78984
 GR,Macedonia and Thrace,Rodopi Regional Unit,Komotiní,41.11758,25.40587
 GR,Macedonia and Thrace,Kilkis Regional Unit,Kilkís,40.99302,22.87433
+GR,Macedonia and Thrace,Thessaloniki Regional Unit,Chortiátis,40.60954,23.10014
+GR,Macedonia and Thrace,Thessaloniki Regional Unit,Chalkidóna,40.73184,22.59992
 GR,Macedonia and Thrace,Kavala Regional Unit,Kavála,40.93959,24.40687
 GR,Macedonia and Thrace,Pieria Regional Unit,Kateríni,40.26956,22.50608
 GR,Macedonia and Thrace,Thessaloniki Regional Unit,Kalamariá,40.5825,22.95028
@@ -12992,9 +13139,20 @@ GU,Guam,,Hagåtña,13.47567,144.74886
 GU,Guam,Mangilau Municipality,Mangilao Village,13.44761,144.80109
 GU,Guam,,Tamuning,13.48754,144.78143
 GW,Região de Bafatá,Sector de Xitole,Xitole,11.73333,-14.81667
+GW,,,Reino de Bandim,11.85,-15.6
+GW,,,Reino de Antula,11.9,-15.58333
+GW,,,Quelele,11.86667,-15.63333
+GW,,,Plaque,11.88333,-15.61667
 GW,Região de Gabu,Setor de Gabú,Gabú,12.28,-14.22222
+GW,,,Contumo,11.85,-15.61667
 GW,Bissau Autonomous Sector,,Bissau,11.86357,-15.59767
 GW,Região de Bafatá,Setor de Bafatá,Bafatá,12.16583,-14.66167
+GW,,,Bairro Militar,11.8746,-15.6158
+GW,,,Belem,11.85336,-15.60297
+GW,,,Luanda,11.8787,-15.60047
+GW,,,Missira,11.86145,-15.60679
+GW,,,Sintra-Nema,11.86236,-15.59736
+GW,,,Santa-Luzia,11.88798,-15.59003
 GY,East Berbice-Corentyne,,New Amsterdam,6.24924,-57.51578
 GY,Upper Demerara-Berbice,,Linden,6.00815,-58.30724
 GY,Demerara-Mahaica,,Georgetown,6.80448,-58.15527
@@ -13141,28 +13299,69 @@ HK,Hong Kong,,Kowloon City Centre,22.32979,114.18889
 HK,Hong Kong,,Kowloon West End,22.32848,114.18514
 HN,Cortés,,Puerto Cortez,15.82562,-87.92968
 HN,Yoro,,Yoro,15.13824,-87.12838
+HN,Yoro,,Yorito,15.06667,-87.28333
+HN,Intibucá,,Yamaranguila,14.28333,-88.24199
 HN,Cortés,Villanueva,Villanueva,15.31476,-87.99383
+HN,Comayagua,,Villa de San Antonio,14.32594,-87.61351
+HN,Yoro,,Victoria,14.93761,-87.39354
 HN,Colón,,Tocoa,15.68333,-86.0
+HN,El Paraíso,,Teupasenti,14.21667,-86.7
 HN,Atlántida,Tela,Tela,15.77425,-87.46731
 HN,Francisco Morazán,Distrito Central,Tegucigalpa,14.0818,-87.20681
+HN,Yoro,,Sulaco,14.91667,-87.26667
+HN,Colón,,Sonaguera,15.63333,-86.33333
 HN,Comayagua,Siguatepeque,Siguatepeque,14.59691,-87.83102
+HN,Yoro,,Sabá,15.46667,-86.25
 HN,Copán,,Santa Rosa de Copán,14.77388,-88.7756
+HN,Yoro,,Santa Rita,15.2,-87.88333
+HN,Cortés,Santa Cruz de Yojoa,Santa Cruz de Yojoa,14.98086,-87.89091
 HN,Santa Bárbara,,Santa Bárbara,14.92217,-88.23756
 HN,Cortés,,San Pedro Sula,15.50585,-88.02588
+HN,Copán,,San Pedro de Copán,14.61667,-88.86667
+HN,Santa Bárbara,,San Luis,15.12692,-88.43931
 HN,Valle,,San Lorenzo,13.42417,-87.44722
+HN,Francisco Morazán,,San Juan de Flores,14.26667,-87.03333
+HN,Santa Bárbara,,San José de Colinas,15.04101,-88.30186
+HN,Cortés,San Francisco de Yojoa,San Francisco de Yojoa,15.01442,-87.9716
+HN,Cortés,San Antonio de Cortés,San Antonio de Cortés,15.11611,-88.04074
+HN,Francisco Morazán,,Sabanagrande,13.80778,-87.25917
+HN,Santa Bárbara,Quimistán,Quimistán,15.34752,-88.4052
 HN,Cortés,Potrerillos,Potrerillos,15.23008,-87.96386
+HN,Cortés,,Omoa,15.77603,-88.03833
 HN,Yoro,,Olanchito,15.48131,-86.57415
+HN,El Paraíso,,Morocelí,14.11667,-86.86667
+HN,Choluteca,,Marcovia,13.28806,-87.30972
+HN,Santa Bárbara,,Macuelizo,15.31276,-88.54113
+HN,Lempira,Lepaera,Lepaera,14.77876,-88.5902
 HN,La Paz,,La Paz,14.32124,-87.67589
+HN,Valle,,Langue,13.62083,-87.6525
 HN,Cortés,San Manuel,La Lima,15.43333,-87.91667
+HN,Lempira,,La Iguala,14.61667,-88.46667
 HN,Atlántida,,La Ceiba,15.75971,-86.78221
 HN,Olancho,,Juticalpa,14.66438,-86.22246
+HN,Colón,,Iriona,15.96777,-85.09323
+HN,Olancho,,Gualaco,15.02521,-86.07076
+HN,Comayagua,Esquías,Esquías,14.74392,-87.3712
+HN,Lempira,Erandique,Erandique,14.23787,-88.46447
+HN,Comayagua,,El Rosario,14.57909,-87.72677
 HN,Yoro,,El Progreso,15.4,-87.8
 HN,El Paraíso,,El Paraíso,13.86667,-86.55
+HN,Yoro,,El Negrito,15.31667,-87.7
+HN,Olancho,,Dulce Nombre de Culmí,15.1,-85.53333
 HN,El Paraíso,,Danlí,14.03333,-86.58333
+HN,Copán,,Cucuyagua,14.64777,-88.87385
+HN,Copán,,Corquín,14.56667,-88.86667
 HN,Comayagua,,Comayagua,14.45577,-87.63968
+HN,Intibucá,,Colomoncagua,13.95,-88.28333
 HN,Cortés,,Cofradía,15.4,-88.15
 HN,Choluteca,,Ciudad Choluteca,13.30569,-87.17882
 HN,Cortés,,Choloma,15.61444,-87.95302
+HN,Olancho,,Catacamas,14.85114,-85.89412
+HN,Ocotepeque,Belén Gualcho,Belén Gualcho,14.48333,-88.8
+HN,Santa Bárbara,,Azacualpa,14.71218,-88.0901
+HN,Santa Bárbara,,Atima,14.93253,-88.48965
+HN,Atlántida,Arizona,Arizona,15.63333,-87.31667
+HN,Atlántida,,La Ceiba,15.76667,-86.83333
 HR,,Zagreb County,Zaprešić,45.85639,15.80778
 HR,,,Zagreb,45.81444,15.97798
 HR,,Zadar County,Zadar,44.11578,15.22514
@@ -13211,13 +13410,14 @@ HT,Département du Sud-Est,,Grand Gosier,18.18543,-71.9182
 HT,West,,Grangwav,18.4259,-72.76995
 HT,Artibonite Department,,Gonaïves,19.44755,-72.68928
 HT,West,,Fond Parisien,18.50547,-71.98122
+HT,Artibonite Department,,Dessalines,19.26177,-72.51611
 HT,Artibonite Department,,Désarmes,18.99345,-72.39058
 HT,West,Unity - Vereeniging,Delmas,18.54478,-72.30036
 HT,West,,Croix-des-Bouquets,18.57677,-72.22625
 HT,Sud Department,,Les Cayes,18.19199,-73.74948
-HT,West,,Carrefour,18.54114,-72.39922
 HT,Département du Nord,,Cap-Haïtien,19.75938,-72.19815
 HT,Département de l'Ouest,,Arcahaie,18.77019,-72.51226
+HT,Département de l'Ouest,,Cité Soleil,18.58028,-72.33806
 HT,Nord-Ouest Department,,Ti Port-de-Paix,19.93333,-72.83333
 HT,Département de l'Ouest,,Carrefour,18.53333,-72.4
 HU,,Csongrád-Csanád vármegye,Újszeged,46.24754,20.16571
@@ -13358,6 +13558,7 @@ HU,Hong Kong,Pest,Csepel-Csillagtelep,47.40918,19.05944
 HU,Hong Kong,Pest,Középső-Ferencváros,47.47305,19.07971
 HU,Hong Kong,Pest,Óhegy,47.47803,19.1479
 HU,,,Újlipótváros,47.51606,19.05279
+HU,,,Alsórákos,47.52791,19.12287
 ID,North Sumatra,Karo,Tongging,2.8985,98.5231
 ID,North Sumatra,City of Tanjung Balai,Teluk Nibung,3.001,99.8164
 ID,North Sumatra,South Nias,Teluk Dalam,0.5729,97.8034
@@ -13378,6 +13579,7 @@ ID,North Sumatra,Deli Serdang,Percut,3.6253,98.864
 ID,North Sumatra,Serdang Bedagai,Perbaungan,3.5679,98.956
 ID,North Sumatra,Kota Pematang Siantar–Simalungun,Pematangsiantar,2.9595,99.0687
 ID,North Sumatra,Dairi,Paropo,2.8663,98.5211
+ID,North Sumatra,Samosir,Pangururan,2.6081,98.6961
 ID,North Sumatra,Langkat,Pangkalan Brandan,4.0238,98.2782
 ID,North Sumatra,City of Padang Sidempuan,Padangsidempuan,1.37952,99.27146
 ID,Aceh,Aceh Barat,Meulaboh,4.14402,96.12664
@@ -13426,6 +13628,7 @@ ID,Central Java,Klaten,Trucuk,-7.71833,110.65889
 ID,East Java,Trenggalek,Trenggalek,-8.0764,111.70641
 ID,North Sulawesi,,Tondano,1.3054,124.91261
 ID,North Sulawesi,,Tomohon,1.31678,124.80379
+ID,Central Sulawesi,Tolitoli,Toli-Toli,1.04018,120.81764
 ID,North Maluku,Halmahera Utara,Tobelo,1.72837,128.00948
 ID,Papua,Lanny Jaya,Tiom,-3.92361,138.45472
 ID,Central Papua,Mimika,Timika,-4.61407,136.67679
@@ -13625,6 +13828,7 @@ ID,Central Java,Cilacap,Kroya,-7.63306,109.24611
 ID,East Java,Sidoarjo,Krian,-7.4104,112.5792
 ID,Banten,Tangerang Regency,Kresek,-6.13139,106.37972
 ID,East Java,Probolinggo,Kraksaan,-7.75845,113.39624
+ID,Sulawesi Utara,,Kotamobagu,0.74194,124.31208
 ID,Lampung,Lampung Utara,Kotabumi,-4.82505,104.8817
 ID,Bali,,Klungkung,-8.53333,115.4
 ID,Central Java,Klaten,Klaten,-7.70583,110.60639
@@ -13733,6 +13937,7 @@ ID,West Papua,,Bintuni,-2.10967,133.52461
 ID,West Nusa Tenggara,,Bima,-8.46006,118.72667
 ID,Papua,,Biak,-1.1767,136.082
 ID,East Java,,Besuki,-7.73379,113.69785
+ID,Bali,Badung,Benoa,-8.7548,115.2184
 ID,Bengkulu,Ratu Samban,Bengkulu,-3.80044,102.26554
 ID,West Kalimantan,Bengkayang,Bengkayang,0.83194,109.43589
 ID,West Java,,Bekasi,-6.2349,106.9896
@@ -13746,6 +13951,7 @@ ID,East Java,,Banyuwangi,-8.2325,114.35755
 ID,Central Java,Banyumas,Banyumas,-7.51417,109.29417
 ID,Special Region of Yogyakarta,Bantul Regency,Bantul,-7.88806,110.32889
 ID,South Kalimantan,,Banjarmasin,-3.31987,114.59075
+ID,South Kalimantan,,Banjarbaru,-3.4406,114.8365
 ID,West Java,,Banjaran,-7.04528,107.58778
 ID,Bali,,Banjar,-8.19,114.9675
 ID,West Java,,Banjar,-7.1955,107.4313
@@ -13767,6 +13973,7 @@ ID,South Kalimantan,Hulu Sungai Utara,Amuntai,-2.41773,115.24941
 ID,Moluccas,,Ambon,-3.69583,128.18333
 ID,Central Java,Semarang,Ambarawa,-7.26333,110.3975
 ID,Moluccas,Maluku Tengah,Amahai,-3.33984,128.91975
+ID,North Sulawesi,,Airmadidi,1.42804,124.97774
 ID,Papua,,Agats,-5.54505,138.13522
 ID,Central Java,Tegal,Adiwerna,-6.9375,109.1325
 ID,West Java,,Padalarang,-6.83778,107.47278
@@ -13791,22 +13998,29 @@ ID,Bali,,Seririt,-8.1928,114.9388
 ID,Bali,,Bedugul,-8.4504,115.5925
 ID,Bali,Tabanan,Sukawati,-8.4913,115.0459
 ID,East Nusa Tenggara,Sumba Barat Daya,Tambolaka,-9.4283,119.238
+ID,Bali,Badung,Tuban,-8.7427,115.1724
+ID,Bali,Gianyar,Batubulan,-8.62379,115.26203
 ID,North Sumatra,Simalungun,Pekan Bahapal,3.11313,99.17352
 ID,Banten,,South Tangerang,-6.28862,106.71789
 ID,Moluccas,Maluku Tengah,Masohi,-3.29833,128.96882
 ID,Bali,,Amlapura city,-8.44869,115.60621
 ID,West Kalimantan,Sambas,Kota Sambas,1.36259,109.30093
+ID,Bali,Badung,Dalung,-8.62553,115.17042
+ID,Kalimantan Timur,Penajam Paser Utara,Nusantara,-0.97306,116.70861
 IE,,County Wexford,Wexford,52.33417,-6.4575
 IE,,County Waterford,Waterford,52.25833,-7.11194
+IE,,County Offaly,Tullamore,53.27389,-7.48889
 IE,,County Kerry,Tralee,52.27042,-9.70264
 IE,,County Dublin,Tallaght,53.2859,-6.37344
 IE,,County Dublin,Swords,53.45972,-6.21806
 IE,,County Sligo,Sligo,54.26969,-8.46943
 IE,,,Rathfarnham,53.30056,-6.28278
+IE,,County Laois,Portlaoise,53.03441,-7.29979
 IE,,County Kildare,Droichead Nua,53.18194,-6.79667
 IE,,County Meath,Navan,53.65278,-6.68139
 IE,,County Kildare,Naas,53.21583,-6.66694
 IE,,County Westmeath,An Muileann gCearr,53.52466,-7.3385
+IE,,County Kildare,Maynooth,53.385,-6.59361
 IE,,County Dublin,Malahide,53.45083,-6.15444
 IE,,County Dublin,Lucan,53.35736,-6.44859
 IE,,County Limerick,Limerick,52.66472,-8.62306
@@ -13833,6 +14047,7 @@ IE,,County Cork,Ballincollig,51.88333,-8.58333
 IE,,County Dublin,Balbriggan,53.60846,-6.1831
 IE,,County Westmeath,Athlone,53.42278,-7.93722
 IE,,County Dublin,Sandyford,53.2747,-6.2253
+IE,,,Templeogue,53.29528,-6.30889
 IE,,County Dublin,Donaghmede,53.39845,-6.16179
 IE,,County Dublin,South Dublin,53.29026,-6.34151
 IL,Jerusalem District,,Jerusalem,31.76904,35.21633
@@ -13884,7 +14099,7 @@ IL,Haifa District,,Nesher,32.76622,35.04425
 IL,North District,,Naẕerat ‘Illit,32.70816,35.32469
 IL,North District,,Nazareth,32.70087,35.29719
 IL,North District,,Nahariyya,33.00892,35.09814
-IL,North District,,Migdal Ha‘Emeq,32.67597,35.23986
+IL,מחוז הצפון,,Migdal Ha‘Emeq,32.67788,35.24158
 IL,Jerusalem District,,Mevasseret Tsiyyon,31.80186,35.15072
 IL,מחוז הצפון,,Majd el Kurūm,32.92094,35.25438
 IL,מחוז הצפון,,Maghār,32.88888,35.40831
@@ -13909,13 +14124,13 @@ IL,Center District,,Gan Yavne,31.78737,34.70659
 IL,Center District,,Ganei Tikva,32.05971,34.8732
 IL,Center District,,Eṭ Ṭīra,32.2341,34.95023
 IL,Center District,,Eṭ Ṭaiyiba,32.26616,35.00893
-IL,North District,,Er Reina,32.72339,35.31622
+IL,מחוז הצפון,,Ar Rayna,32.7222,35.3156
 IL,South District,,Eilat,29.55805,34.94821
 IL,South District,,Dimona,31.07079,35.03269
 IL,Haifa District,,Daliyat al Karmel,32.69383,35.04686
 IL,מחוז חיפה,,Binyamina-Giv‘at ‘Ada,32.52305,34.94487
 IL,Jerusalem District,,Bet Shemesh,31.73072,34.99293
-IL,North District,,Bet She’an,32.49728,35.49632
+IL,מחוז הצפון,,Bet She’an,32.49658,35.4965
 IL,Tel Aviv District,,Bnei Brak,32.08074,34.8338
 IL,Center District,,Be’er Ya‘aqov,31.93864,34.83749
 IL,South District,,Beersheba,31.25181,34.7913
@@ -15019,7 +15234,7 @@ IN,Punjab,Mukerian Tahsil,Mukeriān,31.95394,75.61716
 IN,Uttar Pradesh,Farrukhabad,Muhammadābād,27.30895,79.43252
 IN,Uttar Pradesh,Muhammadabad Gohna,Muhammadābād,26.03404,83.38114
 IN,Uttar Pradesh,Mohammadabad,Muhammadābād,25.61907,83.75576
-IN,Uttar Pradesh,Chandauli,Mughal Sarāi,25.28307,83.11968
+IN,Uttar Pradesh,Chandauli,Pandit Deen Dayal Upadhyaya Nagar,25.28307,83.11968
 IN,Maharashtra,Mudkhed,Mudkhed,19.15657,77.50304
 IN,Karnataka,Mudhola taluku,Mudhol,16.33354,75.28305
 IN,Karnataka,Lingasuguru taluku,Mudgal,16.01191,76.44203
@@ -15821,7 +16036,6 @@ IN,Uttar Pradesh,Mathura,Govardhan,27.49658,77.46263
 IN,Rajasthan,Merta Tehsil,Gotan,26.65551,73.7371
 IN,Madhya Pradesh,Gormi Tahsil,Gormi,26.60029,78.51188
 IN,Andhra Pradesh,,Gorantla,13.98411,77.77224
-IN,Haryana,Bhuna,Gorakhpur,29.44768,75.67206
 IN,Uttar Pradesh,Gorakhpur,Gorakhpur,26.76628,83.36889
 IN,Maharashtra,Regional Unit of Central Athens,Gorai,19.25,72.78333
 IN,Tamil Nadu,Gobichettipalayam,Gobichettipalayam,11.45496,77.4422
@@ -16837,6 +17051,7 @@ IN,Meghalaya,Shella Bholaganj,Shella,25.17861,91.63952
 IN,Madhya Pradesh,Hanumana Tahsil,Hanumana,24.77888,82.096
 IN,Bihar,Uchkagaon,Mirganj,26.37345,84.33489
 IN,Bihar,Sultanganj,Sultānganj,25.23831,86.73559
+IN,Uttar Pradesh,Modinagar,Modīnagar,28.83059,77.57295
 IN,Rajasthan,Sanganer Tehsil,Bagru,26.81067,75.54702
 IN,Madhya Pradesh,Neemuch Nagar Tehsil,Nimach,24.45949,74.86625
 IN,Karnataka,Guledgudda taluku,Kamatgi,16.07786,75.81321
@@ -17015,6 +17230,7 @@ IN,Haryana,Panipat,Ugrākheri,29.378,77.00934
 IN,Delhi,Punjabi Bagh Tehsil,Tikri Kalān,28.68355,76.97007
 IN,Delhi,Dwarka Tehsil,Nangli Sakrawat,28.62169,76.9923
 IN,Maharashtra,Tiroda Taluka,Tirorā,21.40409,79.92617
+IN,Uttar Pradesh,,Jājmau,26.4304,80.4095
 IN,Kerala,Kanayannur,Kumbalam,9.9063,76.31127
 IN,Kerala,Cherthala,Aroor,9.8694,76.30498
 IN,Kerala,Chirayinkeezhu,Kadakkavoor,8.67921,76.76714
@@ -17718,6 +17934,8 @@ IN,Tripura,Mohanpur,Taranagar,23.96877,91.37081
 IN,Tripura,Sadar,Madhuban,23.78152,91.28579
 IN,Tripura,Sadar,Dukli,23.7984,91.29642
 IN,Tripura,Sadar,Charipara,23.80914,91.24805
+IN,Uttar Pradesh,,Kanpur Cantonment,26.45942,80.37514
+IN,Dadra and Nagar Haveli and Daman and Diu,Daman,Nani Daman,20.41431,72.83236
 IQ,Iraqi Kurdistan,,Zaxo,37.14871,42.68591
 IQ,Al-Basra Governorate,,Umm Qaşr,30.0362,47.91951
 IQ,Saladin Governorate,,Ţūz Khūrmātū,34.88808,44.63256
@@ -17735,9 +17953,11 @@ IQ,Babil Governorate,,Saddat al Hindīyah,32.71557,44.27857
 IQ,Erbil Governorate,Tundla,Ṟuwandiz,36.6114,44.52194
 IQ,Iraqi Kurdistan,,Rānyah,36.25511,44.88239
 IQ,Al-Anbar Governorate,,Al Qā’im,34.39251,40.98945
+IQ,محافظة ديالى,,Habhab,33.78406,44.50659
 IQ,Nineveh Governorate,,Al-Hamdaniya,36.27093,43.37758
 IQ,محافظة ذي قار,,Qal‘at Sukkar,31.8632,46.07321
 IQ,Maysan Governorate,,Qal‘at Şāliḩ,31.52802,47.29362
+IQ,Iraqi Kurdistan,,Qeładizê,36.18254,45.13017
 IQ,Diyala Governorate,,Mandalī,33.7481,45.55503
 IQ,Erbil Governorate,,Koysinceq,36.08289,44.62873
 IQ,Sulaimaniya Governorate,,Kifrī,34.68963,44.96057
@@ -17750,6 +17970,7 @@ IQ,Al-Anbar Governorate,,Hīt,33.63664,42.82768
 IQ,پارێزگای ھەولێر,قەزای هەریر,Ḩarir,36.55111,44.35258
 IQ,Halabja Governorate,,Halabja,35.17778,45.98611
 IQ,Al-Anbar Governorate,,Ḩadīthah,34.13661,42.37727
+IQ,Erbil Governorate,,Xebat,36.27798,43.67065
 IQ,Erbil Governorate,Tundla,Soran,36.65558,44.54217
 IQ,,,Dihok,36.86608,42.9879
 IQ,Sulaimaniya Governorate,,Jamjamāl,35.53356,44.8343
@@ -17805,7 +18026,7 @@ IQ,Al-Qadisiyah Governorate,,‘Afak,32.0643,45.24743
 IQ,Saladin Governorate,,Ad Dujayl,33.84667,44.23444
 IQ,Al-Qadisiyah Governorate,,Al Diwaniyah,31.99289,44.92552
 IQ,Baghdad Governorate,,Abū Ghurayb,33.30563,44.18477
-IQ,Al-Basra Governorate,,Al Başrah al Qadīmah,30.50316,47.81507
+IQ,Sulaimaniya Governorate,,Derbendîxan,35.11207,45.68663
 IQ,محافظة نینوى,,'Ākra,36.73359,43.88038
 IQ,Erbil Governorate,,Khasnahzān,36.2009,44.14235
 IQ,پارێزگای ھەولێر,قەزای خەلیفان,Khalīfān,36.6087,44.4048
@@ -17814,13 +18035,16 @@ IQ,Nineveh Governorate,,Sinjār,36.3209,41.87656
 IQ,Al-Anbar Governorate,,‘Anah,34.36857,41.98194
 IQ,محافظة صلاح الدين,,Al-'Alam,34.70896,43.6951
 IQ,محافظة بغداد,,Sadr City,33.3889,44.4583
+IQ,,,Dêrelûk Devera Nihêliya,37.05598,43.65188
 IQ,,,Simele,36.85833,42.8501
 IQ,پارێزگای سلێمانی,,Shūrash,35.51562,44.84266
 IQ,محافظة البصرة,,Abū al-Kahṣīb,30.4431,47.87802
+IQ,,,Shelādiz,37.0326,43.77616
+IR,,شهرستان تهران,Shahrak-e Qods,35.75936,51.37601
 IR,,Shemiranat County,Lavāsān,35.82159,51.64444
 IR,Qazvin Province,Alborz County,Alvand,36.1893,50.0643
 IR,استان مازندران,شهرستان سوادکوه,Zīr Āb,36.1797,52.97348
-IR,Hamadan Province,Hamedan County,Āzādshahr,34.79049,48.57011
+IR,East Azerbaijan Province,Bostanabad County,Bostānābād,37.84633,46.83542
 IR,Lorestan Province,Delfan County,Nūrābād,34.0734,47.9725
 IR,Kermanshah Province,Javanrud County,Javānrūd,34.8067,46.4913
 IR,Semnan Province,Garmsar County,Īstgāh-e Rāh Āhan-e Garmsār,35.23455,52.30942
@@ -17830,16 +18054,21 @@ IR,,Baharestan County,Golestān,35.5183,51.1819
 IR,,Shahriar County,Shahre Jadide Andisheh,35.6803,51.0193
 IR,,شهرستان تهران,Morteẕá Gerd,35.6025,51.3496
 IR,,شهرستان شهریار,Ferdowsīyeh,35.6011,51.0645
-IR,استان خوزستان,شهرستان اندیمشک,Dezfūl,32.41667,48.21667
+IR,استان آذربایجان شرقی,شهرستان جلفا,Hādīshahr,38.8479,45.6623
+IR,Golestan Province,Gomishan County,Gomīshān,37.0718,54.07654
 IR,Zanjan Province,Khoramdareh County,Khorramdarreh,36.20777,49.19527
 IR,Gilan Province,Rudbar County,Pādegān-e Manjīl,36.7415,49.4161
+IR,استان البرز,,Malekābād,35.8164,50.8228
 IR,Alborz Province,Karaj County,Kamālshahr,35.86187,50.87424
 IR,استان البرز,شهرستان فردیس,Shahrak-e Mohandesī-ye Zerā‘ī,35.772,50.956
+IR,استان البرز,,Chahārbāgh,35.8389,50.8481
+IR,استان خوزستان,شهرستان اهواز,‘Eyn-e Do,31.3456,48.60063
 IR,استان بوشهر,شهرستان دشتستان,Āb Pakhsh,29.35862,51.07423
 IR,Fars Province,Kavar County,Kavār,29.20505,52.69043
 IR,استان خوزستان,شهرستان بهبهان,Shahrak-e Ţāleqānī,30.835,50.19873
 IR,Fars Province,Khafr County,Ābādeh,28.8349,53.1726
 IR,Kohgiluye and Buyer Ahmad Province,Buyerahmad County,Yasuj,30.66824,51.58796
+IR,استان یزد,شهرستان اشکذر,Ashkez̄ar,31.99679,54.20852
 IR,Golestan Province,Azadshahr County,Āzādshahr,37.08641,55.17222
 IR,استان فارس,شهرستان زرقان,Zarqān,29.77237,52.71891
 IR,Kerman Province,Zarand County,Zarand,30.81271,56.56399
@@ -17848,6 +18077,7 @@ IR,Yazd Province,Yazd County,Yazd,31.89722,54.3675
 IR,استان خوزستان,شهرستان باوی,Veys,31.48595,48.87515
 IR,,Varamin County,Varāmīn,35.3242,51.6457
 IR,Hamadan Province,Tuyserkan County,Tūyserkān,34.551,48.44353
+IR,Razavi Khorasan,Binalud County,Ţorqabeh,36.3104,59.3735
 IR,Razavi Khorasan,Torbat-e-Heydarieh County,Torbat-e Ḩeydarīyeh,35.27401,59.21949
 IR,Mazandaran Province,Tonekabon County,Tonekābon,36.81626,50.87376
 IR,,Tehran County,Tehran,35.69439,51.42151
@@ -17876,6 +18106,7 @@ IR,Chaharmahal and Bakhtiyari Province,Sharekurd County,Shahr-e Kord,32.32612,50
 IR,Kerman Province,Shahr-e-Babak County,Shahr-e Bābak,30.1165,55.1186
 IR,Khuzestan Province,Shadegan County,Shādegān,30.64924,48.66497
 IR,East Azerbaijan Province,Shabestar County,Shabestar,38.1804,45.7028
+IR,West Azerbaijan Province,Chaldoran County,Seyah Cheshmeh,39.06508,44.38416
 IR,Semnan Province,Semnan County,Semnan,35.57691,53.39205
 IR,Isfahan Province,Semirom County,Semīrom,31.41667,51.56667
 IR,Markazi Province,Saveh County,Sāveh,35.0213,50.3566
@@ -17911,12 +18142,13 @@ IR,Fars Province,Qir and Karzin County,Qīr,28.4825,53.0346
 IR,استان زنجان,شهرستان خدابنده,Qīdar,36.11472,48.59111
 IR,Hormozgan Province,Qeshm County,Qeshm,26.9492,56.2691
 IR,Qazvin Province,Qazvin County,Qazvin,36.26877,50.0041
+IR,Kermanshah Province,Qasr-e-Shirin County,Qaşr-e Shīrīn,34.5156,45.5791
 IR,West Azerbaijan Province,Chaypareh County,Qarah Ẕīā’ od Dīn,38.8915,45.0255
 IR,,Qods County,Qods,35.7214,51.109
 IR,Hormozgan Province,Rudan County,Rūdān,27.44194,57.19198
 IR,Chaharmahal and Bakhtiyari Province,Sharekurd County,Farrokh Shahr,32.27174,50.98008
 IR,South Khorasan Province,Qaenat County,Qā’en,33.72654,59.18439
-IR,استان مازندران,شهرستان قائم شهر,Qā’em Shahr,36.46306,52.86007
+IR,استان مازندران,شهرستان قائم شهر,Qā’em Shahr,36.46671,52.86762
 IR,Kermanshah Province,Sarpol-e-Zahab County,Sarpol-e Z̄ahāb,34.46109,45.86264
 IR,Lorestan Province,Pol-e-Dokhtar County,Poldokhtar,33.15249,47.71014
 IR,West Azerbaijan Province,Poldasht County,Poldasht,39.348,45.071
@@ -17935,7 +18167,9 @@ IR,Fars Province,Neyriz County,Neyrīz,29.1988,54.3278
 IR,Mazandaran Province,Neka County,Nekā,36.65079,53.29905
 IR,Alborz Province,Nazarabad County,Naz̧arābād,35.95411,50.60607
 IR,Isfahan Province,Natanz County,Naţanz,33.51118,51.91808
+IR,,شهرستان رباط کریم,Nasirshahr,35.49209,51.13836
 IR,West Azerbaijan Province,Naqadeh County,Naqadeh,36.9553,45.388
+IR,استان بوشهر,شهرستان عسلویه,Nakhl-e Taqī,27.49752,52.58653
 IR,استان کرمان,شهرستان سیرجان,Najafshahr,29.38575,55.71758
 IR,Isfahan Province,Nain County,Nā’īn,32.86006,53.08749
 IR,Hamadan Province,Nahavand County,Nahāvand,34.19088,48.37446
@@ -17956,15 +18190,19 @@ IR,Alborz Province,Karaj County,Māhdāsht,35.7282,50.8134
 IR,East Azerbaijan Province,Marand County,Marand,38.4329,45.7749
 IR,East Azerbaijan Province,Maragheh County,Marāgheh,37.39206,46.23909
 IR,Razavi Khorasan,Fariman County,Marāgheh,35.82916,59.63324
-IR,Kerman Province,Manujan County,Manūjān,27.40698,57.50128
+IR,استان کرمان,شهرستان منوجان,Manūjān,27.39893,57.49722
 IR,Gilan Province,Rudbar County,Manjīl,36.74445,49.40082
 IR,East Azerbaijan Province,Malekan County,Malekān,37.14258,46.10345
 IR,Hamadan Province,Malayer County,Malāyer,34.30158,48.82166
 IR,,Malard County,Malārd,35.6659,50.9767
+IR,West Azerbaijan Province,Maku County,Maku,39.28992,44.46035
 IR,Bushehr Province,Jam County,Makū,27.8486,52.423
 IR,Mazandaran Province,Mahmudabad County,Maḩmūdābād,36.63191,52.26286
+IR,استان قزوین,شهرستان قزوین,Maḩmūdābād Nemūneh,36.28967,49.9014
+IR,استان کرمان,شهرستان کرمان,Māhān,30.05943,57.29198
 IR,Markazi Province,,Maḩallāt,33.91108,50.45317
 IR,West Azerbaijan Province,Mahabad County,Mahābād,36.7631,45.7222
+IR,استان کهگیلویه و بویر احمد,شهرستان بویراحمد,Mādavān,30.71525,51.54131
 IR,Chaharmahal and Bakhtiyari Province,Lordegan County,Lordegān,31.51338,50.82672
 IR,Kohgiluye and Buyer Ahmad Province,Bahmai County,Līkak,30.8949,50.0931
 IR,Fars Province,Larestan County,Lār,27.68336,54.34172
@@ -17976,19 +18214,23 @@ IR,Khuzestan Province,Karun County,Kūt-e ‘Abdollāh,31.23917,48.65639
 IR,Lorestan Province,Kuhdasht County,Kūhdasht,33.53335,47.60999
 IR,Golestan Province,Kordkuy County,Kord Kūy,36.79307,54.11214
 IR,Hormozgan Province,Bandar Lengeh County,Kīsh,26.55778,54.01944
-IR,West Azerbaijan Province,Khoy County,Khowy,38.5503,44.9521
+IR,West Azerbaijan Province,Khoy County,Khūy,38.5503,44.9521
 IR,Bushehr Province,Dashti County,Khūrmūj,28.6543,51.38
-IR,Isfahan Province,Khansar County,Khvānsār,33.22052,50.31497
+IR,Isfahan Province,Khansar County,Khānsār,33.22052,50.31497
 IR,استان آذربایجان شرقی,شهرستان تبریز,Khosrowshahr,37.9497,46.0528
 IR,Khuzestan Province,Khoramshahr County,Khorramshahr,30.44079,48.18428
 IR,Lorestan Province,Khoramabad County,Khorramabad,33.48778,48.35583
+IR,Fars Province,Khonj County,Khonj,27.8913,53.4344
 IR,Markazi Province,,Khomeyn,33.63889,50.08003
 IR,استان گیلان,,Khomām,37.39016,49.65846
+IR,Hormozgan Province,Khamir County,Bandar-e Khamīr,26.9521,55.5851
 IR,Ardabil Province,Kahlkhal County,Khalkhāl,37.61837,48.52928
 IR,Kermanshah Province,Kermanshah County,Kermanshah,34.31417,47.065
 IR,Kerman Province,Kerman County,Kerman,30.28321,57.07879
 IR,Fars Province,Kazerun County,Kāzerūn,29.61919,51.6535
+IR,استان گلستان,شهرستان گمیشان,Sīmīn Shahr,37.01422,54.23004
 IR,Razavi Khorasan,Kashmar County,Kāshmar,35.23831,58.46558
+IR,استان اصفهان,شهرستان کاشان,Kashan,33.98237,51.42769
 IR,Alborz Province,,Karaj,35.83266,50.99155
 IR,استان مرکزی,شهرستان اراک,Karahrūd,34.06095,49.64462
 IR,Kermanshah Province,Kangavar County,Kangāvar,34.5043,47.9653
@@ -17999,14 +18241,16 @@ IR,,شهرستان پاکدشت,Kahrīzak,35.3465,51.84418
 IR,Hamadan Province,Kabutarahang County,Kabūdarāhang,35.20924,48.72341
 IR,Ilam Province,Eyvan County,Eyvān,33.8272,46.3097
 IR,Mazandaran Province,,Jūybār,36.64088,52.91206
-IR,Kermanshah Province,Javanrud County,Javānrūd,34.79611,46.51722
+IR,Hormozgan Province,Jask County,Jask,25.64533,57.77552
 IR,Bushehr Province,Jam County,Jam,27.82977,52.32518
+IR,North Khorasan Province,Jajrom County,Jājarm,36.95012,56.38005
 IR,Fars Province,شهرستان جهرم,Jahrom,28.5,53.5605
 IR,Khuzestan Province,Izeh County,Īz̄eh,31.83027,49.86756
 IR,Ilam Province,Ilam County,Īlām,33.6374,46.4227
 IR,Khuzestan Province,Hoveyzeh County,Hoveyzeh,31.4619,48.074
 IR,Khuzestan Province,Hendijan County,Hendījān,30.2363,49.7119
 IR,Alborz Province,Savojbolagh County,Hashtgerd,35.962,50.6799
+IR,,شهرستان ری,Ḩasanābād,35.36732,51.23498
 IR,Kermanshah Province,Harsin County,Harsīn,34.2721,47.5861
 IR,Khuzestan Province,Hamidieh County,Ḥamīdiyeh,31.48285,48.4332
 IR,Hamadan Province,Hamedan County,Hamadān,34.79922,48.51456
@@ -18021,15 +18265,18 @@ IR,Isfahan Province,Golpayegan County,Golpāyegān,33.4537,50.28836
 IR,Fars Province,Gerash County,Gerāsh,27.66966,54.13586
 IR,Hormozgan Province,Parsian County,Pārsiān,27.2083,53.0361
 IR,Khuzestan Province,Gotvand County,Gotvand,32.24585,48.81315
+IR,Semnan Province,Garmsar County,Garmsār,35.21824,52.34085
 IR,Ardabil Province,Garmi County,Germī,39.0215,48.0801
 IR,Bushehr Province,Ganaveh County,Bandar-e Genāveh,29.5791,50.517
 IR,Mazandaran Province,Galugah County,Galūgāh,36.72734,53.80888
 IR,استان مازندران,شهرستان بابل,Galūgāh,36.31048,52.62621
 IR,Golestan Province,Galikash County,Gālīkesh,37.27259,55.43394
 IR,Gilan Province,Fuman County,Fūman,37.224,49.3125
+IR,,Firuzkuh County,Fīrūzkūh,35.75674,52.77062
 IR,Fars Province,Firuzabad County,Fīrūzābād,28.84459,52.57151
 IR,,شهرستان پاکدشت,Ferūnābād,35.5156,51.6232
 IR,Mazandaran Province,Fereydunkenar County,Fereydūn Kenār,36.68489,52.51917
+IR,South Khorasan Province,Ferdows County,Ferdows,34.0185,58.17222
 IR,استان گلستان,شهرستان علی آباد کتول,Fāẕelābād,36.89802,54.74963
 IR,Fars Province,Fasa County,Fasā,28.9383,53.6482
 IR,Chaharmahal and Bakhtiyari Province,Farsan County,Fārsān,32.25694,50.56095
@@ -18044,13 +18291,16 @@ IR,Semnan Province,Shahrud County,Shahrud,36.41819,54.97628
 IR,Lorestan Province,Dorud County,Dorūd,33.49218,49.0616
 IR,Kohgiluye and Buyer Ahmad Province,Gachsaran County,Dogonbadan,30.3586,50.7981
 IR,Kurdistan Province,Divandarreh County,Dīvāndarreh,35.9139,47.0239
+IR,Khuzestan Province,Dezful County,Dezful,32.38114,48.40581
 IR,Bushehr Province,Deyr County,Bandar-e Deyr,27.8399,51.9378
 IR,Markazi Province,Delijan County,Delījān,33.9905,50.6838
 IR,Ilam Province,Dehloran County,Dehlorān,32.6941,47.2679
 IR,Kohgiluye and Buyer Ahmad Province,Kohkiluyeh County,Dehdasht,30.79337,50.56508
+IR,Fars Province,Khorambid County,Şafāshahr,30.6131,53.1954
 IR,Isfahan Province,Dehaqan County,Dehāqān,31.93986,51.64731
 IR,Khuzestan Province,Dasht-e-Azadegan County,Sūsangerd,31.5635,48.18958
 IR,Ilam Province,Darreh Shahr County,Darreh Shahr,33.14447,47.3799
+IR,Razavi Khorasan,Dargaz County,Dargaz,37.44447,59.10809
 IR,Isfahan Province,Fereydan County,Dārān,32.98741,50.4108
 IR,Fars Province,Darab County,Dārāb,28.75171,54.54065
 IR,Semnan Province,Damghan County,Dāmghān,36.1679,54.34292
@@ -18059,6 +18309,7 @@ IR,استان بوشهر,شهرستان بوشهر,Choghādak,28.986,51.0364
 IR,Razavi Khorasan,Chenaran County,Chenārān,36.64546,59.12123
 IR,Kohgiluye and Buyer Ahmad Province,Charam County,Charām,30.75561,50.74522
 IR,Mazandaran Province,Chalus County,Chālūs,36.655,51.4204
+IR,,شهرستان اسلامشهر,Chahār Dangeh,35.6031,51.3098
 IR,Bushehr Province,Bushehr County,Bushehr,28.96887,50.83657
 IR,,Pardis County,Būmahen,35.72972,51.86884
 IR,West Azerbaijan Province,Bukan County,Būkān,36.521,46.2089
@@ -18077,7 +18328,8 @@ IR,استان کرمان,شهرستان بم,Baravāt,29.0663,58.4046
 IR,Kurdistan Province,Baneh County,Bāneh,35.9975,45.8853
 IR,Golestan Province,Torkaman County,Bandar-e Torkaman,36.90124,54.07195
 IR,Khuzestan Province,Bandar-e-Mahshahr County,Bandar-e Māhshahr,30.55655,49.18852
-IR,Hormozgan Province,Bandar Lengeh County,Bandar-e Lengeh,26.55792,54.88067
+IR,استان هرمزگان,شهرستان بندر لنگه,Bandar-e Lengeh,26.56207,54.88382
+IR,استان هرمزگان,شهرستان بندر لنگه,Bandar-e Kong,26.59775,54.93694
 IR,Golestan Province,Bandar-e-Gaz County,Bandar-e Gaz,36.77409,53.94798
 IR,Bushehr Province,Deylam County,Bandar-e Deylam,30.0542,50.159
 IR,Gilan Province,Bandar-e-Anzali County,Bandar-e Anzalī,37.47318,49.45785
@@ -18095,6 +18347,7 @@ IR,East Azerbaijan Province,Hashtrud County,Hashtrūd,37.4779,47.0508
 IR,Markazi Province,Shazand County,Shāzand,33.93132,49.40629
 IR,Gilan Province,Astara County,Āstārā,38.43084,48.86994
 IR,Gilan Province,Astaneh-ye Ashrafiyeh County,Āstāneh-ye Ashrafīyeh,37.26318,49.94325
+IR,North Khorasan Province,Maneh and Samalqan County,Āshkhāneh,37.5615,56.92125
 IR,Hamadan Province,Asadabad County,Asadābād,34.78241,48.12012
 IR,Fars Province,Arsanjan County,Arsanjān,29.9124,53.3085
 IR,Isfahan Province,Ardestan County,Ardestān,33.37939,52.36981
@@ -18108,9 +18361,9 @@ IR,Kerman Province,Anar County,Anār,30.87066,55.27025
 IR,Mazandaran Province,Amol County,Āmol,36.46961,52.35072
 IR,Gilan Province,Amlash County,Amlash,37.0966,50.18709
 IR,استان مازندران,شهرستان بابل,Amīr Kolā,36.59673,52.6658
-IR,Zanjan Province,Khoramdareh County,Alvand,36.31885,49.16773
 IR,,Shahriar County,Shahrīār,35.65884,51.05775
 IR,Lorestan Province,Aligudarz County,Alīgūdarz,33.404,49.69179
+IR,Golestan Province,Aliabad County,'Alī Ābād-e Katūl,36.91011,54.86737
 IR,Lorestan Province,Selseleh County,Aleshtar,33.86419,48.26258
 IR,East Azerbaijan Province,Ajab Shir County,Ajab Shīr,37.4776,45.8943
 IR,Khuzestan Province,Ahvaz County,Ahvaz,31.31901,48.6842
@@ -18121,6 +18374,7 @@ IR,Qazvin Province,Abyek County,Ābyek,36.06667,50.55
 IR,Qazvin Province,Abyek County,Ābyek,36.03993,50.53101
 IR,Zanjan Province,Abhar County,Abhar,36.1468,49.218
 IR,Ilam Province,Abdanan County,Ābdānān,32.9926,47.4198
+IR,Yazd Province,Abarkuh County,Abarkūh,31.1289,53.2824
 IR,Fars Province,Abadeh County,Abadeh,31.1608,52.6506
 IR,Khuzestan Province,Abadan County,Abadan,30.3392,48.3043
 IR,Alborz Province,Karaj County,Moḩammad Shahr,35.763,50.9171
@@ -18130,7 +18384,7 @@ IR,,Rey County,Qīāmdasht,35.5237,51.6505
 IR,West Azerbaijan Province,Showt County,Showţ,39.2192,44.77
 IR,Fars Province,Pasargad County,Pāsārgād,30.20194,53.18
 IR,,شهرستان تهران,Vaḩīdīyeh,35.71445,51.47086
-IR,,شهرستان شهریار,Naz̧arābād,35.6102,51.1611
+IR,,شهرستان شهریار,Nasir Abaad,35.6102,51.1611
 IR,,شهرستان شهریار,Shāhedshahr,35.5729,51.085
 IR,,شهرستان بهارستان,Ovrīn,35.5477,51.1282
 IR,,Varamin County,Eqbālīyeh,35.3022,51.5358
@@ -18171,7 +18425,7 @@ IR,استان سیستان و بلوچستان,,Pīshīn,26.07937,61.75403
 IR,Sistan and Baluchestan Province,Nikshahr County,Nīkshahr,26.2258,60.2143
 IR,South Khorasan Province,Nehbandan County,Nehbandān,31.54185,60.03648
 IR,Sistan and Baluchestan Province,Konarak County,Konārak,25.3604,60.3995
-IR,Razavi Khorasan,Khaf County,Khvāf,34.5763,60.14093
+IR,استان خراسان رضوی,شهرستان خواف,Khvāf,34.57232,60.14404
 IR,Sistan and Baluchestan Province,Khash County,Khāsh,28.22107,61.21582
 IR,استان سیستان و بلوچستان,شهرستان گلشن,Jālq,27.60287,62.71023
 IR,Sistan and Baluchestan Province,Iranshahr County,Iranshahr,27.20245,60.68476
@@ -18184,11 +18438,14 @@ IR,Markazi Province,Zarandieh County,Māmūnīyeh,35.30454,50.49934
 IR,,شهرستان رباط کریم,Parand,35.47195,50.97547
 IR,استان قزوین,شهرستان البرز,Bīdestān,36.23097,50.12362
 IR,استان قزوین,شهرستان البرز,Moḩammadīyeh,36.22374,50.18247
+IR,استان قم,شهرستان قم,Shahrak-e Pardīsān,34.55734,50.80201
 IR,,شهرستان شهریار,Şabbāshahr,35.58026,51.11392
 IR,,Baharestan County,Nasīm Shahr,35.56504,51.16332
 IR,,Pardis County,Pardīs,35.74687,51.81222
 IR,استان آذربایجان شرقی,شهرستان اسکو,Īlkhchī,37.9373,45.979
+IR,East Azerbaijan Province,Azarshahr County,Āz̄arshahr,37.759,45.9783
 IR,Markazi Province,Shazand County,Mahājerān,34.05042,49.43498
+IR,Isfahan Province,Kashan County,Kāshān,34.00228,51.43879
 IR,Kerman Province,Jiroft County,Jīroft,28.67806,57.74056
 IR,استان کرمان,شهرستان کهنوج,Kahnūj,27.94034,57.69983
 IR,استان خراسان رضوی,,Golbahār,36.56976,59.1904
@@ -18197,16 +18454,20 @@ IR,Golestan Province,Aqqala County,Āq Qalā,37.0139,54.45504
 IR,استان فارس,شهرستان کوه‌چنار,Qā’emīyeh,29.85176,51.5879
 IR,,شهرستان پاکدشت,Mojtame‘-e Maskūnī-ye Nāmjū,35.4723,51.724
 IR,,شهرستان ری,Shahrak-e ‘Alā’īn,35.58231,51.45559
+IR,,شهرستان شهریار,Vaḩīdīyeh,35.60709,51.03457
 IR,,شهرستان بهارستان,Khabarābād,35.54263,51.14813
 IR,Khuzestan Province,Bandar-e-Mahshahr County,Bandar-e Emam Khomeyni,30.43698,49.10288
 IR,استان بوشهر,شهرستان بوشهر,‘Ālī Shahr,28.93125,51.06571
-IR,Alborz Province,Savojbolagh County,Shahr-e Jadīd-e Mehestan,35.98907,50.74512
+IR,Alborz Province,Savojbolagh County,Mehestan,35.98907,50.74512
 IR,,Pakdasht County,Pākdasht,35.47854,51.6834
 IR,South Khorasan Province,Boshruyeh County,Boshrūyeh,33.86845,57.42885
 IR,,Tehran County,Andīsheh,35.74708,51.27739
+IR,,شهرستان ری,Kahrīzak,35.51718,51.36052
 IR,,Baharestan County,Nasimshahr,35.56528,51.1583
 IR,,شهرستان شهریار,Bāghestān,35.64706,51.13378
 IR,استان آذربایجان شرقی,شهرستان اسکو,Sahand,37.95104,46.1103
+IR,,شهرستان ملارد,Ṣafādasht,35.69244,50.84828
+IR,استان خراسان رضوی,شهرستان مشهد,Gorjī-ye Soflá,36.35636,59.66004
 IS,,,Akureyri,65.68353,-18.0878
 IS,,,Reykjavík,64.13548,-21.89541
 IS,,,Kópavogur,64.11234,-21.91298
@@ -18423,6 +18684,7 @@ IT,Lombardy,Milan,Rozzano,45.38193,9.1559
 IT,Veneto,Rovigo,Rovigo,45.06982,11.79022
 IT,Trentino-Alto Adige/Südtirol,Provincia di Trento,Rovereto,45.8904,11.04053
 IT,Tuscany,Livorno,Rosignano Solvay-Castiglioncello,43.38946,10.43615
+IT,Tuscany,Livorno,Rosignano Marittimo,43.40686,10.47231
 IT,Abruzzo,Teramo,Roseto degli Abruzzi,42.67164,14.01481
 IT,Lombardy,Bergamo,Romano di Lombardia,45.52081,9.7544
 IT,Lazio,Roma Capitale,Rome,41.89193,12.51133
@@ -18712,7 +18974,8 @@ IT,Lombardy,Milan,Carugate,45.54983,9.34044
 IT,Tuscany,,Carrara,44.07926,10.09789
 IT,Emilia-Romagna,Modena,Carpi,44.78237,10.8777
 IT,Piemont,Torino,Carmagnola,44.84963,7.72032
-IT,Campania,Napoli,Cardito,40.9459,14.29952
+IT,Campania,Napoli,Cardito,40.94643,14.29533
+IT,Puglia,Bari,Carbonara di Bari,41.06667,16.86667
 IT,Lombardy,Monza and Brianza,Carate Brianza,45.67574,9.23723
 IT,Campania,Caserta,Capua,41.10519,14.21269
 IT,Tuscany,Lucca,Capannori,43.84171,10.57271
@@ -18841,6 +19104,7 @@ IT,Lombardia,Milano,Adriano,45.51342,9.24871
 IT,Lombardy,Milan,Chinatown,45.48171,9.17522
 IT,Piemonte,Torino,Barriera di Lanzo,45.10981,7.65126
 IT,Piemonte,Torino,Porta Palazzo,45.07669,7.68371
+IT,Lazio,Roma Capitale,Malafede,41.77451,12.37739
 IT,Toscana,Firenze,Campo di Marte,43.77693,11.27707
 IT,Campania,Napoli,Chiaia,40.83255,14.22677
 IT,Campania,Napoli,Chiaiano,40.88101,14.20759
@@ -18869,11 +19133,13 @@ IT,Piemonte,Torino,Circoiscrizione VII,45.07824,7.69718
 IT,Piemonte,Torino,Circoiscrizione VIII,45.03789,7.67174
 IT,Piemonte,Torino,Polo Nord,45.0548,7.64948
 IT,Piemonte,Torino,Centro,45.07119,7.68376
+IT,Abruzzo,Chieti,Chieti Scalo,42.35904,14.13867
 JE,,,Saint Helier,49.18804,-2.10491
 JM,,Saint Catherine,Spanish Town,17.99107,-76.95742
 JM,,Westmoreland,Savanna-la-Mar,18.21895,-78.1332
 JM,,Saint Catherine,Portmore,17.97102,-76.88691
 JM,,Saint Catherine,Old Harbour,17.94144,-77.10898
+JM,,Saint Ann,Ocho Rios,18.4076,-77.10312
 JM,,Saint Andrew,New Kingston,18.00747,-76.78319
 JM,,Saint James,Montego Bay,18.47116,-77.91883
 JM,,Clarendon,May Pen,17.96454,-77.24515
@@ -18881,6 +19147,7 @@ JM,,Manchester,Mandeville,18.04168,-77.50714
 JM,,Saint Catherine,Linstead,18.13683,-77.03171
 JM,,Saint Andrew,Kingston,17.99702,-76.79358
 JM,,Kingston and Saint Andrew Corporation,Half Way Tree,18.01248,-76.79928
+JM,,Saint James,Barrett Town,18.51491,-77.80178
 JO,Amman,Wadi Essier Sub-District,Wādī as Sīr,31.9545,35.81831
 JO,Amman,Wadi Essier Sub-District,Umm as Summāq,31.88542,35.8543
 JO,Amman,Sahab Sub-District,Saḩāb,31.87032,36.00479
@@ -19259,6 +19526,7 @@ JP,,,Mishima,35.11667,138.91667
 JP,Osaka Prefecture,,Minoh,34.82691,135.47057
 JP,,,Mino,35.53333,136.91667
 JP,,,Minamirinkan,35.49527,139.44279
+JP,,,Minami-aoyama,35.66463,139.71547
 JP,,,Minamata,32.21667,130.4
 JP,,,Minakuchichō-matoba,34.96667,136.16667
 JP,,Saihaku County,Mikuriya,35.51242,133.49737
@@ -19808,6 +20076,7 @@ JP,,Higashiibaraki County,Omitama,36.25449,140.37962
 JP,,,Hitachiomiya,36.56447,140.40269
 JP,,,Kamisu,35.89685,140.66666
 JP,,,Namegata,36.00705,140.49623
+JP,,,Sakuragawa,36.25052,140.11565
 JP,,,Bandō,36.06997,139.86705
 JP,,,Hitachi-ota,36.5513,140.52821
 JP,,,Inashiki,35.95633,140.32356
@@ -20015,6 +20284,7 @@ JP,,Sunto County,Fushimi,35.11426,138.89742
 JP,,Tagata County,Kamizawa,35.10151,138.95398
 JP,,Nasu County,Nasu,37.04209,140.09379
 JP,,Nakagami,Yomitan,26.40167,127.74503
+JP,,,Azamino,35.5699,139.54482
 JP,,,Minami-ōi,35.59283,139.73367
 JP,Tuscany,Shimajiri,Togoshi,35.61143,139.71736
 JP,Rajasthan,Sarwar Tehsil,Shimo’ochiai,35.72018,139.702
@@ -20555,7 +20825,7 @@ KR,,,Pyeongtaek,36.99472,127.08889
 KR,,Buyeo-gun,Buyeo,36.27472,126.90906
 KR,,,Busan,35.10168,129.03004
 KR,,,Bucheon-si,37.49889,126.78306
-KR,,Buan-gun,Puan,35.72806,126.73194
+KR,,Buan-gun,Buan,35.72806,126.73194
 KR,,Boseong-gun,Beolgyo,34.84897,127.34052
 KR,,,Pohang,36.02917,129.36481
 KR,,,Osan,37.15222,127.07056
@@ -20707,7 +20977,7 @@ KZ,East Kazakhstan Region,Zaysan District,Zaysan,47.46657,84.87144
 KZ,Kyzylorda Region,Жанакорганский район,Zhangaqorghan,43.90652,67.24637
 KZ,,Тюлькубасский район,Turar Ryskulov,42.5334,70.3496
 KZ,Almaty Region,Каратальский район,Ushtobe,45.25258,77.98284
-KZ,Turkistan Region,Түркістан Қ.А.,Turkestan,43.29458,68.25685
+KZ,Turkistan Region,Түркістан Қ.А.,Turkistan,43.29458,68.25685
 KZ,Karaganda Region,Темиртау Г.А.,Temirtau,50.05197,72.95497
 KZ,Almaty Region,,Tekeli,44.8678,78.72807
 KZ,Kyzylorda Region,Кызылорда Г.А.,Tasbuget,44.77018,65.55461
@@ -20716,6 +20986,7 @@ KZ,Almaty Region,,Taldykorgan,45.01556,78.37389
 KZ,,,Shymkent,42.30988,69.60042
 KZ,,Шуский район,Shu,43.60507,73.76221
 KZ,East Kazakhstan Region,Shemonaikha District,Shemonaikha,50.62899,81.91092
+KZ,Алматы облысы,Еңбекшіқазақ ауданы,Shelek,43.59623,78.25745
 KZ,Akmola Region,Burabay District,Shchuchinsk,52.93592,70.18895
 KZ,Karaganda Region,Шахтинск Г.А.,Shakhtinsk,49.70713,72.59321
 KZ,Abay Region,Semey,Semey,50.42064,80.25025
@@ -20791,7 +21062,7 @@ LB,Beirut Governorate,,Ra’s Bayrūt,33.9,35.48333
 LB,Keserwan-Jbeil Governorate,,Jounieh,33.98083,35.61778
 LB,Keserwan-Jbeil Governorate,,Byblos,34.12111,35.64806
 LB,محافظة بعلبك الهرمل,,Aarsâl,34.17944,36.42083
-LB,Nabatieh Governorate,,Habboûch,33.40729,35.48169
+LB,محافظة النبطية,,Habboûch,33.40753,35.48177
 LB,North Governorate,,Bsharri,34.25083,36.01056
 LB,Beirut Governorate,,Beirut,33.89332,35.50157
 LB,Baalbek-Hermel Governorate,,Baalbek,34.00583,36.21806
@@ -21155,6 +21426,7 @@ MA,,cercle d'Aguelmous,Aguelmous,33.16139,-5.84626
 MA,,Pachalik d'Agourai ⵜⴰⴱⴰⵛⴰⵏⵜ ⵏ ⴰⴳⵓⵔⴰⵢ باشوية أكوراي,Agouraï,33.63,-5.58
 MA,,Pachalik d'Agadir ⵍⴱⴰⵛⴰⵡⵉⵢⴰ ⵏ ⴰⴳⴰⴷⵉⵔ باشوية أكادير,Agadir,30.42018,-9.59815
 MA,,Pachalik de Skhirat,Skhirate,33.8527,-7.03171
+MA,,Cercle de Tétouan دائرة تطوان,Azla,35.55303,-5.24472
 MA,,Pachalik de Ribate El Kheir,Ribat Al Khayr,33.81518,-4.40717
 MA,,Pachalik de Boujniba,Boujniba,32.90046,-6.77464
 MA,,Pachalik de Er Rachidia باشوية الرشيدية,Errachidia,31.9314,-4.42663
@@ -21385,7 +21657,7 @@ ML,Sikasso Region,Koutiala Cercle,Koutiala,12.38723,-5.46507
 ML,Sikasso,Yorosso Cercle,Kouri,12.18396,-4.80284
 ML,Koulikoro,Koulikoro Cercle,Koulikoro,12.86273,-7.55985
 ML,Mopti,Koro Cercle,Koro,14.064,-3.07539
-ML,Koulikoro,Kolokani Cercle,Kolokani,13.5728,-8.0339
+ML,Koulikoro,Cercle de Kolokani,Kolokani,13.57388,-8.03267
 ML,Kayes,Kita Cercle,Kita,13.03885,-9.48817
 ML,Kidal,Kidal Cercle,Kidal,18.44345,1.40921
 ML,Ségou,Macina Cercle,Ké-Macina,13.9641,-5.35791
@@ -21409,7 +21681,7 @@ ML,Koulikoro,Dioïla Cercle,Dioïla,12.48735,-6.80313
 ML,Kayes,Diéma Cercle,Diéma,14.54,-9.1921
 ML,Gao,Bourem Cercle,Bourem,16.955,-0.34861
 ML,Sikasso,Bougouni Cercle,Bougouni,11.41769,-7.48323
-ML,Ségou,Bla Cercle,Bla,12.95007,-5.76024
+ML,Ségou,Cercle de Bla,Bla,12.95083,-5.75557
 ML,Mopti,Bankass Cercle,Bankass,14.0775,-3.51594
 ML,Mopti,Bandiagara Cercle,Bandiagara,14.35005,-3.61038
 ML,Koulikoro,Banamba Cercle,Banamba,13.54773,-7.44808
@@ -21474,6 +21746,7 @@ MM,Bago Region,Bago District,Bago,17.33521,96.48135
 MM,ရန်ကုန်တိုင်းဒေသကြီး,,Pazundaung,16.79574,96.17493
 MM,Bago Region,Pyay District,Paungde,18.49167,95.50591
 MM,Mon State,,Paung,16.61753,97.45851
+MM,ရှမ်းပြည်နယ်,ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Pangtara,20.94318,96.66266
 MM,Shan State,Mong Ko,Panglong,24.10051,98.31264
 MM,Magway,Pakokku District,Pakokku,21.33489,95.08438
 MM,Kayin,Hpa-An District,Hpa-An,16.88953,97.63482
@@ -21859,7 +22132,7 @@ MX,Veracruz,Naranjos Amatlán,Naranjos,21.35087,-97.68656
 MX,Veracruz,Nanchital de Lázaro Cárdenas del Río,Nanchital de Lázaro Cárdenas del Río,18.07117,-94.40756
 MX,Yucatán,Motul,Motul,21.09571,-89.28332
 MX,Chiapas,Motozintla,Motozintla,15.36615,-92.24673
-MX,Nuevo León,Montemorelos,Montemorelos,25.18909,-99.82865
+MX,Nuevo León,Montemorelos,Montemorelos,25.18897,-99.82933
 MX,Puebla,San Pedro Cholula,Santiago Momoxpan,19.07361,-98.26694
 MX,Hidalgo,Mixquiahuala de Juárez,Mixquiahuala de Juarez,20.23031,-99.21396
 MX,Veracruz,Misantla,Misantla,19.92992,-96.85194
@@ -21969,7 +22242,7 @@ MX,State of Mexico,,Chicoloapan,19.41687,-98.90202
 MX,Yucatán,Tinum,Chichén-Itzá,20.66667,-88.56667
 MX,Chiapas,Chiapa de Corzo,Chiapa de Corzo,16.7075,-93.01216
 MX,Quintana Roo,Othón P. Blanco,Chetumal,18.51957,-88.30397
-MX,Campeche,Champotón,Champotón,19.34745,-90.72039
+MX,Campeche,Champotón,Champotón,19.34241,-90.72272
 MX,State of Mexico,Chalco,Chalco,19.26174,-98.89775
 MX,Veracruz,Cerro Azul,Cerro Azul,21.192,-97.74088
 MX,Veracruz,Catemaco,Catemaco,18.42131,-95.11398
@@ -21980,7 +22253,7 @@ MX,State of Mexico,,Capulhuac de Mirafuentes,19.19354,-99.46585
 MX,Quintana Roo,Benito Juárez,Cancún,21.17429,-86.84656
 MX,Campeche,Municipio de Campeche,Campeche,19.84073,-90.51676
 MX,Tlaxcala,Calpulalpan,Calpulalpan,19.58867,-98.56972
-MX,Nuevo León,Cadereyta Jiménez,Cadereyta Jiménez,25.58896,-100.00156
+MX,Nuevo León,,Cadereyta Jiménez,25.59051,-100.00095
 MX,Nuevo León,Cadereyta Jiménez,Cadereyta,25.58333,-99.98333
 MX,Chiapas,Cacahoatán,Cacahoatán,14.99199,-92.16417
 MX,Chiapas,Berriozábal,Berriozábal,16.79944,-93.27219
@@ -22070,7 +22343,7 @@ MX,Jalisco,Villa Hidalgo,Villa Hidalgo,21.67616,-102.58803
 MX,Guanajuato,Villagrán,Villagrán,20.51364,-100.99636
 MX,Coahuila,Frontera,Frontera,26.92814,-101.45212
 MX,Querétaro,Corregidora,El Pueblito,20.54006,-100.44093
-MX,Nuevo León,García,García,25.81201,-100.59874
+MX,Nuevo León,García,García,25.80092,-100.58612
 MX,Colima,Villa de Álvarez,Ciudad de Villa de Álvarez,19.26722,-103.73778
 MX,Guanajuato,,Valle de Santiago,20.39148,-101.19103
 MX,State of Mexico,Valle de Bravo,Valle de Bravo,19.19501,-100.13132
@@ -22104,7 +22377,7 @@ MX,Guanajuato,Silao de la Victoria,Silao de la Victoria,20.94361,-101.42696
 MX,Jalisco,Sayula,Sayula,19.88372,-103.60073
 MX,Durango,Santiago Papasquiaro,Santiago Papasquiaro,25.04389,-105.41917
 MX,Nayarit,Santiago Ixcuintla,Santiago Ixcuintla,21.81109,-105.20842
-MX,Nuevo León,Santiago,Santiago,25.42533,-100.15205
+MX,Nuevo León,Santiago,Santiago,25.42596,-100.15399
 MX,Querétaro,Municipio de Querétaro,Santa Rosa Jáuregui,20.7421,-100.44783
 MX,Nuevo León,Santa Catarina,Santa Catarina,25.67325,-100.45813
 MX,Jalisco,San Pedro Tlaquepaque,Santa Anita,20.55005,-103.4435
@@ -22134,7 +22407,7 @@ MX,Coahuila,Saltillo,Saltillo,25.42595,-100.97963
 MX,San Luis Potosi,Salinas,Salinas de Hidalgo,22.62795,-101.71417
 MX,Guanajuato,Salamanca,Salamanca,20.56979,-101.1977
 MX,Michoacán,Sahuayo,Sahuayo de Morelos,20.057,-102.7164
-MX,Nuevo León,,Ciudad Sabinas Hidalgo,26.50358,-100.18187
+MX,Nuevo León,Sabinas Hidalgo,Ciudad Sabinas Hidalgo,26.50193,-100.18121
 MX,Coahuila,Sabinas,Sabinas,27.85591,-101.11738
 MX,Baja California,Municipio de Playas de Rosarito,Rosarito,32.36044,-117.04645
 MX,Sinaloa,Rosario,El Rosario,22.99032,-105.85419
@@ -22199,7 +22472,7 @@ MX,Jalisco,Lagos de Moreno,Lagos de Moreno,21.35875,-101.93311
 MX,Sinaloa,Elota,La Cruz,23.92126,-106.8925
 MX,Jalisco,La Barca,La Barca,20.28988,-102.54198
 MX,Guanajuato,Santa Cruz de Juventino Rosas,Juventino Rosas,20.6435,-100.9952
-MX,Nuevo León,Juárez,Ciudad Benito Juárez,25.64724,-100.09582
+MX,Nuevo León,Juárez,Ciudad Benito Juárez,25.6466,-100.09142
 MX,Zacatecas,Juan Aldama,Juan Aldama,24.29072,-103.39339
 MX,Jalisco,Jocotepec,Jocotepec,20.28566,-103.42908
 MX,Michoacán,,Jiquilpan de Juárez,19.99173,-102.71843
@@ -22225,14 +22498,14 @@ MX,Sinaloa,Guasave,Guasave,25.56792,-108.46949
 MX,Guanajuato,Municipio de Guanajuato,Guanajuato,21.01858,-101.2591
 MX,Sinaloa,Salvador Alvarado,Guamúchil,25.4587,-108.07732
 MX,Durango,Guadalupe Victoria,Guadalupe Victoria,24.44676,-104.12336
-MX,Nuevo León,Guadalupe,Guadalupe,25.67678,-100.25646
+MX,Nuevo León,Guadalupe,Guadalupe,25.67663,-100.25907
 MX,Zacatecas,Guadalupe,Guadalupe,22.74678,-102.5188
 MX,Jalisco,Guadalajara,Guadalajara,20.67738,-103.34749
 MX,Durango,Gómez Palacio,Gómez Palacio,25.56871,-103.4996
 MX,Durango,Vicente Guerrero,Vicente Guerrero,23.73267,-103.98247
 MX,Sinaloa,Guasave,Juan José Ríos,25.75714,-108.8242
-MX,Nuevo León,General Escobedo,Ciudad General Escobedo,25.79698,-100.31791
-MX,Nuevo León,,San Pedro Garza García,25.6604,-100.40651
+MX,Nuevo León,General Escobedo,Ciudad General Escobedo,25.79663,-100.31767
+MX,Nuevo León,San Pedro Garza García,San Pedro Garza García,25.66158,-100.4034
 MX,Zacatecas,Fresnillo,Fresnillo,23.1749,-102.86785
 MX,Coahuila,Francisco I. Madero,Francisco I. Madero,25.773,-103.27127
 MX,Sinaloa,Escuinapa,Escuinapa de Hidalgo,22.83474,-105.77766
@@ -22267,10 +22540,10 @@ MX,Jalisco,Zapotlán el Grande,Ciudad Guzmán,19.70413,-103.46383
 MX,Chihuahua,Delicias,Ciudad Delicias,28.19013,-105.47012
 MX,Baja California Sur,Municipio de Comondú,Ciudad Constitución,25.0321,-111.66256
 MX,Chihuahua,Camargo,Santa Rosalía de Camargo,27.67891,-105.17158
-MX,Nuevo León,Municipio de Anáhuac,Anáhuac,27.24457,-100.13229
+MX,Nuevo León,Anáhuac,Anáhuac,27.24123,-100.13337
 MX,Guerrero,Pungarabato,Ciudad Altamirano,18.3582,-100.66965
 MX,Coahuila,Municipio de Acuña,Ciudad Acuña,29.32322,-100.95217
-MX,Nuevo León,Ciénega de Flores,Ciénega de Flores,25.95467,-100.16695
+MX,Nuevo León,Ciénega de Flores,Ciénega de Flores,25.9545,-100.16617
 MX,Chihuahua,Municipio de Chihuahua,Chihuahua,28.63528,-106.08889
 MX,Jalisco,Chapala,Chapala,20.29246,-103.18963
 MX,Guanajuato,Celaya,Celaya,20.52181,-100.81399
@@ -22286,13 +22559,13 @@ MX,Colima,Armería,Ciudad de Armería,18.9378,-103.96417
 MX,Michoacán,Ario,Ario de Rosales,19.2083,-101.70904
 MX,Guerrero,Arcelia,Arcelia,18.31847,-100.28148
 MX,Jalisco,Arandas,Arandas,20.70551,-102.34514
-MX,Nuevo León,Apodaca,Ciudad Apodaca,25.78195,-100.18839
+MX,Nuevo León,Apodaca,Ciudad Apodaca,25.78143,-100.18911
 MX,Michoacán,Apatzingán,Apatzingán,19.08864,-102.35704
 MX,Guanajuato,Apaseo el Grande,Apaseo el Grande,20.54555,-100.68787
 MX,Guanajuato,Apaseo el Alto,Apaseo el Alto,20.45632,-100.62125
 MX,Jalisco,Ameca,Ameca,20.54783,-104.0461
 MX,Coahuila,Allende,Allende,28.34124,-100.85111
-MX,Nuevo León,Allende,Ciudad de Allende,25.27673,-100.01442
+MX,Nuevo León,Allende,Ciudad de Allende,25.28123,-100.01928
 MX,Chihuahua,Aldama,Juan Aldama,28.83778,-105.91232
 MX,Jalisco,Ahualulco de Mercado,Ahualulco de Mercado,20.70137,-103.97461
 MX,Aguascalientes,Municipio de Aguascalientes,Aguascalientes,21.88262,-102.2843
@@ -22300,7 +22573,7 @@ MX,Sonora,Agua Prieta,Agua Prieta,31.3224,-109.54251
 MX,Nayarit,Acaponeta,Acaponeta,22.49046,-105.36074
 MX,Guanajuato,Acámbaro,Acámbaro,20.03248,-100.72434
 MX,Guanajuato,Abasolo,Abasolo,20.45031,-101.53011
-MX,Nuevo León,Hidalgo,Hidalgo,25.97205,-100.45029
+MX,Nuevo León,Hidalgo,Hidalgo,25.9724,-100.45221
 MX,Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,Dolores Hidalgo,21.15611,-100.9325
 MX,Michoacán,Lázaro Cárdenas,Las Guacamayas,18.01913,-102.21011
 MX,Michoacán,Lázaro Cárdenas,Ciudad Lázaro Cárdenas,17.96256,-102.19887
@@ -22878,6 +23151,7 @@ NG,Osun,Odo Otin,Oyan,8.05,4.76667
 NG,Ondo,,Owo,7.1962,5.58681
 NG,Imo,Owerri Municipal,Owerri,5.48363,7.03325
 NG,Enugu,Udenu,Otukpa,7.10168,7.65945
+NG,Ogun,Ado Odo/Ota,Ota,6.68867,3.23202
 NG,Osun,Boluwaduro,Otan Ayegbaju,7.94783,4.78836
 NG,Osun,Osogbo,Osogbo,7.77104,4.55698
 NG,Lagos,Oshodi/Isolo,Oshodi,6.55504,3.34363
@@ -22924,7 +23198,6 @@ NG,Borno,,Maiduguri,11.84692,13.15712
 NG,Borno,Magumeri,Magumeri,12.11451,12.8262
 NG,Kogi,,Lokoja,7.79688,6.74048
 NG,Kaduna,Lere,Lere,10.38584,8.57286
-NG,Lagos,Ibeju Lekki,Lekki,6.41222,4.0947
 NG,Niger,Agaie,Lapai,9.04439,6.57089
 NG,Oyo,Lagelu,Lalupon,7.46791,4.06594
 NG,Lagos,Lagos Island,Lagos,6.45407,3.39467
@@ -22956,6 +23229,7 @@ NG,Adamawa,Girei,Jimeta,9.27949,12.45819
 NG,Kebbi,Jega,Jega,12.22336,4.37971
 NG,Kwara,Moro,Jebba,9.11972,4.8236
 NG,Taraba,,Jalingo,8.89367,11.3596
+NG,Ogun,Ado Odo/Ota,Iyesi,6.66056,3.1798
 NG,Osun,,Iwo,7.63527,4.18156
 NG,Akwa Ibom,Itu,Itu,5.20131,7.98373
 NG,Ebonyi,Ebonyi,Isieke,6.38186,8.03736
@@ -22979,6 +23253,8 @@ NG,Osun,Irewole,Ikire,7.36983,4.1863
 NG,Ekiti,Ikere,Ikere-Ekiti,7.49748,5.23041
 NG,Lagos,Ikeja,Ikeja,6.59651,3.34205
 NG,Ondo,Akoko North East,Ikare,7.52591,5.75342
+NG,Ogun,Ado Odo/Ota,River Atuwara,6.68194,3.14306
+NG,Ogun,Ado Odo/Ota,Ijoko,6.74241,3.26217
 NG,Ekiti,Ijero,Ijero-Ekiti,7.81514,5.06716
 NG,Ogun State,Dakoro,Ijebu Ode,6.81944,3.91731
 NG,Osun,Ilesha West,Ijebu-Jesa,7.68287,4.81769
@@ -23081,11 +23357,13 @@ NG,Osun,Isokan,Apomu,7.35156,4.18335
 NG,Kaduna,Kubau,Anchau,10.96245,8.39233
 NG,Ebonyi,Afikpo South,Amaigbo,5.78917,7.83829
 NG,Lagos State,Ajeromi/Ifelodun,Aliayabiagba,6.45,3.33333
+NG,Lagos,Ojo,Alasia,6.47489,3.16914
 NG,Nasarawa,Akwanga,Akwanga,8.91077,8.40655
 NG,Ondo,Akure South,Akure,7.25256,5.19312
 NG,Enugu,Igbo-Etiti,Aku,6.70902,7.31826
 NG,Kogi,,Ajaokuta,7.56229,6.65497
 NG,Anambra,Anaocha,Agulu,6.10045,7.061
+NG,Lagos,Agege,Agege,6.61563,3.33337
 NG,Delta,Ika South,Agbor,6.25375,6.1942
 NG,Ebonyi,Afikpo North,Afikpo,5.89258,7.93534
 NG,Ogun,Ado Odo/Ota,Ado-Odo,6.59546,2.94176
@@ -23099,6 +23377,7 @@ NG,Lagos,Ajeromi/Ifelodun,Ajegunle,6.45197,3.33115
 NG,Lagos State,Alimosho,Alimosho,6.60656,3.30235
 NG,Lagos State,Agege,Akowonjo,6.61012,3.30968
 NG,Rivers,Abua/Odual,Degema Hulk,4.76145,6.74957
+NG,Lagos,Eti Osa,Lekki,6.44632,3.47717
 NG,Jigawa,Buji,Chakwama,11.55965,9.66407
 NI,Managua,,Tipitapa,12.19732,-86.09706
 NI,Madriz,,Somoto,13.4841,-86.58229
@@ -23379,6 +23658,7 @@ NL,South Holland,,Berkel en Rodenrijs,51.99313,4.47865
 NL,South Holland,,Ypenburg,52.04098,4.36981
 NL,Noord-Holland,,Velserbroek,52.43283,4.66155
 NL,Noord-Brabant,,Maaspoort,51.72611,5.30194
+NL,Utrecht,,Leidsche Rijn,52.09497,5.04613
 NO,,Troms og Finnmark,Alta,69.96887,23.27165
 NO,,Trøndelag,Trondheim,63.43049,10.39506
 NO,,Troms og Finnmark,Tromsø,69.6489,18.95508
@@ -23451,7 +23731,7 @@ NP,,Dailekh,Dailekh,28.84434,81.71011
 NP,Sudurpashchim Province,Dadeldhura,Amargaḍhi̇̄,29.29922,80.58333
 NP,बागमती प्रदेश,सिन्धुपाल्चोक,Chautārā,27.7763,85.7127
 NP,बागमती प्रदेश,दोलखा,Chari̇̄koṭ,27.66824,86.0519
-NP,,Rupandehi,Butwāl,27.70055,83.44836
+NP,लुम्बिनी प्रदेश,रुपन्देही,Butwāl,27.69121,83.45251
 NP,मधेश प्रदेश,पर्सा जिल्ला,Birgañj,27.01736,84.88047
 NP,,Morang,Biratnagar,26.45505,87.27007
 NP,बागमती प्रदेश,चितवन,Bharatpur,27.68027,84.43647
@@ -23596,6 +23876,7 @@ PE,La Libertad,,San Pedro de Lloc,-7.4289,-79.50416
 PE,Loreto,,San Juan,-3.77611,-73.28139
 PE,Lambayeque,,Saña,-6.91888,-79.582
 PE,San Martín,,Rioja,-6.05675,-77.16651
+PE,Loreto,,Requena,-5.06083,-73.85028
 PE,Piura,,Querecotillo,-4.83778,-80.64556
 PE,Ucayali,,Pucallpa,-8.37915,-74.55387
 PE,Piura,,Piura,-5.18192,-80.65715
@@ -23621,6 +23902,7 @@ PE,Huánuco,,Huánuco,-9.92882,-76.23989
 PE,La Libertad,,Huamachuco,-7.8,-78.06667
 PE,La Libertad,,Guadalupe,-7.25,-79.48333
 PE,Lambayeque,,Ferreñafe,-6.63889,-79.78889
+PE,Loreto,,Contamana,-7.33333,-75.01667
 PE,Ancash,,Coishco,-9.02306,-78.61556
 PE,Piura,,Chulucanas,-5.0925,-80.1625
 PE,Lambayeque,,Chongoyape,-6.64056,-79.38917
@@ -23637,7 +23919,6 @@ PE,Ucayali,,Aguaytía,-9.03778,-75.50906
 PE,Piura,,La Breita,-4.25691,-80.88599
 PE,Tumbes,District of Zarumilla,Zarumilla,-3.50306,-80.27306
 PE,Loreto,,Belen,-3.76016,-73.2497
-PE,Puno,,Yunguyo,-16.25,-69.08333
 PE,Cusco,,Yauri,-14.79083,-71.40986
 PE,Huánuco,,Yanacancha,-10.24111,-76.64556
 PE,Junín,,Tarma,-11.41899,-75.68992
@@ -23650,6 +23931,7 @@ PE,Lima,,San Vicente de Cañete,-13.07556,-76.38528
 PE,Cusco,,Santa Ana,-12.86667,-72.71667
 PE,Lima,,San Isidro,-12.09655,-77.04258
 PE,Ica,,San Clemente,-13.66667,-76.15
+PE,Cusco,,Quillabamba,-12.86334,-72.69306
 PE,Puno,,Puno,-15.84003,-70.02198
 PE,Madre de Dios,,Puerto Maldonado,-12.58946,-69.19948
 PE,Ica,,Pisco,-13.71029,-76.20538
@@ -23691,6 +23973,7 @@ PE,Lima,,Barranco,-12.14297,-77.01862
 PE,Lima,,Barranca,-10.75,-77.76667
 PE,Puno,,Ayaviri,-14.88639,-70.58889
 PE,Ayacucho,,Ayacucho,-13.1638,-74.22345
+PE,Ucayali,,Atalaya,-10.73067,-73.75867
 PE,Arequipa,,Arequipa,-16.39899,-71.53747
 PE,Apurímac,,Andahuaylas,-13.65556,-73.38722
 PE,Apurímac,,Abancay,-13.63426,-72.8838
@@ -23716,6 +23999,7 @@ PE,Moquegua,,San Antonio,-17.21718,-70.92593
 PE,Arequipa,,Selva Alegre,-16.37057,-71.52724
 PE,Cusco,,Santiago,-13.52728,-71.9843
 PE,Lima,,Breña,-12.05605,-77.05295
+PE,Puno,,San Miguel,-15.47798,-70.12498
 PF,French Polynesia,,Punaauia,-17.63333,-149.6
 PF,French Polynesia,,Papeete,-17.5347,-149.56843
 PF,French Polynesia,,Faaa,-17.55933,-149.60352
@@ -24034,7 +24318,7 @@ PH,Camarines Norte,,Labo,14.1532,122.8303
 PH,South Cotabato,,Koronadal,6.50306,124.84694
 PH,North Cotabato,,Kidapawan,7.00833,125.08944
 PH,Cavite,,Kawit,14.44426,120.90164
-PH,Aklan,,Kalibo (poblacion),11.70611,122.36444
+PH,Aklan,,Kalibo,11.70611,122.36444
 PH,Sultan Kudarat,,Kalamansig,6.55187,124.05111
 PH,Negros Occidental,,Kabankalan,9.9839,122.81423
 PH,North Cotabato,,Kabacan,7.10667,124.82917
@@ -24211,6 +24495,7 @@ PH,South Cotabato,,Bañga,6.42389,124.77833
 PH,South Cotabato,,Banga,6.42381,124.77603
 PH,Nueva Vizcaya,,Bambang,16.3865,121.1066
 PH,Tarlac,District of Papayal,Bamban,15.27386,120.56683
+PH,,,Balulang,8.44528,124.63139
 PH,Bulacan,,Baliuag,14.95472,120.89694
 PH,Batangas,,Balayan,13.93714,120.73224
 PH,Bataan,,Balanga,14.67611,120.53611
@@ -24294,6 +24579,7 @@ PK,Khyber Pakhtunkhwa,,Tank,32.21707,70.38315
 PK,Khyber Pakhtunkhwa,,Tangi,34.3009,71.65238
 PK,Sindh,,Tando Muhammad Khan,25.12384,68.53677
 PK,Sindh,,Tando Jam,25.42813,68.52923
+PK,Sindh,Badīn District,Tando Bago,24.78914,68.96535
 PK,Sindh,Hyderābād District,Tando Allahyar,25.4605,68.71745
 PK,Sindh,,Tando Adam,25.76818,68.66196
 PK,Punjab,,Tandlianwala,31.03359,73.13268
@@ -24510,6 +24796,7 @@ PK,Punjab,,Chak Thirty-one -Eleven Left,30.42388,72.69737
 PK,Punjab,,Harunabad,29.61206,73.13802
 PK,Punjab,,Harnoli,32.27871,71.55429
 PK,Khyber Pakhtunkhwa,Abbottābād District,Haripur,33.99783,72.93493
+PK,Punjab,Kohlu District,Harappa,30.63251,72.87032
 PK,Khyber Pakhtunkhwa,,Hangu,33.53198,71.0595
 PK,Sindh,,Hala,25.81459,68.42198
 PK,Azad Kashmir,Poonch District,Hajira,33.77389,73.89438
@@ -24526,6 +24813,7 @@ PK,Sindh,,Ghauspur,28.13882,69.08245
 PK,Sindh,,Gharo,24.74182,67.58534
 PK,Punjab,,Garh Maharaja,30.83383,71.90491
 PK,Sindh,,Gambat,27.3517,68.5215
+PK,Balochistan,,Gadani,25.11879,66.73219
 PK,Punjab,,Fort Abbas,29.19344,72.85525
 PK,Punjab,,Fazilpur,32.17629,75.06583
 PK,Punjab,,Fatehpur,31.17772,71.2048
@@ -24538,12 +24826,14 @@ PK,خیبر پختونخوا,ضلع سوات,Dursh Khela,35.00028,72.45217
 PK,Punjab,,Dunyapur,29.80275,71.74344
 PK,Punjab,,Dunga Bunga,29.74975,73.24294
 PK,Punjab,,Dullewala,31.83439,71.43639
+PK,Sindh,,Dokri,27.37421,68.09715
 PK,Khyber Pakhtunkhwa,,Upper Dir,35.2074,71.8768
 PK,Punjab,,Dipalpur,30.66984,73.65306
 PK,Punjab,Gujrāt District,Dinga,32.64101,73.72039
 PK,Punjab,Faisalābād District,Dijkot,31.21735,72.99621
 PK,Sindh,,Digri,25.15657,69.11098
 PK,Sindh,,Dhoro Naro,25.50484,69.5709
+PK,Punjab,,Dhaunkal,32.40613,74.13706
 PK,Punjab,,Dhanot,29.57991,71.75213
 PK,Khyber Pakhtunkhwa,,Dera Ismail Khan,31.83129,70.9017
 PK,Punjab,,Dera Ghazi Khan,30.04587,70.64029
@@ -24568,6 +24858,7 @@ PK,Khyber Pakhtunkhwa,,Charsadda,34.14822,71.7406
 PK,Balochistan,,Chaman,30.91769,66.45259
 PK,Punjab,,Chakwal,32.93286,72.85394
 PK,Punjab,,Chak Azam Sahu,30.75202,73.02834
+PK,Sindh,,Chak,27.85838,68.83378
 PK,Punjab,,Burewala,30.16667,72.65
 PK,خیبر پختونخوا,ضلع چترال,Buni,36.27333,72.25929
 PK,Punjab,,Bhopalwala,32.42968,74.3635
@@ -24589,6 +24880,7 @@ PK,گلگت بلتستان,ضلع ہنزہ,Karimabad,36.32692,74.66141
 PK,Punjab,,Bahawalpur,29.39779,71.6752
 PK,Punjab,,Bahawalnagar,29.99835,73.25272
 PK,Azad Kashmir,,Bāgh,33.98111,73.77608
+PK,Khyber Pakhtunkhwa,Mānsehra District,Baffa,34.4377,73.22368
 PK,Sindh,Badīn District,Badin,24.656,68.837
 PK,Punjab,,Baddomalhi,31.99042,74.6641
 PK,Punjab,,Attock City,33.76671,72.35977
@@ -24624,6 +24916,7 @@ PK,Balochistan,Lasbela District,Arif Wala,26.32478,66.29587
 PK,Azad Kashmir,Mirpur District,Chaksawari,33.2641,73.7853
 PK,پنجاب,ضلع قصور,Alahabad,30.87696,74.05524
 PK,Punjab,Lasbela District,Wah Cantt,33.77094,72.75116
+PK,بلوچستان,ضلع حب,Hub,25.02555,66.88534
 PL,Masovian Voivodeship,Żyrardów County,Żyrardów,52.0488,20.44599
 PL,Masovian Voivodeship,,Żoliborz,52.26896,20.98644
 PL,Masovian Voivodeship,Wołomin County,Zielonka,52.30376,21.16018
@@ -25026,6 +25319,7 @@ PS,,Area A,Ţūlkarm,32.31156,35.0269
 PS,,Area A,Ţūbās,32.32091,35.36989
 PS,,Area B,Surif City,31.65078,35.06439
 PS,,Area B,Sa‘īr,31.57855,35.14017
+PS,מחוז ירושלים,,Shu‘fāţ,31.81651,35.22745
 PS,,Area A,Ramallah,31.89964,35.20422
 PS,,Area A,Qalqīlyah,32.18966,34.97063
 PS,,Area A,Qabāţīyah,32.41035,35.28087
@@ -25235,6 +25529,7 @@ PT,Masovian Voivodeship,Lisbon,Cidade Universitária,38.75199,-9.15917
 PT,Masovian Voivodeship,Lisbon,Campo De Ourique,38.72134,-9.16738
 PW,Melekeok,,Ngerulmud,7.50077,134.6238
 PY,Concepción,Santarém,Yby Yaú,-22.96611,-56.54066
+PY,Central,,Villeta,-25.50691,-57.56633
 PY,Guairá,,Villarrica,-25.74946,-56.43518
 PY,Presidente Hayes,,Villa Hayes,-25.093,-57.52725
 PY,Central,,Villa Elisa,-25.3676,-57.59274
@@ -25245,8 +25540,10 @@ PY,Alto Paraná,,Presidente Franco,-25.56384,-54.61097
 PY,Ñeembucú,,Pilar,-26.85874,-58.30639
 PY,Amambay,,Pedro Juan Caballero,-22.54925,-55.7387
 PY,Central,,Nemby,-25.3949,-57.53574
+PY,Boquerón,,Loma Plata,-22.3829,-59.83549
 PY,Central,,Limpio,-25.16611,-57.48562
 PY,Central,,Lambaré,-25.34682,-57.60647
+PY,Caaguazú,,Doctor Juan Eulogio Estigarribia,-25.37184,-55.70457
 PY,Central,,Itauguá,-25.39258,-57.35421
 PY,Central,,Itá,-25.50054,-57.36717
 PY,Central,,Fernando de la Mora,-25.3386,-57.52167
@@ -25452,6 +25749,7 @@ RS,Central Serbia,Pirot Administrative District,Pirot,43.15306,22.58611
 RS,Vojvodina,South Banat Administrative District,Pančevo,44.87177,20.64167
 RS,Central Serbia,City of Belgrade,Obrenovac,44.65486,20.20017
 RS,Central Serbia,Raska Administrative District,Novi Pazar,43.13667,20.51222
+RS,Central Serbia,City of Belgrade,Novi Beograd,44.80556,20.42417
 RS,Vojvodina,Srem Administrative District,Nova Pazova,44.94366,20.21931
 RS,Central Serbia,Nisava Administrative District,Niš,43.32472,21.90333
 RS,Central Serbia,Bor Administrative District,Negotin,44.22639,22.53083
@@ -25687,7 +25985,7 @@ RU,Vologda Oblast,Sheksninsky District,Sheksna,59.20998,38.51066
 RU,Belgorod Oblast,Shebekinsky District,Shebekino,50.41342,36.92537
 RU,Moscow,,Shchukino,55.8,37.45
 RU,Kursk Oblast,,Shchigry,51.87598,36.90535
-RU,Moscow,,Shcherbinka,55.49972,37.55972
+RU,Москва,,Shcherbinka,55.498,37.5579
 RU,Moscow Oblast,Shchyolkovsky District,Shchyolkovo,55.92497,37.97218
 RU,Tula Oblast,Щёкинский район,Shchëkino,54.00734,37.50647
 RU,Moscow Oblast,Shatursky District,Shatura,55.57259,39.53417
@@ -25847,7 +26145,7 @@ RU,Moscow,,Novokuz’minki,55.71667,37.78333
 RU,Samara Oblast,городской округ Новокуйбышевск,Novokuybyshevsk,53.09709,49.94001
 RU,Krasnodar Krai,Novokubansky District,Novokubansk,45.11326,41.0365
 RU,Moscow,,Novokhovrino,55.86667,37.5
-RU,Moscow,,Novogireyevo,55.75378,37.81885
+RU,Москва,,Novogireyevo,55.75455,37.81834
 RU,Arkhangelsk Oblast,Novodvinsk Urban Okrug,Novodvinsk,64.41638,40.81674
 RU,Rostov Oblast,Novokubansky District,Novocherkassk,47.4222,40.09373
 RU,Chuvashia,,Novocheboksarsk,56.11095,47.47755
@@ -25959,11 +26257,11 @@ RU,Kabardino-Balkaria,Baksan Municipality,Dugulubgey,43.6625,43.53694
 RU,Penza Oblast,,Kuznetsk,53.11675,46.60037
 RU,Moscow,,Kuz’minki,55.7,37.8
 RU,Orenburg Oblast,Kuvandyksky District,Kuvandyk,51.48481,57.35788
-RU,Moscow,,Kuskovo,55.73423,37.82616
+RU,Москва,,Kuskovo,55.73796,37.79542
 RU,Sverdlovsk Oblast,Кушвинский городской округ,Kushva,58.28731,59.74751
 RU,Krasnodar Krai,Kushchovsky District,Kushchyovskaya,46.5599,39.6321
 RU,Chelyabinsk Oblast,Kusinsky District,Kusa,55.34503,59.44004
-RU,Moscow,,Kur’yanovo,55.65,37.7
+RU,Москва,,Kur’yanovo,55.65581,37.70094
 RU,Kursk Oblast,,Kursk,51.72689,36.18457
 RU,Moscow Oblast,Орехово-Зуевский городской округ,Kurovskoye,55.58183,38.91994
 RU,Krasnodar Krai,Kurganinsky District,Kurganinsk,44.88448,40.58893
@@ -25984,7 +26282,7 @@ RU,Krasnodar Krai,Krymsky District,Krymsk,44.92625,37.99025
 RU,Krasnodar Krai,Kavkazsky District,Kropotkin,45.43722,40.5704
 RU,Saint Petersburg,,Kronstadt,59.992,29.77616
 RU,Rostov Oblast,Krasnosulinsky District,Krasnyy Sulin,47.89246,40.07185
-RU,Moscow,,Biryulëvo Zapadnoye,55.58766,37.64282
+RU,Москва,,Biryulëvo Zapadnoye,55.58726,37.64579
 RU,Saint Petersburg,,Krasnoye Selo,59.73833,30.08944
 RU,Perm Krai,Krasnovishersky District,Krasnovishersk,60.40728,57.08286
 RU,Sverdlovsk Oblast,городской округ Красноуфимск,Krasnoufimsk,56.61399,57.76897
@@ -25995,9 +26293,9 @@ RU,Krasnodar Krai,Krasnodar Municipality,Krasnodar,45.04534,38.98178
 RU,Krasnodar Krai,Krasnoarmeysky District,Krasnoarmeyskaya,45.36551,38.21194
 RU,Moscow Oblast,Pushkinsky District,Krasnoarmeysk,56.1,38.13333
 RU,Saratov Oblast,Krasnoarmeysky District,Krasnoarmeysk,51.02349,45.69665
-RU,Moscow,,Presnenskiy,55.75,37.55
+RU,Москва,,Presnenskiy,55.75894,37.55816
 RU,Mari El Republic,Kozmodemyansk,Koz’modem’yansk,56.33209,46.5606
-RU,Moscow,,Kozhukhovo,55.7,37.66667
+RU,Москва,,Kozhukhovo,55.70601,37.67563
 RU,Moscow,,Kozeyevo,55.86667,37.61667
 RU,Kaluga Oblast,Kozelsky District,Kozel’sk,54.0366,35.77088
 RU,Republic of Mordovia,Kovylkinsky District,Kovylkino,54.0372,43.91871
@@ -26083,7 +26381,7 @@ RU,Voronezh Oblast,Калачеевский район,Kalach,50.425,41.01595
 RU,Sverdlovsk Oblast,Качканарский городской округ,Kachkanar,58.7002,59.4839
 RU,Moscow Oblast,Орехово-Зуевский городской округ,Kabanovo,55.74815,38.93511
 RU,Stavropol Krai,Izobilnensky District,Izobil’nyy,45.36653,41.7091
-RU,Moscow,,Izmaylovo,55.78677,37.80165
+RU,Москва,,Izmaylovo,55.7966,37.78242
 RU,Udmurtia,,Izhevsk,56.85225,53.19862
 RU,Republic of Dagestan,городской округ Избербаш,Izberbash,42.56705,47.87546
 RU,Moscow Oblast,Pushkinsky District,Ivanteyevka,55.97111,37.92083
@@ -26099,7 +26397,7 @@ RU,Udmurtia,Igrinsky District,Igra,57.5549,53.0544
 RU,Vladimir Oblast,городской округ Гусь-Хрустальный,Gus’-Khrustal’nyy,55.61171,40.65023
 RU,Kaliningrad,Gusevsky District,Gusev,54.59222,22.19972
 RU,Krasnodar Krai,Gulkevichsky District,Gul’kevichi,45.35383,40.69465
-RU,Rostov Oblast,,Gukovo,48.06212,39.9355
+RU,Ростовская область,,Gukovo,48.05133,39.93048
 RU,Chechnya,Gudermessky District,Gudermes,43.35082,46.10095
 RU,Belgorod Oblast,Gubkinsky Urban Okrug,Gubkin,51.28375,37.5351
 RU,Perm Krai,городской округ Губаха,Gubakha,58.83862,57.55325
@@ -26128,7 +26426,7 @@ RU,Ivanovo Oblast,Furmanovsky District,Furmanov,57.25417,41.11122
 RU,Moscow Oblast,городской округ Фрязино,Fryazino,55.96131,38.04643
 RU,Moscow Oblast,Elektrostal,Fryazevo,55.73321,38.46458
 RU,Volgograd Oblast,городской округ Геленджик,Frolovo,49.7688,43.65417
-RU,Moscow,,Fili,55.74819,37.47969
+RU,Москва,,Fili,55.74543,37.48837
 RU,Komi Republic,Syktyvkar Urban Okrug,Ezhva,61.81281,50.72834
 RU,Saratov Oblast,Engelssky District,Engels,51.48389,46.10528
 RU,Republic of Adygea,Takhtamukaysky District,Enem,44.9264,38.90584
@@ -26143,10 +26441,10 @@ RU,Bashkortostan,Dyurtyulinsky District,Dyurtyuli,55.4873,54.86176
 RU,Bryansk Oblast,Dyatkovsky District,Dyat’kovo,53.59782,34.33825
 RU,Volgograd Oblast,Dubovsky District,Dubovka,49.05616,44.82913
 RU,Moscow Oblast,Dubna,Dubna,56.74049,37.18648
-RU,Moscow,,Dorogomilovo,55.75,37.56667
+RU,Москва,,Dorogomilovo,55.7418,37.54706
 RU,Stavropol Krai,Trunovsky District,Donskoye,45.45346,41.97244
 RU,Tula Oblast,,Donskoy,53.96796,38.33151
-RU,Rostov Oblast,городской округ Донецк,Donetsk,48.33751,39.95416
+RU,Ростовская область,,Donetsk,48.33711,39.95229
 RU,Moscow Oblast,Domodedovsky District,Domodedovo,55.44223,37.75372
 RU,Moscow Oblast,Dolgoprudny,Dolgoprudnyy,55.94958,37.50183
 RU,Perm Krai,Dobryansky District,Dobryanka,58.46484,56.41299
@@ -26198,7 +26496,7 @@ RU,Moscow,,Bol’shaya Setun’,55.71667,37.41667
 RU,Tver Oblast,Bologovsky District,Bologoye,57.88587,34.05324
 RU,Ленинградская область,Бокситогорский район,Boksitogorsk,59.4778,33.85008
 RU,Voronezh Oblast,Bogucharsky District,Boguchar,49.9346,40.55447
-RU,Moscow,,Bogorodskoye,55.81353,37.71617
+RU,Москва,,Bogorodskoye,55.81396,37.72117
 RU,Nizhny Novgorod Oblast,Bogorodsky District,Bogorodsk,56.10149,43.5101
 RU,Tula Oblast,Bogoroditsky District,Bogoroditsk,53.77174,38.12305
 RU,Voronezh Oblast,Bobrovsky District,Bobrov,51.09843,40.03008
@@ -26262,7 +26560,7 @@ RU,Stavropol Krai,Alexandrovsky District,Aleksandrovskoye,44.71417,43.00083
 RU,Perm Krai,Александровский муниципальный округ,Aleksandrovsk,59.15838,57.5705
 RU,Vladimir Oblast,Alexandrovsky District,Aleksandrov,56.39733,38.71404
 RU,Chuvashia,,Alatyr’,54.8421,46.5813
-RU,Moscow,,Levoberezhnyy,55.85,37.48333
+RU,Москва,,Levoberezhnyy,55.86477,37.47342
 RU,Rostov Oblast,Aksaysky District,Aksay,47.26331,39.869
 RU,Krasnodar Krai,Abinsky District,Akhtyrskiy,44.8546,38.3031
 RU,Astrakhan Oblast,Akhtubinsky District,Akhtubinsk,48.28339,46.16519
@@ -26277,8 +26575,8 @@ RU,Kursk Oblast,Rylsky District,Ryl’sk,51.57141,34.68324
 RU,Stavropol Krai,Нефтекумский городской округ,Neftekumsk,44.75583,44.9925
 RU,Republic of North Ossetia – Alania,Alagirsky District,Alagir,43.04252,44.2202
 RU,Rostov Oblast,Rodionovo-Nesvetaysky District,Persianovka,47.52729,39.4193
-RU,Moscow,,Annino,55.58316,37.26019
-RU,Moscow Oblast,Leninsky District,Drozhzhino,55.52806,37.59917
+RU,Москва,,Annino,55.58264,37.26223
+RU,Московская область,Ленинский городской округ,Drozhzhino,55.52376,37.58948
 RU,Krasnodar Krai,Resort Town of Sochi (municipal formation),Dagomys,43.66974,39.66863
 RU,Belgorod Oblast,Shebekinsky District,Gorod Shebekino,50.41667,36.91667
 RU,Nizhny Novgorod Oblast,Pavlovsky District,Pavlovo,55.9686,43.0912
@@ -26290,7 +26588,7 @@ RU,Astrakhan Oblast,,Znamensk,48.5842,45.7338
 RU,Penza Oblast,,Zarechnyy,53.13333,46.58333
 RU,Stavropol Krai,Kochubeyevsky District,Kochubeyevskoye,44.64417,41.84528
 RU,Moscow,,Vnukovo,55.61194,37.29611
-RU,Moscow,,Moskovskiy,55.59911,37.35495
+RU,Москва,,Moskovskiy,55.5991,37.3552
 RU,Komi Republic,Usinsk Urban Okrug,Usinsk,66.00866,57.53054
 RU,Saint Petersburg,,Obukhovo,59.84389,30.45111
 RU,Ingushetia,Malgobek,Staryy Malgobek,43.54437,44.59592
@@ -26537,7 +26835,6 @@ RU,Zabaykalsky Krai,городской округ Агинское,Aginskoye,51.
 RU,Primorsky Krai,Дальнегорский городской округ,Dalnegorsk,44.55745,135.6209
 RU,Irkutsk Oblast,городской округ Братск,Bratsk,56.1325,101.61417
 RU,Irkutsk Oblast,городской округ Саянск,Sayansk,54.11287,102.17773
-RU,Khabarovsk Krai,Khabarovsk,Khabarovsk Vtoroy,48.43787,135.12994
 RU,Irkutsk Oblast,Irkutsky District,Markova,52.20667,104.2177
 RU,Kamchatka Krai,Vilyuchinsk,Vilyuchinsk,52.93196,158.40585
 RU,Sakhalin Oblast,городской округ Южно-Сахалинск,Yuzhno-Sakhalinsk,46.9543,142.73559
@@ -26593,6 +26890,7 @@ RU,Bashkortostan,ЗАТО Межгорье,Mezgor'e,54.04976,57.81713
 RU,Dagestan,Makhachkala Urban Okrug,Semender,42.98556,47.40393
 RU,Kemerovo Oblast–Kuzbass,Kiselyovsky Urban Okrug,Kisilevsk,53.99623,86.64847
 RU,Московская область,городской округ Солнечногорск,gorod Solnetchnogorsk,56.18595,36.97561
+RU,Ненецкий автономный округ,городской округ Нарьян-Мар,Narian-Mar,67.66782,53.09792
 RW,East Province,Rwamagana District,Rwamagana,-1.9487,30.4347
 RW,Northern Province,Musanze,Musanze,-1.49984,29.63497
 RW,Southern Province,Ruhango,Ruhango,-2.2246,29.79088
@@ -26664,6 +26962,7 @@ SA,Najran Region,,Najrān,17.49326,44.12766
 SA,Makkah Region,,Makkah,21.42664,39.82563
 SA,Medina Province,Nyamasheke,Mahd adh Dhahab,23.49966,40.88408
 SA,Riyadh Region,,Laylá,22.29206,46.72376
+SA,المنطقة الشرقية,,King Faisal Military City,28.45,45.96667
 SA,Makkah Region,Nyamasheke,Khulayş,22.15553,39.32015
 SA,'Asir Region,,Khamis Mushait,18.3,42.73333
 SA,Jazan Region,,Jizan,16.88917,42.55111
@@ -26674,9 +26973,11 @@ SA,Hayel Region,,Ha'il,27.52188,41.69073
 SA,Eastern Region,,Hafar Al-Batin,28.43279,45.97077
 SA,Jazan Province,Nyagatare District,Fayfā’,17.2806,43.13735
 SA,Tabuk Region,,Duba,27.35134,35.69014
+SA,منطقة جازان,,Ḑamad,17.10426,42.78155
 SA,Al-Qassim Region,,Buraydah,26.32599,43.97497
 SA,Eastern Region,,Abqaiq,25.93402,49.6688
 SA,Ḥa'il Province,Nyamasheke,Baq‘ā’,27.90647,42.38898
+SA,منطقة الباحة,بني كبير,Baljurashi,19.85944,41.55722
 SA,Al Madinah Region,,Badr Ḩunayn,23.78292,38.79047
 SA,Riyadh Region,,Az Zulfī,26.29945,44.81542
 SA,Eastern Region,,Dhahran,26.28864,50.11396
@@ -26713,6 +27014,7 @@ SA,Eastern Region,,Al Baţţālīyah,25.43333,49.63333
 SA,Al Bahah Region,,Al Bahah,20.01288,41.46767
 SA,Eastern Province,Nyamasheke,Al ‘Awwāmīyah,26.59144,49.97951
 SA,Al-Bahah Province,Nyamasheke,Al ‘Aqīq,20.65,41.41667
+SA,منطقة الباحة,,Al ‘Aqīq,20.27358,41.66434
 SA,Riyadh Region,,Afif,23.9065,42.91724
 SA,Riyadh Region,,Ad Dir‘īyah,24.75187,46.53874
 SA,Riyadh Region,,Ad Dilam,23.99104,47.16181
@@ -26724,10 +27026,12 @@ SA,Ḥa'il Province,Nyamasheke,Turubah,28.25849,42.92457
 SA,Al-Qassim Province,,Al Badā’i‘ al Wusţá,25.98546,43.73659
 SA,Makkah Region,Nyamasheke,Thuwal,22.28272,39.11245
 SA,Makkah Region,,Ash Shafā,21.07268,40.31842
+SA,المنطقة الشرقية,,King Khalid Military City,27.90509,45.55326
 SA,'Asir Region,,Sabt Alalayah,19.5773,41.96357
 SA,Al-Qassim Province,,Riyāḑ al Khabrā’,26.06672,43.55344
 SA,'Asir Region,,Bariq,18.92966,41.92953
 SA,'Asir Province,Nyamasheke,Sarāt ‘Abīdah,18.089,43.132
+SA,منطقة نجران,,Al Mash‘ilīyah,17.75558,44.468
 SA,منطقة مكة المكرمة,,Ranyah,21.2504,42.84751
 SA,منطقة الرياض,,Ḥawṭah Banī Tamīm,23.49598,46.87801
 SB,Honiara,,Panatina,-9.43215,160.00607
@@ -26837,6 +27141,7 @@ SE,,Stockholm County,Tumba,59.19858,17.83317
 SE,,Stockholm County,Tullinge,59.2,17.9
 SE,,Västra Götaland County,Trollhättan,58.28365,12.28864
 SE,,Skåne County,Trelleborg,55.37514,13.15691
+SE,,Stockholms län,Trångsund,59.23333,18.13333
 SE,,Stockholm County,Täby,59.4439,18.06872
 SE,,Västernorrland County,Sundsvall,62.39129,17.3063
 SE,,Stockholm County,Sundbyberg,59.36128,17.97114
@@ -26871,6 +27176,7 @@ SE,,Skåne County,Lund,55.70584,13.19321
 SE,,Dalecarlia,Ludvika,60.14959,15.18776
 SE,,Kronoberg County,Ljungby,56.83324,13.94082
 SE,,Östergötland County,Linköping,58.41086,15.62157
+SE,,Skåne län,Limhamn,55.58333,12.95
 SE,,Västra Götaland County,Lidköping,58.50517,13.15765
 SE,,Stockholm County,Lidingö,59.36667,18.13333
 SE,,Västra Götaland County,Lerum,57.77051,12.26904
@@ -27172,6 +27478,7 @@ SO,Galgaduud,Abudwak District,Cabudwaaq,6.24585,46.2247
 SO,Bay,Burhakaba District,Buurhakaba,2.80257,44.07805
 SO,Hiiraan,Buloburde District,Buulobarde,3.85375,45.56744
 SO,Togdheer,Burao District,Burao,9.52213,45.53363
+SO,Middle Juba,Bu'ale District,Bu’aale,1.08333,42.58333
 SO,Bari,Bosaso District,Bosaso,11.28421,49.18158
 SO,Awdal,Borama District,Borama,9.93611,43.18278
 SO,Sahil,Berbera,Berbera,10.43959,45.01432
@@ -27276,6 +27583,7 @@ SY,Aleppo Governorate,,Nubl,36.37867,36.99294
 SY,Daraa Governorate,,Nawá,32.88646,36.03905
 SY,محافظة دمشق,ناحية دمشق,al-Yarmūk,33.4699,36.3018
 SY,Hama Governorate,Buysky District,Maharda,35.2479,36.5725
+SY,محافظة ريف دمشق,,Muadamiyat al-Sham,33.46466,36.20175
 SY,Hama Governorate,,Maşyāf,35.0653,36.3406
 SY,Aleppo Governorate,,Manbij,36.52815,37.95495
 SY,Idlib Governorate,,Ma‘arratmişrīn,36.01152,36.67183
@@ -27420,6 +27728,7 @@ TH,Lampang Province,,Thoen,17.61289,99.21612
 TH,Uthai Thani Province,,Thap Than,15.46063,99.89166
 TH,Kanchanaburi Province,,Tha Muang,13.96118,99.64122
 TH,Kanchanaburi Province,,Tha Maka,13.9,99.76667
+TH,Phang-nga Province,,Takua Pa,8.8705,98.34383
 TH,Tak Province,,Tak,16.86968,99.12898
 TH,Surat Thani Province,,Surat Thani,9.14011,99.33311
 TH,Sukhothai Province,,Sukhothai,17.00778,99.823
@@ -27781,11 +28090,12 @@ TL,Baucau,,Venilale,-8.64306,126.37833
 TM,Balkan Region,,Balkanabat,39.51075,54.36713
 TM,Ahal Region,,Kaka,37.34821,59.61431
 TM,Balkan Region,,Gyzylarbat,38.97644,56.27575
-TM,Balkan Region,,Gumdag,39.20611,54.59056
+TM,Ahal welaýaty,Ak bugdaý etraby,Gämi,37.90735,58.47039
+TM,Balkan welaýaty,,Gumdag,39.20237,54.58746
 TM,Ahal Region,,Gökdepe,38.15863,57.96072
 TM,Balkan Region,,Bereket,39.24463,55.51536
-TM,Balkan Region,,Magtymguly,38.43749,56.28081
-TM,Balkan welaýaty,,Jebel,39.63415,54.23053
+TM,Balkan welaýaty,Magtymguly etraby,Magtymguly,38.43637,56.28401
+TM,Balkan welaýaty,,Jebel,39.63101,54.23758
 TM,,,Abadan,38.05415,58.19721
 TM,Ahal Region,,Bäherden,38.43624,57.43158
 TM,,,Ashgabat,37.95,58.38333
@@ -27805,9 +28115,10 @@ TM,Lebap Region,,Seydi,39.4816,62.91374
 TM,Lebap Region,,Saýat,38.78393,63.88035
 TM,Ahal Region,Sarahs District,Sarahs,36.52381,61.21477
 TM,Mary Region,,Mary,37.59378,61.83031
-TM,Lebap Region,Hojambaz District,Hojambaz,38.11635,65.00347
-TM,Lebap Region,,Kerki,37.83573,65.21058
+TM,Lebap Region,Halach District,Halaç,38.07201,64.87938
+TM,,Kerki etraby,Kerki,37.84079,65.20639
 TM,Lebap Region,,Magdanly,37.81244,66.04656
+TM,,,Çaşgyn,37.79729,61.54905
 TM,Lebap Region,,Türkmenabat,39.07328,63.57861
 TM,Mary Region,,Bayramaly,37.61852,62.16715
 TM,Lebap Region,,Gazojak,41.18746,61.4036
@@ -27823,6 +28134,7 @@ TN,Tataouine,النزهة,Tataouine,32.92967,10.45177
 TN,Kasserine,تالة الغربية,Thala,35.57244,8.67031
 TN,Nabeul,تاكلسة الوسطى,Takelsa,36.78333,10.63333
 TN,Al Kaf,حي بورقيبة,Tajerouine,35.89174,8.55276
+TN,Béja,تبرسق المدينة,Tabursuq,36.45692,9.24751
 TN,Manouba,Tebourba,Tebourba,36.82933,9.83935
 TN,Gabès,‫تبلبو‬,Teboulbou,33.8455,10.11423
 TN,Monastir,العيايشة,Teboulba,35.64018,10.96731
@@ -27858,6 +28170,7 @@ TN,Médenine,آركو,Midoun,33.80813,10.99228
 TN,Monastir,معتمر,Maatmeur,35.75167,10.69083
 TN,Bizerte,ماطر الجنوبية,Mateur,37.04045,9.66557
 TN,Sousse,التوارة الجنوبية,Msaken,35.72917,10.58082
+TN,Gabès,مارث الشمالية,Mareth,33.61794,10.28536
 TN,Ben Arous,مقرين العليا,Mégrine,36.76917,10.23639
 TN,Nabeul,علي بلهوان,Menzel Temime,36.78222,10.9875
 TN,Bizerte,منزل جميل الغربية,Menzel Jemil,37.23618,9.91448
@@ -27881,7 +28194,7 @@ TN,Kasserine,فريانة,Feriana,34.94529,8.56789
 TN,Kébili,العبادلة,Douz,33.46632,9.0203
 TN,Bizerte,لواتة,Douar Tindja,37.16667,9.75
 TN,Nabeul,دار شعبان,Dar Chabanne,36.46798,10.75167
-TN,Jendouba,بوسالم الشمالية,Bou Salem,36.60732,8.96981
+TN,Al Kaf,الدهماني الشمالية,Dahmani,35.94388,8.82778
 TN,Médenine,بنقردان الجنوبية,Ben Gardane,33.13783,11.21965
 TN,Ben Arous,بن عروس الشرقية,Ben Arous,36.75452,10.22167
 TN,Tunis,,Le Bardo,36.81058,10.13481
@@ -27891,7 +28204,8 @@ TN,Nabeul,بني خلاد الشمالية,Beni Khalled,36.65038,10.59004
 TN,Béja,باجة,Béja,36.72564,9.18169
 TN,Mahdia,زويلة الجنوبية,Zouila,35.50056,11.06056
 TN,Monastir,زرمدين الشمالية,Zeramedine,35.57525,10.73456
-TN,Tunis,,Sejoumi,36.75583,10.11833
+TN,Tunis,,Sīdī Ḥusayn,36.75583,10.11833
+TN,Monastir,الساحلين الغربية,Sahline,35.75166,10.71109
 TN,Mahdia,الشابة الشمالية,Chebba,35.23722,11.115
 TN,Ariana,أريانة المدينة,Aryanah,36.86012,10.19337
 TN,Gafsa,الرديف المحطة,Ar Rudayyif,34.3827,8.15549
@@ -27907,6 +28221,7 @@ TN,Monastir,الربط,Monastir,35.77799,10.82617
 TN,Monastir,,Moknine,35.63333,10.9
 TN,Ben Arous,حي النسيم,La Mohammedia,36.67446,10.15633
 TN,Gafsa,المتلوي المركز,Metlaoui,34.32081,8.40157
+TN,Gabès,المطورية الجنوبية,Métouia,33.95918,9.99619
 TN,Tunis,,La Marsa,36.87818,10.32466
 TN,Médenine,ميدون,El Mgarsa,33.81682,10.9923
 TN,Sfax,,Mahires,34.5275,10.50083
@@ -27928,7 +28243,7 @@ TN,Sfax,الشيحية,Dar el Haj Taïeb,34.78444,10.74389
 TN,Ben Arous,الزهراء المدينة,Ez Zahra,36.74611,10.30833
 TN,Ben Arous,برج السدرية,Borj Cedria,36.69705,10.38654
 TN,Monastir,الوردانين الجنوبية,Ouerdanine,35.69006,10.67598
-TN,Ariana,النخيلات,La Gazelle,36.89479,10.18604
+TN,Ariana,النخيلات,Rawad,36.89479,10.18604
 TN,Ben Arous,المروج 5,El Mourouj,36.71364,10.2096
 TN,Sousse,,Ezzouhour,35.79014,10.58264
 TN,Manouba,Qasr Sa'id,Den Den,36.80753,10.11061
@@ -27939,6 +28254,7 @@ TN,Ariana,المنيهلة,Mnihla,36.84774,10.11083
 TN,Manouba,حي النسيم,Douar Hicher,36.82657,10.08974
 TN,Ariana,9 أفريل,Ettadhamen,36.83246,10.10995
 TO,Tongatapu,,Nuku‘alofa,-21.13683,-175.20114
+TR,,Yumurtalık,Yumurtalık,36.76863,35.78938
 TR,,,Yüksekova,37.57362,44.28716
 TR,,Yozgat Merkez,Yozgat,39.82,34.80444
 TR,,,Yeşilova,38.15566,36.25758
@@ -28217,6 +28533,7 @@ TR,,Suluova,Suluova,40.83129,35.64788
 TR,,,Şişli,41.06046,28.98717
 TR,,Sinop Merkez,Sinop,42.02683,35.16253
 TR,,,Silivri,41.07393,28.24644
+TR,Monastir,زرمدين الشمالية,Şile,41.17891,29.61085
 TR,,Şebinkarahisar,Şebin Karahisar,40.28833,38.42361
 TR,,Sarıkamış,Sarıkamış,40.32769,42.58705
 TR,,Sapanca,Sapanca,40.69141,30.26738
@@ -28239,6 +28556,7 @@ TR,,,Maltepe,40.93567,29.15507
 TR,,Água Grande,Malkara,40.89105,26.90201
 TR,Hama Governorate,Bucak,Lüleburgaz,41.40173,27.35746
 TR,,Kumru,Kumru,40.87444,37.26389
+TR,,,Küçükçekmece,40.99104,28.77123
 TR,,Korgan,Korgan,40.82472,37.34667
 TR,,Kocaali,Kocaali,41.05336,30.85278
 TR,,Kızılcahamam,Kızılcahamam,40.46972,32.65056
@@ -28256,6 +28574,7 @@ TR,,Karasu,Karasu Mahallesi,41.07096,30.78543
 TR,,Karamürsel,Karamürsel,40.69129,29.61649
 TR,,Karacabey,Karacabey,40.21323,28.3612
 TR,,Karabük Merkez,Karabük,41.20488,32.62768
+TR,,Kandıra,Kandıra,41.07,30.15262
 TR,,Kağızman,Kağızman,40.15669,43.13424
 TR,,İznik,İznik,40.42861,29.72111
 TR,,,İzmit,40.76499,29.92928
@@ -28284,6 +28603,7 @@ TR,,Kırklareli Merkez,Gelibolu,40.40836,26.67174
 TR,,,Gebze,40.80276,29.43068
 TR,,Ferizli,Ferizli,40.94082,30.48583
 TR,Monastir,زرمدين الشمالية,Fatsa,41.02886,37.49977
+TR,,,Fatih,41.0225,28.94083
 TR,,,Esenyurt,41.02697,28.67732
 TR,,,Esenler,41.0435,28.87619
 TR,,Ereğli,Ereğli,41.28261,31.41806
@@ -28360,6 +28680,7 @@ TR,Manzini Region,บึงพระ,Çubuklu,41.10419,29.08331
 TR,,,Ataşehir,38.48855,27.06132
 TR,,Karşıyaka,Bostanlı,38.45921,27.09732
 TR,,Karşıyaka,Şemikler,38.47497,27.09591
+TR,,,Evka-Üç,38.47071,27.25094
 TR,,,Nilüfer,40.21401,28.91567
 TR,,,Merkezefendi,37.80544,29.04236
 TR,,,Altınşehir,37.74121,38.22897
@@ -28431,6 +28752,7 @@ TW,Manzini Region,Changhua County,Xihu,23.95683,120.47918
 TW,,,Xizhi,25.06615,121.65985
 TW,Taiwan Province,Pingtung County,Hengchun,22.00417,120.74389
 TW,Manzini Region,Changhua County,Xizhou,24.27667,120.68917
+TW,,雲林縣,Erlun,23.77045,120.4134
 TW,Manzini Region,Changhua County,Erlin,23.90054,120.3689
 TW,,Hsinchu County,Zhudong,24.73167,121.09083
 TW,Manzini Region,Nantou County,Zhushan,23.75551,120.68203
@@ -28668,7 +28990,7 @@ TZ,Mara Region,,Matongo,-1.46771,34.52279
 TZ,Pwani Region,,Mwandege,-6.97558,39.2893
 TZ,Simiyu,,Mwanhuzi,-3.52723,34.31513
 TZ,Morogoro Region,,Ruaha,-7.65685,36.98299
-UA,Sumy Oblast,,Lebedyn,50.58518,34.4849
+UA,Сумська область,,Lebedyn,50.58228,34.48258
 UA,Донецька область,,Druzhkivka,48.61995,37.52537
 UA,Cherkasy Oblast,,Zvenyhorodka,49.07765,30.96074
 UA,Donetsk Oblast,,Zuhres,48.01428,38.26599
@@ -28686,8 +29008,8 @@ UA,Republic of Crimea,городской округ Евпатория,Yevpatori
 UA,Donetsk Oblast,,Yenakiyeve,48.23857,38.20403
 UA,Донецька область,,Yasynuvata,48.12678,37.85924
 UA,Autonomous Republic of Crimea,городской округ Ялта,Yalta,44.50218,34.16624
-UA,Kyiv Oblast,Boryspil Raion,Yahotyn,50.27975,31.76246
-UA,Kyiv Oblast,,Vyshhorod,50.58476,30.4898
+UA,Київська область,,Yahotyn,50.27535,31.76343
+UA,Київська область,,Vyshhorod,50.58312,30.48566
 UA,Zakarpattia Oblast,,Vynohradiv,48.14126,23.03623
 UA,,,Vyhurivshchyna-Troyeshchyna,50.51137,30.60251
 UA,Mykolaiv Oblast,,Voznesensk,47.56218,31.33602
@@ -28696,14 +29018,13 @@ UA,Донецька область,,Volnovakha,47.6008,37.49358
 UA,Dnipropetrovsk Oblast,,Vilnohirsk,48.48416,34.01708
 UA,Kharkiv Oblast,,Vovchansk,50.29078,36.94108
 UA,Волинська область,,Volodymyr-Volynskyi,50.85033,24.32119
-UA,Kyiv Oblast,,Vyshneve,50.38913,30.3705
+UA,Київська область,,Vyshneve,50.38834,30.36809
 UA,Vinnytsia Oblast,,Vinnytsya,49.2322,28.46871
 UA,Lviv Oblast,,Vynnyky,49.81672,24.14417
 UA,Zaporizhia Oblast,,Vilnyansk,47.94768,35.44034
 UA,Dnipropetrovsk Oblast,,Verkhnodniprovsk,48.65557,34.3262
-UA,Полтавська область,,Velyka Kokhnivka,49.11719,33.48033
 UA,Cherkasy Oblast,,Bahacheve,49.01198,31.04659
-UA,Kyiv Oblast,,Vasylkiv,50.18693,30.31346
+UA,Київська область,,Vasylkiv,50.18023,30.31189
 UA,Zakarpattia Oblast,Kırklareli Merkez,Uzhhorod,48.6242,22.2947
 UA,Cherkasy Oblast,,Uman,48.7501,30.21944
 UA,Vinnytsia Oblast,,Tulchyn,48.67397,28.86848
@@ -28716,18 +29037,18 @@ UA,Дніпропетровська область,,Terny,48.14512,33.55832
 UA,Dnipropetrovsk Oblast,,Ternivka,48.52656,36.07051
 UA,Ternopil Oblast,,Ternopil,49.55404,25.59067
 UA,,,Telychka,50.4,30.56667
-UA,Luhansk Oblast,,Siverskodonetsk,48.94628,38.48624
+UA,Луганська область,,Siverskodonetsk,48.94414,38.48754
 UA,Kirovohrad Oblast,,Svitlovodsk,49.06287,33.2458
-UA,Luhansk Oblast,,Dovzhansk,48.08964,39.65243
-UA,Luhansk Oblast,,Svatove,49.40719,38.15362
+UA,Луганська область,,Dovzhansk,48.07615,39.64744
+UA,Луганська область,,Svatove,49.40926,38.15534
 UA,Zakarpattia Oblast,,Svalyava,48.54735,22.98673
 UA,Sumy Oblast,,Sumy,50.91741,34.79906
-UA,Luhansk Oblast,,Sukhodilsk,48.35022,39.72698
+UA,Луганська область,,Sukhodilsk,48.35083,39.72573
 UA,Republic of Crimea,Sudak municipality,Sudak,44.84924,34.97471
 UA,Львівська область,,Stryi,49.26103,23.84845
 UA,Lviv Oblast,,Stebnyk,49.30098,23.55197
 UA,Khmelnytskyi Oblast,,Starokostyantyniv,49.75522,27.21229
-UA,Luhansk Oblast,,Starobilsk,49.27719,38.91673
+UA,Луганська область,,Starobilsk,49.27881,38.9075
 UA,,,Stara Darnytsya,50.43333,30.63333
 UA,Luhansk Oblast,,Kadiyivka,48.56818,38.64352
 UA,Донецька область,,Sotsmisto,48.73663,37.59075
@@ -28736,44 +29057,44 @@ UA,Донецька область,,Snizhne,48.02328,38.76205
 UA,Cherkasy Oblast,,Smila,49.23295,31.88427
 UA,Donetsk Oblast,,Slovyansk,48.84974,37.59739
 UA,Khmelnytskyi Oblast,,Slavuta,50.29609,26.86613
-UA,Kyiv Oblast,,Skvyra,49.73303,29.66426
+UA,Київська область,,Skvyra,49.73401,29.66353
 UA,Kherson Oblast,,Skadovsk,46.11313,32.90978
 UA,Dnipropetrovsk Oblast,,Synelnykove,48.32362,35.52612
 UA,Autonomous Republic of Crimea,Simferopol municipality council,Simferopol,44.95719,34.11079
 UA,Львівська область,,Sykhiv,49.79427,24.06284
 UA,Cherkasy Oblast,,Shpola,49.01291,31.3926
-UA,Sumy Oblast,,Shostka,51.86296,33.4698
+UA,Сумська область,,Shostka,51.86434,33.47283
 UA,Khmelnytskyi Oblast,,Shepetivka,50.18118,27.06517
 UA,Donetsk Oblast,,Shakhtarsk,48.05657,38.43826
 UA,Sevastopol,,Sevastopol,44.60795,33.52134
 UA,Донецька область,,Selydove,48.1465,37.3022
 UA,Рівненська область,,Sarny,51.33898,26.60693
 UA,Львівська область,,Sambir,49.51624,23.20133
-UA,Republic of Crimea,городской округ Саки,Saki,45.13424,33.59996
-UA,Luhansk Oblast,,Rubizhne,49.00606,38.38119
+UA,Republic of Crimea,городской округ Саки,Saky,45.13424,33.59996
+UA,Луганська область,,Rubizhne,49.00849,38.37972
 UA,Odesa Oblast,,Rozdilna,46.85479,30.07091
 UA,Донецька область,,Kurakhove,47.9847,37.28069
-UA,Luhansk Oblast,,Rovenky,48.08331,39.37764
-UA,Sumy Oblast,,Romny,50.75104,33.47471
+UA,Луганська область,,Rovenky,48.08277,39.37696
+UA,Сумська область,,Romny,50.74025,33.4952
 UA,Rivne Oblast,,Rivne,50.62036,26.23695
 UA,Zakarpattia Oblast,,Rakhiv,48.05472,24.20314
 UA,Житомирська область,,Radomyshl,50.4962,29.23003
 UA,Dnipropetrovsk Oblast,,Pyatykhatky,48.40821,33.70919
 UA,Чернігівська область,,Pryluky,50.59525,32.38382
-UA,Luhansk Oblast,,Popasna,48.63328,38.37804
+UA,Луганська область,,Popasna,48.63168,38.37104
 UA,Poltava Oblast,,Poltava,49.58925,34.55367
 UA,Khmelnytskyi Oblast,,Polonne,50.11944,27.50856
 UA,Zaporizhia Oblast,,Polohy,47.47865,36.25463
 UA,,,Podil,50.46936,30.51627
-UA,Dnipropetrovsk Oblast,,Pidhorodne,48.57422,35.09702
+UA,Dnipropetrovsk Oblast,,Pidhorodnye,48.57422,35.09702
 UA,Донецька область,,Voznesenskyi,47.93161,37.62971
 UA,Харківська область,,Pisochyn,49.9516,36.10262
 UA,Kharkiv Oblast,,Zlatopil,49.37646,36.21848
-UA,Luhansk Oblast,,Sokolohirsk,48.62831,38.56205
+UA,Луганська область,,Sokolohirsk,48.6279,38.52389
 UA,Mykolaiv Oblast,,Pervomaysk,48.04478,30.84784
 UA,Dnipropetrovsk Oblast,,Shakhtarske,48.3479,36.39637
 UA,Kyiv Oblast,Boryspil Raion,Pereiaslav,50.06739,31.44969
-UA,Luhansk Oblast,Perevalsk Raion,Perevalsk,48.43779,38.84384
+UA,Луганська область,,Perevalsk,48.43921,38.82839
 UA,Донецька область,,Pelahiivka,48.10752,38.61338
 UA,Dnipropetrovsk Oblast,,Pavlohrad,48.53214,35.86878
 UA,Житомирська область,,Ovruch,51.3274,28.80165
@@ -28781,7 +29102,7 @@ UA,Dnipropetrovsk Oblast,,Pokrov,47.65361,34.11488
 UA,Kirovohrad Oblast,,Oleksandriya,48.67466,33.11761
 UA,Дніпропетровська область,,Ihren,48.47614,35.15842
 UA,Odesa Oblast,,Odesa,46.48572,30.74383
-UA,Kyiv Oblast,,Obukhiv,50.10689,30.61848
+UA,Київська область,,Obukhiv,50.11632,30.63329
 UA,Львівська область,,Novyi Rozdil,49.47136,24.13352
 UA,Волинська область,,Novovolynsk,50.72949,24.15976
 UA,Kirovohrad Oblast,,Novoukrayinka,48.31661,31.52355
@@ -28798,7 +29119,7 @@ UA,Ivano-Frankivsk Oblast,,Nadvirna,48.63659,24.5714
 UA,Mykolaiv Oblast,,Mykolayiv,46.97625,31.99296
 UA,Zakarpattia Oblast,,Mukachevo,48.44248,22.718
 UA,Lviv Oblast,,Mostyska,49.79467,23.15077
-UA,Luhansk Oblast,,Otamanivka,48.34511,39.65244
+UA,Луганська область,,Otamanivka,48.34586,39.65233
 UA,Vinnytsia Oblast,,Mohyliv-Podilskyy,48.44278,27.79975
 UA,Poltava Oblast,,Myrhorod,49.96464,33.60861
 UA,Харківська область,,Merefa,49.82107,36.0567
@@ -28810,26 +29131,26 @@ UA,Житомирська область,,Malyn,50.76756,29.24225
 UA,Donetsk Oblast,,Makiyivka,48.04782,37.92576
 UA,Kharkiv Oblast,,Liubotyn,49.94691,35.92907
 UA,Lviv Oblast,,Lviv,49.83826,24.02324
-UA,Luhansk Oblast,Lutuhyne Raion,Lutuhyne,48.40507,39.22675
+UA,Луганська область,,Lutuhyne,48.40433,39.21302
 UA,Volyn Oblast,,Lutsk,50.75784,25.35024
 UA,Luhansk Oblast,,Luhansk,48.56814,39.30553
 UA,Poltava Oblast,,Lubny,50.01413,32.99975
 UA,Харківська область,,Lozova,48.89066,36.31412
-UA,Luhansk Oblast,,Lysychansk,48.90421,38.44094
+UA,Луганська область,,Lysychansk,48.91211,38.42088
 UA,Vinnytsia Oblast,,Ladyzhyn,48.68437,29.23636
 UA,,,Kyiv,50.45466,30.5238
 UA,Kharkiv Oblast,,Kupyansk,49.71003,37.61581
 UA,Dnipropetrovsk Oblast,,Kryvyy Rih,47.90572,33.39404
 UA,Poltava Oblast,,Kryukiv,49.02894,33.43847
-UA,Sumy Oblast,,Krolevets,51.54775,33.38475
-UA,Luhansk Oblast,,Kreminna,49.0495,38.21893
+UA,Сумська область,,Krolevets,51.55181,33.38044
+UA,Луганська область,,Kreminna,49.04811,38.21552
 UA,Ternopil Oblast,,Kremenets,50.09864,25.72787
 UA,Poltava Oblast,,Kremenchuk,49.06253,33.40484
-UA,Luhansk Oblast,,Khrustalnyi,48.13954,38.93715
+UA,Луганська область,,Khrustalnyi,48.14241,38.92369
 UA,Донецька область,,Lyman,48.99012,37.80843
 UA,Republic of Crimea,городской округ Красноперекопск,Yany Kapu,45.95547,33.79261
 UA,Харківська область,,Berestyn,49.3776,35.44485
-UA,Luhansk Oblast,,Sorokyne,48.29235,39.73921
+UA,Луганська область,,Sorokyne,48.29329,39.73327
 UA,Донецька область,,Pokrovsk,48.28014,37.17706
 UA,Khmelnytskyi Oblast,,Krasyliv,49.65376,26.97211
 UA,Донецька область,,Kramatorsk,48.73106,37.56779
@@ -28838,17 +29159,18 @@ UA,Волинська область,,Kovel,51.21548,24.70077
 UA,Kyiv Oblast,,Kotsyubynske,50.48836,30.32957
 UA,Odesa Oblast,,Podilsk,47.74988,29.53074
 UA,Рівненська область,,Kostopil,50.87732,26.44797
-UA,Cherkasy Oblast,,Korsun-Shevchenkivskyy,49.41822,31.25174
+UA,Cherkasy Oblast,,Korsun-Shevchenkivskyi,49.41822,31.25174
 UA,Житомирська область,,Korostyshiv,50.31686,29.05774
 UA,Житомирська область,,Korosten,50.9512,28.63859
 UA,Donetsk Oblast,District of Michalovce,Kostyantynivka,48.52728,37.70594
-UA,Sumy Oblast,,Konotop,51.24032,33.20263
+UA,Сумська область,,Konotop,51.23251,33.2004
 UA,Харківська область,,Slobozhanske,49.59054,36.52172
 UA,Ivano-Frankivsk Oblast,,Kolomyia,48.52496,25.03712
 UA,Донецька область,,Khrestivka,48.14969,38.35941
 UA,Luhansk Oblast,,Holubivka,48.63751,38.6428
 UA,Kirovohrad Oblast,,Kropyvnytskyi,48.50834,32.26618
 UA,Odesa Oblast,,Kiliya,45.44445,29.26396
+UA,Донецька область,,Trudivskyi,47.94699,37.55806
 UA,Zakarpattia Oblast,,Khust,48.17193,23.29791
 UA,Khmelnytskyi Oblast,,Khmelnytskyi,49.41835,26.97936
 UA,Vinnytsia Oblast,,Khmilnyk,49.5581,27.95682
@@ -28857,7 +29179,7 @@ UA,Донецька область,,Khartsyzk,48.04277,38.14025
 UA,Kharkiv Oblast,,Kharkiv,49.98177,36.25475
 UA,Донецька область,,Khanzhonkove,48.0945,38.07553
 UA,Autonomous Republic of Crimea,городской округ Керчь,Kerch,45.35675,36.47542
-UA,Vinnytsia Oblast,,Koziatyn,49.7164,28.83858
+UA,Vinnytsia Oblast,,Kozyatyn,49.7164,28.83858
 UA,Cherkasy Oblast,,Kaniv,49.75187,31.47003
 UA,Khmelnytskyi Oblast,,Kamyanets-Podilskyi,48.67882,26.58516
 UA,Ivano-Frankivsk Oblast,,Kalush,49.02398,24.37206
@@ -28867,20 +29189,20 @@ UA,Kharkiv Oblast,,Izyum,49.20697,37.27679
 UA,Khmelnytskyi Oblast,,Iziaslav,50.11978,26.82475
 UA,Odesa Oblast,,Izmayil,45.35058,28.83751
 UA,Ivano-Frankivsk Oblast,,Ivano-Frankivsk,48.92312,24.71248
-UA,Kyiv Oblast,,Irpin,50.52175,30.25055
+UA,Київська область,,Irpin,50.52201,30.24037
 UA,Дніпропетровська область,,Inhulets,47.7301,33.25189
 UA,Donetsk Oblast,,Ilovays’k,47.92498,38.20235
 UA,Odesa Oblast,,Chornomors’k,46.29914,30.65529
 UA,Khmelnytskyi Oblast,,Horodok,49.17209,26.56357
 UA,Донецька область,,Horlivka,48.29986,38.01709
-UA,Sumy Oblast,,Hlukhiv,51.67822,33.9162
+UA,Сумська область,,Hlukhiv,51.67982,33.91682
 UA,Kyiv Oblast,,Hostomel,50.56841,30.2651
 UA,Львівська область,,Horodok,49.78476,23.6481
 UA,Kherson Oblast,,Henichesk,46.16824,34.80861
 UA,Vinnytsia Oblast,,Haysyn,48.81294,29.37917
 UA,Poltava Oblast,,Hadyach,50.36912,33.997
 UA,Autonomous Republic of Crimea,городской округ Феодосия,Feodosiya,45.03199,35.38153
-UA,Kyiv Oblast,,Fastiv,50.0767,29.9177
+UA,Київська область,,Fastiv,50.07796,29.91963
 UA,Zaporizhia Oblast,,Enerhodar,47.49048,34.66199
 UA,Republic of Crimea,городской округ Джанкой,Dzhankoy,45.7131,34.39273
 UA,Donetsk Oblast,,Toretsk,48.39477,37.8478
@@ -28891,7 +29213,7 @@ UA,Donetsk Oblast,,Donetsk,48.023,37.80224
 UA,Ivano-Frankivsk Oblast,,Dolyna,48.97158,23.96558
 UA,Kirovohrad Oblast,,Dolynska,48.11725,32.77691
 UA,Donetsk Oblast,Inkhundla Piggs Peak,Dokuchayevsk,47.7522,37.67761
-UA,Донецька область,,Dobropillia,48.46674,37.08567
+UA,Донецька область,,Dobropillya,48.46674,37.08567
 UA,Dnipropetrovsk Oblast,,Dnipro,48.46664,35.04066
 UA,Dnipropetrovsk Oblast,,Kamyanske,48.51716,34.60617
 UA,Zaporizhia Oblast,,Dniprorudne,47.38993,35.00065
@@ -28905,28 +29227,28 @@ UA,Львівська область,,Sheptytskyi,50.39403,24.23935
 UA,Chernivtsi Oblast,,Chernivtsi,48.29045,25.93241
 UA,Chernihiv Oblast,,Chernihiv,51.50541,31.28656
 UA,Cherkasy Oblast,,Cherkasy,49.44452,32.05738
-UA,Kyiv Oblast,,Bucha,50.54345,30.21201
+UA,Київська область,,Bucha,50.54741,30.20879
 UA,Luhansk Oblast,,Bryanka,48.511,38.67222
-UA,Kyiv Oblast,,Brovary,50.51809,30.80671
+UA,Київська область,,Brovary,50.51097,30.79106
 UA,Львівська область,,Brody,50.08854,25.14606
 UA,Kyiv Oblast,,Boyarka,50.31911,30.29728
 UA,,,Bortnychi,50.38489,30.69542
-UA,Kyiv Oblast,Boryspil Raion,Boryspil,50.35269,30.95501
+UA,Київська область,,Boryspil,50.35051,30.95263
 UA,Львівська область,,Boryslav,49.28998,23.42889
 UA,Odesa Oblast,,Bolhrad,45.67786,28.61811
 UA,Kyiv Oblast,,Bohuslav,49.54637,30.87407
 UA,Житомирська область,,Bohuniya,50.27691,28.60962
 UA,Харківська область,,Bohodukhiv,50.16147,35.52367
 UA,Odesa Oblast,,Bilhorod-Dnistrovskyi,46.19484,30.34827
-UA,Kyiv Oblast,,Bila Tserkva,49.8004,30.12851
+UA,Київська область,,Bila Tserkva,49.7994,30.1165
 UA,Ternopil Oblast,,Berezhany,49.44578,24.93686
-UA,Kyiv Oblast,,Berezan,50.3112,31.46712
+UA,Київська область,,Berezan,50.31073,31.46768
 UA,Zakarpattia Oblast,,Berehove,48.20514,22.64453
 UA,Житомирська область,,Berdychiv,49.89421,28.58236
 UA,Zaporizhia Oblast,,Berdyansk,46.75578,36.78815
-UA,Sumy Oblast,,Bilopillia,51.15016,34.31287
+UA,Сумська область,,Bilopillia,51.14747,34.31079
 UA,Autonomous Republic of Crimea,Belogorsk Raion,Bilohirsk,45.05679,34.60386
-UA,Kyiv Oblast,District of Michalovce,Bilohorodka,50.38969,30.22532
+UA,Київська область,,Bilohorodka,50.3898,30.22726
 UA,,,Bilychi,50.46544,30.34654
 UA,Vinnytsia Oblast,,Bar,49.07362,27.67404
 UA,Odesa Oblast,,Balta,47.93596,29.62225
@@ -28936,13 +29258,14 @@ UA,Chernihiv Oblast,,Bakhmach,51.18144,32.83463
 UA,Republic of Crimea,Bakhchysarai Raion,Bakhchysaray,44.75525,33.85782
 UA,Donetsk Oblast,زرمدين الشمالية,Avdiyivka,48.14019,37.75008
 UA,Донецька область,,Bakhmut,48.59419,37.99886
+UA,Автономна Республіка Крим,Керченський район,Arshyntseve,45.30109,36.42687
 UA,Republic of Crimea,городской округ Армянск,Armyansk,46.10919,33.69206
 UA,Dnipropetrovsk Oblast,,Apostolove,47.65983,33.71952
-UA,Luhansk Oblast,,Antratsyt,48.11503,39.09128
-UA,Донецька область,,Amvrosiivka,47.79062,38.47851
+UA,Луганська область,,Antratsyt,48.11638,39.08863
+UA,Донецька область,,Amvrosiyivka,47.79062,38.47851
 UA,Autonomous Republic of Crimea,Alushta City Council,Alushta,44.67728,34.4097
-UA,Luhansk Oblast,,Alchevsk,48.46893,38.81669
-UA,Sumy Oblast,,Okhtyrka,50.31036,34.89879
+UA,Луганська область,,Alchevsk,48.46906,38.79744
+UA,Сумська область,,Okhtyrka,50.30852,34.89468
 UA,Poltava Oblast,,Horishni Plavni,49.00835,33.62926
 UA,Kharkiv Oblast,,Saltivka,50.02207,36.34901
 UA,Харківська область,,Zhuravlivka,50.0125,36.27214
@@ -28954,7 +29277,7 @@ UA,Київська область,,Svyatopetrivske,50.38214,30.32278
 UA,Lviv Oblast,,Novoyavorivs'k,49.93023,23.57357
 UA,,,Obolon,50.5132,30.5055
 UA,Одеська область,,Cheremushky,46.43251,30.71151
-UA,Полтавська область,,Molodizhnyi,49.1504,33.4305
+UA,Полтавська область,,Molodizhne,49.1504,33.4305
 UA,,,Demiyivka,50.40206,30.51564
 UA,,,Borshchahivka,50.4316,30.3899
 UA,Odesa Oblast,,Reni,45.45421,28.27731
@@ -28962,14 +29285,15 @@ UA,Полтавська область,,Avtozavodskyi,49.09753,33.43206
 UA,Харківська область,,Oleksiyivka,50.04516,36.19322
 UA,Івано-Франківська область,,Knyahynyn,48.93561,24.71307
 UA,Kyiv Oblast,,Sofiivska Borschahivka,50.40931,30.35908
+UA,,,Darnytsya Car Repair Plant Microdistrict,50.44953,30.67608
 UA,,,Holosiyiv,50.34433,30.55178
 UA,,,Pechersk,50.44441,30.52348
 UA,,,Svyatoshyn,50.46341,30.34612
+UA,Полтавська область,,Rakivka,49.02446,33.46398
 UA,,,Dniprovskyi,50.45366,30.60146
 UA,,,Desna,50.52207,30.68228
-UA,,,Solomyansk,50.42838,30.45211
+UA,,,Solomyanka,50.42838,30.45211
 UA,,,Shevchenkivskyi,50.46408,30.46576
-UA,,,Zhulyany,50.39428,30.44057
 UA,Кіровоградська область,,Fortechnyi,48.49865,32.25365
 UA,Кіровоградська область,,Podilskyi,48.50357,32.28035
 UA,Львівська область,,Novyi Lviv,49.81519,24.03171
@@ -28985,7 +29309,7 @@ UA,Донецька область,,Tekstylnyk,47.94594,37.69848
 UA,Полтавська область,,Podil,49.6039,34.59443
 UA,Полтавська область,,Kyivskyi,49.60902,34.52933
 UA,Полтавська область,,Shevchenko,49.5645,34.53873
-UA,Харківська область,,Rayon KTZ,49.94349,36.36959
+UA,Харківська область,,Rayon KhTZ,49.94349,36.36959
 UA,Донецька область,,Pravyi Bereh,47.11498,37.58519
 UA,,,Nyvky,50.46461,30.40593
 UA,,,Pozniaky,50.40259,30.62352
@@ -28995,24 +29319,27 @@ UA,,,Voskresenka,50.48481,30.6032
 UA,,,Stare Misto,50.44759,30.52635
 UA,,,Lypky,50.44296,30.53039
 UA,,,Vynohradar,50.51429,30.42452
+UA,,,Teremky-II,50.38067,30.45249
 UA,,,Teremky,50.37053,30.45881
 UA,,,Vidradnyi,50.43194,30.42231
+UA,,,Oleksandrivska Slobidka,50.41827,30.47807
 UA,,,Chokolivka,50.42444,30.44732
 UA,,,Darnytskyi Masyv,50.44311,30.62759
+UA,,,Livoberezhnyi Masyv,50.45544,30.58969
+UA,,,Lisovyi Masyv,50.4725,30.63113
 UA,,,Rayduzhnyi Masyv,50.48551,30.58571
 UA,,,Vyshhorodskyi Masyv,50.50978,30.45355
+UA,,,Priorka,50.50977,30.45773
 UA,,,Mostytskyi Masyv,50.50231,30.44121
 UA,,,Syrets,50.47955,30.44491
 UA,,,Kurenivka,50.49371,30.47104
 UA,,,Tatarka,50.46941,30.48649
 UA,,,Shulyavka,50.45356,30.4531
-UA,,,Galagany,50.45537,30.40233
 UA,,,Lukyanivka,50.46642,30.47591
 UA,,,Mykilska Borshchahivka,50.42638,30.37442
 UA,,,Kharkivskyi Masyv,50.40848,30.66006
 UA,,,Pivnichni Osokorky,50.3932,30.61304
 UA,,,Klov,50.4349,30.53807
-UA,,,Zvirynets,50.41626,30.5492
 UA,,,Kybalchych,50.49288,30.59756
 UA,,,Pivnichno-Brovarskyi Masyv,50.46304,30.61697
 UA,,,Rusanivka,50.43996,30.59682
@@ -29039,9 +29366,27 @@ UA,Донецька область,,Livoberezhnyi,47.1093,37.64306
 UA,Донецька область,,Prymorskyi,47.07098,37.49973
 UA,Чернігівська область,,Desnyanskyi,51.50631,31.3168
 UA,Чернігівська область,,Novozavodskyi,51.4893,31.25634
+UA,Донецька область,,Hladkivka,48.03556,37.81009
 UA,Житомирська область,,Korolyov,50.24487,28.70013
 UA,Хмельницька область,,Rakove,49.39556,27.06009
 UA,,,Nyzhnya Telychka,50.38809,30.57487
+UA,Донецька область,,Sonyachnyi,48.72284,37.5981
+UA,Луганська область,,Skhidni Kvartaly,48.56622,39.38256
+UA,,,Vitryani Hory,50.51138,30.43657
+UA,,,Karavayevi Dachi,50.43044,30.43659
+UA,,,Pivdenna Borshchahivka,50.41059,30.40396
+UA,,,Novobilychi,50.47611,30.34669
+UA,,,Nova Zabudova,50.42811,30.5153
+UA,Харківська область,,Industrialnyi,49.95458,36.36915
+UA,Харківська область,,Kyivskyi,50.04475,36.28883
+UA,Харківська область,,Nemyshlyanskyi,49.96437,36.33385
+UA,Харківська область,,Novobavarskyi,49.95143,36.16499
+UA,Харківська область,,Nova Bavariya,49.94522,36.15006
+UA,Харківська область,,Osnovyanskyi,49.93657,36.24128
+UA,Харківська область,,Saltivskyi,49.99897,36.31605
+UA,Харківська область,,Slobidskyi,49.94479,36.2813
+UA,Харківська область,,Kholodna Hora,50.0042,36.1762
+UA,Харківська область,,Shevchenkivskyi,50.02021,36.22468
 UG,Yumbe,,Yumbe,3.46506,31.24689
 UG,Luweero,,Wobulenzi,0.72833,32.51222
 UG,Wakiso,,Wakiso,0.40444,32.45944
@@ -30162,6 +30507,7 @@ US,Texas,Comal County,Canyon Lake,29.87522,-98.26251
 US,Texas,Dallas County,Carrollton,32.95373,-96.89028
 US,Texas,Dallas County,Cedar Hill,32.58847,-96.95612
 US,Texas,Williamson County,Cedar Park,30.5052,-97.82029
+US,Texas,Collin County,Celina,33.32456,-96.78444
 US,Texas,Harris County,Channelview,29.77606,-95.11465
 US,Texas,Guadalupe County,Cibolo,29.56162,-98.22696
 US,Texas,Fort Bend County,Cinco Ranch,29.73884,-95.758
@@ -32581,6 +32927,14 @@ US,Texas,Denton County,The Trails of Frisco,33.16087,-96.87182
 US,Minnesota,Hennepin County,Longfellow Community,44.94256,-93.22557
 US,Hawaii,Honolulu County,Airport,21.3399,-157.92845
 US,Colorado,Jefferson County,Dakota Ridge,39.61638,-105.13934
+US,Hawaii,Honolulu County,Waiau-Pacific Palisades,21.40022,-157.95445
+US,Hawaii,Honolulu County,ʻEwa Gentry-West Loch,21.35335,-158.02836
+US,Hawaii,Honolulu County,ʻEwa Beach-Iroquois Point,21.31532,-157.99133
+US,Hawaii,Honolulu County,Kapolei Villages,21.33596,-158.067
+US,Hawaii,Honolulu County,Makakilo-Makaīwa Hills-Kunia,21.36676,-158.07326
+US,Hawaii,Honolulu County,Mililani Mauka,21.47793,-157.99452
+US,Hawaii,Honolulu County,Wahiawā-Whitmore,21.50565,-158.03353
+US,Hawaii,Honolulu County,Schofield-Wheeler,21.48394,-158.04681
 UY,Río Negro,,Young,-32.69844,-57.62693
 UY,Flores,,Trinidad,-33.5165,-56.89957
 UY,Treinta y Tres,,Treinta y Tres,-33.231,-54.38577
@@ -32956,6 +33310,7 @@ VN,Kiên Giang Province,An Biên District,Xóm Cái Nước,9.8,105.1
 VN,Ca Mau province,Phú Tân District,Cái Đôi Vàm,8.85707,104.81199
 VN,Dong Nai Province,Trảng Bom District,Trảng Bom,10.95358,107.00589
 VN,Bà Rịa - Vũng Tàu Province,Long Điền,Xã Long Hải,10.38706,107.23884
+VN,,,Long Diền,10.48333,107.21667
 VN,Ba Ria-Vung Tau Province,,Vũng Tàu,10.34599,107.08426
 VN,Hậu Giang Province,,Vị Thanh,9.78449,105.47012
 VN,Vinh Phuc Province,,Vĩnh Yên,21.30891,105.60489
@@ -32986,11 +33341,13 @@ VN,,,Thốt Nốt,10.27213,105.5338
 VN,,,Thới Lai,10.06522,105.55863
 VN,Ca Mau province,Thới Bình District,Thới Bình,9.35584,105.09929
 VN,Lạng Sơn Province,Tràng Định,Thị Trấn Thất Khê,22.25525,106.47359
+VN,,Thạnh Trị District,Phú Lộc,9.42838,105.74111
 VN,,,Ho Chi Minh City,10.82302,106.62965
 VN,,,Thanh Liệt,20.96667,105.81667
 VN,Thanh Hoa,,Thanh Hóa,19.8,105.76667
 VN,Thai Nguyen province,,Thái Nguyên,21.59422,105.84817
 VN,Thai Binh province,,Thái Bình,20.45,106.34002
+VN,,,Tây Tựu,21.073,105.73
 VN,Tay Ninh province,,Tây Ninh,11.31004,106.09828
 VN,,,Tây Hồ,21.06895,105.81053
 VN,An Giang Province,Tân Châu Town,Tân Châu,10.79832,105.23887
@@ -33006,10 +33363,12 @@ VN,Thanh Hóa Province,,Sầm Sơn,19.73333,105.9
 VN,Dong Thap Province,,Sa Dec,10.29085,105.75635
 VN,Kien Giang Province,,Rạch Giá,10.01245,105.08091
 VN,Bình Định Province,,Qui Nhon,13.77648,109.22367
+VN,Quang Nam Province,Quế Sơn District,Đông Phú,15.67356,108.2201
 VN,Quang Binh province,,Ba Đồn,17.75353,106.42355
 VN,Quang Binh province,Quảng Ninh District,Quán Hàu,17.40438,106.64072
 VN,Quang Ngai province,,Quảng Ngãi,15.12047,108.79232
 VN,Gia Lai Province,,Pleiku,13.98333,108.0
+VN,Tỉnh Bắc Ninh,,Từ Sơn,21.1,105.96667
 VN,Phu Tho Province,,Phú Thọ,21.39963,105.22221
 VN,Bình Phước Province,Bù Gia Mập District,Phước Hòa,12.1,107.11667
 VN,Đắk Lắk province,Krông Pắk District,Phước An,12.71298,108.30148
@@ -33031,10 +33390,10 @@ VN,Khánh Hòa Province,Ninh Hòa District,Ninh Hòa,12.49187,109.12495
 VN,Ninh Binh province,,Ninh Bình,20.25809,105.97965
 VN,Khánh Hòa Province,,Nha Trang,12.24507,109.19432
 VN,,,Nhà Bè,10.69672,106.74032
-VN,Tỉnh Hà Tĩnh,,Nghi Xuân,18.658,105.752
 VN,Thanh Hóa Province,,Nghi Sơn,19.32746,105.82145
 VN,Yen Bai Province,,Nghĩa Lộ,21.6,104.51667
 VN,,,Nghĩa Đô,21.05,105.8
+VN,Thanh Hoa,Nga Sơn District,Nga Sơn,20.00722,105.97044
 VN,Ba Ria-Vung Tau Province,Chau Duc District,Thị Trấn Ngải Giao,10.6471,107.24577
 VN,Nam Dinh province,,Nam Định,20.43389,106.17729
 VN,Ca Mau province,Năm Căn District,Năm Căn,8.75899,104.99285
@@ -33058,7 +33417,10 @@ VN,Tỉnh Thanh Hóa,,Thị Trấn Lam Sơn,19.9047,105.40562
 VN,Binh Thuan province,,La Gi,10.65993,107.77206
 VN,Ha Tinh Province,,Kỳ Anh,18.06243,106.29832
 VN,Kon Tum province,,Kon Tum,14.35451,108.00759
+VN,Tỉnh Nghệ An,,Kim Liên,18.88333,105.31667
 VN,,,Kiến An,20.80528,106.62556
+VN,Tỉnh An Giang,Xã Chợ Mới,Kiến An,10.56667,105.36667
+VN,Tỉnh An Giang,Xã Mỹ Đức,Khánh Hòa,10.68333,105.16667
 VN,Thừa Thiên Huế Province,Hương Trà District,Hương Trà,16.52539,107.4755
 VN,Thừa Thiên Huế Province,,Hương Thủy,16.42184,107.63999
 VN,Hung Yen Province,,Hưng Yên,20.64637,106.05112
@@ -33067,6 +33429,7 @@ VN,Thừa Thiên Huế Province,,Huế,16.4619,107.59546
 VN,Đồng Tháp Province,,Hồng Ngự,10.8,105.35
 VN,Quang Ninh Province,,Hạ Long,20.95045,107.07336
 VN,Quang Nam Province,,Hoi An,15.87944,108.335
+VN,,,Hoang Cau,21.01667,105.83333
 VN,Hoà Bình province,,Hòa Bình,20.81717,105.33759
 VN,Ha Tinh Province,,Hà Tĩnh,18.34282,105.90569
 VN,Kien Giang Province,,Hà Tiên,10.3831,104.48753
@@ -33110,6 +33473,7 @@ VN,Bac Giang Province,Lục Ngạn District,Chũ,21.37379,106.56649
 VN,Bình Phước Province,Chơn Thành District,Chơn Thành,11.42821,106.63536
 VN,,,Chợ Lớn,10.75,106.65
 VN,Hải Dương Province,,Chí Linh,21.06667,106.31667
+VN,Tỉnh Sơn La,Phường Chiềng Cơi,Chiềng Cơi,21.3,103.9
 VN,Tỉnh An Giang,Xã Châu Phong,Châu Phong,10.71667,105.13333
 VN,An Giang Province,,Châu Đốc,10.7,105.11667
 VN,,Cát Hải District,Cát Bà,20.72779,107.04819
@@ -33129,6 +33493,7 @@ VN,Tiền Giang Province,,Cai Lậy,10.4,106.11667
 VN,Đắk Lắk province,Krông Ana District,Buôn Trấp,12.48478,108.02982
 VN,Đắk Lắk province,,Buôn Ma Thuột,12.66747,108.03775
 VN,Đắk Lắk province,Krông Năng District,Buôn Hồ,12.95226,108.2962
+VN,Quang Binh province,Bố Trạch,Hoàn Lão,17.58436,106.53425
 VN,,,Bình Thủy,10.07431,105.73974
 VN,Thanh Hoa,Bỉm Sơn,Bỉm Sơn,20.07806,105.86028
 VN,Dong Nai Province,,Biên Hòa,10.94469,106.82432
@@ -33148,6 +33513,7 @@ VN,Bac Giang Province,,Bắc Giang,21.27307,106.1946
 VN,Bac Kan Province,,Bắc Kạn,22.14701,105.83481
 VN,Bà Rịa - Vũng Tàu Province,Long Điền,Ấp Phước Tĩnh,10.4,107.18333
 VN,Tỉnh Đồng Tháp,,Lai Vung,10.25664,105.59329
+VN,Tỉnh An Giang,Xã Phú Lâm,Ấp Long Thạnh,10.76067,105.27428
 VN,Bạc Liêu Province,,Ấp Hô Phòng,9.22583,105.41861
 VN,Bà Rịa - Vũng Tàu Province,Xuyên Mộc District,Ấp Bình Châu,10.55,107.55
 VN,Bạc Liêu Province,Đông Hải District,An Trạch,9.06861,105.39583
@@ -33164,6 +33530,8 @@ VN,Lai Chau province,,Lai Châu,22.39644,103.45824
 VN,Hà Giang Province,Bắc Quang District,Thị Trấn Việt Quang,22.41509,104.80682
 VN,Kiên Giang Province,,Phu Quoc,10.22409,103.97156
 VN,Vinh Long province,,Bình Minh,10.06821,105.82221
+VN,Tỉnh Thanh Hóa,,Thị Trấn Vân Du,20.15186,105.73097
+VN,Tỉnh Thanh Hóa,,Thị Trấn Sao Vàng,19.88862,105.46189
 VN,Hoà Bình province,Kim Bôi District,Bo,20.67264,105.53625
 VN,Bà Rịa - Vũng Tàu Province,Municipio Sucre,Thành Phố Bà Rịa,10.49626,107.1685
 VN,Hung Yen Province,Kim Động District,Lương Bằng,20.74003,106.05998
@@ -33188,7 +33556,9 @@ VN,Quang Ngai province,,Lý Sơn,15.37198,109.11891
 VN,Gia Lai Province,Ayun Pa Town,A Yun Pa,13.40025,108.43503
 VN,Đắk Lắk province,Ea H'leo District,Ea Drăng,13.2045,108.21029
 VN,Đắk Lắk province,Cư M'gar District,Quảng Phú,12.81965,108.07738
+VN,Đắk Nông Province,Cư Jút District,Ea T’ling,12.58904,107.89578
 VN,Lâm Đồng Province,Lâm Hà District,Đinh Văn,11.78624,108.24282
+VN,Ninh Thuan province,Ninh Hải District,Khánh Hải,11.59105,109.04052
 VN,Binh Thuan province,Phú Quý District,Phú Quý,10.5166,108.93292
 VN,Dong Nai Province,,Long Khánh,10.92655,107.24783
 VN,Tay Ninh province,,Hòa Thành,11.28696,106.12936
@@ -33230,6 +33600,18 @@ VN,,,Linh Đàm,20.96441,105.83054
 VN,,,Bồ Đề,21.05618,105.86675
 VN,Tỉnh Nghệ An,,Hoàng Mai,19.26758,105.71594
 VN,Tỉnh Thái Nguyên,,Phổ Yên,21.41978,105.8899
+VN,,,Yên Nghĩa,20.95414,105.73474
+VN,,,Dương Nội,20.97736,105.75383
+VN,,,Định Công,20.98389,105.82694
+VN,,,Đông Ngạc,21.08063,105.77397
+VN,,,Giảng Võ,21.03066,105.81252
+VN,,,Hoàng Liệt,20.96403,105.84055
+VN,,,Khương Đình,20.98366,105.81537
+VN,,,Kiến Hưng,20.95833,105.78972
+VN,,,Lĩnh Nam,20.97966,105.89044
+VN,,,Phúc Lợi,21.04507,105.9294
+VN,,,Phú Thương,21.08734,105.80671
+VN,,,Tương Mai,20.9888,105.85525
 VU,Shefa Province,,Port-Vila,-17.73648,168.31366
 WF,Wallis and Futuna,,Mata-Utu,-13.28163,-176.17453
 WS,Tuamasaga,,Apia,-13.83333,-171.76666
@@ -33675,6 +34057,7 @@ ZW,Midlands,Kwekwe,Redcliff,-19.03333,29.78333
 ZW,Mashonaland West,Chegutu,Norton,-17.88333,30.7
 ZW,Mashonaland Central,Mazowe,Mvurwi,-17.03333,30.85
 ZW,Manicaland,Mutare,Mutare,-18.9707,32.67086
+ZW,Mashonaland West Province,Zvimba,Mount Hampden,-17.74167,30.93889
 ZW,Masvingo,Masvingo,Masvingo,-20.06373,30.82766
 ZW,Mashonaland East,Marondera,Marondera,-18.18527,31.55193
 ZW,Midlands,Kwekwe,Kwekwe,-18.92809,29.81486
